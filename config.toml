@@ -1,0 +1,42 @@
+baseURL = "https://solarhomeplanner.com/"
+languageCode = "en-us"
+title = "Solar Home Planner"
+[pagination]
+  pagerSize = 12
+enableRobotsTXT = true
+enableEmoji = true
+
+[params]
+  description = "Plan your home solar system the right way — contractor selection, permits, home types, off-grid, EV charging, and maintenance guides all in one place."
+  niche = "Residential Solar & Home Energy"
+  adsense_id = "ca-pub-3466203197759215"
+  adsense_slot_header = "auto"
+  adsense_slot_incontent = "auto"
+  adsense_slot_sidebar = "auto"
+  image_query = "solar panels house installation roof"
+  author = "Solar Home Planner Editorial Team"
+  logo_text = "Solar Home Planner"
+  tagline = "The Complete Guide to Going Solar."
+  primary_color = "#1b4f72"
+  cloudflare_analytics = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  posts = "/:slug/"
