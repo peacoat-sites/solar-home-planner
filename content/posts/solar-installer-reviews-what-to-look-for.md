@@ -3,7 +3,7 @@ title: "Solar Installer Reviews What To Look For"
 date: 2026-05-18T18:25:05.580034+00:00
 draft: false
 description: "Find out what to look for in solar installer reviews before you hire. Learn how to spot red flags, verify credentials, and choose a trusted local installer with"
-image: "https://images.pexels.com/photos/9875422/pexels-photo-9875422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/7693699/pexels-photo-7693699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Contractor Selection"]
 tags: ["solar", "installer", "reviews", "what", "look"]
 author: "Jennifer Liu"
