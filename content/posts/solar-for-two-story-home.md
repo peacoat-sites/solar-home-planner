@@ -3,7 +3,7 @@ title: "Solar For Two Story Home"
 date: 2026-05-18T14:30:58.946959+00:00
 draft: false
 description: "Discover how solar panels work on two story homes, the benefits, costs, installation tips, and how to maximize energy savings for your multi-level property."
-image: "https://images.pexels.com/photos/9875448/pexels-photo-9875448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/7693686/pexels-photo-7693686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar for Home Types"]
 tags: ["solar", "for", "two", "story", "home"]
 author: "Editorial Team"
