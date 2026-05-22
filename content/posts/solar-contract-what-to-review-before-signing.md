@@ -3,7 +3,7 @@ title: "Solar Contract What To Review Before Signing"
 date: 2026-05-20T04:03:14.641689+00:00
 draft: false
 description: "Learn what to review in a solar contract before signing, including pricing, warranties, installation terms, and cancellation policies to protect your investment"
-image: "https://images.pexels.com/photos/9875415/pexels-photo-9875415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/7693199/pexels-photo-7693199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Contractor Selection"]
 tags: ["solar", "contract", "what", "review", "before"]
 author: "Jennifer Liu"
