@@ -3,7 +3,7 @@ title: "Solar Panels For Existing Homes"
 date: 2026-05-20T04:05:14.595323+00:00
 draft: false
 description: "Discover how to add solar panels to your existing home. Learn about costs, installation options, savings on energy bills, and how to choose the right system for"
-image: "https://images.pexels.com/photos/9875418/pexels-photo-9875418.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/7693721/pexels-photo-7693721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar for Home Types"]
 tags: ["solar", "panels", "existing", "homes"]
 author: "Kevin Walsh"
