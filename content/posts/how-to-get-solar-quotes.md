@@ -3,7 +3,7 @@ title: "How To Get Solar Quotes"
 date: 2026-05-18T18:28:36.753960+00:00
 draft: false
 description: "Get free solar quotes from trusted installers and compare prices, panel options, and savings. Learn how to find the best solar deal for your home today."
-image: "https://images.pexels.com/photos/9875448/pexels-photo-9875448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/7518958/pexels-photo-7518958.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Contractor Selection"]
 tags: ["solar", "quotes"]
 author: "Tom Briggs"
