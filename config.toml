@@ -33,7 +33,12 @@ author = "Stephen Brenish"
   satisfaction    = 95
   trust_extra     = "Independent solar research"
   impact_verification = ""
-  impact_tracking_id  = "" 
+  impact_tracking_id  = ""
+  persona_name       = "Liz & Tom Greer"
+  persona_title      = "Home Solar Writers"
+  persona_bio        = "Liz and Tom Greer installed a 9.2kW rooftop solar system on their home in 2021. After going through the full process — design, quotes, permitting, installation, and utility interconnection — they started writing guides to help other homeowners plan their solar projects realistically, based on what they actually experienced."
+  persona_initials   = "LG"
+  disclaimer         = "This site shares personal experience and general research about residential solar. System performance, costs, and incentives vary by location, home, and utility. This is not professional installation advice. Consult a licensed solar installer for a system design and quote specific to your home."
 
 [taxonomies]
   category = "categories"
