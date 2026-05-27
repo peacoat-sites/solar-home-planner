@@ -1,43 +1,38 @@
 ---
 title: "About Solar Home Planner"
-description: "Learn about Solar Home Planner — our mission, editorial standards, and the topics we cover."
-layout: "page"
+date: 2026-01-01
+draft: false
+description: "About Solar Home Planner — meet Liz and Tom Greer, homeowners who installed solar and now help others plan their projects."
 ---
 
-## Our Mission
+## About Solar Home Planner
 
-Solar Home Planner is the planning companion for homeowners at the very start of their solar journey. We cover everything from initial roof assessment and contractor selection to financing structures and long-term maintenance — step by step, without the sales pressure.
+Solar Home Planner is a resource for homeowners in the process of evaluating, planning, or completing a residential solar installation. We write from the experience of having done it ourselves.
+
+## Meet the Writers
+
+**Liz and Tom Greer** are the writers behind Solar Home Planner.
+
+In 2021, Liz and Tom installed a 9.2kW rooftop solar system on their home in the Southeast. They went through the full process — gathering quotes from five installers, reviewing contracts, obtaining permits, surviving the installation week, waiting through utility interconnection, and then monitoring production data for the first year.
+
+It was more complicated than they expected, and the information available online either oversimplified the process or came from solar companies with a financial interest in the outcome. They started Solar Home Planner to share what they learned — practically, honestly, and from an actual homeowner’s perspective.
 
 ## What We Cover
 
-Solar Home Planner publishes in-depth, reader-first guides on home solar planning, roof assessments, solar financing options, DIY vs professional installation, HOA solar rules, and long-term energy savings.
+Solar Home Planner covers the residential solar installation journey — how to evaluate your home for solar, how to compare installer quotes, what’s in a solar contract, how permitting and interconnection work, how to understand your production monitoring data, and what the first year of solar ownership actually looks like.
 
-Every article is researched and written with one goal: give you the clearest, most accurate overview of the topic possible — without burying the answer or pushing you toward a product.
+## Our Approach
 
-## Editorial Standards
+Personal experience first. We tell you what we did, what worked, what we’d do differently, and what questions we wish we’d asked. When we cover topics beyond our direct experience, we say so and link to authoritative sources.
 
-We follow a straightforward editorial process:
+## Disclaimer
 
-- **Research-first:** Every article is grounded in publicly available data, government sources, and established industry guidance.
-- **Plain English:** We don't write for search engines — we write for real people who need real answers.
-- **Regular updates:** We review and update articles when rules, rates, or guidance change.
-- **No paid editorial:** Our editorial content is never written or influenced by advertisers or sponsors. Ads and content are strictly separated.
+Solar Home Planner shares the personal experience of two homeowners and general research. We are not licensed solar installers or electrical contractors. Solar system performance, costs, and incentives vary by location, home, and utility. Consult a licensed installer for a design and quote specific to your property.
 
-## Important Disclaimer
+## Affiliate Disclosure
 
-<div class="disclaimer-box">
-
-The content on this site is for **general educational purposes only** and does not constitute professional installation, electrical, or financial advice. Solar system performance and incentives vary significantly by location. Always consult a **licensed solar professional and a qualified financial advisor** before committing to a solar installation.
-
-</div>
-
-## About This Site
-
-Solar Home Planner is an independent informational resource. We are not affiliated with any government agency, insurance company, law firm, financial institution, or healthcare provider.
-
-This site may display advertisements through Google AdSense and may contain affiliate links. Clicking an affiliate link and making a purchase may earn us a small commission at no additional cost to you. These relationships never influence our editorial content.
+Some links on this site, particularly for monitoring equipment and home energy products, are Amazon affiliate links. Purchases may earn us a small commission at no extra cost to you.
 
 ## Contact
 
-Have a question, correction, or feedback? We'd love to hear from you.
-Reach us at: [hello@solarhomeplanner.com](mailto:hello@solarhomeplanner.com)
+Questions or want to share your own solar story? [Get in touch](/contact/).
