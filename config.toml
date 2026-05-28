@@ -8,6 +8,8 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+  page_bg = "#f5fafa"
+  nav_style = "dark"
   description = "Plan your home solar system the right way — contractor selection, permits, home types, off-grid, EV charging, and maintenance guides all in one place."
   niche = "Residential Solar & Home Energy"
   adsense_id = "ca-pub-3466203197759215"
