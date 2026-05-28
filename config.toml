@@ -12,7 +12,7 @@ enableEmoji = true
 [params]
   page_bg = "#fffbeb"
   nav_style = "dark"
-  description = "Plan your home solar system the right way ,  contractor selection, permits, home types, off-grid, EV charging, and maintenance guides all in one place."
+  description = "Plan your home solar system the right way,  contractor selection, permits, home types, off-grid, EV charging, and maintenance guides all in one place."
   niche = "Residential Solar & Home Energy"
   adsense_id = "ca-pub-3466203197759215"
   adsense_slot_header = "auto"
@@ -33,7 +33,7 @@ enableEmoji = true
   impact_tracking_id  = ""
   persona_name       = "Liz & Tom Greer"
   persona_title      = "Home Solar Writers"
-  persona_bio        = "Liz and Tom Greer installed a 9.2kW rooftop solar system on their home in 2021. After going through the full process ,  design, quotes, permitting, installation, and utility interconnection ,  they started writing guides to help other homeowners plan their solar projects realistically, based on what they actually experienced."
+  persona_bio        = "Liz and Tom Greer installed a 9.2kW rooftop solar system on their home in 2021. After going through the full process,  design, quotes, permitting, installation, and utility interconnection,  they started writing guides to help other homeowners plan their solar projects realistically, based on what they actually experienced."
   persona_initials   = "LG"
   disclaimer         = "This site shares personal experience and general research about residential solar. System performance, costs, and incentives vary by location, home, and utility. This is not professional installation advice. Consult a licensed solar installer for a system design and quote specific to your home."
 
