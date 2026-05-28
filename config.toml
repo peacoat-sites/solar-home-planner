@@ -39,6 +39,13 @@ enableEmoji = true
   persona_initials   = "LG"
   disclaimer         = "This site shares personal experience and general research about residential solar. System performance, costs, and incentives vary by location, home, and utility. This is not professional installation advice. Consult a licensed solar installer for a system design and quote specific to your home."
 
+logo_text_1 = "Solar"
+logo_text_2 = "Home Planner"
+primary_color = "#fb923c"
+hero_color_1 = "#0d0600"
+hero_color_2 = "#1a0e00"
+hero_color_3 = "#fb923c"
+hero_color_4 = "#080400"
 [taxonomies]
   category = "categories"
   tag = "tags"
