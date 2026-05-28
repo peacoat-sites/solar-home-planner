@@ -12,19 +12,19 @@ slug: "my-solar-panels-stopped-working-what-to-do"
 
 # My Solar Panels Stopped Working: A Complete Troubleshooting Guide
 
-You glance at your solar monitoring app on a sunny Tuesday morning and notice something alarming — your system is showing zero production. Or maybe your electricity bill has crept back up to pre-solar levels without any obvious explanation. Whatever tipped you off, discovering that your solar panels have stopped working is genuinely stressful, especially when you're counting on that clean energy to offset your utility costs. The good news? A surprising number of solar system failures are either minor issues you can resolve yourself or problems easily diagnosed before you even pick up the phone to call a technician.
+You glance at your solar monitoring app on a sunny Tuesday morning and notice something alarming ,  your system is showing zero production. Or maybe your electricity bill has crept back up to pre-solar levels without any obvious explanation. Whatever tipped you off, discovering that your solar panels have stopped working is genuinely stressful, especially when you're counting on that clean energy to offset your utility costs. The good news? A surprising number of solar system failures are either minor issues you can resolve yourself or problems easily diagnosed before you even pick up the phone to call a technician.
 
-This guide walks you through every likely cause of a solar system outage — from the laughably simple to the genuinely serious — so you can stop guessing, start troubleshooting, and get your system back online as quickly as possible.
+This guide walks you through every likely cause of a solar system outage ,  from the laughably simple to the genuinely serious ,  so you can stop guessing, start troubleshooting, and get your system back online as quickly as possible.
 
 ---
 
-## Step One: Don't Panic — Check the Obvious Stuff First
+## Step One: Don't Panic ,  Check the Obvious Stuff First
 
 Before assuming the worst, there are several quick checks that resolve a significant percentage of "my solar stopped working" calls to installers. Technicians have a running joke about arriving on-site only to find a tripped breaker or a monitoring glitch. Save yourself the service call fee by ruling these out first.
 
 ### Check Your Monitoring System
 
-Sometimes the panels are working perfectly fine, and it's only the *monitoring* that's gone dark. Your inverter's monitoring system relies on a Wi-Fi or cellular connection to report data to an app. If your router rebooted, your internet went down, or your inverter lost its network connection, the app will show no production — even if your panels are happily generating electricity.
+Sometimes the panels are working perfectly fine, and it's only the *monitoring* that's gone dark. Your inverter's monitoring system relies on a Wi-Fi or cellular connection to report data to an app. If your router rebooted, your internet went down, or your inverter lost its network connection, the app will show no production ,  even if your panels are happily generating electricity.
 
 **What to do:**
 - Check whether your inverter display (if it has one) shows active production figures
@@ -51,7 +51,7 @@ If the simple stuff didn't solve your problem, it's time to dig deeper. Here are
 
 ### Inverter Failure
 
-Your inverter is the heart of your solar system — it converts the DC electricity your panels generate into the AC electricity your home uses. Inverters are also the component most likely to fail before the rest of your system. Most string inverters have a lifespan of 10–15 years, compared to 25–30 years for the panels themselves.
+Your inverter is the heart of your solar system ,  it converts the DC electricity your panels generate into the AC electricity your home uses. Inverters are also the component most likely to fail before the rest of your system. Most string inverters have a lifespan of 10–15 years, compared to 25–30 years for the panels themselves.
 
 **Signs of inverter failure:**
 - Red or orange error lights on the inverter
@@ -65,7 +65,7 @@ Modern inverters often display specific fault codes that correspond to known iss
 
 ### Grid Outage or Utility Disconnect
 
-Here's something many homeowners don't realize: **most grid-tied solar systems are designed to shut down automatically during a power outage.** This is a safety feature called "anti-islanding protection" — it prevents your system from back-feeding electricity into utility lines while workers are trying to repair them.
+Here's something many homeowners don't realize: **most grid-tied solar systems are designed to shut down automatically during a power outage.** This is a safety feature called "anti-islanding protection" ,  it prevents your system from back-feeding electricity into utility lines while workers are trying to repair them.
 
 If your neighborhood has lost grid power, your solar system will also go offline, even on a perfectly sunny day. Unless you have a battery storage system, this is expected and normal behavior.
 
@@ -73,11 +73,11 @@ If your neighborhood has lost grid power, your solar system will also go offline
 
 ### Dirty or Obstructed Panels
 
-Soiling — accumulated dust, bird droppings, pollen, leaves, and grime — is a frequently underestimated performance killer. A thick layer of debris can reduce panel output by 15–30% or more. In extreme cases (bird dropping concentrated on a small area, for example), a micro-crack or hot spot can develop, causing one panel to drag down an entire string.
+Soiling ,  accumulated dust, bird droppings, pollen, leaves, and grime ,  is a frequently underestimated performance killer. A thick layer of debris can reduce panel output by 15–30% or more. In extreme cases (bird dropping concentrated on a small area, for example), a micro-crack or hot spot can develop, causing one panel to drag down an entire string.
 
 A sudden drop to zero production is unlikely from soiling alone unless the panels are completely buried in debris or snow. However, significant soiling combined with other minor issues can push a system into shutdown.
 
-**What to do:** Visually inspect your panels from the ground or a safe vantage point. Look for obvious debris, thick dust, or bird droppings. If cleaning is needed, use a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=your-affiliate-tag) designed specifically for PV modules — these typically include a soft brush, squeegee, and non-abrasive cleaning solution that won't leave streaks or damage anti-reflective coatings.
+**What to do:** Visually inspect your panels from the ground or a safe vantage point. Look for obvious debris, thick dust, or bird droppings. If cleaning is needed, use a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=your-affiliate-tag) designed specifically for PV modules ,  these typically include a soft brush, squeegee, and non-abrasive cleaning solution that won't leave streaks or damage anti-reflective coatings.
 
 > *This site may earn a commission from qualifying Amazon purchases at no extra cost to you.*
 
@@ -85,13 +85,13 @@ A sudden drop to zero production is unlikely from soiling alone unless the panel
 
 ### Shading Issues
 
-A tree that was trimmed back when you installed your panels may have grown significantly since. A new structure — a neighbor's addition, a pergola, a satellite dish — could be casting a shadow you haven't noticed. Even partial shading on one panel in a string system can dramatically reduce output from the entire string.
+A tree that was trimmed back when you installed your panels may have grown significantly since. A new structure ,  a neighbor's addition, a pergola, a satellite dish ,  could be casting a shadow you haven't noticed. Even partial shading on one panel in a string system can dramatically reduce output from the entire string.
 
 **What to do:** Visit your roof or observe your panels throughout the day (especially mid-morning through mid-afternoon when production should peak). Use a shading analysis app or consult with your installer about whether microinverters or DC power optimizers could minimize shading losses.
 
 ### Damaged Wiring or Connectors
 
-Solar systems use MC4 connectors and UV-resistant wiring rated for outdoor use, but over time — especially in climates with extreme temperature swings or high UV exposure — connectors can corrode, loosen, or even melt if there's been any arcing. Rodents (especially squirrels) are notorious for chewing through wiring under rooftop solar installations.
+Solar systems use MC4 connectors and UV-resistant wiring rated for outdoor use, but over time ,  especially in climates with extreme temperature swings or high UV exposure ,  connectors can corrode, loosen, or even melt if there's been any arcing. Rodents (especially squirrels) are notorious for chewing through wiring under rooftop solar installations.
 
 This is not a DIY repair situation. Damaged wiring is a serious fire and shock hazard. If you suspect wiring damage, call a licensed electrician or your solar installer.
 
@@ -146,13 +146,13 @@ If the above steps haven't resolved the issue, it's time for a professional. Mos
 
 ## When to Call a Professional (And What to Tell Them)
 
-Some issues genuinely require a licensed professional — not just because they're complicated, but because working with live electrical systems and rooftop equipment is genuinely dangerous. Here's when to stop DIYing immediately:
+Some issues genuinely require a licensed professional ,  not just because they're complicated, but because working with live electrical systems and rooftop equipment is genuinely dangerous. Here's when to stop DIYing immediately:
 
 - You see burn marks, melted components, or smell something electrical burning
 - Your inverter is completely dead and unresponsive despite power being present
 - You suspect rodent damage to wiring
 - Your system is still under warranty (DIY repairs can void warranties)
-- Production has been declining gradually for months — this can indicate a more systemic issue
+- Production has been declining gradually for months ,  this can indicate a more systemic issue
 
 **When you call, have ready:**
 - Your system brand and model (inverter, panel brands)
@@ -173,21 +173,21 @@ Once you've resolved your current issue, it's worth taking steps to reduce the l
 
 **Schedule annual inspections:** Most solar warranties and performance guarantees include or recommend periodic professional inspections. An annual check-up can catch loose connections, early inverter issues, and panel degradation before they become full outages.
 
-**Set up production alerts:** Most monitoring platforms (Enphase Enlighten, SolarEdge, SunPower mySunPower) allow you to configure email or push notification alerts if production drops below a threshold. Turn these on — they're your early warning system.
+**Set up production alerts:** Most monitoring platforms (Enphase Enlighten, SolarEdge, SunPower mySunPower) allow you to configure email or push notification alerts if production drops below a threshold. Turn these on ,  they're your early warning system.
 
 **Keep panels clean:** In dusty or high-pollen areas, consider cleaning your panels two to four times per year. A quality [solar panel cleaning brush kit](https://www.amazon.com/s?k=solar+panel+brush+cleaning+kit&tag=your-affiliate-tag) with an extendable handle lets you clean most panels from the ground safely.
 
-**Protect wiring from wildlife:** Ask your installer about critter guards — wire mesh barriers that prevent squirrels, birds, and other animals from accessing the underside of your panels and chewing wiring.
+**Protect wiring from wildlife:** Ask your installer about critter guards ,  wire mesh barriers that prevent squirrels, birds, and other animals from accessing the underside of your panels and chewing wiring.
 
-**Consider battery storage:** If outages are a recurring frustration — whether from grid events or panel issues — pairing your solar system with a home battery means you maintain power even when the system is interrupted. [RELATED: is a home battery backup worth it for your solar system]
+**Consider battery storage:** If outages are a recurring frustration ,  whether from grid events or panel issues ,  pairing your solar system with a home battery means you maintain power even when the system is interrupted. [RELATED: is a home battery backup worth it for your solar system]
 
 ---
 
 ## Frequently Asked Questions
 
-**Q: My solar panels stopped working after a storm — what should I check first?**
+**Q: My solar panels stopped working after a storm ,  what should I check first?**
 
-Storms can cause several issues simultaneously: tripped breakers from power surges, inverter shutdowns due to grid events, physical debris on panels, and in severe cases, actual physical damage. Start by checking your circuit breakers and inverter status after the storm passes and the grid is restored. Then do a careful visual inspection of panels and visible wiring for any obvious physical damage. If you suspect lightning struck near your system, call a professional — surge damage to inverters and monitoring equipment is common after nearby lightning strikes and often isn't visually apparent.
+Storms can cause several issues simultaneously: tripped breakers from power surges, inverter shutdowns due to grid events, physical debris on panels, and in severe cases, actual physical damage. Start by checking your circuit breakers and inverter status after the storm passes and the grid is restored. Then do a careful visual inspection of panels and visible wiring for any obvious physical damage. If you suspect lightning struck near your system, call a professional ,  surge damage to inverters and monitoring equipment is common after nearby lightning strikes and often isn't visually apparent.
 
 *Photo by [Kindel Media](https://www.pexels.com/@kindelmedia) on Pexels*
 
@@ -197,6 +197,6 @@ Storms can cause several issues simultaneously: tripped breakers from power surg
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, 30A PWM charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid, RV, and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) ,  Complete beginner solar kit ,  200W monocrystalline panel, 30A PWM charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) ,  Expandable 200W panel set from the most trusted DIY solar brand ,  used widely in off-grid, RV, and home backup systems.
 
