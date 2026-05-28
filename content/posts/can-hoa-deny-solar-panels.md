@@ -3,7 +3,7 @@ title: "Can Hoa Deny Solar Panels"
 date: 2026-05-23T10:49:12.894736+00:00
 draft: false
 description: "Can HOA Deny Solar Panels? Learn about homeowner association restrictions, legal rights, and regulations governing residential solar panel installations."
-image: "https://pixabay.com/get/gc089d53f1b3e5fa261ca7d2320897c78a6adb0f08bdb718b8b5731fe35cb7514ea22f95c2fd27f414ddc6ee8db40c4de1f7c1908614fc1ea92f72dd26d5f6d71_1280.jpg"
+https://images.pexels.com/photos/9875377/pexels-photo-9875377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 categories: ["Solar Permits & HOA"]
 tags: ["deny", "solar", "panels"]
 author: "Jennifer Liu"
