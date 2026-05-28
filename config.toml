@@ -8,7 +8,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-  page_bg = "#f5fafa"
+  page_bg = "#fffbeb"
   nav_style = "dark"
   description = "Plan your home solar system the right way — contractor selection, permits, home types, off-grid, EV charging, and maintenance guides all in one place."
   niche = "Residential Solar & Home Energy"
@@ -37,7 +37,7 @@ enableEmoji = true
 
 logo_text_1 = "Solar"
 logo_text_2 = "Home Planner"
-primary_color = "#0d6b63"
+primary_color = "#d97706"
 hero_color_1 = "#0d0600"
 hero_color_2 = "#1a0e00"
 hero_color_3 = "#fb923c"
