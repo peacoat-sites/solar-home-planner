@@ -19,14 +19,9 @@ enableEmoji = true
   author = "Solar Home Planner Editorial Team"
   logo_text = "Solar Home Planner"
   tagline = "The Complete Guide to Going Solar."
-  primary_color = "#1b4f72"
   cloudflare_analytics = ""
 
   # Authority theme
-  hero_color_1 = "#022c22"
-  hero_color_2 = "#065f46"
-  hero_color_3 = "#0d9488"
-  hero_color_4 = "#0f172a"
   monthly_readers = 29000
   research_hours  = 260
   satisfaction    = 95
