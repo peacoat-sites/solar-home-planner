@@ -3,7 +3,7 @@ title: "Off Grid Solar Diy Setup"
 date: 2026-05-26T12:26:46.375561+00:00
 draft: false
 description: "Off-grid solar DIY setup guide: Learn how to design, install, and maintain your own solar power system for complete energy independence and savings."
-image: "https://pixabay.com/get/ga4e803e6c9f91c8706d02cba123861a830ce81fe08c606f6f9c7bdcdc541b69c55b8b0dd1fe2df990ba5779e3dc147312331b2be78ba8caf125babcabcbf07e1_1280.jpg"
+https://images.pexels.com/photos/2800832/pexels-photo-2800832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 categories: ["DIY Solar"]
 tags: ["grid", "solar", "setup"]
 author: "Marcus Reed"
