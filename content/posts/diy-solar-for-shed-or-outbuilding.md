@@ -3,7 +3,7 @@ title: "Diy Solar For Shed Or Outbuilding"
 date: 2026-05-27T12:37:14.059316+00:00
 draft: false
 description: "DIY solar for shed or outbuilding: Learn how to install affordable solar panels on your shed or outbuilding. Complete guide with tips and best practices."
-image: "https://pixabay.com/get/gda303b67eef226a148f824a77de89050af2ddfbce1bdeedd3d538c1b84bd1dec71436b4aa6fa32b8f60962b1c19a5dd90b22cf3df888733d0b9b7cef681d451f_1280.jpg"
+https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 categories: ["DIY Solar"]
 tags: ["solar", "shed", "outbuilding"]
 author: "Tom Briggs"
