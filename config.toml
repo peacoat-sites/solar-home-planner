@@ -35,7 +35,7 @@ enableEmoji = true
 
 logo_text_1 = "Solar"
 logo_text_2 = "Home Planner"
-primary_color = "#fb923c"
+primary_color = "#0d6b63"
 hero_color_1 = "#0d0600"
 hero_color_2 = "#1a0e00"
 hero_color_3 = "#fb923c"
