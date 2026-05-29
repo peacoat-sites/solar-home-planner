@@ -35,12 +35,20 @@
     <!-- Featured Hero Image — same image shown on the article card -->
     {{ if .Params.image }}
     <div class="post-featured-image" style="margin-bottom:28px">
-      <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager" style="width:100%;max-height:480px;object-fit:cover;border-radius:var(--radius)">
+      <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager" fetchpriority="high" style="width:100%;max-height:480px;object-fit:cover;border-radius:var(--radius)">
     </div>
     {{ end }}
 
     <!-- Top CTA (affiliate) -->
     {{ partial "cta-box.html" . }}
+
+    <!-- Table of Contents -->
+    {{ if and (not .IsHome) (gt .WordCount 600) .TableOfContents }}
+    <div class="toc">
+      <span class="toc-label">In this article</span>
+      {{ .TableOfContents }}
+    </div>
+    {{ end }}
 
     <!-- Content with inline Amazon product after 2nd H2 -->
     <div class="post-content">
