@@ -1,6 +1,6 @@
 ---
 title: "Solar Contract What To Review Before Signing"
-date: 2026-05-20T04:03:14.641689+00:00
+date: 2026-05-25T13:11:06.766562+00:00
 draft: false
 description: "Learn what to review in a solar contract before signing, including pricing, warranties, installation terms, and cancellation policies to protect your investment"
 image: https://images.pexels.com/photos/7693199/pexels-photo-7693199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

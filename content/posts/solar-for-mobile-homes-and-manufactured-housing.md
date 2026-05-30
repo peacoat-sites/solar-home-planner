@@ -1,6 +1,6 @@
 ---
 title: "Solar For Mobile Homes And Manufactured Housing"
-date: 2026-05-20T04:09:33.191372+00:00
+date: 2026-05-29T16:55:14.250224+00:00
 draft: false
 description: "Discover how solar panels can work for mobile and manufactured homes. Learn about installation options, costs, incentives, and energy savings for your property."
 image: https://images.pexels.com/photos/7693244/pexels-photo-7693244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

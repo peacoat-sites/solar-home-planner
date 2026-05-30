@@ -1,6 +1,6 @@
 ---
 title: "Can Condos Get Solar Panels"
-date: 2026-05-20T12:07:12.068299+00:00
+date: 2026-05-25T08:17:43.504050+00:00
 draft: false
 description: "Discover if your condo can go solar. Learn about HOA rules, shared solar programs, rooftop options, and how condo owners can save on energy bills with solar pow"
 image: https://images.pexels.com/photos/7108469/pexels-photo-7108469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

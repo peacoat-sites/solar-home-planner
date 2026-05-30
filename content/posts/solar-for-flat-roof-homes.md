@@ -1,6 +1,6 @@
 ---
 title: "Solar For Flat Roof Homes"
-date: 2026-05-20T12:11:00.969384+00:00
+date: 2026-05-27T19:59:34.204792+00:00
 draft: false
 description: "Discover how solar panels work on flat roof homes, the best mounting systems available, and how to maximize energy output with the ideal tilt angle for your set"
 image: https://images.pexels.com/photos/7693200/pexels-photo-7693200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

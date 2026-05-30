@@ -1,6 +1,6 @@
 ---
 title: "Can I Install Solar Panels Myself"
-date: 2026-05-25T12:49:56.167043+00:00
+date: 2026-05-27T09:22:12.745303+00:00
 draft: false
 description: "Can you install solar panels yourself? Learn DIY solar installation tips, requirements, costs, and whether hiring professionals is safer and more effective."
 https://images.pexels.com/photos/2800832/pexels-photo-2800832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1

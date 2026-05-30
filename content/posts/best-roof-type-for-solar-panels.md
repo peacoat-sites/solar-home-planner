@@ -1,6 +1,6 @@
 ---
 title: "Best Roof Type For Solar Panels"
-date: 2026-05-22T12:03:31.472515+00:00
+date: 2026-05-25T16:37:33.714321+00:00
 draft: false
 description: "Best roof types for solar panels: asphalt shingles, metal, and flat roofs offer optimal installation. Learn which suits your home and maximizes energy efficienc"
 image: https://images.pexels.com/photos/6814524/pexels-photo-6814524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

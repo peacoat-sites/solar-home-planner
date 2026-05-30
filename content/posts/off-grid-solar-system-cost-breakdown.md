@@ -1,6 +1,6 @@
 ---
 title: "Off Grid Solar System Cost Breakdown"
-date: 2026-05-29T21:52:49.767974+00:00
+date: 2026-05-23T06:54:49.606803+00:00
 draft: false
 description: "Discover a full off grid solar system cost breakdown including panels, batteries, inverters, and installation. Plan your budget and make the switch with confide"
 image: "https://images.pexels.com/photos/30440512/pexels-photo-30440512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

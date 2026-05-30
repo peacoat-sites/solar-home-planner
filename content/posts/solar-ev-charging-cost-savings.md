@@ -1,6 +1,6 @@
 ---
 title: "Solar Ev Charging Cost Savings"
-date: 2026-05-29T12:30:26.239556+00:00
+date: 2026-05-20T22:07:16.529365+00:00
 draft: false
 description: "Save money charging your EV with solar power. Discover how combining solar panels with electric vehicle charging can slash energy bills and reduce your carbon f"
 image: "https://images.pexels.com/photos/9875411/pexels-photo-9875411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

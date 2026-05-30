@@ -1,6 +1,6 @@
 ---
 title: "Cheapest Way To Go Solar Diy"
-date: 2026-05-28T12:50:38.242427+00:00
+date: 2026-05-22T13:04:55.518735+00:00
 draft: false
 description: "Save money going solar with DIY installation tips. Discover the cheapest methods, best budget panels, and step-by-step guidance to cut energy costs and boost sa"
 image: "https://images.pexels.com/photos/9875422/pexels-photo-9875422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

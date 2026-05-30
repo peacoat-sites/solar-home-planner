@@ -1,6 +1,6 @@
 ---
 title: "Comparing Solar Bids What To Look For"
-date: 2026-05-18T18:31:53.923053+00:00
+date: 2026-05-21T08:55:35.458581+00:00
 draft: false
 description: "Compare solar bids with confidence by knowing what to look for. Evaluate panel quality, warranties, installer credentials, and pricing to find the best value fo"
 image: https://images.pexels.com/photos/7255270/pexels-photo-7255270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

@@ -1,6 +1,6 @@
 ---
 title: "How To Choose A Solar Company"
-date: 2026-05-19T12:23:49.400826+00:00
+date: 2026-05-21T23:34:58.251137+00:00
 draft: false
 description: "Find the best solar company for your home with our expert tips. Learn what to look for, questions to ask, and red flags to avoid before signing any contract."
 image: https://images.pexels.com/photos/7255382/pexels-photo-7255382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

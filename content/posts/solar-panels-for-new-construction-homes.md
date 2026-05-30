@@ -1,6 +1,6 @@
 ---
 title: "Solar Panels For New Construction Homes"
-date: 2026-05-20T04:07:28.557346+00:00
+date: 2026-05-28T14:30:08.829654+00:00
 draft: false
 description: "Discover the benefits of installing solar panels in new construction homes. Learn about costs, incentives, energy savings, and how to integrate solar from the s"
 image: https://images.pexels.com/photos/7693740/pexels-photo-7693740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

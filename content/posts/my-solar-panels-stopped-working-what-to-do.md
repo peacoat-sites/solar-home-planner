@@ -1,6 +1,6 @@
 ---
 title: "My Solar Panels Stopped Working What To Do"
-date: 2026-05-18T14:28:47.249165+00:00
+date: 2026-05-28T05:16:10.092972+00:00
 draft: false
 description: "Check why your solar panels stopped working with our troubleshooting guide. Learn common causes, quick fixes, and when to call a professional for help."
 image: https://images.pexels.com/photos/7644064/pexels-photo-7644064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
