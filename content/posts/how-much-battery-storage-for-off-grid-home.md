@@ -3,7 +3,7 @@ title: "How Much Battery Storage For Off Grid Home"
 date: 2026-05-29T21:50:31.811094+00:00
 draft: false
 description: "Discover how much battery storage your off grid home needs. Learn key factors like energy usage, backup days, and system size to choose the right battery bank."
-image: ""
+image: "https://images.pexels.com/photos/698485/pexels-photo-698485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["much", "battery", "storage", "grid", "home"]
 author: "Alex Reeves"

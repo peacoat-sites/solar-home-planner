@@ -3,7 +3,7 @@ title: "Solar Backup Power During Outage"
 date: 2026-05-29T21:59:13.366865+00:00
 draft: false
 description: "Stay powered during outages with solar backup systems. Learn how solar panels and battery storage keep your home running when the grid goes down. Get started to"
-image: ""
+image: "https://images.pexels.com/photos/33751679/pexels-photo-33751679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["solar", "backup", "power", "during", "outage"]
 author: "Alex Reeves"

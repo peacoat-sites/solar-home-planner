@@ -3,7 +3,7 @@ title: "Best Batteries For Off Grid Solar"
 date: 2026-05-29T21:54:57.534776+00:00
 draft: false
 description: "Discover the best batteries for off grid solar systems in 2024. Compare top lithium, AGM, and lead-acid options to find the perfect fit for your energy needs."
-image: ""
+image: "https://images.pexels.com/photos/8853500/pexels-photo-8853500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["best", "batteries", "grid", "solar"]
 author: "Maria Vasquez"
