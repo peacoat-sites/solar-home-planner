@@ -1,6 +1,7 @@
 ---
 title: "Off Grid Solar Diy Setup"
 date: 2026-05-23T14:18:48.560814+00:00
+image: "https://images.pexels.com/photos/17762230/pexels-photo-17762230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 draft: false
 description: "Off-grid solar DIY setup guide: Learn how to design, install, and maintain your own solar power system for complete energy independence and savings."
 https://images.pexels.com/photos/2800832/pexels-photo-2800832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
