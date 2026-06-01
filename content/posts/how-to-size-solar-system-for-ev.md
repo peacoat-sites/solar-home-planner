@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-size-solar-system-for-ev"
 affiliate_disclosure: true
+faqs:
+  - q: "How many extra solar panels do I need for an EV?"
+    a: "The honest answer depends on your driving habits and panel wattage. A useful rule of thumb: plan on 2 to 4 additional 400-watt panels per 5,000 miles of annual driving. For an average driver doing 13,000 to 14,000 miles per year, that's typically 6 to 11 additional panels beyond what you'd install for your baseline household load. Run the actual math using your vehicle's efficiency rating rather than relying on rules of thumb for a final design."
+  - q: "Should I size my solar system for two EVs even if I only have one now?"
+    a: "If you think a second EV is likely within 5 to 7 years, yes. Roof space is finite, and adding panels later usually costs 20 to 30 percent more per watt than installing them as part of an original system due to design, permitting, and labor overhead. Build the system for your realistic 5-year household load, not just today's snapshot."
+  - q: "Does charging speed (Level 1 vs. Level 2) affect how many solar panels I need?"
+    a: "The total kWh consumed is the same regardless of charge rate, so no, charging speed doesn't change system size. What it changes is when that demand hits. Level 2 with smart scheduling lets you pull those kilowatt-hours during peak solar production, which can reduce your dependence on net metering or battery storage."
+  - q: "Will my solar system charge my EV during a grid outage?"
+    a: "Only if you have battery storage and the right inverter configuration. Standard grid-tied solar systems shut down during outages for safety reasons, a requirement called anti-islanding. A hybrid inverter with battery storage can maintain power to designated circuits, including an EV charger if you configure it that way. Confirm this capability explicitly with your installer before assuming it."
+  - q: "What's the payback period for solar when you include EV charging?"
+    a: "This varies widely by location, electricity rates, and incentives, but the 26 to 30 percent federal Investment Tax Credit (currently running at 30 percent under the Inflation Reduction Act through 2032) significantly improves the math. In high-rate states like California, Hawaii, or Massachusetts, combined solar-plus-EV payback periods of 6 to 9 years are realistic. In lower-rate states, it stretches to 10 to 13 years. The EV piece generally strengthens the case for solar because it increases the amount of expensive grid electricity you're displacing."
 ---
 
 Most homeowners I talk to start the solar-plus-EV conversation completely backwards. They buy the car first, get the charging equipment installed, then call a solar installer and say something like "I want to offset my electricity bill." The installer quotes them a system based on their current usage, and six months later they're wondering why their net metering credit disappeared and their bill is climbing again. The EV wasn't in the equation. That one oversight can mean undersizing your system by 30 to 50 percent, and I've seen it happen more times than I can count.

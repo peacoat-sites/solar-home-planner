@@ -10,6 +10,17 @@ author: "Tom Briggs"
 author_bio: "Licensed electrician and solar installer with 12 years experience in DIY and residential solar projects."
 slug: "can-i-install-solar-panels-myself"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I legally install solar panels myself without an electrician?"
+    a: "In many states, yes, if you're doing it on your primary residence and your jurisdiction allows the homeowner permit exemption. But this varies significantly by state and even by county. Some jurisdictions require a licensed electrical contractor for any grid-tied solar work regardless of who the homeowner is. Call your local building department to get the specific answer for your address."
+  - q: "Will my solar panels still have a warranty if I install them myself?"
+    a: "Maybe, and this matters a lot. Many panel manufacturers require installation by a certified installer (often NABCEP-certified) to honor the performance warranty. Check the warranty terms of any panel you're considering before you buy. Some manufacturers, especially those selling through DIY-friendly distributors, have homeowner-friendly warranty terms. Ask directly and get confirmation in writing."
+  - q: "What's the hardest part of DIY solar?"
+    a: "For most homeowners without electrical experience, it's the electrical design and wiring. For people with electrical backgrounds, it's often the utility interconnection process, which can be slow, bureaucratic, and frustratingly opaque. For everyone, permit documentation is more involved than expected the first time through."
+  - q: "Can I add battery backup myself if I'm already DIYing the solar?"
+    a: "Adding a battery system, like a Powerwall or a Fortress Power unit, increases the complexity significantly. You're adding a second inverter or a hybrid inverter, additional DC wiring, and critical load panel work. The permitting for battery storage is a separate process in some jurisdictions. It's doable, but I'd suggest getting the solar system running first and treating battery storage as a phase two project."
+  - q: "How do I know if a solar installer is legitimate if I decide not to DIY?"
+    a: "The key markers are proper licensing in your state, liability insurance, NABCEP certification, and a track record you can verify through references and reviews. You can dig deeper into vetting contractors by reading about how to verify whether your solar installer is legitimate and checking out the questions worth asking any solar company before you sign anything."
 ---
 
 A homeowner in Colorado recently saved about $8,000 by pulling his own permit, supplying his own panels, and doing the physical installation himself. He's also a licensed electrician with 15 years of experience who spent four weekends on the roof and another two weeks chasing the utility interconnection paperwork. That's the honest version of the DIY solar story. It can be done. It's not simple, and the gap between "I watched some YouTube videos" and "I successfully commissioned a grid-tied solar system" is wider than most people realize.

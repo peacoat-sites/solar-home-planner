@@ -10,6 +10,17 @@ author: "Jennifer Liu"
 author_bio: "Green building specialist and NABCEP certified solar professional. Focuses on permits, codes, and contractor selection."
 slug: "solar-installer-reviews-what-to-look-for"
 affiliate_disclosure: true
+faqs:
+  - q: "How many reviews should a solar installer have before I trust them?"
+    a: "There's no magic number, but I'd want to see at least 40 to 50 reviews spread over two or more years before I put much weight in a rating. A company with 12 five-star reviews all posted within the same three-month period is likely running a post-installation review campaign, not organically earning that feedback."
+  - q: "Should I only hire installers with NABCEP certification?"
+    a: "It's the strongest credential in the industry, and I'd prioritize it. That said, some excellent small regional installers have experienced electricians with years of solar work but haven't formalized the certification. In that case, verify their electrical license, check references carefully, and ask about their training process for new crew members."
+  - q: "What if an installer has one or two really bad reviews mixed into mostly good ones?"
+    a: "Look at the substance of the negative reviews, not just the star rating. One complaint about a rude salesperson is different from one complaint about a roof leak that took nine months to fix. Also check whether the company responded and how. A single outlier with a professional response is not disqualifying. A cluster of complaints about the same specific issue, even if they're old, deserves your attention."
+  - q: "Is it safe to hire a national solar company versus a local installer?"
+    a: "Both have real tradeoffs. National companies often have stronger financing options and warranties backed by larger balance sheets. But local installers tend to know the local permit offices, utility interconnection quirks, and roof types better. The worst-case scenario with a national company is that they go out of business or exit your market, leaving you without local support for warranty claims. Check whether the company has a physical office in your area, not just a sales team."
+  - q: "Can I check if an installer's past permits were actually closed and inspected?"
+    a: "In many jurisdictions, yes. Search for your county or city's online permit portal and look up the contractor's name or license number. Open permits that were never finaled are a significant warning sign. It can mean the work didn't pass inspection or the contractor abandoned the job before getting sign-off. Your building department can tell you if a permit portal isn't available online."
 ---
 
 You get three quotes for a rooftop solar system. Two companies seem nearly identical on paper: same panel brand, similar system size, prices within $800 of each other. Then you dig into their online reviews and realize one installer has a pattern of complaints about permits being pulled six months late and customer service that vanishes after the contract is signed. That $800 difference suddenly looks like a bargain for the other guy. Reading solar installer reviews isn't like reading Yelp reviews for a pizza place. The stakes are higher, the projects are more complex, and the red flags are buried in language most homeowners don't know to look for.

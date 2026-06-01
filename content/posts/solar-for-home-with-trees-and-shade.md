@@ -10,6 +10,17 @@ author: "Marcus Reed"
 author_bio: "Off-grid systems designer and solar workshop instructor. Helps homeowners plan systems from sizing to battery backup."
 slug: "solar-for-home-with-trees-and-shade"
 affiliate_disclosure: true
+faqs:
+  - q: "Will solar panels work at all if I have a lot of trees?"
+    a: "Yes, but with significant caveats. Heavy shade can reduce production enough to make a system financially unattractive, especially on a string inverter setup. With microinverters or power optimizers, and strategic panel placement, many shaded properties can still achieve a reasonable payback. The key is honest modeling, not optimistic guessing. Have a professional shade analysis done before committing."
+  - q: "How much does shade actually reduce solar output?"
+    a: "It depends on the shading pattern, timing, and system design. A panel in full shade for six hours per day can reduce a string system's entire output by 30 to 60 percent. With optimizers, the loss stays isolated to that panel. Across a full year, modest afternoon shading on part of a roof might cost 10 to 15 percent of production. Severe south-side shading through peak hours can cost 40 percent or more."
+  - q: "Should I cut down my trees to get solar?"
+    a: "Run the numbers before you decide emotionally either way. Calculate the annual production loss from the tree, multiply by your electricity rate, and project over 25 years. Compare that to the cost of removal or trimming. On a south-facing tree that shadows peak-hour roof space, removal often makes financial sense. A tree that only shades a back corner in early morning usually doesn't justify the cost."
+  - q: "Can I put panels on a north-facing roof?"
+    a: "In the northern hemisphere, north-facing panels produce roughly 30 to 45 percent less than south-facing panels. That's a significant hit, but not zero. If your north roof is completely shade-free and your south roof is heavily treed, a north-facing array with high-efficiency panels and optimizers may actually outperform a shaded south array. Model both scenarios before deciding."
+  - q: "What questions should I ask installers about shade?"
+    a: "Ask what shade analysis tool they used, what shading derate factor is built into the production estimate, whether the system uses optimizers or microinverters and why, and whether a ground mount was considered. If an installer can't answer those questions specifically, they haven't done the work your site requires. A broader list of technical questions to bring to every consultation is available in this guide to questions to ask solar companies."
 ---
 
 You've got a beautiful mature oak in the backyard, maybe a row of pines along the property line, and a south-facing roof that looks promising from the street. The solar salesperson who knocked on your door last Tuesday said shade "isn't really a problem anymore." That's half true, and the half they left out matters a lot. Shade is still the single biggest variable that separates a solar system that pays for itself in eight years from one that takes fourteen. Getting this right before you sign anything could be worth thousands of dollars.

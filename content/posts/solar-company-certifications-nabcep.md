@@ -10,6 +10,17 @@ author: "Kevin Walsh"
 author_bio: "Residential solar contractor turned educator. Writes to help homeowners avoid common installation pitfalls."
 slug: "solar-company-certifications-nabcep"
 affiliate_disclosure: true
+faqs:
+  - q: "Does every installer on a crew need to be NABCEP certified?"
+    a: "No. Typically, a NABCEP-certified professional is involved in system design, permit applications, and site supervision, but not every worker on the roof will hold the credential. The key question is whether a certified individual is genuinely overseeing the work, not just signing off remotely. Ask specifically about their presence on installation day."
+  - q: "Can a small local company be NABCEP accredited, or is it mostly big national installers?"
+    a: "Small companies absolutely can earn NABCEP accreditation, and many do. The requirements scale with company size. In my experience, smaller regional companies sometimes have a higher ratio of certified technicians to installations than the large national volume installers who rely heavily on subcontractors. Don't assume bigger means better certified."
+  - q: "Is NABCEP certification required to get solar permits?"
+    a: "In most jurisdictions, no. Permits are typically tied to state licensing, not NABCEP certification. However, some utilities and a growing number of local jurisdictions are beginning to require or incentivize NABCEP credentials for permit approval. Check with your local Authority Having Jurisdiction (AHJ) if you want to know your area's specific requirements."
+  - q: "What if a company claims they're NABCEP certified but I can't find them in the directory?"
+    a: "Ask them to provide the certification number directly and the name of the specific individual who holds it. Then verify it yourself at nabcep.org. If the numbers don't match or the name isn't in the database, take that seriously. Misrepresenting certifications is a significant red flag and, depending on your state, may be actionable as contractor fraud."
+  - q: "How often do NABCEP certified installers have to renew their credential?"
+    a: "NABCEP PVIP certification is valid for three years. Renewal requires continuing education credits and, in some cases, retesting. This ongoing requirement is part of what makes it meaningful. It's not a one-time test that someone passed a decade ago and never revisited. An active, current certification means the installer is maintaining their knowledge base as codes and technology evolve."
 ---
 
 You've just gotten three solar quotes. The prices are all over the map, the salespeople all sound confident, and every company's website says they're "certified professionals" with "expert installers." So how do you actually tell the difference between a contractor who knows what they're doing and one who's going to leave you with a system that fails inspection, voids your roof warranty, or produces 20% less power than promised? The answer often comes down to one credential most homeowners have never heard of: NABCEP.

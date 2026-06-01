@@ -10,6 +10,17 @@ author: "Marcus Reed"
 author_bio: "Off-grid systems designer and solar workshop instructor. Helps homeowners plan systems from sizing to battery backup."
 slug: "hoa-solar-panel-rules"
 affiliate_disclosure: true
+faqs:
+  - q: "Can my HOA legally ban solar panels completely?"
+    a: "In most states with solar access laws, no. A complete ban on solar panels is typically void and unenforceable under state statute. In California, Florida, Texas, Colorado, and several other states, HOAs can regulate the aesthetics and placement of panels but cannot prohibit them outright. In states without solar access protections, a complete ban may be enforceable through the CC&Rs."
+  - q: "What if my HOA has a rule that was written before solar panels existed?"
+    a: "Older CC&Rs that prohibit 'structures on the roof' or 'visible mechanical equipment' have sometimes been applied to solar panels. Whether that language holds up depends on your state's laws. In states with solar access statutes, those older provisions are typically overridden by the newer statute. Get your state's law in front of your HOA board in writing."
+  - q: "How long does HOA approval typically take?"
+    a: "Most HOA governing documents specify a review period of 30 to 60 days from receipt of a complete application. Some states have shortened this window by statute. In California, the HOA must act within this period or approval is automatically granted. Knowing your specific timeline matters, so read your CC&Rs carefully and note the deadline before you submit."
+  - q: "Can my HOA require me to remove the panels when I sell the house?"
+    a: "Generally, no. Solar panels are a permanent fixture that transfer with the home in a sale. Any CC&R provision requiring removal as a condition of sale would likely conflict with solar access statutes in protected states and would also raise serious questions about marketability under real estate law. That said, you'll want to disclose the system and HOA approval status to buyers."
+  - q: "What if the HOA approves my system but then changes its rules after installation?"
+    a: "If your system was installed under a valid approval, retroactive rule changes typically cannot force you to remove a compliant installation. Keep your original approval letter and any correspondence permanently. Some states explicitly protect approved installations from later regulatory changes. This is one of the reasons getting written approval matters so much."
 ---
 
 You've found the perfect south-facing roof, gotten three quotes, and you're ready to pull the trigger on a solar install. Then the HOA letter arrives. "Your request has been denied pending further review." It's one of the most common gut-punch moments in residential solar, and I've watched it derail installs that should have been straightforward. Here's the thing though: in most states, your HOA doesn't actually have the final say. Understanding exactly where the law stands, what your HOA can and can't demand, and how to build an airtight approval request can mean the difference between getting your system installed and fighting a losing battle with your neighbor's architectural committee.

@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "can-solar-power-charge-an-electric-car"
 affiliate_disclosure: true
+faqs:
+  - q: "Can a small solar system (like 4 kW) actually charge an EV?"
+    a: "It depends on your driving. A 4 kW system in a decent sun location produces roughly 16 to 20 kWh per day in summer, which is enough to cover 60 to 80 miles of daily driving in most EVs. If you're not driving much and your home consumption is modest, a smaller system can absolutely work. The catch is net metering math: what you don't use during the day exports at potentially low rates, and you draw back at retail rates when you charge at night. Bigger isn't always better, but you want the system sized for your actual consumption."
+  - q: "Does the solar need to be producing while I'm charging for this to work?"
+    a: "No. With net metering, your solar production during the day offsets your nighttime charging on a 1-for-1 (or close to it) basis with most utilities. Think of the grid as a bank account. You deposit kWh during the day and withdraw them when you plug in at night. Real-time matching only matters if you're using a smart charger designed for direct solar charging or if you have battery storage."
+  - q: "What happens on cloudy days or in winter?"
+    a: "Your system produces less, and you pull more from the grid. Over the course of a year, a properly sized system still offsets the full annual consumption. Winter underproduction is balanced by summer overproduction in most net metering arrangements. This is exactly why you need 12 months of data and a PVWatts analysis, not a salesperson's best-case projections."
+  - q: "Is it worth adding more panels specifically for an EV?"
+    a: "Usually yes, with a caveat. If you're already installed and just bought an EV, check whether your inverter has headroom for additional panels. Many string inverters are sized close to the original array and can't handle more capacity without replacement. Microinverter systems (like Enphase) are easier to expand because each panel has its own microinverter. Get a load analysis before assuming you can just bolt on more panels."
+  - q: "Will this work for a plug-in hybrid (PHEV) too?"
+    a: "Absolutely, and in some ways PHEVs are an even easier fit because their battery packs are smaller (typically 8 to 18 kWh vs. 60 to 100 kWh for a full BEV). A PHEV like a Toyota Prius Prime or Ford Escape PHEV can often be fully charged overnight on Level 1 alone. A small to mid-size solar system can cover PHEV charging with minimal impact on system sizing."
 ---
 
 Picture this: you've just leased a new EV and you're staring at your first electric bill, which is noticeably higher than last month. Your neighbor mentions their solar panels cover their car charging. You start doing the math on your roof, your commute, and your budget, and suddenly you're deep in a rabbit hole of kilowatt-hours, inverter sizes, and net metering policies. I've been there with dozens of clients, and the good news is: yes, solar absolutely can charge your electric car. But the "how much solar" question is where most people get tripped up, and getting it wrong means either an undersized system that still leaves you paying the utility, or an oversized one that took 12 years to pay off instead of 7.

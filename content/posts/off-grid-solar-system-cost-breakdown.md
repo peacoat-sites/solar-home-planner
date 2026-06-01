@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "off-grid-solar-system-cost-breakdown"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does an off-grid solar system last?"
+    a: "Panels carry 25–30 year production warranties. LiFePO4 batteries are typically rated for 3,000–6,000 cycles, which translates to 10–15 years of daily cycling. Inverter-chargers often last 10–15 years. Plan on replacing batteries once over a 25-year system lifespan."
+  - q: "Can I build an off-grid system myself to save money?"
+    a: "Yes, with significant caveats. Equipment costs alone for a full-home off-grid system run $25,000–$50,000. You can save $8,000–$20,000 on labor, but you'll need to pull permits, pass inspections, and do the electrical work properly. Solar DIY guides and wiring tools are widely available. In most states, a licensed electrician must make the final panel connections and sign off on the work even if you do the rest yourself."
+  - q: "Does the 30% federal tax credit apply to off-grid solar?"
+    a: "Yes, for residential use. The ITC covers 30% of total system cost including batteries, as long as the batteries are charged exclusively by solar. Batteries charged partially by generator may complicate the calculation. Consult a tax professional for your specific situation."
+  - q: "What's the minimum viable off-grid system for a small cabin?"
+    a: "A weekend cabin with modest loads (lights, phone charging, small refrigerator, no electric heat) can run on 1.5–2 kW of panels and an 8–10 kWh LiFePO4 battery bank. Equipment cost runs $6,000–$12,000. Add a small propane or DC refrigerator and you'll reduce the battery requirement significantly. This is a realistic DIY project for someone comfortable with basic electrical work."
+  - q: "How does weather and location affect system cost?"
+    a: "Dramatically. A home in Phoenix can size a significantly smaller array than the same home in Portland for identical energy output, because Phoenix gets roughly 40% more usable sun hours annually. Lower sun hours mean more panels, larger battery bank, and longer backup generator run time in winter. In northern latitudes, a three-day autonomy battery bank is a minimum, not a luxury. Off-grid solar is absolutely achievable and for many rural properties it's the only financially rational choice, especially when the utility wants $30,000–$80,000 to run a grid line to your property. But it rewards t"
 ---
 
 Most solar cost articles will tell you the average American home system runs $25,000–$35,000 and leave it there. That number is for a grid-tied system. If you're pricing an off-grid setup, you're shopping in a completely different store. Off-grid solar costs more, requires more components, and demands more planning precision. Get it wrong and you're not just overpaying, you're sitting in the dark in January. Here's the actual breakdown.

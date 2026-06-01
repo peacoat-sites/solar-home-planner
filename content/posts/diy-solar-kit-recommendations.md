@@ -10,6 +10,17 @@ author: "Jennifer Liu"
 author_bio: "Green building specialist and NABCEP certified solar professional. Focuses on permits, codes, and contractor selection."
 slug: "diy-solar-kit-recommendations"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I legally install solar myself without a licensed electrician?"
+    a: "In most US states, yes, homeowners can pull permits and install solar on their own property without a contractor license. A few states, notably Hawaii and some localities in California, require a licensed contractor for grid-tied work. Always check with your local building department first. You can also read more about the legal and practical considerations in the can I install solar panels myself guide."
+  - q: "How long does a DIY solar installation actually take?"
+    a: "For a 6-8kW system on a single-plane roof, plan for two full weekend days for the physical installation if you have a helper. Permit approval and utility interconnection add weeks to the calendar but not labor hours. The electrical work typically takes longer than the racking for someone without prior electrical experience."
+  - q: "Do DIY solar kits qualify for the federal tax credit?"
+    a: "Yes. The 30% federal Investment Tax Credit (ITC) applies to DIY installations as long as you own the system and it's installed at your primary or secondary residence. You claim it on IRS Form 5695. Keep all receipts for panels, inverters, racking, wiring, permit fees, and any professional services you hire (like an engineer letter for permits)."
+  - q: "What roof types work best for DIY solar kits?"
+    a: "Composition shingle roofs are the easiest to work with because standard rail racking flashings are widely available and simple to waterproof correctly. Metal standing seam roofs are actually excellent for solar since clamps attach to the seam without penetrating the roof. Tile roofs, especially Spanish barrel tile, are more complex and prone to cracking if you don't use tile hooks correctly. See the breakdown of best roof types for solar panels for a more detailed comparison."
+  - q: "What happens if my DIY system has a problem after installation?"
+    a: "If a component fails under warranty, you deal directly with the manufacturer, same as a contractor install. Enphase, SolarEdge, and most Tier 1 panel manufacturers honor warranties regardless of who installed the system. If something goes wrong with your electrical work or racking, that's on you to fix. This is why proper installation matters. If your system stops producing and you're not sure why, the my solar panels stopped working: what to do guide walks through the diagnosis process step by step."
 ---
 
 A homeowner in Phoenix recently told me he saved $14,000 by installing a 6kW solar kit himself over two weekends. His neighbor, same neighborhood, same roof type, paid a contractor $28,000 for an equivalent system. The difference wasn't luck or skill level. It was research, the right kit, and knowing exactly what he was getting into before he bought anything.

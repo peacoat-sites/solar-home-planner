@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "generator-vs-solar-battery-backup"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I add a battery backup to my existing solar system?"
+    a: "Yes, in most cases. If your inverter is battery-compatible or you have a string inverter that can be retrofitted with an AC-coupled battery, an installer can add a Powerwall or similar product without replacing your existing panels. If your inverter isn't compatible, you may need a new hybrid inverter, which adds to the cost. Get a site assessment from a certified installer before assuming it's a simple add-on."
+  - q: "How long will a solar battery last during a power outage?"
+    a: "That depends entirely on what you're running. A single Powerwall 3 holds 13.5 kWh. A refrigerator running constantly uses about 1.5 to 2 kWh per day. Your CPAP might use 0.2 to 0.5 kWh per night. A sump pump running occasionally might use 0.5 kWh over a full day. Power critical loads only and you can stretch 13.5 kWh over 24 to 48 hours easily. Try to run your whole house and you might drain it in 4 to 6 hours."
+  - q: "Is a whole-home standby generator worth the $15,000 investment?"
+    a: "For some households, absolutely yes. If you work from home, rely on medical equipment, have a well pump, or live in a region with frequent extended outages, a whole-home standby on natural gas is a reliable, indefinite solution. Where it struggles to justify the cost is for homeowners who experience occasional short outages and don't have critical continuous loads. The annual maintenance and installation cost don't pencil out well for 4-hour-once-a-year scenarios."
+  - q: "Do I need a permit for a battery backup system or generator?"
+    a: "Almost certainly yes, for both. Battery systems typically require an electrical permit and often a utility interconnection application. Standby generators require permits for both the electrical and gas work. Portable generators used with a transfer switch need an electrical permit for the switch installation. Don't skip this. Unpermitted work can void your homeowner's insurance, create liability issues, and cause problems when you sell your home."
+  - q: "What's the lifespan of a solar battery versus a generator?"
+    a: "A quality lithium iron phosphate or NMC battery like a Powerwall carries a 10-year warranty and is designed to retain at least 70% capacity over that period. Real-world lifespan is likely 15 years or more with normal use. A well-maintained natural gas standby generator can last 15 to 20 years. A portable gasoline generator, if maintained properly, realistically gives you 10 to 15 years but with significantly higher maintenance demands throughout."
 ---
 
 The power goes out at 11 PM on a Wednesday. Your sump pump stops. The food in your freezer starts its slow decline. Your kid's CPAP machine goes quiet. You've told yourself for two years that you'd get backup power sorted out before something like this happened, and here you are. If that scenario feels a little too familiar, you're probably already weighing two options: a generator or a solar battery backup system. Here's what I tell people when they come to me in exactly that moment, often on their phones while sitting in the dark.

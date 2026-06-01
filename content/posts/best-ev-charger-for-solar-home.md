@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "best-ev-charger-for-solar-home"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I charge my EV entirely from solar without a battery?"
+    a: "Yes, with conditions. If your solar system produces enough excess power during the day (typically 4 to 8 kW surplus for several hours), a solar-aware charger can direct that excess directly to your car. You'll add less range per day than an overnight charge on a 48-amp circuit, but for daily commutes under 40 miles it's often more than enough. Without a battery, you're limited to charging when the sun is up."
+  - q: "Does my car need to be compatible with solar-aware charging?"
+    a: "No. The solar awareness lives in the charger and the home energy system, not the vehicle. Any EV that accepts a J1772 plug (essentially every non-Tesla, and Teslas with an adapter) can be throttled by a smart charger without the car knowing anything special is happening."
+  - q: "What if I have a flat roof or shading issues that reduce my solar production?"
+    a: "This matters more than most people admit. A solar system that's regularly clipped by shading or a suboptimal tilt won't generate reliable excess for charging. Before investing in a solar-aware charger, check your inverter's production logs for consistent midday surplus. If you're seeing consistent production drops, address the shading or panel placement first."
+  - q: "Do I really need a permit for a Level 2 charger?"
+    a: "Yes. In virtually every U.S. municipality, installing a 240V circuit requires a permit and electrical inspection. Some homeowners skip this and face problems when selling their home or making an insurance claim after an electrical incident. The permit process isn't onerous. A licensed electrician pulls it, schedules the inspection, and it's done. If a contractor quotes you work 'without permits to save time,' walk away."
+  - q: "How do I know if my solar system produces enough to justify a solar-aware charger?"
+    a: "Pull 90 days of production data from your inverter app. Look at your typical midday surplus, the production that exceeds your home's regular load. If you're consistently seeing 2 kW or more of surplus for four or more hours per day, a solar-aware charger will make a meaningful difference. If your surplus is minimal, focus first on system sizing before optimizing the charger. Getting your solar system and your EV charger to actually work together is a specific, solvable problem. It's not magic and it's not marketing. It's matching the right hardware to your inverter, your panel capacity, and yo"
 ---
 
 You've got solar panels on the roof, a new EV in the driveway, and you're realizing these two things don't automatically talk to each other the way you hoped. Maybe your installer mentioned something about "solar-aware charging" and you nodded along. Maybe you've just been plugging into a regular outlet and watching your electricity bill stay stubbornly high despite all that sunshine. Either way, you're not imagining the problem. Matching your EV charger to your solar system is one of the most consequential decisions you'll make for your home energy setup, and most people get almost zero useful guidance on it.

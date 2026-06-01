@@ -10,6 +10,17 @@ author: "Tom Briggs"
 author_bio: "Licensed electrician and solar installer with 12 years experience in DIY and residential solar projects."
 slug: "how-to-get-solar-quotes"
 affiliate_disclosure: true
+faqs:
+  - q: "How many solar quotes should I get?"
+    a: "Three is the minimum that gives you a real comparison. Two quotes can leave you without context to judge whether either is reasonable. Five quotes is fine if you have the time, but you'll likely see diminishing returns after quote four. The goal isn't volume, it's getting enough competitive bids to understand the local market rate and identify any outliers on either end."
+  - q: "How long does it take to get solar quotes?"
+    a: "Initial quotes can come in within 24 to 72 hours from online platforms. A proper site visit and detailed proposal typically takes 3 to 7 business days from a reputable local installer. If a company gives you a final, signed-contract-ready quote in under an hour without visiting your home, that's a shortcut you should be skeptical of."
+  - q: "Should I tell contractors what the competing quotes look like?"
+    a: "Be careful here. Sharing exact numbers from competitor quotes can prompt lowball counter-offers rather than genuine pricing. It's fine to say 'I have other quotes in a similar range' without disclosing specifics. What you actually want is the best product at the best price, not the cheapest contractor who raced to match a number."
+  - q: "What's the difference between a quote and a proposal?"
+    a: "A quote is typically a preliminary price estimate, sometimes built from satellite data alone. A proposal is a full engineered system design with production modeling, financial analysis, and equipment specifications. You want a proposal before you sign anything. If a contractor calls their satellite-image printout a 'proposal,' ask when the site visit and formal engineering design happen."
+  - q: "Do I need to get solar quotes before talking to my HOA?"
+    a: "Yes, ideally. Many HOAs have restrictions on panel placement, visibility from the street, and racking aesthetics. If you get proposals first, you'll know exactly what you're asking the HOA to approve. Vague requests get vague (and often negative) responses. Most states have solar access laws that limit HOA authority to block installations outright, but the HOA can often dictate specific conditions. Know your state's rules before you assume approval is automatic."
 ---
 
 Most homeowners spend more time researching a $600 dishwasher than a $25,000 solar system. I've watched people sign contracts after a single sales pitch, then call me six months later wondering why their electricity bill barely moved. Getting solar quotes isn't just about finding the lowest price. It's about gathering enough structured information to make a comparison that actually means something.
