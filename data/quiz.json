@@ -1,0 +1,149 @@
+{
+  "title": "Should You Go Solar This Year?",
+  "intro": "Answer 7 quick questions to see how well the timing lines up for adding solar to your home this year. This is a self-reflection tool for fun and general education, not a quote or financial advice.",
+  "disclaimer": "This quiz is for general education and fun, not financial advice. Savings and payback vary widely by home, roof, sunlight, and your local utility. Get personalized quotes and check current incentives before making a decision.",
+  "questions": [
+    {
+      "q": "How old is your roof, and what kind of shape is it in?",
+      "options": [
+        {
+          "t": "Newer or recently replaced, plenty of life left",
+          "s": 3
+        },
+        {
+          "t": "Middle-aged but solid, no leaks",
+          "s": 1
+        },
+        {
+          "t": "Older or due for replacement soon",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How long do you realistically plan to stay in this home?",
+      "options": [
+        {
+          "t": "Many years, this is home for the foreseeable future",
+          "s": 3
+        },
+        {
+          "t": "A while, but I could see moving in 5-7 years",
+          "s": 1
+        },
+        {
+          "t": "Honestly not sure, might move soon",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "What do your electric bills look like lately?",
+      "options": [
+        {
+          "t": "High and climbing, they really sting",
+          "s": 3
+        },
+        {
+          "t": "Moderate, noticeable but manageable",
+          "s": 1
+        },
+        {
+          "t": "Low, electricity isn't a big cost for me",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How much usable sun does your roof actually get?",
+      "options": [
+        {
+          "t": "Mostly open and sunny through the day",
+          "s": 3
+        },
+        {
+          "t": "Some shade from trees or angles at times",
+          "s": 1
+        },
+        {
+          "t": "Heavily shaded or poorly oriented",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about handling a project with quotes, paperwork, and a few decisions?",
+      "options": [
+        {
+          "t": "Ready, I like researching and moving things forward",
+          "s": 3
+        },
+        {
+          "t": "Open to it if the steps are laid out clearly",
+          "s": 1
+        },
+        {
+          "t": "It feels like a lot to take on right now",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How interested are you in energy independence and lower long-term bills?",
+      "options": [
+        {
+          "t": "Very, it's a real motivator for me",
+          "s": 3
+        },
+        {
+          "t": "Somewhat, the idea appeals to me",
+          "s": 1
+        },
+        {
+          "t": "Not really thinking about it that way",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Where are you in your solar research journey?",
+      "options": [
+        {
+          "t": "Actively reading and ready to get quotes",
+          "s": 3
+        },
+        {
+          "t": "Curious and starting to look into it",
+          "s": 1
+        },
+        {
+          "t": "Just beginning to wonder if it's worth it",
+          "s": 0
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": "This might not be your easiest year to go solar",
+      "body": "Based on your answers, a few pieces aren't quite lined up yet \u00e2\u20ac\u201d maybe your roof, your timeline, or your sun exposure needs attention first. That's completely fine. Solar will still be there when the timing is better, and a little prep now makes the eventual switch smoother. Start by understanding the basics so you'll know exactly what to watch for.",
+      "cta": "Explore solar basics for beginners"
+    },
+    {
+      "min": 8,
+      "max": 14,
+      "title": "Solar could work well for you this year, with a plan",
+      "body": "You have several traits of a good candidate, with maybe one or two things to firm up \u00e2\u20ac\u201d like confirming your roof's condition or how long you'll stay. With a clear plan, this could absolutely be your year. A smart next step is estimating what your home might produce and what it could mean for your bills.",
+      "cta": "See solar production by state"
+    },
+    {
+      "min": 15,
+      "max": 21,
+      "title": "You're a strong candidate to go solar this year",
+      "body": "Your roof, habits, plans, and readiness all point the same direction \u00e2\u20ac\u201d this looks like a great year to seriously explore solar. You're well-positioned to move from curiosity to real estimates. Dive into the planning resources and start mapping out what a system on your home could look like.",
+      "cta": "Browse the full solar planning guides"
+    }
+  ]
+}
