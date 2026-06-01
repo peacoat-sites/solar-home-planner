@@ -1,4 +1,5 @@
 ---
+quiz_page: true
 title: "Should You Go Solar This Year? Take the Readiness Quiz"
 description: "Wondering if this is the right year to add solar to your home? Take our 7-question readiness quiz to see how well the timing fits your roof, plans, and goals."
 slug: "should-you-go-solar-this-year"
