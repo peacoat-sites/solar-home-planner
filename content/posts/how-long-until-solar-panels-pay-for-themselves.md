@@ -3,7 +3,7 @@ title: "How Long Until Solar Panels Pay For Themselves"
 date: 2026-06-01T15:36:50.165650+00:00
 draft: false
 description: "Discover how long solar panels take to pay for themselves, what affects the payback period, and how to calculate your own return on investment."
-image: "https://images.pexels.com/photos/17965455/pexels-photo-17965455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8853509/pexels-photo-8853509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["ROI"]
 tags: ["long", "until", "solar", "panels", "themselves"]
 author: "Claire Novak"

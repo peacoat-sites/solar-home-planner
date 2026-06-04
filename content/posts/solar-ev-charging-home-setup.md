@@ -3,7 +3,7 @@ title: "Solar + Ev Charging Home Setup"
 date: 2026-05-28T16:01:26.792155+00:00
 draft: false
 description: "Discover how to set up solar panels with EV charging at home, reduce energy costs, and drive on clean power with our complete step-by-step guide."
-image: "https://images.pexels.com/photos/12243093/pexels-photo-12243093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/27355835/pexels-photo-27355835.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["solar", "charging", "home", "setup"]
 author: "Maria Vasquez"

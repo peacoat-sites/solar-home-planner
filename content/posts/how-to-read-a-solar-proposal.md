@@ -3,7 +3,7 @@ title: "How To Read A Solar Proposal"
 date: 2026-06-04T12:25:59.188340+00:00
 draft: false
 description: "Learn how to read a solar proposal with confidence. Understand system size, costs, savings estimates, and key terms before signing any solar energy agreement."
-image: "https://images.pexels.com/photos/9875415/pexels-photo-9875415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35425754/pexels-photo-35425754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Planning Tools"]
 tags: ["read", "solar", "proposal"]
 author: "Alex Reeves"

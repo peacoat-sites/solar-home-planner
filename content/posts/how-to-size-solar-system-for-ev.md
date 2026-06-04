@@ -3,7 +3,7 @@ title: "How To Size Solar System For Ev"
 date: 2026-05-20T09:03:17.151120+00:00
 draft: false
 description: "Learn how to properly size a solar system for your EV with our step-by-step guide covering energy needs, panel calculations, battery storage, and charging optio"
-image: "https://images.pexels.com/photos/12243093/pexels-photo-12243093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9800024/pexels-photo-9800024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["size", "solar", "system"]
 author: "Alex Reeves"

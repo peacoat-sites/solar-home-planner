@@ -3,7 +3,7 @@ title: "Whole Home Solar Backup System"
 date: 2026-05-22T21:48:15.992351+00:00
 draft: false
 description: "Discover how a whole home solar backup system keeps your power on during outages, saves money on energy bills, and provides clean, reliable electricity year-rou"
-image: "https://images.pexels.com/photos/9875685/pexels-photo-9875685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/17240063/pexels-photo-17240063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["whole", "home", "solar", "backup", "system"]
 author: "Claire Novak"
