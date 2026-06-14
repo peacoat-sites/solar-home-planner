@@ -3,7 +3,7 @@ title: "Do Solar Panels Work On Cloudy Days"
 date: 2026-06-13T23:41:51.951885+00:00
 draft: false
 description: "Yes, solar panels still generate electricity on cloudy days, though at reduced efficiency. Learn how weather affects solar output and whether they're worth it y"
-image: ""
+image: "https://images.pexels.com/photos/8853537/pexels-photo-8853537.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "panels", "work", "cloudy", "days"]
 author: "Alex Reeves"
