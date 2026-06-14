@@ -6,8 +6,6 @@ description: "Compare top solar panel brands in 2026 by efficiency, cost, and wa
 image: "https://images.pexels.com/photos/37083400/pexels-photo-37083400.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Equipment Deep Dives"]
 tags: ["solar", "panel", "brands", "comparison", "2026"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "solar-panel-brands-comparison-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "SunPower filed for bankruptcy in 2024 and restructured. The Maxeon cell technology was spun into a separate company (Maxeon Solar). Existing SunPower panels continue to operate normally, but warranty and monitoring service continuity became uncertain for some customers. I'd approach any new SunPower-branded product carefully until the restructured entity demonstrates a stable long-term service record."
   - q: "How do I compare solar panel quotes from different brands fairly?"
     a: "Ask each installer to provide the system's projected Year 1 production in kWh (not just wattage), the temperature coefficient, the degradation rate, and the specific warranty terms. Then calculate cost per kWh of projected lifetime production, not cost per watt. That's the number that actually tells you which quote is the better deal."
+author: "Tom Bradley"
+author_slug: "tom-bradley"
+author_title: "DIY Researcher"
+author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+
 ---
 
 Most people shopping for solar panels in 2026 spend way too much time comparing efficiency ratings and nowhere near enough time asking who's actually going to be around to honor that 25-year warranty. That's the thing nobody puts in the comparison chart.

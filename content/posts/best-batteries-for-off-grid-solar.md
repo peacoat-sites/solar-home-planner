@@ -6,8 +6,6 @@ description: "Discover the best batteries for off grid solar systems in 2024. Co
 image: "https://images.pexels.com/photos/8853500/pexels-photo-8853500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["best", "batteries", "grid", "solar"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "best-batteries-for-off-grid-solar"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For most full-time off-grid homes, yes. A generator is your backup for extended low-solar periods. The goal is to run it rarely, not constantly. A well-sized battery bank and solar array in a decent solar climate might mean running a generator only 5 to 10 times per year. I usually recommend sizing your battery bank for 3 days of autonomy and treating the generator as a fourth-day failsafe rather than a daily crutch."
   - q: "Do I need a permit to install an off-grid battery system?"
     a: "In most U.S. jurisdictions, yes. Even off-grid systems typically require an electrical permit, and many areas require the installation to meet NEC Article 706 (for energy storage) and Article 690 (for solar). Some rural counties have minimal enforcement, but skipping permits creates problems with homeowner's insurance and property resale. If you're DIYing the install, check with your local building department before you start. The honest truth about off-grid battery selection is that there's no perfect battery for every situation, only the right battery for your specific loads, climate, budget"
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 Maybe you've already priced out grid-tied solar and decided it's not for you. Maybe you're building a cabin 800 feet from the nearest utility pole, or you've just had your third multi-day outage this year and you're done depending on the grid. Whatever brought you here, you're asking one of the most consequential questions in all of residential solar: which battery is actually going to work for my situation? The answer isn't simple, and anyone who tells you it is probably wants to sell you something specific. Let's walk through this the right way.

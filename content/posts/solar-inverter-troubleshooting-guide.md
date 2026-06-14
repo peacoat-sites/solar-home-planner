@@ -6,8 +6,6 @@ description: "Diagnose and fix common solar inverter problems with our expert tr
 image: "https://images.pexels.com/photos/9875416/pexels-photo-9875416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "inverter", "troubleshooting", "guide"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "solar-inverter-troubleshooting-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, for most common fault conditions. The standard procedure is: turn off the AC disconnect, wait 60 seconds, turn off the DC disconnect on the inverter, wait 5 minutes (to let capacitors discharge), then reverse the sequence to restart. This clears most transient faults. Do not keep repeatedly resetting an inverter that trips again immediately, that's a sign of a real underlying fault that needs diagnosis."
   - q: "Does a solar inverter error code mean I'll lose production data?"
     a: "Not usually. Monitoring platforms like Fronius Solar.web and SolarEdge store historical production data in the cloud, independent of what the inverter is currently doing. Your data is safe even if the inverter is offline. The gap in production during the outage will simply show as zero or missing, which is actually useful information when you're building a timeline of what happened."
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 Most solar inverter problems aren't actually inverter problems. That's the thing nobody tells you upfront, and I learned it the hard way after spending three hours on a roof in July convinced I had a failed SMA Sunny Boy, only to trace the fault back to a loose MC4 connector that cost about forty cents to fix.

@@ -6,8 +6,6 @@ description: "Find the best solar company for your home with our expert tips. Le
 image: https://images.pexels.com/photos/7255382/pexels-photo-7255382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Contractor Selection"]
 tags: ["choose", "solar", "company"]
-author: "Kevin Walsh"
-author_bio: "Residential solar contractor turned educator. Writes to help homeowners avoid common installation pitfalls."
 slug: "how-to-choose-a-solar-company"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and you should. Check the Better Business Bureau and your state Attorney General's consumer protection database. Search '[company name] complaint' or '[company name] lawsuit' along with your state. Also check Google reviews, but look at the one and two-star reviews specifically rather than the average rating. Pay attention to whether the company responds to negative reviews and how. A company that gets defensive or dismissive about complaints tells you a lot about how they'll handle your problem if something goes wrong."
   - q: "What should the contract include before I sign?"
     a: "The signed contract should specify: the exact equipment make and model, total installed price broken into labor and materials, projected annual production in kWh, permit responsibility (theirs, not yours), workmanship warranty duration, a completion timeline with milestones, and a clear cancellation policy. If anything is still described vaguely as 'to be determined,' don't sign until it's filled in. Verbal promises made during the sales pitch do not survive disputes."
+author: "Tom Bradley"
+author_slug: "tom-bradley"
+author_title: "DIY Researcher"
+author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+
 ---
 
 A neighbor of mine got a $0-down solar quote that looked great on paper. The installer was in and out in two days, the panels went up fast, and then the problems started: a roof leak that the company blamed on pre-existing damage, a system that was undersized by about 30%, and a financing contract with an escalator clause that raised his payments 2.9% every year for 25 years. The company? Gone six months later. That experience is more common than the industry likes to admit, and it's exactly why choosing the right solar company matters as much as choosing the right system.

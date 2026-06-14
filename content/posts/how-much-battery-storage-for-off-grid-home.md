@@ -6,8 +6,6 @@ description: "Discover how much battery storage your off grid home needs. Learn 
 image: "https://images.pexels.com/photos/698485/pexels-photo-698485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["much", "battery", "storage", "grid", "home"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-much-battery-storage-for-off-grid-home"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "LiFePO4 batteries typically last 10 to 15 years at daily cycling, with many manufacturers warranting 3,000 to 6,000 cycles to 80% capacity. Quality flooded lead-acid batteries, properly maintained and not over-discharged, can last 5 to 8 years. AGM lead-acid tends to fall in the 4 to 6 year range with regular use. The chemistry choice significantly affects your long-term cost per kWh delivered."
   - q: "Do I need a generator with an off-grid solar battery system?"
     a: "Technically no, but practically speaking, most off-grid homeowners should plan for one. A propane or dual-fuel generator as a backup for extended cloudy periods is far more cost-effective than sizing your battery bank for worst-case seasonal scenarios. Think of it as insurance. Size your battery for typical winter autonomy, and let the generator handle the outliers."
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 Most people who ask me about off-grid battery sizing start with the wrong question. They want to know how many panels they need. But panels are almost irrelevant if you haven't figured out storage first. Your battery bank is the backbone of an off-grid system, and getting it wrong doesn't just mean higher costs. It means waking up at 2 a.m. to a dead system in January because you undersized by 20%.

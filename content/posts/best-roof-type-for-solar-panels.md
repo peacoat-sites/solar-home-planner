@@ -6,8 +6,6 @@ description: "Best roof types for solar panels: asphalt shingles, metal, and fla
 image: https://images.pexels.com/photos/6814524/pexels-photo-6814524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar for Home Types"]
 tags: ["best", "roof", "type", "solar", "panels"]
-author: "Marcus Reed"
-author_bio: "Off-grid systems designer and solar workshop instructor. Helps homeowners plan systems from sizing to battery backup."
 slug: "best-roof-type-for-solar-panels"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They'll produce power, but significantly less than a south-facing roof, typically 20 to 30% less depending on your latitude. In some cases a ground mount or a different roof section is a better option. A reputable installer will model the production difference for you using actual shading and orientation data."
   - q: "Will solar panels affect my roof warranty?"
     a: "This depends on the roofing manufacturer. Some manufacturers include language in their warranties that covers solar mounting when installed by a certified contractor using approved hardware. Others may require notification. Check your roofing warranty documentation directly, and ask your solar contractor to provide written confirmation that their mounting system and process are compatible with your roof material's warranty terms."
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 Most homeowners spend weeks researching solar panels without ever thinking seriously about what's underneath them. Then a contractor shows up, takes one look at the roof, and says something vague like "that might be tricky." Suddenly you're facing unexpected costs, structural questions, or a flat-out "we can't do this job." The roof type you have right now is one of the biggest factors determining how easy, how expensive, and how long-lasting your solar installation will be. Let's get into the specifics.

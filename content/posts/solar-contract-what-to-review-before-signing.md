@@ -6,8 +6,6 @@ description: "Learn what to review in a solar contract before signing, including
 image: https://images.pexels.com/photos/7693199/pexels-photo-7693199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Contractor Selection"]
 tags: ["solar", "contract", "what", "review", "before"]
-author: "Jennifer Liu"
-author_bio: "Green building specialist and NABCEP certified solar professional. Focuses on permits, codes, and contractor selection."
 slug: "solar-contract-what-to-review-before-signing"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Equipment warranties from the manufacturer should survive the installer's bankruptcy, assuming the manufacturer stays in business. Workmanship warranties backed only by the installer are effectively worthless if the company closes. This is a real risk in an industry that still sees consolidation. Ask your installer which portions of the warranty are backed by a third-party insurer or whether they participate in a warranty protection program. Some installers buy insurance products specifically to backstop their workmanship guarantee."
   - q: "Do I need a home energy monitor before or after going solar?"
     a: "You don't need one, but it's genuinely useful both before and after. Before installation, a home energy monitor can help you understand your actual consumption patterns, which feeds directly into sizing the system correctly (disclosure: this site may earn a commission on purchases). After installation, it lets you verify your solar production against your contract's estimates and catch underperformance early. Many inverter systems include monitoring apps, but a standalone monitor covers your whole home load, not just solar output, which gives you a more complete picture."
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 A homeowner in Sacramento called me last spring, three days before her installation was scheduled to start. She'd signed a 25-year solar lease nine months earlier and had just discovered her contract included an automatic annual escalator of 2.9% on her monthly payments. Nobody had explained that to her during the sales pitch. Over 25 years, that clause would cost her roughly $14,000 more than the flat rate she thought she was getting. The installer wasn't breaking any laws. Every word was in the contract. She just hadn't read it.

@@ -6,8 +6,6 @@ description: "Discover how long solar panels take to pay for themselves, what af
 image: "https://images.pexels.com/photos/8853509/pexels-photo-8853509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["ROI"]
 tags: ["long", "until", "solar", "panels", "themselves"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-long-until-solar-panels-pay-for-themselves"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You keep producing electricity for free (roughly free, accounting for minimal maintenance and eventual inverter replacement around year 12-15). A central string inverter costs $1,000-$2,000 to replace. Panel cleaning in dusty climates is a small recurring cost. A solar panel cleaning kit runs $30-$80 and handles most residential systems easily. (This site may earn a commission on qualifying Amazon purchases.) After breakeven, the remaining 15-plus years of production represent pure financial return, often $30,000 to $60,000 worth of electricity depending on your system size and rate."
   - q: "Should I wait for panel prices to drop more before installing?"
     a: "This is the question I hear most. Prices have dropped dramatically over the past decade, but the cost curve has flattened. The 30% federal ITC is scheduled to remain through 2032, then step down. Every year you wait is a year of utility bills you're paying at full price. If the numbers work today, the opportunity cost of waiting usually exceeds whatever marginal price improvement you might get in two or three years. The payback period isn't a magic number you read off a chart. It's a calculation you do yourself, with your actual utility data and your specific quotes, before you sign anything."
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 Most solar quotes you'll see online toss out "6 to 12 years" like it means something. It doesn't, not without knowing your utility rate, your roof's solar access, your state's net metering policy, and what you actually paid for the system. A homeowner in Massachusetts paying $0.29/kWh who got a $2,000 cash incentive from their utility might break even in 7 years. The same system on a house in Idaho at $0.10/kWh might take 14. Same panels, wildly different math.

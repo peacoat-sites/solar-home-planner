@@ -6,8 +6,6 @@ description: "Solar panels for homes with trees and shade: Learn how to maximize
 image: https://images.pexels.com/photos/7693231/pexels-photo-7693231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar for Home Types"]
 tags: ["solar", "home", "with", "trees", "shade"]
-author: "Marcus Reed"
-author_bio: "Off-grid systems designer and solar workshop instructor. Helps homeowners plan systems from sizing to battery backup."
 slug: "solar-for-home-with-trees-and-shade"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In the northern hemisphere, north-facing panels produce roughly 30 to 45 percent less than south-facing panels. That's a significant hit, but not zero. If your north roof is completely shade-free and your south roof is heavily treed, a north-facing array with high-efficiency panels and optimizers may actually outperform a shaded south array. Model both scenarios before deciding."
   - q: "What questions should I ask installers about shade?"
     a: "Ask what shade analysis tool they used, what shading derate factor is built into the production estimate, whether the system uses optimizers or microinverters and why, and whether a ground mount was considered. If an installer can't answer those questions specifically, they haven't done the work your site requires. A broader list of technical questions to bring to every consultation is available in this guide to questions to ask solar companies."
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 You've got a beautiful mature oak in the backyard, maybe a row of pines along the property line, and a south-facing roof that looks promising from the street. The solar salesperson who knocked on your door last Tuesday said shade "isn't really a problem anymore." That's half true, and the half they left out matters a lot. Shade is still the single biggest variable that separates a solar system that pays for itself in eight years from one that takes fourteen. Getting this right before you sign anything could be worth thousands of dollars.

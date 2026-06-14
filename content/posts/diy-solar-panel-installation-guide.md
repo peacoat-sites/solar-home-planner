@@ -6,8 +6,6 @@ description: "Install solar panels yourself with our comprehensive DIY guide. Le
 image: "https://images.pexels.com/photos/6040783/pexels-photo-6040783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["DIY Solar"]
 tags: ["solar", "panel", "installation", "guide"]
-author: "Jennifer Liu"
-author_bio: "Green building specialist and NABCEP certified solar professional. Focuses on permits, codes, and contractor selection."
 slug: "diy-solar-panel-installation-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, but it adds complexity. If you want a system that keeps your lights on during grid outages, you need either a hybrid inverter designed for battery storage or a separate battery inverter. Enphase IQ Batteries pair with IQ microinverters. The Tesla Powerwall and Franklin Electric batteries work with compatible inverters. Size your battery based on your critical load needs, not your whole-home consumption. Most people do fine with 10 to 20 kWh of storage for essential circuits."
   - q: "What happens if my panels stop working after a DIY install?"
     a: "You diagnose and fix it, same as a contractor-installed system. Panel-level monitoring (microinverters or optimizers) makes troubleshooting dramatically easier because you can pinpoint exactly which panel has dropped off. String inverter systems require more detective work. Our troubleshooting guide covers the most common failure scenarios if you run into this situation: my solar panels stopped working, what to do."
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 Let me be straight with you: a licensed electrician friend of mine once said that pulling a permit for a solar job is "just paperwork," but skipping it is "a lawsuit waiting to happen." He wasn't wrong. Every year, homeowners lose insurance coverage, face forced system removal, or get slapped with fines because they installed solar without permits, without inspections, or without understanding what they were actually doing to their electrical system. DIY solar is absolutely possible. I've helped dozens of homeowners do it themselves, save $10,000 to $20,000 in labor costs, and end up with a system they fully understand. But "DIY" doesn't mean "shortcuts." It means you're the one responsible for doing it right.

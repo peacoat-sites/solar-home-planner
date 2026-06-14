@@ -6,8 +6,6 @@ description: "Discover net metering rates by state in 2026. Compare policies, co
 image: "https://images.pexels.com/photos/29206488/pexels-photo-29206488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Policy & Utility Issues"]
 tags: ["metering", "rates", "state", "2026"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "net-metering-rates-by-state-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In states like California, yes, meaningfully. Battery storage lets you consume your own solar production during peak evening hours instead of exporting cheap and buying expensive. In states with strong retail net metering, a battery adds resiliency but may not dramatically improve financial returns since you're already getting good export credit. The battery math changes state by state."
   - q: "How do I find out my utility's exact export rate?"
     a: "Go directly to your utility's website and search for 'solar rate,' 'net metering tariff,' or 'Schedule NEM.' Download the actual tariff document (not the marketing brochure). If you can't find it or it's unclear, call the utility's rate department, not their general customer service line. Ask specifically: 'What is the per-kWh credit rate for solar energy exports under my current residential rate class?'"
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 Net metering was never as simple as "sell your excess solar back to the grid for full retail price." That was the rosy version. The reality in 2026 is messier, more state-dependent, and shifting faster than most solar shoppers realize.

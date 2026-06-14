@@ -6,8 +6,12 @@ description: "Your complete guide to planning a home solar installation,  from c
 image: https://images.pexels.com/photos/7693743/pexels-photo-7693743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Planning Tools"]
 tags: ["solar", "home solar", "solar planning", "solar guide"]
-author: "Solar Home Planner Editorial Team"
 slug: "welcome-to-solar-home-planner"
+author: "Tom Bradley"
+author_slug: "tom-bradley"
+author_title: "DIY Researcher"
+author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+
 ---
 
 Planning to go solar is one of the best decisions a homeowner can make. Whether you're looking to cut electricity bills, add backup power during outages, charge your EV for free, or take your home completely off-grid,  this site is your comprehensive planning resource.

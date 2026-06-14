@@ -6,8 +6,6 @@ description: "Learn how to monitor solar panel output with simple tools and tech
 image: "https://images.pexels.com/photos/9875448/pexels-photo-9875448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Monitoring & Apps"]
 tags: ["monitor", "solar", "panel", "output"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-monitor-solar-panel-output"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is almost always a consumption issue, not a production issue. Your solar system might be performing exactly as designed, but if your household electricity use has increased (new appliances, electric vehicle, a teenager who discovered gaming rigs), you can produce more and still pay similar bills. A whole-home energy monitor will show you exactly where the power is going."
   - q: "How do I know if a microinverter has failed?"
     a: "In Enphase Enlighten, a failed or offline microinverter shows up as a grayed-out or red panel in the system map. You'll also see a corresponding drop in production from that panel compared to its neighbors. If one panel shows zero output on a sunny day while everything else is producing normally, that microinverter is almost certainly the issue and needs to be replaced under warranty."
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 Your electric bill drops in month one, and you feel great. Month two, still good. Then somewhere around month four or five, you start wondering: is this thing actually doing what it's supposed to do? You can't see the electricity. You can't hear it. You just kind of have to trust it, and trusting something you spent $15,000 to $30,000 on without any way to verify it is a genuinely uncomfortable position.

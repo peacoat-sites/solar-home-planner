@@ -6,8 +6,12 @@ description: "Discover how solar panels work on two story homes, the benefits, c
 image: https://images.pexels.com/photos/7693686/pexels-photo-7693686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar for Home Types"]
 tags: ["solar", "for", "two", "story", "home"]
-author: "Editorial Team"
 slug: "solar-for-two-story-home"
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 # Solar Panels for a Two-Story Home: Everything You Need to Know Before You Install

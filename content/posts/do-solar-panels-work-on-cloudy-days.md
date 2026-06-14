@@ -6,8 +6,6 @@ description: "Yes, solar panels still generate electricity on cloudy days, thoug
 image: "https://images.pexels.com/photos/8853537/pexels-photo-8853537.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "panels", "work", "cloudy", "days"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "do-solar-panels-work-on-cloudy-days"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, temporarily. The edge-of-cloud effect, where the border of a cloud concentrates diffuse light, can create brief spikes in irradiance that push output above what you'd get on a perfectly clear day. This is real but short-lived. It won't meaningfully change your annual production estimate, but it's a genuinely interesting quirk and a good rebuttal to anyone who claims clouds are nothing but a problem."
   - q: "Will adding a battery help my solar system perform better on cloudy days?"
     a: "A battery doesn't make your panels produce more, but it changes how you use what they do produce. On cloudy days, your panels may still generate a meaningful amount of power during daylight hours, and a battery lets you shift that energy to evening use rather than exporting it at a low net metering rate. In climates with frequent cloud cover, this can make battery payback more attractive than it would be somewhere with reliable daily solar peaks."
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 Most people assume solar panels basically shut down on cloudy days. That assumption is wrong, and it's been costing homeowners real money in the form of undersized systems and misplaced skepticism about solar viability in places like Seattle, Portland, or pretty much anywhere north of the Mason-Dixon line.

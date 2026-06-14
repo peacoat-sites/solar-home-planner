@@ -6,8 +6,6 @@ description: "Save money charging your EV with solar power. Discover how combini
 image: "https://images.pexels.com/photos/9800030/pexels-photo-9800030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["solar", "charging", "cost", "savings"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "solar-ev-charging-cost-savings"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It does, significantly. With full retail net metering, any excess solar you push to the grid earns you credits at your retail electricity rate. This means even if you can't charge your car during the day (because you're at work), your solar overproduction during the day can offset the grid power you pull in the evening for charging. Many utilities are moving toward reduced net metering rates, though, so don't plan your system around generous net metering that might not last."
   - q: "Is it worth adding more solar panels if I already have a system but just got an EV?"
     a: "Almost always, yes. Adding panels to an existing system is often cheaper per watt than the original installation if your inverter has spare capacity or if you're switching to microinverters. The EV creates a large new load that changes your system's economics entirely. Get at least two quotes from installers who will do a real production analysis, not just a satellite estimate, before deciding."
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 Picture this: your neighbor just got an EV and is bragging about never stopping at a gas station. Then their first electric bill arrives and they go quiet. Charging a vehicle at home sounds like pure savings until you realize you've essentially added a small appliance that runs for hours every night. For a lot of people, that's an extra $80 to $150 a month on their utility bill, sometimes more if they're in a high-rate state like California or Massachusetts. I've seen that sticker shock turn EV enthusiasm into genuine regret. The fix, and it's a genuinely good one, is pairing your home EV charging with a rooftop solar system. Done right, you're not just saving on gas. You're essentially driving on sunlight you generated yourself, at a cost that can drop below $0.03 per mile.

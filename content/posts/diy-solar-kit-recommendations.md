@@ -6,8 +6,6 @@ description: "DIY solar kit recommendations for off-grid living and home energy.
 image: "https://images.pexels.com/photos/7640990/pexels-photo-7640990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["DIY Solar"]
 tags: ["solar", "recommendations"]
-author: "Jennifer Liu"
-author_bio: "Green building specialist and NABCEP certified solar professional. Focuses on permits, codes, and contractor selection."
 slug: "diy-solar-kit-recommendations"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Composition shingle roofs are the easiest to work with because standard rail racking flashings are widely available and simple to waterproof correctly. Metal standing seam roofs are actually excellent for solar since clamps attach to the seam without penetrating the roof. Tile roofs, especially Spanish barrel tile, are more complex and prone to cracking if you don't use tile hooks correctly. See the breakdown of best roof types for solar panels for a more detailed comparison."
   - q: "What happens if my DIY system has a problem after installation?"
     a: "If a component fails under warranty, you deal directly with the manufacturer, same as a contractor install. Enphase, SolarEdge, and most Tier 1 panel manufacturers honor warranties regardless of who installed the system. If something goes wrong with your electrical work or racking, that's on you to fix. This is why proper installation matters. If your system stops producing and you're not sure why, the my solar panels stopped working: what to do guide walks through the diagnosis process step by step."
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 A homeowner in Phoenix recently told me he saved $14,000 by installing a 6kW solar kit himself over two weekends. His neighbor, same neighborhood, same roof type, paid a contractor $28,000 for an equivalent system. The difference wasn't luck or skill level. It was research, the right kit, and knowing exactly what he was getting into before he bought anything.

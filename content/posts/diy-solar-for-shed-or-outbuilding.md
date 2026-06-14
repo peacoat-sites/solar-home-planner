@@ -6,8 +6,6 @@ draft: false
 description: "DIY solar for shed or outbuilding: Learn how to install affordable solar panels on your shed or outbuilding. Complete guide with tips and best practices."
 categories: ["DIY Solar"]
 tags: ["solar", "shed", "outbuilding"]
-author: "Tom Briggs"
-author_bio: "Licensed electrician and solar installer with 12 years experience in DIY and residential solar projects."
 slug: "diy-solar-for-shed-or-outbuilding"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A quality LiFePO4 battery is rated for 2,000 to 4,000 charge cycles, which translates to roughly 10 to 15 years of daily use. AGM batteries in a similar application typically last 3 to 5 years. Store the battery indoors (which a shed counts as), keep it off concrete floors, and avoid running it below 20% state of charge regularly."
   - q: "Is DIY shed solar safe?"
     a: "Yes, if you follow proper wiring practices, use appropriately rated wire and fuses, and don't skip the fusing on battery connections. The biggest safety risks are undersized wiring causing heat, missing fuses, and improper battery storage. Keep batteries in a ventilated area (especially if using AGM or flooded lead-acid, which off-gas during charging), and use a quality charge controller to prevent overcharging."
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 Picture this: you've got a workshop shed at the back of your property, and every time you want to run your table saw or charge your cordless tools, you're dragging a 100-foot extension cord across the yard, tripping over it in the dark, and wondering why you haven't fixed this already. Running a dedicated circuit from your main panel is one option, but the trenching alone can cost $1,500 to $4,000 depending on distance and local labor rates. A small solar setup on that shed roof might solve the problem for less money and zero trenching.

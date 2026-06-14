@@ -6,8 +6,6 @@ description: "Discover how to design and install an off grid solar system for yo
 image: "https://images.pexels.com/photos/34188251/pexels-photo-34188251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["grid", "solar", "system", "home", "complete"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "off-grid-solar-system-for-home-complete-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A well-designed tiny home running LED lighting, a small refrigerator, a laptop, phone charging, and a modest water pump can often get by on 3 to 5 kWh per day. That opens the door to a much smaller system: 2 to 3 kW of panels, a 10 kWh LiFePO4 battery bank, and a 2,000-watt inverter/charger. Total equipment cost in that range runs $8,000 to $15,000, and it's a manageable DIY project for someone with solid electrical knowledge."
   - q: "How do I know if a solar installer is qualified for off-grid work?"
     a: "Ask directly: how many off-grid systems have you designed and installed in the last two years? A grid-tied specialist can install panels, but off-grid system design requires specific knowledge of battery management, charge controller programming, and load analysis. Look for NABCEP (North American Board of Certified Energy Practitioners) certification. Ask for references from off-grid clients specifically. And review the proposed single-line diagram yourself. If they can't explain every component in plain terms, that's a red flag."
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 You found a piece of land. Maybe you inherited it, maybe you've been saving for years, or maybe you just got tired of watching your utility bill climb past $300 a month with no end in sight. Whatever brought you here, you're now staring at the real question: can you actually power a home without being connected to the grid? The answer is yes, and people do it every day. But the path from "I want off-grid solar" to "my lights are on and my freezer is running" involves a lot of decisions that most YouTube videos gloss over. Let's work through this properly.

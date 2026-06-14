@@ -6,8 +6,6 @@ description: "Learn how to go completely off grid with solar power. Discover sys
 image: "https://images.pexels.com/photos/31512224/pexels-photo-31512224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["completely", "grid", "solar"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-go-completely-off-grid-solar"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No, but a phased approach can save money and reduce risk. Many homeowners install a hybrid system first: grid-tied with battery backup. This gives them experience with solar production patterns, actual consumption data, and backup power without fully committing. When they're ready, they can disconnect from the grid. Some utilities charge fees to disconnect, and in some areas you'll need to formally notify the utility and have your meter removed."
   - q: "What maintenance does an off-grid solar system require?"
     a: "Less than people expect, but not zero. Panel cleaning two to four times per year (especially in dusty climates) maintains production. Panel cleaning kits on Amazon (the site may earn a commission) make this a 30-minute job. Battery management systems on modern LiFePO4 packs handle most cell balancing automatically. You'll want to check electrical connections annually for corrosion and tightness. The charge controller and inverter typically have fault logs you should review quarterly. And your backup generator needs regular oil changes and monthly test runs, just like any engine."
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 Picture this: the power goes out at 11 PM during an ice storm, and your neighbor's house goes dark while yours stays lit, your heat keeps running, and you're watching TV with a hot cup of coffee. That's not a fantasy. That's what a properly designed off-grid solar system looks like in practice. I've helped homeowners get there, and I've also watched people spend $40,000 on systems that couldn't power their electric dryer. The difference almost always comes down to planning, not products.

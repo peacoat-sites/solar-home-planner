@@ -6,8 +6,6 @@ description: "Discover solar panel programs designed for low income homeowners. 
 image: "https://images.pexels.com/photos/9875414/pexels-photo-9875414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Access & Community"]
 tags: ["solar", "panels", "income", "homeowners", "programs"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "solar-panels-for-low-income-homeowners-programs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Community solar is really the best option for renters, and some state programs specifically reserve a portion of community solar capacity for income-qualified renters. You won't own panels, but you can still get a bill credit. If you're in New York, Illinois, Minnesota, or Colorado, there are active programs worth looking into right now."
   - q: "What documents do I typically need to apply?"
     a: "Most programs require proof of income (recent tax return or pay stubs), proof of homeownership (deed or mortgage statement), a recent utility bill, and a government-issued ID. Some also ask for Social Security numbers for all household members. Getting these organized before you apply will speed up a process that can otherwise take weeks just on paperwork."
+author: "Tom Bradley"
+author_slug: "tom-bradley"
+author_title: "DIY Researcher"
+author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+
 ---
 
 The federal solar tax credit gets all the headlines, but it's completely useless if you don't owe enough in federal taxes to claim it. I've watched low-income homeowners get pitched a 30% "discount" that they'll never actually see, because nobody bothered to ask about their tax situation first. That single detail, the difference between a refundable and non-refundable credit, disqualifies a huge slice of the people who need solar savings the most.

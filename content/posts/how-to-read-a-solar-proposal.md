@@ -6,10 +6,13 @@ description: "Learn how to read a solar proposal with confidence. Understand sys
 image: "https://images.pexels.com/photos/35425754/pexels-photo-35425754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Planning Tools"]
 tags: ["read", "solar", "proposal"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-read-a-solar-proposal"
 affiliate_disclosure: true
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 Most homeowners sign a solar proposal they don't fully understand. I'll be honest: I didn't fully understand the first few I reviewed either, and I was already a licensed electrician at the time. The language is designed to impress, not inform. That's not an accident.

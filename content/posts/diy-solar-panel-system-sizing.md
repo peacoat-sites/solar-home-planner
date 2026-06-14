@@ -6,8 +6,6 @@ description: "Learn how to size a DIY solar panel system correctly. Calculate yo
 image: "https://images.pexels.com/photos/9875447/pexels-photo-9875447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["DIY Solar"]
 tags: ["solar", "panel", "system", "sizing"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "diy-solar-panel-system-sizing"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, but not fatally. South-facing arrays at optimal tilt produce the most annual energy. East/west-facing arrays typically produce 15 to 20 percent less annually but can produce more electricity during morning and evening hours, which matters if you have time-of-use billing with peak rates at those times. Model both scenarios in PVWatts before deciding."
   - q: "How do I know if my electrical panel can handle a solar connection?"
     a: "Your main service panel needs available breaker space and sufficient bus bar rating. A 200-amp panel is almost always adequate. The NEC 120 percent rule means your main breaker plus your solar backfeed breaker can't exceed 120 percent of the bus bar rating. On a 200-amp panel with a 200-amp main breaker, your solar backfeed breaker is capped at 40 amps (200A x 1.2 = 240A, minus 200A main = 40A solar). This limits string inverter connection to roughly 9.6 kW at 240V. If you need more, a panel upgrade or a load-side connection may be required."
+author: "Tom Bradley"
+author_slug: "tom-bradley"
+author_title: "DIY Researcher"
+author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+
 ---
 
 Most homeowners walk into solar quotes with zero leverage. They hand the salesperson a utility bill, nod along while someone explains "peak sun hours," and end up with a system somebody else sized for them. I've watched this happen dozens of times. The salesperson isn't necessarily lying, but they have every incentive to round up. A bigger system means a bigger commission. What I want to show you is that sizing a solar system yourself isn't that complicated, and doing it before you ever talk to a contractor changes the entire conversation.

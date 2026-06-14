@@ -6,6 +6,11 @@ slug: "solar-production-by-state"
 date: 2026-05-28T09:00:00+00:00
 categories: ["Basics"]
 tags: ["solar", "savings", "production", "by state"]
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 How much electricity a rooftop solar system produces depends heavily on where you live. The table below compares the estimated annual output of a standard **6 kW residential system** across US states, ranked from highest to lowest production. Figures are based on NASA POWER solar irradiance data and a typical 80% system performance ratio.

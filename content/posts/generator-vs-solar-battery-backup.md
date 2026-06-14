@@ -6,8 +6,6 @@ description: "Compare generator vs solar battery backup to find the best power s
 image: "https://images.pexels.com/photos/9800025/pexels-photo-9800025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["generator", "solar", "battery", "backup"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "generator-vs-solar-battery-backup"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Almost certainly yes, for both. Battery systems typically require an electrical permit and often a utility interconnection application. Standby generators require permits for both the electrical and gas work. Portable generators used with a transfer switch need an electrical permit for the switch installation. Don't skip this. Unpermitted work can void your homeowner's insurance, create liability issues, and cause problems when you sell your home."
   - q: "What's the lifespan of a solar battery versus a generator?"
     a: "A quality lithium iron phosphate or NMC battery like a Powerwall carries a 10-year warranty and is designed to retain at least 70% capacity over that period. Real-world lifespan is likely 15 years or more with normal use. A well-maintained natural gas standby generator can last 15 to 20 years. A portable gasoline generator, if maintained properly, realistically gives you 10 to 15 years but with significantly higher maintenance demands throughout."
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 The power goes out at 11 PM on a Wednesday. Your sump pump stops. The food in your freezer starts its slow decline. Your kid's CPAP machine goes quiet. You've told yourself for two years that you'd get backup power sorted out before something like this happened, and here you are. If that scenario feels a little too familiar, you're probably already weighing two options: a generator or a solar battery backup system. Here's what I tell people when they come to me in exactly that moment, often on their phones while sitting in the dark.

@@ -6,8 +6,6 @@ description: "Discover how solar panels work on flat roof homes, the best mounti
 image: https://images.pexels.com/photos/7693200/pexels-photo-7693200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar for Home Types"]
 tags: ["solar", "flat", "roof", "homes"]
-author: "Kevin Walsh"
-author_bio: "Residential solar contractor turned educator. Writes to help homeowners avoid common installation pitfalls."
 slug: "solar-for-flat-roof-homes"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Expect to pay roughly 10 to 20 percent more per watt for a quality flat roof installation compared to a straightforward pitched roof job in the same area. The premium reflects the added engineering work, the racking system cost (ballasted systems use more hardware than standard rail systems), and the greater care required for waterproofing. Don't accept significantly higher quotes than that range without a detailed explanation of what's driving the cost."
   - q: "Can I add EV charging to a solar system on a flat roof home?"
     a: "Absolutely, and it's one of the best combinations in residential energy. A 7 to 10 kW solar system on a flat roof with 6 to 10 panels dedicated to EV charging can cover most of a typical EV driver's annual mileage needs. You'll want a Level 2 EV charger (240V, 48 amps is the current standard for home charging) tied into the same electrical panel your solar feeds. Level 2 EV charging equipment ranges from about $200 to $700 for the unit itself, plus installation. (Disclosure: this site may earn a commission on qualifying purchases.)"
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 You've got a flat roof and you're thinking about solar. Maybe a contractor already told you it's "complicated" or quoted you a price that felt suspiciously high. Here's something that might surprise you: flat roofs are actually one of the better candidates for solar installation when the job is done right. Unlike a steep pitched roof where panel angle is locked in by the structure, a flat roof gives you control. You can orient panels for maximum production, point them true south, dial in the tilt angle for your latitude, and space them to avoid self-shading. The "complication" most installers mention is real, but it's manageable, and understanding it puts you in a much stronger negotiating position.

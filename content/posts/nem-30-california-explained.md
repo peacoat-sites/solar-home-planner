@@ -6,8 +6,6 @@ description: "Learn how NEM 3.0 changes solar billing in California, how it affe
 image: "https://images.pexels.com/photos/9875405/pexels-photo-9875405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Policy & Utility Issues"]
 tags: ["California", "explained"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "nem-30-california-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally yes, and in most cases adding a battery to an existing NEM 2.0 system does not trigger a switch to NEM 3.0, as long as you're not also adding solar capacity. The CPUC has provided guidance supporting battery additions without tariff changes. Confirm this with your utility before proceeding and get any assurances in writing."
   - q: "How do I find out my specific export rates under NEM 3.0?"
     a: "Contact your utility directly and ask for your applicable Avoided Cost Calculator export rate schedule. PG&E, SCE, and SDG&E each publish these, and they're updated annually. You can also ask your installer to provide the rate table they used to build your savings estimate, and then cross-reference it with the current published rates from your utility's website. If those numbers don't match, find out why before you sign."
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 You got your solar quote in early 2023, felt pretty good about the numbers, and then your installer mentioned something about "NEM 3.0" in passing, like it was a footnote. Six months later you're reading your neighbor's utility bill and wondering why their solar system seems to be performing so differently from yours, even though you bought similar setups. That's NEM 3.0 doing its thing, and if nobody has sat down and explained it to you plainly, that's a real problem, because it changes the math on residential solar in California more than anything in the last decade.

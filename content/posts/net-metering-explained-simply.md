@@ -6,8 +6,6 @@ description: "Learn how net metering works, how it can lower your electricity bi
 image: "https://images.pexels.com/photos/9875418/pexels-photo-9875418.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Policy & Utility Issues"]
 tags: ["metering", "explained", "simply"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "net-metering-explained-simply"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not exactly. With a battery, your system architecture changes because you can store excess solar production and use it yourself later instead of exporting it. In states with low export rates (like NEM 3.0 California), this is actually financially smarter than exporting. Your meter still tracks grid exchanges for billing purposes, but you're exporting less and using more of your own power. Some utilities also have specific rate tariffs for battery-equipped systems."
   - q: "Is net metering available everywhere in the U.S.?"
     a: "The majority of U.S. states have some form of net metering policy, but not all, and the quality varies significantly. A few states have no statewide mandate, leaving it up to individual utilities, which means coverage can be inconsistent even within a state. Before you sign anything, look up your specific utility's current solar tariff, not just your state's general policy. Your state's public utilities commission website is usually the most reliable source for this."
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 Most solar homeowners I talk to can name their panel brand and their system's wattage off the top of their head. Ask them how net metering actually works on their utility bill, and you'll get a long pause. That surprised me, because net metering is the single financial mechanism that determines whether your solar investment pays off in 7 years or 15. It's not a bonus feature. It's the math underneath everything.

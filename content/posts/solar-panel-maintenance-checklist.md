@@ -6,8 +6,6 @@ description: "Keep your solar panels performing at peak efficiency with our comp
 image: "https://images.pexels.com/photos/29206495/pexels-photo-29206495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "panel", "maintenance", "checklist"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "solar-panel-maintenance-checklist"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Solar panels are not designed to be walked on. Even panels that are marketed as walkable have strict weight distribution requirements. Walking on them risks cracking cells and voiding your warranty. Use an extension pole from the roof edge or a ladder positioned beside the panels."
   - q: "What does my solar warranty actually cover for maintenance issues?"
     a: "Most panel warranties are split into two parts: a product warranty (typically 10-25 years covering defects in materials and workmanship) and a performance warranty (usually guaranteeing 80-90% output after 25 years). Maintenance-related damage from improper cleaning or physical impact is almost always excluded. Read your specific warranty document. And keep records of every inspection and cleaning you do, because if you ever need to file a claim, documentation is what makes it stick."
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 Most homeowners go three or four years without touching their solar panels, then wonder why their production numbers have drifted down 12% and their installer won't return calls. I've seen it more times than I can count.

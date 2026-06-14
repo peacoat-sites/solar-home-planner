@@ -6,8 +6,6 @@ description: "Check if your solar installer is legitimate before signing anythin
 image: https://images.pexels.com/photos/7562475/pexels-photo-7562475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Contractor Selection"]
 tags: ["solar", "installer", "legit"]
-author: "Kevin Walsh"
-author_bio: "Residential solar contractor turned educator. Writes to help homeowners avoid common installation pitfalls."
 slug: "is-my-solar-installer-legit"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Walk away, or at minimum get it in writing with a clear legal justification. There is essentially no residential solar installation in the U.S. that doesn't require a permit. An installer telling you otherwise is either misinformed or deliberately cutting corners to speed up their schedule. The permit protects you legally and financially."
   - q: "Can I check if my solar system was actually inspected and approved?"
     a: "Yes. Contact your local building or electrical department and ask for the permit record associated with your property address. This is a public record. You can confirm whether a permit was issued, whether inspections were scheduled, and whether the final inspection was approved. If you can't find a permit associated with your installation, that's a serious problem you need to address immediately."
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 You got three quotes last week. The lowest one was $4,000 cheaper than the others, the salesperson was at your door for two hours, and they want a 50% deposit before they'll pull a permit. Something feels off. Trust that instinct, because residential solar is one of the most complaint-heavy home improvement categories in the country, and the Federal Trade Commission has logged thousands of fraud reports tied to door-to-door solar sales alone. Before you sign anything, you need to know exactly how to vet the company standing in your driveway.

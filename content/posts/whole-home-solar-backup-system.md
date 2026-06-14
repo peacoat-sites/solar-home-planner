@@ -6,8 +6,6 @@ description: "Discover how a whole home solar backup system keeps your power on 
 image: "https://images.pexels.com/photos/17240063/pexels-photo-17240063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["whole", "home", "solar", "backup", "system"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "whole-home-solar-backup-system"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A critical loads panel is a subpanel wired to a limited set of circuits: typically the refrigerator, a few lights, and maybe one or two outlets. It's powered by your battery during outages while the rest of your house stays dark. Whole home backup keeps everything running. Critical loads panels cost less and require less battery capacity, but they're not the same thing as whole home backup, even if they're sometimes marketed similarly."
   - q: "How long will the batteries last before needing replacement?"
     a: "Most quality LFP batteries are warrantied for 10 years at 70% of original capacity. In practice, LFP chemistry degrades slowly, and real-world installations regularly exceed warranty performance. NMC batteries degrade faster under frequent deep cycling. If your system is designed to cycle deeply every day, chemistry and cycle rating matter more than nameplate capacity alone."
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 Your neighbor's lights are on. Yours aren't. You've got a solar array on your roof, the sun came up six hours ago, and you're still sitting in the dark during a grid outage. This is the part the sales brochure skips: standard grid-tied solar shuts off automatically when the utility grid goes down. It's a safety requirement, not a bug, and it catches homeowners completely off guard. A whole home solar backup system is the fix, but it's not just "add a battery." The components, sizing, and integration decisions matter enormously, and getting them wrong is expensive.

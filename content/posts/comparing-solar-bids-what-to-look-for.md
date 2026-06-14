@@ -6,8 +6,6 @@ description: "Compare solar bids with confidence by knowing what to look for. Ev
 image: https://images.pexels.com/photos/7255270/pexels-photo-7255270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Contractor Selection"]
 tags: ["comparing", "solar", "bids", "what", "look"]
-author: "Marcus Reed"
-author_bio: "Off-grid systems designer and solar workshop instructor. Helps homeowners plan systems from sizing to battery backup."
 slug: "comparing-solar-bids-what-to-look-for"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and you should. Showing a competing bid is the most effective negotiating tool. Installers have more flexibility on labor and margin than on equipment, so don't expect them to match a bid that uses inferior panels. You can also ask about bundled deals if you're considering adding a battery backup system at the same time, since installers often discount batteries on combined projects."
   - q: "What happens to my warranty if the installer goes out of business?"
     a: "This is a real risk and not a hypothetical one. The panel manufacturer's warranty follows the panel, so Qcells or REC Group will still honor it regardless of who installed the system. The inverter warranty is similarly held by the manufacturer. The workmanship warranty, however, is held by the installer. If they close, it's typically gone. Some installers buy third-party workmanship warranty insurance. Ask about it specifically."
+author: "Tom Bradley"
+author_slug: "tom-bradley"
+author_title: "DIY Researcher"
+author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+
 ---
 
 You just got three solar bids back. One is $28,000, one is $19,500, and one is $23,000. The cheap one looks tempting. But here's the thing: you have no idea if they're even quoting the same system. Different panel brands, different inverter types, different warranty terms, different assumptions about your roof's usable square footage. Comparing solar bids without a framework is like comparing grocery receipts where one store lists items by weight and another by volume. It's apples to mangoes, and installers know it.

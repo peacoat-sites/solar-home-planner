@@ -6,8 +6,6 @@ description: "Discover the best EV charger for your solar home. Compare top-rate
 image: "https://images.pexels.com/photos/9875411/pexels-photo-9875411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["best", "charger", "solar", "home"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "best-ev-charger-for-solar-home"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. In virtually every U.S. municipality, installing a 240V circuit requires a permit and electrical inspection. Some homeowners skip this and face problems when selling their home or making an insurance claim after an electrical incident. The permit process isn't onerous. A licensed electrician pulls it, schedules the inspection, and it's done. If a contractor quotes you work 'without permits to save time,' walk away."
   - q: "How do I know if my solar system produces enough to justify a solar-aware charger?"
     a: "Pull 90 days of production data from your inverter app. Look at your typical midday surplus, the production that exceeds your home's regular load. If you're consistently seeing 2 kW or more of surplus for four or more hours per day, a solar-aware charger will make a meaningful difference. If your surplus is minimal, focus first on system sizing before optimizing the charger. Getting your solar system and your EV charger to actually work together is a specific, solvable problem. It's not magic and it's not marketing. It's matching the right hardware to your inverter, your panel capacity, and yo"
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 You've got solar panels on the roof, a new EV in the driveway, and you're realizing these two things don't automatically talk to each other the way you hoped. Maybe your installer mentioned something about "solar-aware charging" and you nodded along. Maybe you've just been plugging into a regular outlet and watching your electricity bill stay stubbornly high despite all that sunshine. Either way, you're not imagining the problem. Matching your EV charger to your solar system is one of the most consequential decisions you'll make for your home energy setup, and most people get almost zero useful guidance on it.

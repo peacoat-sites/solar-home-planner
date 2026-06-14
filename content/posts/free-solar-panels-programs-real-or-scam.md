@@ -6,8 +6,6 @@ description: "Wondering if free solar panel programs are legit or a scam? Discov
 image: "https://images.pexels.com/photos/18523430/pexels-photo-18523430.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Access & Community"]
 tags: ["free", "solar", "panels", "programs", "real"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "free-solar-panels-programs-real-or-scam"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Every state has a contractor license lookup tool through the state licensing board, usually the Department of Consumer Affairs or the equivalent. Search '[your state] contractor license lookup' and you'll find it. In California that's the CSLB, in Florida it's the DBPR. Enter the company name or license number and verify it's active and has no serious complaints."
   - q: "What's the difference between a solar lease and a PPA?"
     a: "With a lease, you pay a fixed monthly fee to rent the panels, regardless of how much electricity they produce. With a PPA, you pay for the actual electricity generated, at a set per-kilowatt-hour rate. PPAs can be a better deal in high-production months and worse in low-production months. Both leave the company owning the equipment and claiming the federal tax credit."
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 You've seen the ads. "Get solar panels installed on your home for FREE." Maybe it was a Facebook post, a mailer with a suspiciously professional logo, or a neighbor who swears she's getting solar at zero cost. And now you're sitting here wondering if you missed something, or if the whole thing is a trap.

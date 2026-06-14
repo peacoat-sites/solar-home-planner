@@ -6,8 +6,6 @@ description: "Avoid costly mistakes with your solar investment. Discover the top
 image: https://images.pexels.com/photos/7654405/pexels-photo-7654405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Contractor Selection"]
 tags: ["flags", "when", "hiring", "solar", "installer"]
-author: "Jennifer Liu"
-author_bio: "Green building specialist and NABCEP certified solar professional. Focuses on permits, codes, and contractor selection."
 slug: "red-flags-when-hiring-solar-installer"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and you should. The itemized costs in a solar quote include equipment, labor, permitting fees, and margin. Equipment costs are relatively fixed, but installation labor and overall margin have room to move, especially if you're getting competing bids. You can also negotiate on things like the monitoring system included, whether critter guards are added at cost, or whether they'll delay installation until after your roof replacement if that's coming up. Don't be afraid to ask. A confident, legitimate company won't be rattled by it."
   - q: "What happens to my solar system if I sell my house?"
     a: "If you own the system outright (paid cash or through a loan you'll pay off), it typically adds value to the home and conveys with the sale. If you have a PPA or lease, the new buyer has to qualify to take over the agreement or you have to buy out the contract before closing. Buyout costs vary widely and can be a surprise at closing. If you're within five years of installation, check the buyout schedule in your contract now, before you're under a sale timeline. Some contracts have buyout amounts that are genuinely punishing in the early years."
+author: "Tom Bradley"
+author_slug: "tom-bradley"
+author_title: "DIY Researcher"
+author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+
 ---
 
 A homeowner in Phoenix signed a contract with a solar company in February, put down a $4,000 deposit, and by June the installer had gone out of business. The panels were never mounted. The deposit was gone. The lien the company had placed on her home during the financing process took three months and a lawyer to clear. This isn't a rare horror story. The solar industry has a contractor fraud problem, and it's getting worse as demand spikes and new, undercapitalized installers flood the market to chase the money.

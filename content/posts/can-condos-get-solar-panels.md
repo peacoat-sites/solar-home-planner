@@ -6,8 +6,6 @@ description: "Discover if your condo can go solar. Learn about HOA rules, shared
 image: https://images.pexels.com/photos/7108469/pexels-photo-7108469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar for Home Types"]
 tags: ["condos", "solar", "panels"]
-author: "Jennifer Liu"
-author_bio: "Green building specialist and NABCEP certified solar professional. Focuses on permits, codes, and contractor selection."
 slug: "can-condos-get-solar-panels"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For most condo owners, yes. The savings are modest, typically 5-15 percent, and subscription terms vary (watch for auto-renewal clauses and cancellation fees in the contract). But you avoid thousands of dollars in installation costs, all permitting complexity, and HOA negotiations entirely. If you're paying $150-200 a month in electricity, saving $10-20 per month consistently with zero upfront cost is a reasonable outcome. Run the numbers for your specific bill."
   - q: "What should I watch out for when hiring a solar contractor for a condo or multi-family project?"
     a: "Contractors who've never done a multi-family or condo installation are a real liability here. Ask specifically: have they pulled permits in your municipality for a condo unit installation? Do they have experience with your utility's interconnection application process for multi-tenant buildings? Can they provide a roof penetration warranty? A contractor who hesitates on those questions, or gives you vague answers, is probably learning on your dime. Get at least three quotes and ask each one to walk you through the interconnection plan specifically."
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 You bought your condo with solar in mind. The roof exposure is perfect, your utility bills are painful, and you've watched your neighbor in the single-family house next door cut their electric bill by 80 percent. Then you ask your HOA about installing panels, and suddenly you're in a committee meeting being told it's "not that simple." They're right, honestly. But that doesn't mean it's impossible.

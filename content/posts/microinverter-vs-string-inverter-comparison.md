@@ -6,8 +6,6 @@ description: "Compare microinverters vs string inverters on cost, efficiency, sh
 image: "https://images.pexels.com/photos/9875441/pexels-photo-9875441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Equipment Deep Dives"]
 tags: ["microinverter", "string", "inverter", "comparison"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "microinverter-vs-string-inverter-comparison"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on the battery system. A hybrid inverter like the SolarEdge Energy Hub or the SMA Sunny Boy Storage is designed for this. A standard string inverter typically is not battery-ready without adding equipment. If battery storage is even a possibility in your five-year horizon, spec for it now. Retrofitting is expensive."
   - q: "Is it worth paying extra for panel-level monitoring with a string system?"
     a: "If you're someone who checks their production app regularly and actually investigates anomalies, yes, the upgrade to optimizers or micros pays for itself in caught problems and peace of mind. If you're going to glance at a yearly total on your utility bill, the granular monitoring is wasted on you and you should save the money."
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 Thirty-eight panels on a south-facing roof and not a single one of them performing at capacity. That was the first string inverter system I ever saw where the homeowner had zero idea why his production numbers looked wrong. Turns out, three panels had bird droppings caked on them, and because they were wired in series, the whole string was throttled down to match the weakest panel. He'd been losing production for months.

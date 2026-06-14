@@ -6,8 +6,6 @@ description: "Compare solar agreement types including PPAs, loans, and leases to
 image: "https://images.pexels.com/photos/9875674/pexels-photo-9875674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Planning Tools"]
 tags: ["solar", "agreement", "types", "loan", "lease"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "solar-agreement-types-ppa-vs-loan-vs-lease"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, though the threshold varies by provider. Most require a minimum credit score around 650 to 680 for lease/PPA approval. Solar loans through unsecured lenders typically want 680 to 700 minimum; HELOC-based financing uses your home equity and standard mortgage-style underwriting. Don't let a salesperson tell you your score 'probably won't matter.'"
   - q: "Can I add battery storage to a leased system?"
     a: "Sometimes, but it's complicated. If the battery is added by the same leasing company, they'll typically own it under a separate or amended agreement. Adding your own battery to a third-party-owned solar system isn't usually permitted without written consent. With an owned system (loan or cash), you can add a Powerwall or Enphase IQ battery whenever you want, and any storage added to an owned system after August 2022 qualifies for the 30% ITC under current IRA rules."
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 The financing decision you make before a single panel goes on your roof will shape your relationship with solar for the next 10 to 25 years. Most coverage on this topic either oversimplifies ("leases are bad, loans are good!") or buries you in theoretical math without telling you what actually matters in practice. Let me fix both problems.

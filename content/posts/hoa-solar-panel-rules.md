@@ -6,8 +6,6 @@ description: "HOA solar panel rules guide homeowners through regulations, approv
 image: "https://images.pexels.com/photos/9875678/pexels-photo-9875678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Permits & HOA"]
 tags: ["solar", "panel", "rules"]
-author: "Marcus Reed"
-author_bio: "Off-grid systems designer and solar workshop instructor. Helps homeowners plan systems from sizing to battery backup."
 slug: "hoa-solar-panel-rules"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally, no. Solar panels are a permanent fixture that transfer with the home in a sale. Any CC&R provision requiring removal as a condition of sale would likely conflict with solar access statutes in protected states and would also raise serious questions about marketability under real estate law. That said, you'll want to disclose the system and HOA approval status to buyers."
   - q: "What if the HOA approves my system but then changes its rules after installation?"
     a: "If your system was installed under a valid approval, retroactive rule changes typically cannot force you to remove a compliant installation. Keep your original approval letter and any correspondence permanently. Some states explicitly protect approved installations from later regulatory changes. This is one of the reasons getting written approval matters so much."
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 You've found the perfect south-facing roof, gotten three quotes, and you're ready to pull the trigger on a solar install. Then the HOA letter arrives. "Your request has been denied pending further review." It's one of the most common gut-punch moments in residential solar, and I've watched it derail installs that should have been straightforward. Here's the thing though: in most states, your HOA doesn't actually have the final say. Understanding exactly where the law stands, what your HOA can and can't demand, and how to build an airtight approval request can mean the difference between getting your system installed and fighting a losing battle with your neighbor's architectural committee.

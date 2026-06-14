@@ -6,8 +6,6 @@ description: "Find out why your solar panels aren't lowering your utility bill a
 image: "https://images.pexels.com/photos/11645013/pexels-photo-11645013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Policy & Utility Issues"]
 tags: ["solar", "utility", "bill", "still", "high"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "solar-and-utility-bill-still-high-why"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Sometimes, but not always. A battery lets you use your own stored solar power instead of buying grid power at peak evening rates. If you're on a time-of-use rate where evening electricity costs $0.40/kWh or more, storage pays off faster. If your utility still offers full retail net metering, a battery adds cost without much financial benefit since you're already getting dollar-for-dollar credit for your exports."
   - q: "What's a realistic first step if I can't figure out why my bill is still high?"
     a: "Get a full 12 months of utility bills and 12 months of production data from your monitoring platform, and put them side by side. Calculate your actual offset percentage. If it's under 80 percent of what was promised, start with your installer's customer service line and ask for an explanation in writing. If you don't get a satisfying answer, hire an independent solar inspector (expect to pay $150 to $300) to audit the system independently."
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 You went solar to cut your electric bill. Your bill is still embarrassing. Here's what's actually going on.

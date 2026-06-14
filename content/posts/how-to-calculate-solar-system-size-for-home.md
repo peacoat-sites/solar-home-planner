@@ -6,8 +6,6 @@ description: "Learn how to calculate the right solar system size for your home. 
 image: "https://images.pexels.com/photos/9875679/pexels-photo-9875679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Planning Tools"]
 tags: ["calculate", "solar", "system", "size", "home"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-calculate-solar-system-size-for-home"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Size for your realistic 5-year expected usage. If you're buying an EV or switching from gas to electric appliances in that window, factor it in now. Adding capacity later is possible but expensive. Most permitting offices treat system expansions as a new permit, which means new fees and inspection costs."
   - q: "What if my utility has a net metering cap lower than my ideal system size?"
     a: "This is more common than people realize, especially in states like Nevada and Hawaii where net metering policies have tightened. If your utility caps residential interconnection at 10 kW and your load analysis says you need 11.5 kW, you have two choices: accept the cap and use efficiency upgrades to close the gap, or pair a smaller grid-tied array with battery storage to capture excess production locally rather than exporting it."
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 Your electricity bill is the single most important document in your whole solar project, and most people barely glance at it before calling a contractor.

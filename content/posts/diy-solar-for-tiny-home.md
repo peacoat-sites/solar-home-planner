@@ -6,8 +6,6 @@ description: "DIY solar for tiny homes: Learn how to install affordable solar pa
 image: "https://images.pexels.com/photos/16451219/pexels-photo-16451219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["DIY Solar"]
 tags: ["solar", "tiny", "home"]
-author: "Jennifer Liu"
-author_bio: "Green building specialist and NABCEP certified solar professional. Focuses on permits, codes, and contractor selection."
 slug: "diy-solar-for-tiny-home"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For THOWs, a well-documented, clean solar install absolutely adds value. Buyers shopping for off-grid-capable tiny homes will pay a premium for a working, properly sized system with quality components. Keep your wiring documentation, component specs, and any receipts. For foundation-mounted tiny homes, the value calculation is similar to conventional residential solar, though the market is thinner. Aim for clean installation quality. Nothing kills resale interest faster than a rat's nest of unlabeled wiring."
   - q: "Can I expand my system later if I start small?"
     a: "Yes, and honestly, starting smaller and expanding is often smarter than trying to anticipate everything upfront. Buy a charge controller with capacity headroom (a 60A controller when you're initially running 30A of panels), and size your battery bank enclosure for future cells. Keep your wiring labeled and documented. Adding a second string of panels 18 months later is straightforward if you planned for it. Adding panels when your charge controller is already maxed out means buying a new controller, which is wasted money."
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 Imagine you've parked your 200-square-foot tiny home on a piece of land in rural Tennessee, the power company wants $18,000 to run a line to your property, and your only alternative is a gas generator that burns through $200 a month in fuel. That's not a hypothetical. I've talked to tiny home owners in exactly that situation who went solar, recouped their install costs in under three years, and never looked back. If you're building or already living in a tiny home, DIY solar isn't just a fun project. It might be the most financially sensible decision you make about your entire build.

@@ -6,8 +6,6 @@ description: "Discover a full off grid solar system cost breakdown including pan
 image: "https://images.pexels.com/photos/30440512/pexels-photo-30440512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["grid", "solar", "system", "cost", "breakdown"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "off-grid-solar-system-cost-breakdown"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A weekend cabin with modest loads (lights, phone charging, small refrigerator, no electric heat) can run on 1.5–2 kW of panels and an 8–10 kWh LiFePO4 battery bank. Equipment cost runs $6,000–$12,000. Add a small propane or DC refrigerator and you'll reduce the battery requirement significantly. This is a realistic DIY project for someone comfortable with basic electrical work."
   - q: "How does weather and location affect system cost?"
     a: "Dramatically. A home in Phoenix can size a significantly smaller array than the same home in Portland for identical energy output, because Phoenix gets roughly 40% more usable sun hours annually. Lower sun hours mean more panels, larger battery bank, and longer backup generator run time in winter. In northern latitudes, a three-day autonomy battery bank is a minimum, not a luxury. Off-grid solar is absolutely achievable and for many rural properties it's the only financially rational choice, especially when the utility wants $30,000–$80,000 to run a grid line to your property. But it rewards t"
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 Most solar cost articles will tell you the average American home system runs $25,000–$35,000 and leave it there. That number is for a grid-tied system. If you're pricing an off-grid setup, you're shopping in a completely different store. Off-grid solar costs more, requires more components, and demands more planning precision. Get it wrong and you're not just overpaying, you're sitting in the dark in January. Here's the actual breakdown.

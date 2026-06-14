@@ -6,8 +6,6 @@ description: "Discover how to add solar panels to your existing home. Learn abou
 image: https://images.pexels.com/photos/7693721/pexels-photo-7693721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar for Home Types"]
 tags: ["solar", "panels", "existing", "homes"]
-author: "Kevin Walsh"
-author_bio: "Residential solar contractor turned educator. Writes to help homeowners avoid common installation pitfalls."
 slug: "solar-panels-for-existing-homes"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The real payback period for most U.S. homeowners ranges from 6 to 12 years, depending on local electricity rates, system cost, available incentives, and how much of the production you self-consume versus export. High-rate states like California, Hawaii, and Massachusetts see shorter payback periods. Low-rate states like Louisiana or Wyoming see longer ones. The 25-year production warranty on modern panels means most systems have 13 to 19 years of net positive cash flow after payback."
   - q: "Do I need battery storage to benefit from solar?"
     a: "No. The majority of grid-tied solar installations in the U.S. operate without batteries, and they still deliver real bill savings. Battery storage makes the most sense in areas with frequent grid outages, utilities that charge high time-of-use rates in the evenings, or states that have moved away from favorable net metering (like California's NEM 3.0). If you're in a state with a solid net metering policy, batteries add cost and complexity that may not pencil out yet."
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 Your electric bill arrives in July, and it's $340. You've got central AC, a couple teenagers, maybe a home office running all day. You look at the neighbors' roof, see those panels, and think: *could I actually do that?* Yes. But the gap between "thinking about solar" and "having a system that actually saves you money" is filled with decisions most installers won't walk you through honestly. Let's fix that.

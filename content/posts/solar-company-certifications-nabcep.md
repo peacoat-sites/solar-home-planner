@@ -6,8 +6,6 @@ description: "Learn why NABCEP certifications matter when choosing a solar compa
 image: https://images.pexels.com/photos/7679565/pexels-photo-7679565.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Contractor Selection"]
 tags: ["solar", "company", "certifications", "NABCEP"]
-author: "Kevin Walsh"
-author_bio: "Residential solar contractor turned educator. Writes to help homeowners avoid common installation pitfalls."
 slug: "solar-company-certifications-nabcep"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Ask them to provide the certification number directly and the name of the specific individual who holds it. Then verify it yourself at nabcep.org. If the numbers don't match or the name isn't in the database, take that seriously. Misrepresenting certifications is a significant red flag and, depending on your state, may be actionable as contractor fraud."
   - q: "How often do NABCEP certified installers have to renew their credential?"
     a: "NABCEP PVIP certification is valid for three years. Renewal requires continuing education credits and, in some cases, retesting. This ongoing requirement is part of what makes it meaningful. It's not a one-time test that someone passed a decade ago and never revisited. An active, current certification means the installer is maintaining their knowledge base as codes and technology evolve."
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 You've just gotten three solar quotes. The prices are all over the map, the salespeople all sound confident, and every company's website says they're "certified professionals" with "expert installers." So how do you actually tell the difference between a contractor who knows what they're doing and one who's going to leave you with a system that fails inspection, voids your roof warranty, or produces 20% less power than promised? The answer often comes down to one credential most homeowners have never heard of: NABCEP.

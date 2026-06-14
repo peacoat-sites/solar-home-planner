@@ -6,8 +6,6 @@ description: "Discover the benefits of installing solar panels in new constructi
 image: https://images.pexels.com/photos/7693740/pexels-photo-7693740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar for Home Types"]
 tags: ["solar", "panels", "construction", "homes"]
-author: "Jennifer Liu"
-author_bio: "Green building specialist and NABCEP certified solar professional. Focuses on permits, codes, and contractor selection."
 slug: "solar-panels-for-new-construction-homes"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Watch for any installer who won't provide a site-specific energy production estimate in writing. You want to see projected annual kWh production, not just system size. Also be wary of anyone pushing the largest possible system without asking about your actual projected loads or EV plans. On the contracting side, confirm they carry both general liability and workmanship warranty insurance, and that their workmanship warranty covers at least 10 years. A 10-year workmanship warranty from a company that's been in business for three years isn't worth much, either."
   - q: "How do I monitor my solar system's performance after move-in?"
     a: "Your inverter will come with a manufacturer app (Enphase Enlighten, SolarEdge mySolarEdge, etc.) that shows panel-level or system-level production. For a more complete picture of how solar production compares to your whole-home consumption, consider adding a home energy monitor like the Sense Energy Monitor or Emporia Vue (the site may earn a commission on purchases). These mount in your electrical panel and give you real-time data on what every circuit in your home is consuming, which helps you identify waste and validate whether your solar system is performing to spec."
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 If you're building a new home right now, you're sitting on one of the rarest opportunities in residential solar: the chance to do it right the first time. No tearing off shingles. No rerouting conduit through finished walls. No arguing with your roofer about voided warranties. Most homeowners come to solar as an afterthought, years into homeownership, and they pay a premium for that timing. Building new changes every calculation, and the decisions you make in the next few weeks of planning can save you thousands of dollars and years of headaches.

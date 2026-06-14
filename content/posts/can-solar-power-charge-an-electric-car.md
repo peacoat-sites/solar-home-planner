@@ -6,8 +6,6 @@ description: "Discover if solar power can charge an electric car, how many panel
 image: "https://images.pexels.com/photos/9875415/pexels-photo-9875415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["solar", "power", "charge", "electric"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "can-solar-power-charge-an-electric-car"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Usually yes, with a caveat. If you're already installed and just bought an EV, check whether your inverter has headroom for additional panels. Many string inverters are sized close to the original array and can't handle more capacity without replacement. Microinverter systems (like Enphase) are easier to expand because each panel has its own microinverter. Get a load analysis before assuming you can just bolt on more panels."
   - q: "Will this work for a plug-in hybrid (PHEV) too?"
     a: "Absolutely, and in some ways PHEVs are an even easier fit because their battery packs are smaller (typically 8 to 18 kWh vs. 60 to 100 kWh for a full BEV). A PHEV like a Toyota Prius Prime or Ford Escape PHEV can often be fully charged overnight on Level 1 alone. A small to mid-size solar system can cover PHEV charging with minimal impact on system sizing."
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 Picture this: you've just leased a new EV and you're staring at your first electric bill, which is noticeably higher than last month. Your neighbor mentions their solar panels cover their car charging. You start doing the math on your roof, your commute, and your budget, and suddenly you're deep in a rabbit hole of kilowatt-hours, inverter sizes, and net metering policies. I've been there with dozens of clients, and the good news is: yes, solar absolutely can charge your electric car. But the "how much solar" question is where most people get tripped up, and getting it wrong means either an undersized system that still leaves you paying the utility, or an oversized one that took 12 years to pay off instead of 7.

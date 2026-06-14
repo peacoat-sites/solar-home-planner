@@ -6,8 +6,6 @@ description: "Stay powered during outages with solar backup systems. Learn how s
 image: "https://images.pexels.com/photos/33751679/pexels-photo-33751679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["solar", "backup", "power", "during", "outage"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "solar-backup-power-during-outage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A practical starting point: identify every load you actually need during an outage, estimate the wattage, and calculate how many hours per day you'd run each one. Add 20% for inefficiency and unexpected loads. Compare that to the usable capacity of the battery you're considering. For most households prioritizing refrigerator, lights, device charging, and one room AC unit, a single 10-15 kWh battery is a reasonable starting point. Two batteries gives you meaningful comfort."
   - q: "Does the 30% federal tax credit apply to adding a battery to existing solar?"
     a: "Yes, as of the Inflation Reduction Act changes that took effect in 2023, standalone battery storage qualifies for the 30% Investment Tax Credit even when retrofitted to an existing solar system, as long as the battery has a minimum capacity of 3 kWh. This is a significant change from prior rules that required batteries to be installed simultaneously with solar to qualify. Consult a tax professional for your specific situation."
+author: "Tom Bradley"
+author_slug: "tom-bradley"
+author_title: "DIY Researcher"
+author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+
 ---
 
 Picture this: it's July, a heat wave is rolling through, and a transformer two blocks over just blew. Your neighbor with solar panels is watching TV and running their AC while you're sweating in the dark wondering why your solar-powered house is also completely dead. That scenario happens every single summer, and the confusion it causes is completely understandable. Most homeowners assume solar equals backup power. It almost never does, at least not without a specific additional component that most installers don't emphasize nearly enough during the sales process.

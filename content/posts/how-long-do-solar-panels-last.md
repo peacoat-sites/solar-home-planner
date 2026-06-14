@@ -6,8 +6,6 @@ description: "Discover how long solar panels last, what affects their lifespan, 
 image: "https://images.pexels.com/photos/9875683/pexels-photo-9875683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["long", "solar", "panels", "last"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-long-do-solar-panels-last"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can, but most panels are tested to withstand 1-inch hail at 50 mph (IEC 61646 standard). Larger, faster hail, like the golf-ball-sized stones that hit parts of Texas in spring 2023, can and does crack panels. If you're in a high-hail region, look specifically for Class 4 impact-rated panels and check your homeowner's insurance policy for solar-specific coverage language before you're surprised."
   - q: "Is it worth cleaning solar panels?"
     a: "In most of the US, rain does an adequate job and cleaning provides marginal gains. In dry, dusty regions (California's Central Valley, Arizona, New Mexico) or if you have significant bird traffic overhead, regular cleaning can recover a meaningful 5-15% in lost output. Twice a year is usually enough, and a soft brush with deionized water is all you need."
+author: "Tom Bradley"
+author_slug: "tom-bradley"
+author_title: "DIY Researcher"
+author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+
 ---
 
 Most people assume solar panels wear out like a car battery: slow decline, then sudden failure. That assumption is wrong, and it quietly drives a lot of bad buying decisions.

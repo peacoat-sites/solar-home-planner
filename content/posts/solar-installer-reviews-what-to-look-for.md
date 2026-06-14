@@ -6,8 +6,6 @@ description: "Find out what to look for in solar installer reviews before you hi
 image: https://images.pexels.com/photos/7693699/pexels-photo-7693699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Contractor Selection"]
 tags: ["solar", "installer", "reviews", "what", "look"]
-author: "Jennifer Liu"
-author_bio: "Green building specialist and NABCEP certified solar professional. Focuses on permits, codes, and contractor selection."
 slug: "solar-installer-reviews-what-to-look-for"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Both have real tradeoffs. National companies often have stronger financing options and warranties backed by larger balance sheets. But local installers tend to know the local permit offices, utility interconnection quirks, and roof types better. The worst-case scenario with a national company is that they go out of business or exit your market, leaving you without local support for warranty claims. Check whether the company has a physical office in your area, not just a sales team."
   - q: "Can I check if an installer's past permits were actually closed and inspected?"
     a: "In many jurisdictions, yes. Search for your county or city's online permit portal and look up the contractor's name or license number. Open permits that were never finaled are a significant warning sign. It can mean the work didn't pass inspection or the contractor abandoned the job before getting sign-off. Your building department can tell you if a permit portal isn't available online."
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 You get three quotes for a rooftop solar system. Two companies seem nearly identical on paper: same panel brand, similar system size, prices within $800 of each other. Then you dig into their online reviews and realize one installer has a pattern of complaints about permits being pulled six months late and customer service that vanishes after the contract is signed. That $800 difference suddenly looks like a bargain for the other guy. Reading solar installer reviews isn't like reading Yelp reviews for a pizza place. The stakes are higher, the projects are more complex, and the red flags are buried in language most homeowners don't know to look for.

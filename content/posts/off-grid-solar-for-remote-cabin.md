@@ -6,8 +6,6 @@ description: "Discover how to power your remote cabin with off grid solar energy
 image: "https://images.pexels.com/photos/9875423/pexels-photo-9875423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["grid", "solar", "remote", "cabin"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "off-grid-solar-for-remote-cabin"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You don't strictly need one, but having a small generator as a backup is smart insurance, especially if you have extended stretches of cloudy weather or your loads vary a lot between visits. A Honda EU2200i is the gold standard for quiet, reliable cabin backup. That said, if you've sized your battery bank for 3 days of autonomy, most weather patterns won't push you to the edge."
   - q: "How long does an off-grid cabin solar system last?"
     a: "Quality monocrystalline panels are warrantied to produce at least 80% of rated output after 25 years and often keep going well beyond that. LiFePO4 batteries are typically rated for 2,000 to 3,500 charge cycles, which at daily cycling translates to 8 to 10 years or more. Your charge controller and inverter are consumables by comparison; plan to replace those within 10 to 15 years."
+author: "Tom Bradley"
+author_slug: "tom-bradley"
+author_title: "DIY Researcher"
+author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+
 ---
 
 If you've ever stood inside a dark cabin at dusk, watching the propane lanterns hiss while your phone battery dies and the nearest hardware store is forty-five minutes of dirt road away, you already understand the problem better than any spec sheet can explain it.

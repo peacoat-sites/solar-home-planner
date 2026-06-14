@@ -6,8 +6,6 @@ description: "Discover how community solar works, letting renters and homeowners
 image: "https://images.pexels.com/photos/30440447/pexels-photo-30440447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Access & Community"]
 tags: ["community", "solar", "works"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "community-solar-how-it-works"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on the contract. Many programs allow you to transfer your subscription to a new address within the same utility territory. If you move out of the service area, good contracts include a no-penalty exit clause. This is one of the most important things to clarify before you sign, so ask directly and get it in writing."
   - q: "Can I combine community solar with rooftop solar or a home battery?"
     a: "Generally, no. Most utilities won't allow you to have both a rooftop solar net metering arrangement and a community solar subscription at the same address simultaneously. If you already have rooftop solar, community solar likely isn't available to you in your current home. Home batteries are a separate matter and don't affect your eligibility for community solar on their own."
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 Your electric bill arrives and you think: solar makes sense, but I rent. Or you own your home but the roof faces north, or it's shaded by a 60-year-old oak you'd never cut down, or you simply can't swing the $18,000 upfront even after the federal tax credit. Community solar was built for exactly this moment. Not as a consolation prize. As a genuinely smart option that millions of people overlook because the marketing around it is confusing and the internet is full of vague explainer articles that never actually tell you what happens step by step.

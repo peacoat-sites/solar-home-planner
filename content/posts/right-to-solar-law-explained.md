@@ -6,8 +6,6 @@ draft: false
 description: "Right to solar law explained: Learn about renewable energy rights, property laws, and how these regulations protect your ability to install solar panels."
 categories: ["Solar Permits & HOA"]
 tags: ["right", "solar", "explained"]
-author: "Tom Briggs"
-author_bio: "Licensed electrician and solar installer with 12 years experience in DIY and residential solar projects."
 slug: "right-to-solar-law-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The most reliable approach is to search your state legislature's official website for statutes containing the phrase 'solar energy system' or 'solar easement.' The National Conference of State Legislatures also maintains a regularly updated database of solar policy laws by state. The U.S. Department of Energy's residential solar resource page cross-references many of these as well."
   - q: "Does right to solar law affect how I should choose a solar contractor?"
     a: "Indirectly, yes. A good local installer will know your state's solar rights framework and your utility's interconnection rules cold. If a salesperson can't explain your HOA rights under state law or has never heard of your utility's net metering cap, that's a signal. Before signing any contract, look through what a solid solar contract review should cover, because what's in writing protects you regardless of what the sales rep promised verbally."
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 Your neighbor just sent you a letter threatening to fine you $500 if you don't remove the solar panels from your roof. You installed them legally, pulled the permits, passed inspection, and your utility is already crediting your net metering. But your HOA's architectural guidelines say nothing visible from the street is allowed, and apparently that includes your brand new $22,000 solar array. Sound like a nightmare? For thousands of homeowners, this scenario is exactly what happened before "right to solar" laws stepped in. These statutes exist in the majority of U.S. states specifically to prevent neighbors, HOAs, and local governments from blocking your access to solar energy on your own property. Understanding how they work could save you a serious legal headache, or a lot of money.

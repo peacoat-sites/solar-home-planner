@@ -6,8 +6,6 @@ description: "Maximize savings by combining federal solar panel and EV tax credi
 image: "https://images.pexels.com/photos/7688995/pexels-photo-7688995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["solar", "credits", "combined"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "solar-ev-tax-credits-combined"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. The 30% Residential Clean Energy Credit applies to the full installed cost: equipment, labor, permitting fees, and battery storage. It does not apply to repairs to your roof made in conjunction with the installation, though there's some nuance if the roof work is structurally necessary for the solar mounting. That's worth clarifying with your CPA if applicable."
   - q: "What income limits apply to the solar credit?"
     a: "Unlike the EV credit, the Residential Clean Energy Credit (solar) has no income cap. Any homeowner with federal tax liability can claim it. The EV credit has AGI limits, and income above the threshold disqualifies you entirely for that credit, even if the vehicle otherwise qualifies."
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 You bought an EV last year, installed solar this spring, and your accountant just told you the credits "probably stack." Probably. That one word is costing homeowners real money, because the interaction between the federal solar Investment Tax Credit and the federal EV tax credit is more nuanced than any sales rep will explain before you sign. The short version: yes, they stack. The longer version is where you actually need to pay attention.

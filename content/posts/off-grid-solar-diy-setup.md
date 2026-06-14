@@ -6,8 +6,6 @@ draft: false
 description: "Off-grid solar DIY setup guide: Learn how to design, install, and maintain your own solar power system for complete energy independence and savings."
 categories: ["DIY Solar"]
 tags: ["grid", "solar", "setup"]
-author: "Marcus Reed"
-author_bio: "Off-grid systems designer and solar workshop instructor. Helps homeowners plan systems from sizing to battery backup."
 slug: "off-grid-solar-diy-setup"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on your comfort with DC electrical work and local regulations. If your system is small (under 2kW) and purely for low-voltage DC loads like 12V lighting and a laptop, many experienced DIYers handle it confidently. Once you're running an inverter with 120V AC output into a panel or subpanel, you're in territory where a licensed electrician should at minimum review your work. I'd always recommend having someone qualified inspect your battery bank connections and any AC wiring before you live with it full time."
   - q: "What happens to my solar panels in a major storm or hail?"
     a: "Quality panels carry IEC 61215 certification, which includes a hail impact test using 1-inch ice balls at 51 mph. Most panels from reputable manufacturers handle typical hail without damage. The bigger risk in storms is wind uplift on your mounting hardware. Use properly rated racking systems and follow manufacturer torque specifications. Ground mounts in hurricane-prone areas should be engineered for local wind loads. Document your installation with photos for insurance purposes."
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 Imagine you're sitting at a kitchen table in a cabin 40 miles from the nearest utility pole, watching your generator burn through $8 worth of fuel every hour just to power a few lights and a laptop. That scenario plays out for thousands of homeowners every year, and it's exactly why off-grid solar has gone from a fringe experiment to a legitimate, cost-effective power strategy. The equipment has gotten better, the prices have dropped sharply, and a motivated homeowner with solid electrical fundamentals can absolutely pull this off. But I want to be honest with you upfront: this is not a weekend project you wing from YouTube alone. Done right, it's deeply satisfying and genuinely liberating. Done wrong, it's a fire hazard with a very expensive battery bank attached.

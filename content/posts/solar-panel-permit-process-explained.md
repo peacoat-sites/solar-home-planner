@@ -6,8 +6,6 @@ description: "Get a complete guide to the solar panel permit process. Learn requ
 image: "https://images.pexels.com/photos/9799706/pexels-photo-9799706.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Permits & HOA"]
 tags: ["solar", "panel", "permit", "process", "explained"]
-author: "Kevin Walsh"
-author_bio: "Residential solar contractor turned educator. Writes to help homeowners avoid common installation pitfalls."
 slug: "solar-panel-permit-process-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Plan review backlogs are the most common culprit, especially in high-solar-adoption areas where building departments haven't scaled their review capacity to match application volume. Incomplete submittals that require a correction round add more time. Jurisdictions that require third-party structural engineering reviews add another step. And if your system is larger than 10 kW or involves battery storage, the review is almost always more involved. Ask your installer for specific status updates, not just 'it's in review.'"
   - q: "Do I need a separate permit for a battery storage system?"
     a: "Yes, almost universally. Battery storage systems like the Tesla Powerwall or Enphase IQ Battery require their own electrical and, in some cases, fire/life safety permits. This is because batteries introduce additional hazards: thermal runaway risk, gas venting requirements, and emergency disconnect requirements that differ from a standard solar-only installation. Some jurisdictions are still catching up on battery-specific code requirements, which can actually slow the process down as plan reviewers consult with fire marshals or refer to NFPA 855 for guidance."
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 Most homeowners assume the solar company handles all the paperwork and they can just sign a contract and wait for panels on the roof. Then they get a call three weeks into the project saying the permit is delayed, the utility needs additional documentation, or the local building department wants revised structural drawings. Suddenly a 6-week install timeline stretches to four months. I've watched this play out dozens of times. Understanding the permit process yourself, even if your installer is managing it, puts you in control and helps you catch problems before they become expensive delays.

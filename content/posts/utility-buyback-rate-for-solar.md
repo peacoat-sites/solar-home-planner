@@ -6,8 +6,6 @@ description: "Discover how utility buyback rates for solar work, what affects yo
 image: "https://images.pexels.com/photos/9875675/pexels-photo-9875675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Policy & Utility Issues"]
 tags: ["utility", "buyback", "rate", "solar"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "utility-buyback-rate-for-solar"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Often it comes down to what export rate assumption is built into the modeling software. Two proposals for the same roof can show meaningfully different annual savings if one assumes retail-rate NEM and the other uses a degraded export rate. Always ask each contractor: 'What export credit rate per kWh are you using in this estimate, and can you show me where that number comes from?'"
   - q: "Is a higher buyback rate always better than battery storage?"
     a: "Not necessarily, but it simplifies the economics. With full retail NEM, you can essentially use the grid as a free battery, exporting surplus during the day and drawing it back at night at no penalty. When buyback rates drop significantly below retail, a physical battery becomes financially competitive even accounting for its upfront cost and cycle degradation over time."
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 Nobody warns you about this part. You go through the whole process, get the solar panels installed, watch your production numbers climb on the SolarEdge app, and then your first utility bill arrives and you realize: you're getting paid *way* less per kilowatt-hour than you expected. Sometimes embarrassingly less.

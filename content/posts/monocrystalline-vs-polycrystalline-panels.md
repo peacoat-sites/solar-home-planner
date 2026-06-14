@@ -6,8 +6,6 @@ description: "Compare monocrystalline vs polycrystalline solar panels by efficie
 image: "https://images.pexels.com/photos/8457868/pexels-photo-8457868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Equipment Deep Dives"]
 tags: ["monocrystalline", "polycrystalline", "panels"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "monocrystalline-vs-polycrystalline-panels"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The panel model number on your contractor's proposal will get you to a spec sheet in about thirty seconds via a Google search. Look for 'cell type' on the spec sheet: it'll say 'monocrystalline,' 'monocrystalline PERC,' or 'polycrystalline.' PERC (Passivated Emitter and Rear Cell) is a monocrystalline variant that's been the dominant technology for several years now and is a reasonable default expectation for any new residential quote."
   - q: "Do monocrystalline panels perform better in low light or cloudy conditions?"
     a: "Marginally, yes. Monocrystalline panels tend to have slightly better low-light performance, which is reflected in their spectral response curves. In practical terms for a homeowner, the difference on an overcast January day in Seattle is real but not dramatic. If you're in a persistently cloudy climate, your bigger lever is system sizing and getting good south or southwest orientation, not panel type."
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 If you've spent more than twenty minutes researching solar panels, you've already run into this debate. Monocrystalline or polycrystalline? Black or blue? And you're probably thinking: does it actually matter, or is this one of those distinctions that sounds important but makes zero practical difference?

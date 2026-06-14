@@ -6,8 +6,6 @@ description: "Discover low income solar programs available in your state, includ
 image: "https://images.pexels.com/photos/9875680/pexels-photo-9875680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Access & Community"]
 tags: ["income", "solar", "programs", "state"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "low-income-solar-programs-by-state"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It varies by state and program. Some use 80% of area median income (AMI), which in a high-cost metro could be $65,000 or more for a family of four. Others use 150% of the federal poverty level, which is much lower. Participation in LIHEAP, SNAP, or Medicaid is often used as a proxy for income eligibility, so if you receive those benefits, start there."
   - q: "What if my state doesn't have a low-income solar program?"
     a: "Start with the federal Weatherization Assistance Program through your local Community Action Agency. It won't give you solar, but reducing your energy load through insulation and efficiency upgrades can lower your monthly bills meaningfully and make you a better candidate for any future solar program. Also watch for utility-level programs even in states without statewide policy. Austin Energy and CPS Energy in Texas, and Duke Energy's limited pilot programs, are examples of utility-specific options in otherwise thin markets."
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 Here's something most solar installers won't tell you upfront: the best solar programs in the country aren't the ones advertised on late-night TV. They're the ones buried in state utility commission filings and county housing authority websites that most homeowners never find.

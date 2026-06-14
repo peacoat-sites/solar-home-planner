@@ -6,8 +6,6 @@ description: "Learn how to properly size a solar system for your EV with our ste
 image: "https://images.pexels.com/photos/9800024/pexels-photo-9800024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["size", "solar", "system"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-size-solar-system-for-ev"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Only if you have battery storage and the right inverter configuration. Standard grid-tied solar systems shut down during outages for safety reasons, a requirement called anti-islanding. A hybrid inverter with battery storage can maintain power to designated circuits, including an EV charger if you configure it that way. Confirm this capability explicitly with your installer before assuming it."
   - q: "What's the payback period for solar when you include EV charging?"
     a: "This varies widely by location, electricity rates, and incentives, but the 26 to 30 percent federal Investment Tax Credit (currently running at 30 percent under the Inflation Reduction Act through 2032) significantly improves the math. In high-rate states like California, Hawaii, or Massachusetts, combined solar-plus-EV payback periods of 6 to 9 years are realistic. In lower-rate states, it stretches to 10 to 13 years. The EV piece generally strengthens the case for solar because it increases the amount of expensive grid electricity you're displacing."
+author: "Tom Bradley"
+author_slug: "tom-bradley"
+author_title: "DIY Researcher"
+author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+
 ---
 
 Most homeowners I talk to start the solar-plus-EV conversation completely backwards. They buy the car first, get the charging equipment installed, then call a solar installer and say something like "I want to offset my electricity bill." The installer quotes them a system based on their current usage, and six months later they're wondering why their net metering credit disappeared and their bill is climbing again. The EV wasn't in the equation. That one oversight can mean undersizing your system by 30 to 50 percent, and I've seen it happen more times than I can count.

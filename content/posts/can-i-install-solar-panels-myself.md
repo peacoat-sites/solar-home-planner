@@ -6,8 +6,6 @@ draft: false
 description: "Can you install solar panels yourself? Learn DIY solar installation tips, requirements, costs, and whether hiring professionals is safer and more effective."
 categories: ["DIY Solar"]
 tags: ["install", "solar", "panels", "myself"]
-author: "Tom Briggs"
-author_bio: "Licensed electrician and solar installer with 12 years experience in DIY and residential solar projects."
 slug: "can-i-install-solar-panels-myself"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Adding a battery system, like a Powerwall or a Fortress Power unit, increases the complexity significantly. You're adding a second inverter or a hybrid inverter, additional DC wiring, and critical load panel work. The permitting for battery storage is a separate process in some jurisdictions. It's doable, but I'd suggest getting the solar system running first and treating battery storage as a phase two project."
   - q: "How do I know if a solar installer is legitimate if I decide not to DIY?"
     a: "The key markers are proper licensing in your state, liability insurance, NABCEP certification, and a track record you can verify through references and reviews. You can dig deeper into vetting contractors by reading about how to verify whether your solar installer is legitimate and checking out the questions worth asking any solar company before you sign anything."
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 A homeowner in Colorado recently saved about $8,000 by pulling his own permit, supplying his own panels, and doing the physical installation himself. He's also a licensed electrician with 15 years of experience who spent four weekends on the roof and another two weeks chasing the utility interconnection paperwork. That's the honest version of the DIY solar story. It can be done. It's not simple, and the gap between "I watched some YouTube videos" and "I successfully commissioned a grid-tied solar system" is wider than most people realize.

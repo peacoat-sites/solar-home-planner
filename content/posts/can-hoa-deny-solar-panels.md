@@ -6,8 +6,6 @@ draft: false
 description: "Can HOA Deny Solar Panels? Learn about homeowner association restrictions, legal rights, and regulations governing residential solar panel installations."
 categories: ["Solar Permits & HOA"]
 tags: ["deny", "solar", "panels"]
-author: "Jennifer Liu"
-author_bio: "Green building specialist and NABCEP certified solar professional. Focuses on permits, codes, and contractor selection."
 slug: "can-hoa-deny-solar-panels"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Many states have laws requiring HOA architectural committees to respond within a set number of days, typically 30 to 60. California, for example, requires a response within 45 days. If your HOA doesn't respond in time, some state laws consider that an automatic approval. Check your state statute and your CC&Rs for the specific timeline."
   - q: "What if my HOA approves solar but with conditions that reduce my system's output?"
     a: "This is a legitimate legal argument in states like California and Arizona. If the HOA's required placement reduces your system's annual output by a significant amount compared to your proposed design, that restriction may be unenforceable. Get a shading analysis from your installer that quantifies the output difference between your proposed placement and the HOA's required placement. That data is your evidence."
+author: "Tom Bradley"
+author_slug: "tom-bradley"
+author_title: "DIY Researcher"
+author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+
 ---
 
 Your HOA just sent you a letter saying your solar panel application has been denied. Maybe they cited "aesthetic guidelines" or said panels aren't permitted on street-facing roof sections. You're frustrated, and honestly, you might be thinking the HOA has the final word here. In most states, they don't. Solar access rights have quietly become one of the most consumer-friendly areas of property law over the past decade, and a lot of HOA boards either don't know the limits of their own authority or are counting on you not knowing yours.

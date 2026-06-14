@@ -6,8 +6,6 @@ description: "Get free solar quotes from trusted installers and compare prices, 
 image: https://images.pexels.com/photos/7518958/pexels-photo-7518958.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Contractor Selection"]
 tags: ["solar", "quotes"]
-author: "Tom Briggs"
-author_bio: "Licensed electrician and solar installer with 12 years experience in DIY and residential solar projects."
 slug: "how-to-get-solar-quotes"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A quote is typically a preliminary price estimate, sometimes built from satellite data alone. A proposal is a full engineered system design with production modeling, financial analysis, and equipment specifications. You want a proposal before you sign anything. If a contractor calls their satellite-image printout a 'proposal,' ask when the site visit and formal engineering design happen."
   - q: "Do I need to get solar quotes before talking to my HOA?"
     a: "Yes, ideally. Many HOAs have restrictions on panel placement, visibility from the street, and racking aesthetics. If you get proposals first, you'll know exactly what you're asking the HOA to approve. Vague requests get vague (and often negative) responses. Most states have solar access laws that limit HOA authority to block installations outright, but the HOA can often dictate specific conditions. Know your state's rules before you assume approval is automatic."
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 Most homeowners spend more time researching a $600 dishwasher than a $25,000 solar system. I've watched people sign contracts after a single sales pitch, then call me six months later wondering why their electricity bill barely moved. Getting solar quotes isn't just about finding the lowest price. It's about gathering enough structured information to make a comparison that actually means something.

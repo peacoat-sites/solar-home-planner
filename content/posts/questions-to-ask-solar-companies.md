@@ -6,8 +6,6 @@ description: "Find the right solar installer with confidence. Discover the essen
 image: https://images.pexels.com/photos/7654168/pexels-photo-7654168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Contractor Selection"]
 tags: ["questions", "solar", "companies"]
-author: "Kevin Walsh"
-author_bio: "Residential solar contractor turned educator. Writes to help homeowners avoid common installation pitfalls."
 slug: "questions-to-ask-solar-companies"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Don't sign. A legitimate company will give you time to review the contract and compare quotes. Same-day pressure tactics are a feature of commission-driven sales culture, not a sign of a trustworthy company. Tell them you'll have a decision within a week. If they threaten to pull the offer, let them."
   - q: "Does it matter if the company uses subcontractors for installation?"
     a: "It can matter significantly. Ask who specifically will be on your roof and doing the electrical work, and confirm those individuals carry the appropriate licenses and are covered under the company's insurance policy. If the contractor can't tell you who the subcontractor is before you sign, that's a problem."
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 A salesperson sits across your kitchen table, tablet in hand, promising you'll eliminate your electric bill and pay for the whole system in seven years. The numbers look great. The rep is friendly. And you're about to sign a contract worth $25,000 or more without asking a single hard question. I've watched this happen to neighbors, clients, and friends. The solar industry has real, reputable contractors in it, but it also has high-pressure closers who disappear after installation day. Knowing which questions to ask, and when to ask them, is the only thing standing between you and a decision you'll regret for the next 20 years.

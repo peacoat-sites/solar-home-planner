@@ -6,8 +6,6 @@ description: "Discover the top reasons your solar panels are producing less ener
 image: "https://images.pexels.com/photos/16427010/pexels-photo-16427010.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Monitoring & Apps"]
 tags: ["solar", "production", "today"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "why-is-my-solar-production-low-today"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some degradation over time is normal. Quality panels from manufacturers like LG, SunPower, or Panasonic typically degrade around 0.3 to 0.5 percent per year. A slow consistent decline over 12 to 24 months that's greater than 1 to 2 percent annually warrants investigation: start with cleaning, then look at whether any equipment faults are developing. A sudden drop is more likely a fault; a gradual one could be soiling accumulation or early-stage equipment wear."
   - q: "Should I call my installer or try to troubleshoot myself first?"
     a: "Troubleshoot first. Check your monitoring app for fault codes, look at your panels for visible soiling or shading changes, and verify the weather data for the days in question. Most legitimate problems are diagnosable in 20 minutes with information you already have access to. If you call your installer without that groundwork, you'll often just be scheduling a truck roll for something you could have identified yourself, and depending on your warranty terms, that visit might not be free."
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 You checked your monitoring app this morning and your system produced 4.2 kWh yesterday when it normally does 28. Now you're second-guessing every decision you made signing those installation contracts. I've been there, and I've gotten this panicked message from readers more times than I can count. The good news: low production is almost never the disaster it feels like in the moment. The bad news: finding the root cause requires actually looking at a few different things, not just refreshing the app and hoping the number changes.

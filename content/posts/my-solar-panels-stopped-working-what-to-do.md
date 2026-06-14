@@ -6,8 +6,12 @@ description: "Check why your solar panels stopped working with our troubleshooti
 image: https://images.pexels.com/photos/7644064/pexels-photo-7644064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["my", "solar", "panels", "stopped", "working"]
-author: "Editorial Team"
 slug: "my-solar-panels-stopped-working-what-to-do"
+author: "Tom Bradley"
+author_slug: "tom-bradley"
+author_title: "DIY Researcher"
+author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+
 ---
 
 # My Solar Panels Stopped Working: A Complete Troubleshooting Guide

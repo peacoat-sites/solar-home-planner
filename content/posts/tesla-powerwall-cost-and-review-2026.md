@@ -6,8 +6,6 @@ description: "Discover the Tesla Powerwall cost in 2026, including installation 
 image: "https://images.pexels.com/photos/27863809/pexels-photo-27863809.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["Tesla", "powerwall", "cost", "review", "2026"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "tesla-powerwall-cost-and-review-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Honestly, rarely. The financial case is weak without solar unless you're on an aggressive TOU rate or in an outage-prone area where backup power has real value to you. The emotional value of backup power is real and legitimate, but don't expect a financial payback without the solar pairing."
   - q: "How do I find a legitimate Tesla-certified Powerwall installer?"
     a: "Go directly to tesla.com/energy and use their installer finder. Certified installers have gone through Tesla's training and have access to factory support. Getting a quote through a third-party aggregator like EnergySage also surfaces certified installers and lets you compare pricing without handing your contact info to six companies simultaneously."
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 The Tesla Powerwall 3 starts at $9,200 before installation. That number gets quoted constantly. What rarely gets mentioned is that by the time a licensed electrician pulls the permit, runs conduit, installs a new load center or gateway, and the utility signs off on interconnection, you're realistically looking at $12,000 to $16,000 for a single unit in most U.S. markets. Sometimes more. I've seen quotes come in at $18,500 in California for a single Powerwall 3 with a modest panel system attached, and the homeowner thought the installer was ripping them off. He wasn't.

@@ -6,8 +6,6 @@ description: "Discover how to set up a solar powered EV charging station at home
 image: "https://images.pexels.com/photos/9800035/pexels-photo-9800035.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["solar", "powered", "charging", "station", "home"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "solar-powered-ev-charging-station-home"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends heavily on your electricity rate, driving miles, solar resource, and whether you qualify for the federal 30% Investment Tax Credit under current IRS guidance. A rough estimate for a combined solar-plus-EV-charging system in a high-rate state like California or Massachusetts: 6 to 9 years. In a low-rate state like Louisiana or Idaho, closer to 10 to 14 years. The ITC significantly changes that math, so don't evaluate payback without it."
   - q: "Is a dedicated circuit required for an EV charger?"
     a: "Yes. A Level 2 EVSE must be on a dedicated 240V circuit, sized to 125% of the charger's continuous load per NEC 625. A 32A charger needs a 40A dedicated circuit. A 48A charger needs a 60A circuit. Sharing a circuit with other loads isn't permitted and creates a genuine fire risk, not a theoretical one."
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 You bought an EV and a solar array in the same year, feeling pretty clever about the whole thing. Then your installer hands you a commissioning report showing your panels produce most of their power between 10 a.m. and 3 p.m., and your car sits in the garage charging overnight. You're buying grid electricity at peak rates to move electrons into a vehicle you bought specifically to stop paying for fuel. That's the gap most solar-plus-EV articles skip right past, and it's the gap this piece closes.

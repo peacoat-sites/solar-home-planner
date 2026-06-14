@@ -6,8 +6,6 @@ description: "Discover how to set up solar panels with EV charging at home, redu
 image: "https://images.pexels.com/photos/27355835/pexels-photo-27355835.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["solar", "charging", "home", "setup"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "solar-ev-charging-home-setup"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The federal Investment Tax Credit (ITC) currently covers 30% of the total system cost, including battery storage if the battery is charged primarily by solar. This credit runs through 2032 at 30%, then steps down. Some states have additional rebates or tax credits on top of this. Check your state energy office website for current programs."
   - q: "How long until a solar plus EV system pays for itself?"
     a: "Payback periods vary significantly by location, electricity rates, and how much you drive. In high-electricity-cost states like California, Hawaii, or Massachusetts, payback periods of 6 to 9 years are realistic. In lower-rate states, expect 10 to 14 years. The EV charging savings are additive on top of your household solar savings, which is why the combination often has a better payback than solar alone."
+author: "Tom Bradley"
+author_slug: "tom-bradley"
+author_title: "DIY Researcher"
+author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+
 ---
 
 You bought the EV first. Or maybe you're about to. And now someone, a neighbor, a coworker, a YouTube rabbit hole at midnight, has you wondering whether you could just charge it for free with solar panels on your roof. That idea is not as far-fetched as it sounds, but it's also not as simple as "put up panels, plug in car." If you get the sizing wrong, you'll spend real money and still pay a utility bill every month that makes you wince. If you get it right, you'll cover most or all of your charging costs and probably cut your household electricity bill significantly at the same time. Here's what I tell people who come to me at this exact crossroads: the solar-plus-EV combination is one of the best investments you can make in your home right now, but only if you design it intentionally from the start.

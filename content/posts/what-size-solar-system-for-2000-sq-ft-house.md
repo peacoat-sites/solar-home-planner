@@ -6,8 +6,6 @@ description: "Find out what size solar system you need for a 2000 sq ft home. Le
 image: "https://images.pexels.com/photos/9875408/pexels-photo-9875408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["System Sizing"]
 tags: ["what", "size", "solar", "system", "2000"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "what-size-solar-system-for-2000-sq-ft-house"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, with some planning. If you think you'll add an EV or battery later, tell your installer upfront. They can size the inverter to handle future panel additions and leave electrical capacity in your main panel for expansion. Retrofitting is possible but costs more than planning for it from the start."
   - q: "Do I need a battery with my solar system?"
     a: "Not necessarily. If your utility offers fair net metering, the grid serves as your 'battery' effectively. You push excess power out during the day and pull from the grid at night. A battery makes sense if you want backup power during outages, your utility has poor net metering rates, or your utility charges time-of-use rates that make evening grid power expensive. For most grid-tied homeowners, a battery is a resilience investment, not a financial one."
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 You just got your electric bill, and somewhere between the total due and the fine print about rate increases, you started doing the math on solar. Maybe you Googled "solar for 2,000 square foot house" expecting a clean answer, something like "you need X panels, done." Instead you got a wall of ads and calculator tools asking for your zip code. Here's the truth: square footage is almost the least useful number when sizing a solar system. A 2,000 sq ft home in Phoenix with a pool and two EVs has completely different energy needs than a 2,000 sq ft home in Vermont with gas heat and one efficient tenant. The square footage gets you in the ballpark. Your electric bill gets you to the right seat.

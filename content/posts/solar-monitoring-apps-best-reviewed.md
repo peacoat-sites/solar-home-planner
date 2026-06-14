@@ -6,8 +6,6 @@ description: "Discover the best solar monitoring apps reviewed for performance, 
 image: "https://images.pexels.com/photos/9875438/pexels-photo-9875438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Monitoring & Apps"]
 tags: ["solar", "monitoring", "apps", "best", "reviewed"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "solar-monitoring-apps-best-reviewed"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Indirectly, yes. If you see a production dip that can't be explained by weather and your system is a few years old in a dusty or pollen-heavy area, dirty panels are a reasonable suspect. There's no sensor that directly detects soiling, but consistent underperformance relative to expected output is the flag. A panel cleaning kit with soft brushes and a hose-end attachment runs about $30-50 and is worth having on hand."
   - q: "Do solar monitoring apps work with battery storage?"
     a: "It depends on the battery manufacturer. Tesla Powerwall integrates with the Tesla app natively. Enphase batteries (IQ series) are visible in Enlighten. SolarEdge batteries show in the SolarEdge portal. If you have a third-party battery added to a different-brand inverter system, integration varies and sometimes requires a separate app or a third-party platform like Home Assistant to tie everything together."
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 Most solar monitoring app reviews are glorified spec sheets written by people who've never actually watched their system underperform on a cloudy February morning and tried to figure out why. They compare logos and screenshot counts. That's not useful.

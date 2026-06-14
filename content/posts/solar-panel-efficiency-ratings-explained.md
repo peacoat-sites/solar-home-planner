@@ -6,8 +6,6 @@ description: "Discover what solar panel efficiency ratings mean, how they're mea
 image: "https://images.pexels.com/photos/27873240/pexels-photo-27873240.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Equipment Deep Dives"]
 tags: ["solar", "panel", "efficiency", "ratings", "explained"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "solar-panel-efficiency-ratings-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, slowly. Silicon solar panels lose output gradually each year, typically 0.5% to 0.7% annually for standard panels. Premium panels from manufacturers like SunPower and Panasonic have published degradation rates closer to 0.25% to 0.3% annually, which is a meaningful difference over 25 to 30 years. Your panel's power warranty will spell out the guaranteed minimum performance curve."
   - q: "Should I clean my panels to maintain their efficiency?"
     a: "Dirt, dust, and pollen can reduce output by 5% to 25% depending on your location and how long since the last rain. In most climates, rain handles most of it. If you're in a dry, dusty area like the Southwest, cleaning once or twice a year makes sense. A soft brush kit rated for solar panels (something like the DocaPole Solar Panel Cleaning Kit, affiliate link) lets you do it safely from the ground or a ladder without scratching the glass."
+author: "David Torres"
+author_slug: "david-torres"
+author_title: "Solar Consultant"
+author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+
 ---
 
 Sixty percent of the homeowners I talk to have the same misconception locked in their heads: higher efficiency equals better panels. Full stop. And I get it, that's how most appliances work. A more efficient refrigerator uses less electricity. A more efficient furnace wastes less gas. So it feels logical that a 22% efficient solar panel is just... better than a 19% one. But that framing causes real problems when you're spending $15,000 to $30,000 on a system, and I've watched people pay thousands extra for efficiency they didn't actually need.

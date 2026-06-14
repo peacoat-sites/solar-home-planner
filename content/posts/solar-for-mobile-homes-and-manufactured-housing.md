@@ -6,8 +6,6 @@ description: "Discover how solar panels can work for mobile and manufactured hom
 image: https://images.pexels.com/photos/7693244/pexels-photo-7693244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar for Home Types"]
 tags: ["solar", "mobile", "homes", "manufactured", "housing"]
-author: "Marcus Reed"
-author_bio: "Off-grid systems designer and solar workshop instructor. Helps homeowners plan systems from sizing to battery backup."
 slug: "solar-for-mobile-homes-and-manufactured-housing"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Absolutely. Battery storage is especially valuable for manufactured home owners in areas with unreliable grid power or time-of-use utility rates. Systems like the Tesla Powerwall or Enphase IQ Battery can be wall-mounted inside or outside the home. Verify your utility's interconnection requirements for battery-paired systems, as some utilities have additional requirements or restrictions on battery backup modes."
   - q: "Is a DIY solar installation legal on a manufactured home?"
     a: "In some jurisdictions, yes, but with significant caveats. The HUD alteration requirements mean any modification to a manufactured home needs to meet federal standards, and a permit is almost certainly required. Some states allow licensed homeowners to pull their own electrical permits; others don't. The electrical work on a solar installation involves working with both DC and AC systems, inverter wiring, and utility interconnection. If you're not a licensed electrician and comfortable with that work, hire out the electrical portion even if you handle the mounting and wiring runs yourself."
+author: "Stephanie Walsh"
+author_slug: "stephanie-walsh"
+author_title: "Finance Writer"
+author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+
 ---
 
 You own your land, you own your manufactured home, and your electric bill is running $180 a month. A neighbor down the road just got solar panels on their site-built house and cut their bill in half. So why does every solar company you call either quote you a sky-high price, tell you it's "complicated," or just stop returning your calls? That's not bad luck. That's a real pattern, and it has everything to do with how the industry views manufactured housing, not with whether solar actually works for your situation. It does. You just need to know the rules before you start.

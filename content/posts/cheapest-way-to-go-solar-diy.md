@@ -6,8 +6,6 @@ description: "Save money going solar with DIY installation tips. Discover the ch
 image: "https://images.pexels.com/photos/9875422/pexels-photo-9875422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["DIY Solar"]
 tags: ["cheapest", "solar"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "cheapest-way-to-go-solar-diy"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For most people doing a first system on a budget, no. Batteries roughly double your upfront cost and extend your payback period considerably. Unless you're in an area with frequent outages or a utility with unfavorable net metering, get the solar working first. Revisit battery storage after a year of real production data."
   - q: "What's the minimum useful DIY solar setup for someone on a tight budget?"
     a: "A plug-and-play balcony or window solar kit in the 400-800W range costs $300-$700, requires no permits in most places, and can meaningfully offset a specific load like a refrigerator, TV setup, or phone and laptop charging. It won't make a dent in your HVAC bill, but it's a real introduction to the technology with near-zero installation risk. Pair it with a simple energy monitor and you'll learn more about your home's consumption in 60 days than in the previous five years."
+author: "Morgan Johnson"
+author_slug: "morgan-johnson"
+author_title: "Installation Expert"
+author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+
 ---
 
 Most solar articles open with a promise: "Go solar and slash your electric bill!" What they skip is the part where you spend $25,000 on a contractor-installed system and wait 8-10 years to break even. There's a cheaper path. It's not for everyone, but if you're comfortable working with electrical systems and willing to pull your own permits, a DIY solar installation can cut your total cost by 40-60% compared to a full contractor job. The average contractor-installed residential system runs $3.00-$3.50 per watt before incentives, according to EnergySage market data. A competent DIYer can get that down to $1.00-$1.50 per watt in equipment costs alone. On a 6kW system, that's the difference between $18,000-$21,000 and $6,000-$9,000. Let's talk about how to actually get there.

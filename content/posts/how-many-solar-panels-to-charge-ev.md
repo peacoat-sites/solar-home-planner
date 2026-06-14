@@ -6,8 +6,6 @@ description: "Discover how many solar panels you need to charge your electric ve
 image: "https://images.pexels.com/photos/9799757/pexels-photo-9799757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["many", "solar", "panels", "charge"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-many-solar-panels-to-charge-ev"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. A 400W premium panel (22 percent efficiency) will produce more power per square foot than a 350W standard panel. If roof space is tight, higher-efficiency panels let you pack more production into a smaller area. The wattage is what matters for the math, not the brand name."
   - q: "Do I need a permit to add panels specifically for EV charging?"
     a: "Any addition to your solar system, whether it's extra panels, a battery, or a new EV charger circuit, almost always requires a permit. Permit requirements are set locally, but unpermitted solar additions can void your utility interconnection agreement and create problems if you ever sell the house. Don't skip it."
+author: "Rachel Kim"
+author_slug: "rachel-kim"
+author_title: "Energy Analyst"
+author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+
 ---
 
 Most people ask their solar installer how many panels they need to run their house. Almost nobody asks how many panels they need to run their *car*. That's a mistake. I've worked with homeowners who added an EV to a fully sized solar system and immediately found themselves buying grid power again, confused about why their electric bill came back. The car wasn't in the plan. Adding an EV to your energy load isn't a footnote, it's often a 30 to 50 percent increase in your household electricity consumption. Get the math right before you sign anything.
