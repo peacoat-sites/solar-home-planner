@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "david-torres",
+    "name": "David Torres",
+    "title": "Solar Consultant",
+    "specialty": "Residential Solar Installation",
+    "bio": "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+  },
+  {
+    "slug": "rachel-kim",
+    "name": "Rachel Kim",
+    "title": "Energy Analyst",
+    "specialty": "Home Energy Efficiency & Solar Readiness",
+    "bio": "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+  },
+  {
+    "slug": "morgan-johnson",
+    "name": "Morgan Johnson",
+    "title": "Installation Expert",
+    "specialty": "Rooftop Solar & Electrical Systems",
+    "bio": "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+  },
+  {
+    "slug": "stephanie-walsh",
+    "name": "Stephanie Walsh",
+    "title": "Finance Writer",
+    "specialty": "Solar Financing, ROI & Incentives",
+    "bio": "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+  },
+  {
+    "slug": "tom-bradley",
+    "name": "Tom Bradley",
+    "title": "DIY Researcher",
+    "specialty": "DIY Solar & Homeowner Advocacy",
+    "bio": "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+  }
+]
