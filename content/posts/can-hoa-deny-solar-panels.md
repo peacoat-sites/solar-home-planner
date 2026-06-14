@@ -1,5 +1,5 @@
 ---
-title: "Can Hoa Deny Solar Panels"
+title: "Can HOA Deny Solar Panels"
 date: 2026-05-22T00:15:14.918141+00:00
 image: "https://images.pexels.com/photos/12243093/pexels-photo-12243093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 draft: false

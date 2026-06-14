@@ -1,5 +1,5 @@
 ---
-title: "Diy Solar For Shed Or Outbuilding"
+title: "DIY Solar For Shed Or Outbuilding"
 date: 2026-05-26T05:18:26.467515+00:00
 image: "https://images.pexels.com/photos/17965455/pexels-photo-17965455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 draft: false

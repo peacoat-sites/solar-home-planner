@@ -1,5 +1,5 @@
 ---
-title: "Diy Solar Panel Installation Guide"
+title: "DIY Solar Panel Installation Guide"
 date: 2026-05-24T20:48:30.434146+00:00
 draft: false
 description: "Install solar panels yourself with our comprehensive DIY guide. Learn step-by-step instructions, safety tips, tools needed, and cost savings. Start today!"

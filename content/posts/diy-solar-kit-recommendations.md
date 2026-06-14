@@ -1,5 +1,5 @@
 ---
-title: "Diy Solar Kit Recommendations"
+title: "DIY Solar Kit Recommendations"
 date: 2026-05-20T03:35:03.011784+00:00
 draft: false
 description: "DIY solar kit recommendations for off-grid living and home energy. Compare top-rated kits, installation tips, and cost savings for renewable power solutions."
