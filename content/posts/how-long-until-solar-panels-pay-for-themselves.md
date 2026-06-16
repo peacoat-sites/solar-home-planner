@@ -109,29 +109,6 @@ Watch for companies that refuse to provide an itemized quote. You should know ex
 
 And if an installer tells you permits are optional or suggests you skip them to save money, that's your cue to end the conversation. Unpermitted systems create serious problems when you sell your home and may void your equipment warranties.
 
-## FAQ
-
-### How long does solar payback take on average in the U.S.?
-
-The national average sits between 8 and 12 years, but that range spans genuinely different situations. High-rate states with strong net metering and good incentives (Massachusetts, New York, California in some cases) can see paybacks of 6-8 years. Low-rate states or states with weak net metering policies push closer to 12-15. The average alone tells you almost nothing about your specific situation.
-
-### Does adding battery storage change the payback period?
-
-Yes, it lengthens it, usually by 3-6 years. A Tesla Powerwall or similar battery system adds $10,000 to $15,000 or more to your project cost. The financial return on batteries is strongest in states with time-of-use rates where you can discharge at peak pricing, or in areas with frequent outages where backup power has real value to you. If your motivation is purely financial, batteries don't pencil out for most homeowners right now. If you want backup power, price that benefit separately from the pure ROI calculation.
-
-### Do solar panels increase home value?
-
-Generally yes. Lawrence Berkeley National Laboratory research (frequently cited by NREL) suggests buyers pay a premium of roughly $4 per watt for solar, so a 10 kW owned system might add $40,000 to home value in markets where solar is understood. The key word is "owned." Leased systems are more complicated and sometimes viewed as a liability by buyers who don't want to assume the contract.
-
-### What happens after the payback period?
-
-You keep producing electricity for free (roughly free, accounting for minimal maintenance and eventual inverter replacement around year 12-15). A central string inverter costs $1,000-$2,000 to replace. Panel cleaning in dusty climates is a small recurring cost. A [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=solarsite-20) runs $30-$80 and handles most residential systems easily. *(This site may earn a commission on qualifying Amazon purchases.)* After breakeven, the remaining 15-plus years of production represent pure financial return, often $30,000 to $60,000 worth of electricity depending on your system size and rate.
-
-### Should I wait for panel prices to drop more before installing?
-
-This is the question I hear most. Prices have dropped dramatically over the past decade, but the cost curve has flattened. The 30% federal ITC is scheduled to remain through 2032, then step down. Every year you wait is a year of utility bills you're paying at full price. If the numbers work today, the opportunity cost of waiting usually exceeds whatever marginal price improvement you might get in two or three years.
-
-The payback period isn't a magic number you read off a chart. It's a calculation you do yourself, with your actual utility data and your specific quotes, before you sign anything. Run the numbers. Use PVWatts. Stack every incentive. And if an installer won't give you a clear, itemized proposal with realistic production estimates, the next one will.
 
 ## Helpful Resources
 

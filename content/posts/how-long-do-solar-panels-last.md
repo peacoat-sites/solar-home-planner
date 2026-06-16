@@ -99,27 +99,6 @@ The case for keeping old panels running is strong as long as the balance of syst
 
 ---
 
-## FAQ
-
-### How long do solar panels realistically last?
-
-Most modern crystalline silicon panels will produce meaningful power for 30-35 years, and sometimes longer. The 25-year warranty is a performance floor, not an expiration date. NREL field data shows median degradation around 0.5% per year, which means a 30-year-old panel is still operating at roughly 85-86% of its original output.
-
-### Do solar panels degrade faster in hot climates?
-
-Yes, heat is one of the main accelerants of panel degradation. Panels in Phoenix or Las Vegas face more thermal stress than panels in Seattle. That said, the effect is gradual and the data suggests well-installed tier-one panels in hot climates still fall within the 0.5-0.7% annual degradation range, not dramatically worse.
-
-### What happens to solar panels after 25 years?
-
-Nothing dramatic. The warranty period ends, but the panels keep producing. Output will be somewhat lower than day one (typically 80-90% depending on the brand and conditions), but there's no cliff. Many utilities in Europe and the US are actively studying "second life" uses for panels that come off replaced systems.
-
-### Can hail destroy solar panels?
-
-It can, but most panels are tested to withstand 1-inch hail at 50 mph (IEC 61646 standard). Larger, faster hail, like the golf-ball-sized stones that hit parts of Texas in spring 2023, can and does crack panels. If you're in a high-hail region, look specifically for Class 4 impact-rated panels and check your homeowner's insurance policy for solar-specific coverage language before you're surprised.
-
-### Is it worth cleaning solar panels?
-
-In most of the US, rain does an adequate job and cleaning provides marginal gains. In dry, dusty regions (California's Central Valley, Arizona, New Mexico) or if you have significant bird traffic overhead, regular cleaning can recover a meaningful 5-15% in lost output. Twice a year is usually enough, and a soft brush with deionized water is all you need.
 
 ## Helpful Resources
 

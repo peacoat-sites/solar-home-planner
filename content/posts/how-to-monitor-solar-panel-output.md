@@ -110,27 +110,6 @@ A word on the [U.S. Department of Energy's homeowner solar guide](https://www.en
 
 ---
 
-## Frequently Asked Questions
-
-### How often should I check my solar monitoring app?
-
-Once a week is a reasonable habit for most homeowners. You're looking for trends rather than daily noise, and weekly checks catch problems within a reasonable timeframe without becoming obsessive. Set up automatic alerts for system faults so you don't have to watch it daily.
-
-### What's a normal amount of solar production loss on cloudy days?
-
-On a heavily overcast day, you might see 10-25% of your normal clear-sky output, depending on cloud density and your panel technology. Thin-film panels (like some CertainTeed and First Solar products) handle diffuse light better than standard crystalline silicon. A cloudy day isn't a problem; a pattern of underproduction on days that should be clear is.
-
-### Can I monitor solar output without an internet connection?
-
-Some inverters store local data on SD cards or internal memory and will backfill data once connectivity is restored. Enphase systems, for example, will cache production data locally for up to a week and sync when the gateway reconnects. For long-term off-grid monitoring, some installations use dedicated data loggers that record to local storage independently.
-
-### My production numbers look fine but my electric bill hasn't changed much. What's going on?
-
-This is almost always a consumption issue, not a production issue. Your solar system might be performing exactly as designed, but if your household electricity use has increased (new appliances, electric vehicle, a teenager who discovered gaming rigs), you can produce more and still pay similar bills. A whole-home energy monitor will show you exactly where the power is going.
-
-### How do I know if a microinverter has failed?
-
-In Enphase Enlighten, a failed or offline microinverter shows up as a grayed-out or red panel in the system map. You'll also see a corresponding drop in production from that panel compared to its neighbors. If one panel shows zero output on a sunny day while everything else is producing normally, that microinverter is almost certainly the issue and needs to be replaced under warranty.
 
 ---
 

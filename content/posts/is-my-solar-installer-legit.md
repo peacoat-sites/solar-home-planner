@@ -111,27 +111,6 @@ If you have a dispute with an installer, your first call should be to your state
 
 ---
 
-## Frequently Asked Questions
-
-### How do I know if my solar installer is licensed in my state?
-
-Go to your state's contractor licensing board website and search by the company name or license number they've provided. Every state has an online lookup tool. Confirm the license is active, covers electrical or solar work specifically, and has no disciplinary actions. If you're unsure which board to contact, search "[your state] contractor licensing board" and the official government site will come up.
-
-### Is a company being SEIA-certified the same as being NABCEP-certified?
-
-No, these are different things. SEIA is a trade association, and membership is open to companies who pay dues. It signals industry involvement, not a specific competency standard. NABCEP is an independent credentialing body that certifies individual installers and companies based on documented experience and examination. NABCEP is the higher bar.
-
-### Should I be worried if my installer uses subcontractors?
-
-Not automatically. Many legitimate solar companies use subcontractors for roofing, electrical, or the installation crew. What matters is that the primary contractor holds the license and is responsible for the work, that the subs are insured, and that this arrangement is disclosed to you upfront. Ask who will physically be on your roof and whether they're employees or subs.
-
-### What if my installer says I don't need a permit?
-
-Walk away, or at minimum get it in writing with a clear legal justification. There is essentially no residential solar installation in the U.S. that doesn't require a permit. An installer telling you otherwise is either misinformed or deliberately cutting corners to speed up their schedule. The permit protects you legally and financially.
-
-### Can I check if my solar system was actually inspected and approved?
-
-Yes. Contact your local building or electrical department and ask for the permit record associated with your property address. This is a public record. You can confirm whether a permit was issued, whether inspections were scheduled, and whether the final inspection was approved. If you can't find a permit associated with your installation, that's a serious problem you need to address immediately.
 
 ---
 

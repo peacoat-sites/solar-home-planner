@@ -96,27 +96,6 @@ If the contract includes a solar loan or a Property Assessed Clean Energy (PACE)
 
 Ask for the specific program name and the government agency or utility administering it. If the salesperson can't tell you, they don't have what they're claiming to have.
 
-## FAQ
-
-### Can I get solar panels for free as a low-income homeowner?
-
-Yes, in certain states and through specific federal programs like the Weatherization Assistance Program. "Free" usually means income-verified grants that cover 100% of installation costs, not financing products. Your eligibility depends on your income, your state, and whether your home meets program requirements like ownership and structural suitability.
-
-### Does the 30% federal solar tax credit help low-income homeowners?
-
-Only if you have enough federal tax liability to use it. The ITC is non-refundable, meaning if you owe $500 in federal taxes and your credit is $5,000, you don't get a check for the difference. You can carry the unused amount forward to future tax years, but if your income stays low, you may never collect it. Focus first on grant and rebate programs instead.
-
-### What income level qualifies for low-income solar programs?
-
-It varies by program. WAP uses 200% of the federal poverty level (about $62,400 for a family of four in 2024). USDA Section 504 uses 50% of area median income. State programs set their own thresholds. The short answer is that these programs serve a wider income range than most people expect, so check the specific numbers rather than assuming you don't qualify.
-
-### Can renters participate in any solar programs?
-
-Community solar is really the best option for renters, and some state programs specifically reserve a portion of community solar capacity for income-qualified renters. You won't own panels, but you can still get a bill credit. If you're in New York, Illinois, Minnesota, or Colorado, there are active programs worth looking into right now.
-
-### What documents do I typically need to apply?
-
-Most programs require proof of income (recent tax return or pay stubs), proof of homeownership (deed or mortgage statement), a recent utility bill, and a government-issued ID. Some also ask for Social Security numbers for all household members. Getting these organized before you apply will speed up a process that can otherwise take weeks just on paperwork.
 
 ---
 

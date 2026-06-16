@@ -117,27 +117,6 @@ You can save yourself a lot of wasted time and awkward contractor conversations 
 
 ---
 
-## Frequently Asked Questions
-
-### Does my roof need to be replaced before going solar?
-
-Not necessarily, but it depends on age and condition. As a general rule, if your roof has fewer than 10 years of useful life remaining, you should re-roof before installation. Removing and reinstalling a solar system costs real money and takes your system offline. It's cheaper to deal with the roof first.
-
-### Can solar panels damage my roof?
-
-When installed correctly with proper flashing and UL-listed hardware, solar panels should not damage your roof. Poor installation, though, especially inadequate flashing around lag bolt penetrations, absolutely can cause leaks over time. This is why installer experience with your specific roof type matters so much.
-
-### What's the ideal roof pitch for solar?
-
-For most of the continental United States, a roof pitch between 15 and 40 degrees (roughly a 3/12 to 9/12 pitch) is considered good for solar. South-facing roofs in that pitch range will see the best production. That said, east and west facing roofs can still generate very good production depending on your latitude and local incentives.
-
-### Do solar panels work on a north-facing roof?
-
-They'll produce power, but significantly less than a south-facing roof, typically 20 to 30% less depending on your latitude. In some cases a ground mount or a different roof section is a better option. A reputable installer will model the production difference for you using actual shading and orientation data.
-
-### Will solar panels affect my roof warranty?
-
-This depends on the roofing manufacturer. Some manufacturers include language in their warranties that covers solar mounting when installed by a certified contractor using approved hardware. Others may require notification. Check your roofing warranty documentation directly, and ask your solar contractor to provide written confirmation that their mounting system and process are compatible with your roof material's warranty terms.
 
 ---
 

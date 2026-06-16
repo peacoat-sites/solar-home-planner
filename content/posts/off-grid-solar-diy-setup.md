@@ -112,27 +112,6 @@ Consider your water and HVAC loads carefully. A well pump and an air conditioner
 
 ---
 
-## Frequently Asked Questions
-
-### How much does a DIY off-grid solar system cost?
-
-A capable off-grid system for a small cabin or home (handling basic loads like lighting, electronics, and a refrigerator) typically runs $3,000 to $8,000 in components if you supply your own labor. Larger systems with substantial battery storage and generator backup can reach $15,000 to $25,000 or more. The biggest variable is battery capacity. LiFePO4 batteries typically cost $600 to $900 per kilowatt-hour of usable storage. Getting the sizing right the first time prevents expensive overbuilds or underperformance.
-
-### Can I add solar panels later if I start small?
-
-Yes, but design for expansion from day one. Choose a charge controller with headroom above your current panel wattage. Victron, Midnite Solar, and Outback make quality MPPT controllers with room to grow. The same principle applies to your battery bank and inverter. Retrofitting an undersized inverter is wasteful. Spend a little more upfront on capacity.
-
-### What's the safest battery chemistry for off-grid use?
-
-LiFePO4 (lithium iron phosphate) is the clear choice for most new installations. It's stable, doesn't off-gas under normal conditions, has a longer cycle life than lead-acid (typically 3,000-5,000 cycles vs. 500-1,200 for AGM), and allows deeper discharge. Flooded lead-acid batteries are still used in low-budget systems but require regular maintenance and ventilation for hydrogen off-gassing. Avoid lithium-ion chemistries like NMC for stationary storage unless they come in a purpose-built ESS (energy storage system) with a UL-listed battery management system.
-
-### Do I need an electrician for an off-grid solar build?
-
-It depends on your comfort with DC electrical work and local regulations. If your system is small (under 2kW) and purely for low-voltage DC loads like 12V lighting and a laptop, many experienced DIYers handle it confidently. Once you're running an inverter with 120V AC output into a panel or subpanel, you're in territory where a licensed electrician should at minimum review your work. I'd always recommend having someone qualified inspect your battery bank connections and any AC wiring before you live with it full time.
-
-### What happens to my solar panels in a major storm or hail?
-
-Quality panels carry IEC 61215 certification, which includes a hail impact test using 1-inch ice balls at 51 mph. Most panels from reputable manufacturers handle typical hail without damage. The bigger risk in storms is wind uplift on your mounting hardware. Use properly rated racking systems and follow manufacturer torque specifications. Ground mounts in hurricane-prone areas should be engineered for local wind loads. Document your installation with photos for insurance purposes.
 
 ---
 

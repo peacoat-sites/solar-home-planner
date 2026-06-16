@@ -92,27 +92,6 @@ I'd recommend pulling up PVWatts (NREL's free calculator at pvwatts.nrel.gov) an
 
 ---
 
-## FAQ
-
-### Why does my solar production drop so much on cloudy days?
-
-Solar panels generate electricity from light, not heat, and cloud cover significantly reduces the amount of usable light (irradiance) reaching the panels. Thick overcast conditions can reduce output by 70 to 90 percent. There's not a fix for this; it's physics. Your system will make up for it on clear days, which is why monthly and annual totals matter more than any single day's number.
-
-### Can one dirty or shaded panel really affect my whole system?
-
-Yes, and how much depends on your inverter type. With a traditional string inverter and no power optimizers, one underperforming panel drags down the whole string it's connected to. With Enphase microinverters or SolarEdge optimizers, the impact is largely isolated to that single panel. This is one of the most practically important differences between inverter types, and it's worth understanding before you buy.
-
-### How do I tell if my inverter is the problem?
-
-Log into your inverter's monitoring app (Enphase Enlighten, SolarEdge Monitoring Portal, Fronius Solar.web, etc.) and look for fault codes or any panels/strings showing zero or near-zero production. Most inverters also have a status light on the unit itself: green usually means operating normally, red or amber indicates a fault. If you see a fault code, search it specifically before calling your installer; many are self-clearing or have simple fixes.
-
-### My production has been declining slowly over months. Is that normal?
-
-Some degradation over time is normal. Quality panels from manufacturers like LG, SunPower, or Panasonic typically degrade around 0.3 to 0.5 percent per year. A slow consistent decline over 12 to 24 months that's greater than 1 to 2 percent annually warrants investigation: start with cleaning, then look at whether any equipment faults are developing. A sudden drop is more likely a fault; a gradual one could be soiling accumulation or early-stage equipment wear.
-
-### Should I call my installer or try to troubleshoot myself first?
-
-Troubleshoot first. Check your monitoring app for fault codes, look at your panels for visible soiling or shading changes, and verify the weather data for the days in question. Most legitimate problems are diagnosable in 20 minutes with information you already have access to. If you call your installer without that groundwork, you'll often just be scheduling a truck roll for something you could have identified yourself, and depending on your warranty terms, that visit might not be free.
 
 ## Helpful Resources
 

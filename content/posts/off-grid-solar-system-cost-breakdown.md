@@ -123,29 +123,6 @@ I've reviewed a lot of off-grid proposals over the years. Here's what should mak
 
 **No mention of the 30% federal tax credit.** The Investment Tax Credit (ITC) applies to off-grid solar systems used for residential purposes. At 30% of total system cost, a $70,000 system yields a $21,000 credit. If your installer isn't factoring this into your financial picture, they're leaving money on the table.
 
-## FAQ
-
-### How long does an off-grid solar system last?
-
-Panels carry 25–30 year production warranties. LiFePO4 batteries are typically rated for 3,000–6,000 cycles, which translates to 10–15 years of daily cycling. Inverter-chargers often last 10–15 years. Plan on replacing batteries once over a 25-year system lifespan.
-
-### Can I build an off-grid system myself to save money?
-
-Yes, with significant caveats. Equipment costs alone for a full-home off-grid system run $25,000–$50,000. You can save $8,000–$20,000 on labor, but you'll need to pull permits, pass inspections, and do the electrical work properly. [Solar DIY guides and wiring tools](https://www.amazon.com/s?k=solar+installation+diy+kit&tag=solarsite-20) are widely available. In most states, a licensed electrician must make the final panel connections and sign off on the work even if you do the rest yourself.
-
-### Does the 30% federal tax credit apply to off-grid solar?
-
-Yes, for residential use. The ITC covers 30% of total system cost including batteries, as long as the batteries are charged exclusively by solar. Batteries charged partially by generator may complicate the calculation. Consult a tax professional for your specific situation.
-
-### What's the minimum viable off-grid system for a small cabin?
-
-A weekend cabin with modest loads (lights, phone charging, small refrigerator, no electric heat) can run on 1.5–2 kW of panels and an 8–10 kWh LiFePO4 battery bank. Equipment cost runs $6,000–$12,000. Add a small propane or DC refrigerator and you'll reduce the battery requirement significantly. This is a realistic DIY project for someone comfortable with basic electrical work.
-
-### How does weather and location affect system cost?
-
-Dramatically. A home in Phoenix can size a significantly smaller array than the same home in Portland for identical energy output, because Phoenix gets roughly 40% more usable sun hours annually. Lower sun hours mean more panels, larger battery bank, and longer backup generator run time in winter. In northern latitudes, a three-day autonomy battery bank is a minimum, not a luxury.
-
-Off-grid solar is absolutely achievable and for many rural properties it's the only financially rational choice, especially when the utility wants $30,000–$80,000 to run a grid line to your property. But it rewards the homeowner who does the math first. Know your loads, know your sun hours, get itemized quotes, and don't let anyone talk you into undersized storage. The system that gets you through a February cloudy week is the system worth buying.
 
 ## Helpful Resources
 

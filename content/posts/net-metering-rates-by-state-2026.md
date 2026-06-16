@@ -118,27 +118,6 @@ For monitoring your production and self-consumption ratio, a good home energy mo
 
 ---
 
-## FAQ
-
-### Is net metering available in every state?
-
-No. There's no federal net metering requirement. About 40 states have some form of statewide net metering policy, but the terms vary enormously. Several states have eliminated traditional retail-rate credit entirely in favor of lower avoided-cost compensation, and utilities in unregulated markets (like many Texas co-ops) can set their own terms independently of any state policy.
-
-### What's the difference between net metering and net billing?
-
-Net metering typically applies a full or near-full retail credit against your bill for each kilowatt-hour you export. Net billing (the term California and a growing number of other states use) credits you at a lower rate, often wholesale or avoided cost, rather than what you'd pay to buy that same electricity back. The hardware is the same; only the compensation structure differs.
-
-### If net metering rates change, does my existing system get grandfathered in?
-
-Usually yes, but for a limited period. California grandfathered NEM 2.0 customers for 20 years from their install date. Many states offer 10-15 year grandfathering. This is one concrete reason to install sooner in a state where rates look like they're about to be cut, not just to lock in the tax credit, but to lock in the compensation rate.
-
-### Does adding a battery storage system change my net metering situation?
-
-In states like California, yes, meaningfully. Battery storage lets you consume your own solar production during peak evening hours instead of exporting cheap and buying expensive. In states with strong retail net metering, a battery adds resiliency but may not dramatically improve financial returns since you're already getting good export credit. The battery math changes state by state.
-
-### How do I find out my utility's exact export rate?
-
-Go directly to your utility's website and search for "solar rate," "net metering tariff," or "Schedule NEM." Download the actual tariff document (not the marketing brochure). If you can't find it or it's unclear, call the utility's rate department, not their general customer service line. Ask specifically: "What is the per-kWh credit rate for solar energy exports under my current residential rate class?"
 
 ---
 

@@ -123,27 +123,6 @@ What surprised me most when I started consulting on these projects was how many 
 
 ---
 
-## Frequently Asked Questions
-
-### How many extra solar panels do I need for an EV?
-
-The honest answer depends on your driving habits and panel wattage. A useful rule of thumb: plan on 2 to 4 additional 400-watt panels per 5,000 miles of annual driving. For an average driver doing 13,000 to 14,000 miles per year, that's typically 6 to 11 additional panels beyond what you'd install for your baseline household load. Run the actual math using your vehicle's efficiency rating rather than relying on rules of thumb for a final design.
-
-### Should I size my solar system for two EVs even if I only have one now?
-
-If you think a second EV is likely within 5 to 7 years, yes. Roof space is finite, and adding panels later usually costs 20 to 30 percent more per watt than installing them as part of an original system due to design, permitting, and labor overhead. Build the system for your realistic 5-year household load, not just today's snapshot.
-
-### Does charging speed (Level 1 vs. Level 2) affect how many solar panels I need?
-
-The total kWh consumed is the same regardless of charge rate, so no, charging speed doesn't change system size. What it changes is *when* that demand hits. Level 2 with smart scheduling lets you pull those kilowatt-hours during peak solar production, which can reduce your dependence on net metering or battery storage.
-
-### Will my solar system charge my EV during a grid outage?
-
-Only if you have battery storage and the right inverter configuration. Standard grid-tied solar systems shut down during outages for safety reasons, a requirement called anti-islanding. A hybrid inverter with battery storage can maintain power to designated circuits, including an EV charger if you configure it that way. Confirm this capability explicitly with your installer before assuming it.
-
-### What's the payback period for solar when you include EV charging?
-
-This varies widely by location, electricity rates, and incentives, but the 26 to 30 percent federal Investment Tax Credit (currently running at 30 percent under the Inflation Reduction Act through 2032) significantly improves the math. In high-rate states like California, Hawaii, or Massachusetts, combined solar-plus-EV payback periods of 6 to 9 years are realistic. In lower-rate states, it stretches to 10 to 13 years. The EV piece generally strengthens the case for solar because it increases the amount of expensive grid electricity you're displacing.
 
 ---
 

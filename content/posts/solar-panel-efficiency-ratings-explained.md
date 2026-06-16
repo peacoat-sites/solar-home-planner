@@ -106,27 +106,6 @@ There's no universal right answer here, and anyone who tells you otherwise is ei
 
 ---
 
-## FAQ
-
-### Does a higher efficiency panel always produce more electricity?
-
-Not necessarily. Total production depends on the number of panels, your roof's orientation and shading, and real-world conditions including heat. A higher-efficiency panel produces more per square foot, but a system with more lower-efficiency panels can hit the same or higher output for less money.
-
-### What's a good efficiency rating for residential solar panels in 2024?
-
-Anything between 19% and 22% is solid for residential use. Panels below 18% are typically older polycrystalline technology or budget products worth scrutinizing carefully. Above 22% is premium territory (SunPower, REC Alpha), where you're paying for build quality and low temperature coefficients as much as the raw efficiency number.
-
-### Why do my panels produce less than their rated wattage?
-
-Standard Test Conditions (STC ratings) are lab conditions your roof will never exactly replicate. Heat, angle, wiring losses, inverter conversion, and real-world irradiance all reduce output from the nameplate figure. A well-designed system typically produces 80% to 90% of its theoretical STC maximum in real conditions, which is completely normal. If you want to track actual production closely, a home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=solarsite-20) (affiliate link) can help you spot genuine underperformance early.
-
-### Do efficiency ratings degrade over time?
-
-Yes, slowly. Silicon solar panels lose output gradually each year, typically 0.5% to 0.7% annually for standard panels. Premium panels from manufacturers like SunPower and Panasonic have published degradation rates closer to 0.25% to 0.3% annually, which is a meaningful difference over 25 to 30 years. Your panel's power warranty will spell out the guaranteed minimum performance curve.
-
-### Should I clean my panels to maintain their efficiency?
-
-Dirt, dust, and pollen can reduce output by 5% to 25% depending on your location and how long since the last rain. In most climates, rain handles most of it. If you're in a dry, dusty area like the Southwest, cleaning once or twice a year makes sense. A soft brush kit rated for solar panels (something like the [DocaPole Solar Panel Cleaning Kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=solarsite-20), affiliate link) lets you do it safely from the ground or a ladder without scratching the glass.
 
 ---
 

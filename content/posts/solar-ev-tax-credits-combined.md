@@ -123,27 +123,6 @@ One often-missed point: the solar credit covers battery storage even if the batt
 
 ---
 
-## FAQ
-
-### Can I claim the solar credit and the EV credit in the same tax year?
-
-Yes. Both credits can be claimed on the same return. The practical issue is that both are nonrefundable, so their combined value is capped by your federal tax liability for that year. Any unused solar credit carries forward; unused EV credit generally does not.
-
-### Does it matter which order I apply the credits?
-
-Yes, tactically. Since the EV credit doesn't carry forward and the solar credit does, you want to apply the EV credit first to maximize what you keep. Your tax software may not do this automatically, so review the output or have your CPA confirm the sequencing.
-
-### What if I lease my EV instead of buying it?
-
-If you lease, you don't claim the 30D credit. The leasing company (as the vehicle owner) captures the credit and may or may not pass it to you as a lower payment. Ask the dealer explicitly whether the lease pricing reflects the tax credit. Some do, some don't, and they won't always volunteer the information.
-
-### Does the solar credit apply to the full cost of installation, including labor?
-
-Yes. The 30% Residential Clean Energy Credit applies to the full installed cost: equipment, labor, permitting fees, and battery storage. It does not apply to repairs to your roof made in conjunction with the installation, though there's some nuance if the roof work is structurally necessary for the solar mounting. That's worth clarifying with your CPA if applicable.
-
-### What income limits apply to the solar credit?
-
-Unlike the EV credit, the Residential Clean Energy Credit (solar) has no income cap. Any homeowner with federal tax liability can claim it. The EV credit has AGI limits, and income above the threshold disqualifies you entirely for that credit, even if the vehicle otherwise qualifies.
 
 ---
 

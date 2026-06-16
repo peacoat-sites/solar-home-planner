@@ -137,27 +137,6 @@ Get at least three quotes. Compare them on price per watt installed, not just to
 
 ---
 
-## Frequently Asked Questions
-
-### How many solar panels does a 2,000 sq ft house need?
-
-For most 2,000 sq ft homes, somewhere between 15 and 25 panels covers the majority of electricity needs. A home using 10,000 kWh per year in a mid-sun region (around 4.5 peak sun hours) typically needs 8 to 10 kW of capacity, which translates to 20 to 25 panels at 400 watts each. High-usage homes or those in lower-sun regions may need 28 to 32 panels.
-
-### Will a solar system fully eliminate my electric bill?
-
-Probably not completely, and that's not necessarily the goal. Most systems are sized to offset 90 to 100% of your annual consumption, but you'll still have a small monthly utility connection fee (typically $10 to $20 depending on your utility). Some months you'll pull from the grid, some months you'll export to it. Net metering reconciles that difference on an annual or monthly basis depending on your state's rules.
-
-### What does a solar system cost for a 2,000 sq ft house?
-
-A system sized for a 2,000 sq ft home typically runs $20,000 to $35,000 before the federal Investment Tax Credit. After the 30% federal tax credit, that drops to $14,000 to $24,500. State incentives, local rebates, and utility programs can bring that down further. Payback periods typically range from 6 to 12 years depending on your local electricity rates and sun hours.
-
-### Can I add solar panels later if I start with a smaller system?
-
-Yes, with some planning. If you think you'll add an EV or battery later, tell your installer upfront. They can size the inverter to handle future panel additions and leave electrical capacity in your main panel for expansion. Retrofitting is possible but costs more than planning for it from the start.
-
-### Do I need a battery with my solar system?
-
-Not necessarily. If your utility offers fair net metering, the grid serves as your "battery" effectively. You push excess power out during the day and pull from the grid at night. A battery makes sense if you want backup power during outages, your utility has poor net metering rates, or your utility charges time-of-use rates that make evening grid power expensive. For most grid-tied homeowners, a battery is a resilience investment, not a financial one.
 
 ---
 

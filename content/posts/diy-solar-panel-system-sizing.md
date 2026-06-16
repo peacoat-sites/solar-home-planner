@@ -122,27 +122,6 @@ Utility interconnection is separate from permitting. Your utility has to approve
 
 ---
 
-## Frequently Asked Questions
-
-### How accurate is DIY system sizing compared to a professional assessment?
-
-Surprisingly close, if you use PVWatts with accurate inputs and honest assumptions about your consumption. Where professional tools add value is in shade analysis, using tools like a Solmetric SunEye or drone-based irradiance modeling. If your roof has significant tree shade, it's worth paying for a professional shade study before committing.
-
-### Can I use my solar system to charge an EV, and does that change my sizing?
-
-Yes, and yes. An EV charging at Level 2 (240V/30A) overnight uses roughly 8 to 12 kWh for an average commute. Add that to your annual consumption number when sizing. If you're adding both a heat pump and an EV in the next few years, size for that future load now rather than adding panels later. Check out [Level 2 EV charger options](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=solardiyhome-20) *(affiliate link)* if you're planning ahead.
-
-### What's the minimum roof condition solar panels require?
-
-Your roof should have at least 10 years of remaining life before installation. Solar panels have 25 to 30 year lifespans. Replacing a roof under a solar array costs two to three times what re-roofing without panels costs, because the panels have to come off and go back on. If your roof is 15 years old with original shingles, seriously consider re-roofing first.
-
-### Does it matter if my panels face east or west instead of south?
-
-Yes, but not fatally. South-facing arrays at optimal tilt produce the most annual energy. East/west-facing arrays typically produce 15 to 20 percent less annually but can produce more electricity during morning and evening hours, which matters if you have time-of-use billing with peak rates at those times. Model both scenarios in PVWatts before deciding.
-
-### How do I know if my electrical panel can handle a solar connection?
-
-Your main service panel needs available breaker space and sufficient bus bar rating. A 200-amp panel is almost always adequate. The NEC 120 percent rule means your main breaker plus your solar backfeed breaker can't exceed 120 percent of the bus bar rating. On a 200-amp panel with a 200-amp main breaker, your solar backfeed breaker is capped at 40 amps (200A x 1.2 = 240A, minus 200A main = 40A solar). This limits string inverter connection to roughly 9.6 kW at 240V. If you need more, a panel upgrade or a load-side connection may be required.
 
 ---
 

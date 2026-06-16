@@ -111,29 +111,6 @@ A seller who can't tell you the battery's continuous discharge rate (C-rate) and
 
 No accessible BMS data or app integration. If you can't see cell voltage and temperature data, you're flying blind.
 
-## Frequently Asked Questions
-
-### How long do off-grid solar batteries actually last?
-
-Realistic lifespan depends heavily on chemistry and how you use them. Flooded lead-acid, properly maintained and cycled to 50% DoD, typically lasts 5 to 8 years. AGM is closer to 3 to 5 years under regular daily cycling. LiFePO4 from quality manufacturers can last 10 to 15 years in a well-designed system. Cycle life numbers on spec sheets assume controlled lab conditions. Real-world use, especially with temperature extremes or irregular charging, will reduce that.
-
-### Can I mix old and new batteries in my bank?
-
-You shouldn't. Mixing batteries of different ages, brands, or states of health creates imbalance in the bank. The weaker batteries drag down the stronger ones, accelerating degradation across the whole bank. If you need to expand capacity, it's usually better to create a separate new battery bank and wire it in parallel, keeping the old bank isolated as a secondary.
-
-### What inverter do I need for an off-grid battery system?
-
-You need a true inverter-charger, not just a grid-tie inverter. For whole-home off-grid systems, look at Victron Quattro or MultiPlus series, Sol-Ark 12K or 15K, or Schneider Electric XW+. These units manage battery charging from both solar (via a charge controller) and a backup generator, and they handle the power conversion from DC battery to AC household current. Make sure the inverter's battery voltage (12V, 24V, or 48V) matches your bank configuration.
-
-### Is a generator still necessary with a battery bank?
-
-For most full-time off-grid homes, yes. A generator is your backup for extended low-solar periods. The goal is to run it rarely, not constantly. A well-sized battery bank and solar array in a decent solar climate might mean running a generator only 5 to 10 times per year. I usually recommend sizing your battery bank for 3 days of autonomy and treating the generator as a fourth-day failsafe rather than a daily crutch.
-
-### Do I need a permit to install an off-grid battery system?
-
-In most U.S. jurisdictions, yes. Even off-grid systems typically require an electrical permit, and many areas require the installation to meet NEC Article 706 (for energy storage) and Article 690 (for solar). Some rural counties have minimal enforcement, but skipping permits creates problems with homeowner's insurance and property resale. If you're DIYing the install, check with your local building department before you start.
-
-The honest truth about off-grid battery selection is that there's no perfect battery for every situation, only the right battery for your specific loads, climate, budget, and tolerance for maintenance. Do the load calculation before you shop. Size for realistic autonomy, not theoretical best-case solar production. And buy from a company that will answer technical questions before the sale, not just after something goes wrong. The off-grid life is genuinely achievable for most people who plan carefully. The battery bank you choose will determine whether that life feels like freedom or a part-time job.
 
 ## Helpful Resources
 

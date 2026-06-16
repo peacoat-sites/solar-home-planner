@@ -117,27 +117,6 @@ One option the table above mentions is worth a quick note: portable or balcony s
 
 ---
 
-## FAQ
-
-### Can an HOA legally prevent me from installing solar panels on my condo?
-
-In many states, yes, they can set reasonable conditions but can't issue a flat ban. States like California, Florida, Colorado, and Texas have solar access laws protecting homeowners' rights to install solar. In states without such protections, your CC&Rs are the governing document, and if they prohibit exterior modifications, the HOA may have full authority to deny you. Check your state law before assuming either way.
-
-### What if my condo unit has its own private roof deck or exclusive-use roof space?
-
-This is actually a more favorable situation. If your CC&Rs designate a specific roof area as exclusive-use common area assigned to your unit, some states treat that more like private property for solar access purposes. You'll still likely need HOA approval for the installation itself, but you may have stronger legal footing than a unit owner with no roof access at all.
-
-### How does net metering work for a condo solar installation?
-
-Net metering credits the excess electricity your panels generate back to your utility account at some rate, usually the retail rate or a slightly reduced wholesale rate. The catch in a condo is that your system has to be tied to your individual meter, not the building's common meter, for you to receive those personal credits. This interconnection detail is one of the genuinely tricky technical pieces of a condo solar install, and your utility has to approve the configuration.
-
-### Is community solar actually worth it financially?
-
-For most condo owners, yes. The savings are modest, typically 5-15 percent, and subscription terms vary (watch for auto-renewal clauses and cancellation fees in the contract). But you avoid thousands of dollars in installation costs, all permitting complexity, and HOA negotiations entirely. If you're paying $150-200 a month in electricity, saving $10-20 per month consistently with zero upfront cost is a reasonable outcome. Run the numbers for your specific bill.
-
-### What should I watch out for when hiring a solar contractor for a condo or multi-family project?
-
-Contractors who've never done a multi-family or condo installation are a real liability here. Ask specifically: have they pulled permits in your municipality for a condo unit installation? Do they have experience with your utility's interconnection application process for multi-tenant buildings? Can they provide a roof penetration warranty? A contractor who hesitates on those questions, or gives you vague answers, is probably learning on your dime. Get at least three quotes and ask each one to walk you through the interconnection plan specifically.
 
 ---
 

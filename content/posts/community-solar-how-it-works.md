@@ -88,27 +88,6 @@ I've helped people go both routes. Neither is wrong. They're just different situ
 
 ---
 
-## FAQ
-
-### Is community solar available in my state?
-
-About 22 states have active community solar markets, with New York, Illinois, Colorado, Massachusetts, and Minnesota having the most mature programs. The easiest way to check is through your utility's website or by searching "[your state] community solar program" on your state's public utilities commission website.
-
-### Do I need to own my home to subscribe?
-
-No, and this is one of community solar's biggest advantages. Renters can subscribe just like homeowners, as long as you plan to stay in the same utility service territory for a reasonable amount of time (check the contract length and move policy before signing).
-
-### Will community solar show up on my utility bill?
-
-Yes. You'll typically see a bill credit line item from your community solar subscription applied to your utility statement each month. Some providers also send you a separate monthly statement showing your production share and credit details.
-
-### What happens to my subscription if I move?
-
-It depends on the contract. Many programs allow you to transfer your subscription to a new address within the same utility territory. If you move out of the service area, good contracts include a no-penalty exit clause. This is one of the most important things to clarify before you sign, so ask directly and get it in writing.
-
-### Can I combine community solar with rooftop solar or a home battery?
-
-Generally, no. Most utilities won't allow you to have both a rooftop solar net metering arrangement and a community solar subscription at the same address simultaneously. If you already have rooftop solar, community solar likely isn't available to you in your current home. Home batteries are a separate matter and don't affect your eligibility for community solar on their own.
 
 ---
 

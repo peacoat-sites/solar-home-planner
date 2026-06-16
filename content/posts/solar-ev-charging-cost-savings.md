@@ -108,27 +108,6 @@ Add in the federal Investment Tax Credit (ITC), which is currently 30% of the to
 
 ---
 
-## FAQ
-
-### How many solar panels does it take to charge an EV?
-
-It depends on how far you drive and where you live, but a useful rough estimate: every 1 kW of solar capacity generates about 100 to 150 kWh per month depending on your location's sun hours. If you need 320 kWh/month for the car, that's roughly 2 to 3 kW of additional solar capacity dedicated to vehicle charging. Translated to panels: modern 400W panels mean you'd need 5 to 8 additional panels to cover average EV charging needs.
-
-### Can I use solar to charge my EV without a battery?
-
-Yes, and many homeowners do exactly this. The key is scheduling your charging during peak solar production hours, roughly 10 a.m. to 3 p.m. Without a battery, any unused solar generation gets pushed back to the grid (and credited via net metering if your utility offers it). A Level 2 charger with time-scheduling lets you set this up automatically.
-
-### Does the 30% federal tax credit apply to EV charging equipment too?
-
-It does, with a catch. The residential EV charging equipment credit (Form 8911) was recently modified and now requires the charger to be installed in a Census-designated low-income or rural census tract to qualify for the residential credit. However, the solar ITC (Form 5695) still covers the full system including installation at 30%, regardless of location, through 2032. Check with a tax professional on your specific situation since these rules have shifted.
-
-### What if my utility has net metering? Does that change the math?
-
-It does, significantly. With full retail net metering, any excess solar you push to the grid earns you credits at your retail electricity rate. This means even if you can't charge your car during the day (because you're at work), your solar overproduction during the day can offset the grid power you pull in the evening for charging. Many utilities are moving toward reduced net metering rates, though, so don't plan your system around generous net metering that might not last.
-
-### Is it worth adding more solar panels if I already have a system but just got an EV?
-
-Almost always, yes. Adding panels to an existing system is often cheaper per watt than the original installation if your inverter has spare capacity or if you're switching to microinverters. The EV creates a large new load that changes your system's economics entirely. Get at least two quotes from installers who will do a real production analysis, not just a satellite estimate, before deciding.
 
 ---
 

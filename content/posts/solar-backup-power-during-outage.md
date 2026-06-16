@@ -111,27 +111,6 @@ The NREL has done extensive modeling on residential solar-plus-storage resilienc
 
 ---
 
-## Frequently Asked Questions
-
-### Will my existing solar panels work during a power outage without a battery?
-
-No. If you have a standard grid-tied system, your inverter will shut down automatically when the grid goes offline. This is a code-required safety feature, not a malfunction. Without battery storage or a specific off-grid inverter configuration, your solar panels produce no usable power during an outage.
-
-### How long can a solar battery power my house?
-
-It depends entirely on your loads and how much sun you're getting. A single 13.5 kWh battery running only essential loads (refrigerator, lights, phone chargers, maybe a small fan) might last 24-36 hours overnight. If your solar panels are recharging it during daylight, a properly sized system can sustain those essential loads indefinitely through most weather. Heavy loads like central AC, electric water heaters, and EV chargers will drain a single battery very fast.
-
-### Can I add battery storage to my existing solar system?
-
-Usually yes, though the compatibility depends on your current inverter. Some inverters are "battery-ready" and support AC-coupled storage. Others may need to be replaced with a hybrid inverter, especially for DC-coupled configurations. Get a site assessment from a qualified installer who works with multiple battery brands, not just the one they happen to sell.
-
-### What size battery do I need for backup power?
-
-A practical starting point: identify every load you actually need during an outage, estimate the wattage, and calculate how many hours per day you'd run each one. Add 20% for inefficiency and unexpected loads. Compare that to the usable capacity of the battery you're considering. For most households prioritizing refrigerator, lights, device charging, and one room AC unit, a single 10-15 kWh battery is a reasonable starting point. Two batteries gives you meaningful comfort.
-
-### Does the 30% federal tax credit apply to adding a battery to existing solar?
-
-Yes, as of the Inflation Reduction Act changes that took effect in 2023, standalone battery storage qualifies for the 30% Investment Tax Credit even when retrofitted to an existing solar system, as long as the battery has a minimum capacity of 3 kWh. This is a significant change from prior rules that required batteries to be installed simultaneously with solar to qualify. Consult a tax professional for your specific situation.
 
 ---
 

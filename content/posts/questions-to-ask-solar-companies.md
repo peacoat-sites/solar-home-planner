@@ -119,27 +119,6 @@ If one quote is dramatically cheaper than the others, find out why before you ce
 
 ---
 
-## Frequently Asked Questions
-
-### How many quotes should I get before choosing a solar installer?
-
-Get at least three, and try to include a local installer alongside any national companies. National companies have more standardized processes, but local installers often have faster service response times and more accountability in the community. EnergySage's market data shows that getting multiple quotes saves homeowners an average of 20 percent or more compared to signing with the first company they talk to.
-
-### What is a reasonable price per watt for residential solar in 2025?
-
-The typical range is $2.50 to $4.00 per watt installed, before any tax credits or incentives. A 10 kW system at $3.00/W costs $30,000 before the 30 percent federal tax credit, bringing it to $21,000. Systems on the low end of the price range often use lower-tier equipment or carry shorter workmanship warranties. Systems at the high end sometimes include batteries or premium equipment. Always ask what's driving the number.
-
-### Can I ask to see the installer's license number and verify it?
-
-Yes, and you should. Every licensed contractor has a number on file with the state contractor licensing board. Most states let you verify it online in minutes. You want to confirm the license is active, in good standing, and covers the scope of work (electrical, roofing, or general contracting as required).
-
-### What should I do if the salesperson pressures me to sign the same day?
-
-Don't sign. A legitimate company will give you time to review the contract and compare quotes. Same-day pressure tactics are a feature of commission-driven sales culture, not a sign of a trustworthy company. Tell them you'll have a decision within a week. If they threaten to pull the offer, let them.
-
-### Does it matter if the company uses subcontractors for installation?
-
-It can matter significantly. Ask who specifically will be on your roof and doing the electrical work, and confirm those individuals carry the appropriate licenses and are covered under the company's insurance policy. If the contractor can't tell you who the subcontractor is before you sign, that's a problem.
 
 ---
 

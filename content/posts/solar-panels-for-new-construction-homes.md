@@ -108,27 +108,6 @@ One timing note: some states require a final electrical inspection before the sy
 
 ---
 
-## Frequently Asked Questions
-
-### Can I negotiate solar into my new construction contract with a production builder?
-
-Yes, and this is often a smarter play than going directly to a third-party installer. Many production builders have preferred solar vendors and can roll the cost into your mortgage, which means you're financing solar at your mortgage rate rather than a solar loan rate. The catch is that you have less control over the system design and equipment choices. Get the spec sheet for the panels and inverter they're proposing, and compare it to the open market before you sign.
-
-### Should I install battery storage alongside solar on a new build?
-
-If you're in an area with frequent outages, time-of-use utility rates, or limited net metering, yes. A battery like the Tesla Powerwall 3 or Enphase IQ Battery 5P adds $10,000 to $15,000 to your project cost before the ITC applies. On a new build, the electrical work to integrate storage is cheaper because the electrician is already there. If your utility has favorable full-retail net metering (as many still do), you can skip storage initially and add it later.
-
-### What's the best inverter type for new construction solar?
-
-For most new builds, microinverters (like Enphase IQ8) or DC optimizers with a string inverter (like SolarEdge) are worth the slight cost premium over a basic string inverter. They handle shading better, give you panel-level monitoring, and make future system expansion easier. For a new build where you're designing the system from scratch, microinverters in particular offer clean wiring, no single point of failure, and a simple expansion path.
-
-### What contractor red flags should I watch for when hiring a solar installer for new construction?
-
-Watch for any installer who won't provide a site-specific energy production estimate in writing. You want to see projected annual kWh production, not just system size. Also be wary of anyone pushing the largest possible system without asking about your actual projected loads or EV plans. On the contracting side, confirm they carry both general liability and workmanship warranty insurance, and that their workmanship warranty covers at least 10 years. A 10-year workmanship warranty from a company that's been in business for three years isn't worth much, either.
-
-### How do I monitor my solar system's performance after move-in?
-
-Your inverter will come with a manufacturer app (Enphase Enlighten, SolarEdge mySolarEdge, etc.) that shows panel-level or system-level production. For a more complete picture of how solar production compares to your whole-home consumption, consider adding a home energy monitor like the [Sense Energy Monitor](https://www.amazon.com/s?k=sense+home+energy+monitor&tag=) or [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=) (the site may earn a commission on purchases). These mount in your electrical panel and give you real-time data on what every circuit in your home is consuming, which helps you identify waste and validate whether your solar system is performing to spec.
 
 ---
 

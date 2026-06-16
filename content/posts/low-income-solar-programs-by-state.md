@@ -104,27 +104,6 @@ The subscriber model means you don't own anything, but you also don't pay instal
 
 ---
 
-## FAQ
-
-### Does low-income solar mean I get the system for free?
-
-Sometimes, yes. Programs like California's SASH and GRID Alternatives' installations do result in free systems for qualifying households. More often, you're looking at deep discounts, subsidized loans, or bill credits rather than a fully funded installation. The specific outcome depends heavily on your state and which program you qualify for.
-
-### Can I get solar if I rent my home?
-
-You can't install rooftop solar on a home you rent, but community solar programs are available to renters in many states. You subscribe to a share of an off-site solar array and get credits applied to your utility bill. New York, Illinois, Minnesota, and Maryland have programs specifically designed to include low-income renters.
-
-### Do these programs affect my Section 8 or other housing assistance?
-
-This is a legitimate concern and the answer depends on how a program is structured. In most cases, a utility bill reduction from solar doesn't count as income for federal housing assistance purposes. But if you receive a lump-sum rebate or payment, it could be treated differently. Talk to your housing case worker before signing anything.
-
-### What's the income limit to qualify for low-income solar programs?
-
-It varies by state and program. Some use 80% of area median income (AMI), which in a high-cost metro could be $65,000 or more for a family of four. Others use 150% of the federal poverty level, which is much lower. Participation in LIHEAP, SNAP, or Medicaid is often used as a proxy for income eligibility, so if you receive those benefits, start there.
-
-### What if my state doesn't have a low-income solar program?
-
-Start with the federal Weatherization Assistance Program through your local Community Action Agency. It won't give you solar, but reducing your energy load through insulation and efficiency upgrades can lower your monthly bills meaningfully and make you a better candidate for any future solar program. Also watch for utility-level programs even in states without statewide policy. Austin Energy and CPS Energy in Texas, and Duke Energy's limited pilot programs, are examples of utility-specific options in otherwise thin markets.
 
 ---
 

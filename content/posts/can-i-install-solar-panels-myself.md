@@ -126,27 +126,6 @@ The savings case for DIY solar is real but not guaranteed. Contractor labor and 
 
 ---
 
-## FAQ
-
-### Can I legally install solar panels myself without an electrician?
-
-In many states, yes, if you're doing it on your primary residence and your jurisdiction allows the homeowner permit exemption. But this varies significantly by state and even by county. Some jurisdictions require a licensed electrical contractor for any grid-tied solar work regardless of who the homeowner is. Call your local building department to get the specific answer for your address.
-
-### Will my solar panels still have a warranty if I install them myself?
-
-Maybe, and this matters a lot. Many panel manufacturers require installation by a certified installer (often NABCEP-certified) to honor the performance warranty. Check the warranty terms of any panel you're considering before you buy. Some manufacturers, especially those selling through DIY-friendly distributors, have homeowner-friendly warranty terms. Ask directly and get confirmation in writing.
-
-### What's the hardest part of DIY solar?
-
-For most homeowners without electrical experience, it's the electrical design and wiring. For people with electrical backgrounds, it's often the utility interconnection process, which can be slow, bureaucratic, and frustratingly opaque. For everyone, permit documentation is more involved than expected the first time through.
-
-### Can I add battery backup myself if I'm already DIYing the solar?
-
-Adding a battery system, like a Powerwall or a Fortress Power unit, increases the complexity significantly. You're adding a second inverter or a hybrid inverter, additional DC wiring, and critical load panel work. The permitting for battery storage is a separate process in some jurisdictions. It's doable, but I'd suggest getting the solar system running first and treating battery storage as a phase two project.
-
-### How do I know if a solar installer is legitimate if I decide not to DIY?
-
-The key markers are proper licensing in your state, liability insurance, NABCEP certification, and a track record you can verify through references and reviews. You can dig deeper into vetting contractors by reading about [how to verify whether your solar installer is legitimate](/is-my-solar-installer-legit/) and checking out the [questions worth asking any solar company](/questions-to-ask-solar-companies/) before you sign anything.
 
 ---
 

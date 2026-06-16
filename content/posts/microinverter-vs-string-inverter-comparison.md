@@ -90,27 +90,6 @@ And if someone is pushing you hard toward one inverter type without asking about
 
 ---
 
-## FAQ
-
-### Do microinverters really last longer than string inverters?
-
-The industry often claims 25-year lifespans for microinverters compared to 10-15 years for string inverters, and there's some truth to it, but microinverters haven't existed long enough to validate 25-year real-world performance at scale. Enphase IQ series units carry a 25-year warranty, which is meaningful, but string inverters from SMA or Fronius with extended warranties can also get you to 20 years. Don't let longevity claims be the sole deciding factor.
-
-### Can I add microinverters to an existing string inverter system?
-
-Technically yes, but practically this is almost never worth doing mid-system. You'd be mixing monitoring platforms, creating potential code compliance issues, and paying a premium for a piecemeal solution. If you're expanding an existing system significantly, get a proper redesign quote rather than bolting on mismatched technology.
-
-### Does my HOA have any say in which inverter I use?
-
-Your HOA can regulate visible equipment placement in some states, but they generally cannot prohibit solar outright due to solar access laws in most of the U.S. Inverter choice is typically invisible to HOA rules since the hardware sits on your garage wall or behind panels, not on the street-facing facade. Always check your state's specific solar rights statutes before assuming either way.
-
-### Will a string inverter work if I want to add a battery later?
-
-It depends on the battery system. A hybrid inverter like the SolarEdge Energy Hub or the SMA Sunny Boy Storage is designed for this. A standard string inverter typically is not battery-ready without adding equipment. If battery storage is even a possibility in your five-year horizon, spec for it now. Retrofitting is expensive.
-
-### Is it worth paying extra for panel-level monitoring with a string system?
-
-If you're someone who checks their production app regularly and actually investigates anomalies, yes, the upgrade to optimizers or micros pays for itself in caught problems and peace of mind. If you're going to glance at a yearly total on your utility bill, the granular monitoring is wasted on you and you should save the money.
 
 ---
 

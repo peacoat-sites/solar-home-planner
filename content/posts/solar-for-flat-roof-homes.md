@@ -105,27 +105,6 @@ Most solar installers do most of their work on pitched roofs. That's where the v
 
 ---
 
-## Frequently Asked Questions
-
-### Can I install solar on a flat roof myself?
-
-Technically yes, in many states, if you're a licensed homeowner pulling your own permits. The electrical work in most jurisdictions requires either a licensed electrician or a homeowner-permit process that involves inspections. The racking and mounting work is more physically accessible on a flat roof than a pitched one, but ballast weight and membrane compatibility details trip up a lot of DIYers. If you want to go this route, a quality [DIY solar guide](https://www.amazon.com/s?k=solar+installation+guide&tag=your-tag-here) with flat roof-specific instructions can help you avoid the most common mistakes. *(Disclosure: this site may earn a commission on qualifying purchases.)*
-
-### What tilt angle should I use for flat roof solar panels?
-
-For most locations in the continental U.S., a tilt angle between 10 and 20 degrees balances production, wind resistance, and row spacing efficiency. At 10 degrees, self-cleaning from rain is reduced but wind loads are lower. At 20 degrees, production is higher but you'll need more row spacing and potentially more ballast. Match your tilt to your latitude divided roughly by two as a starting point, then run it through NREL's PVWatts calculator to compare.
-
-### Will solar panels void my flat roof warranty?
-
-Possibly, yes. Many commercial-grade flat roof membrane warranties require that any penetrations or attached hardware be made by a certified membrane contractor following manufacturer guidelines. Residential warranties vary by manufacturer. Check your existing roof warranty before installation, and ask your solar contractor whether they're certified by the membrane manufacturer. Some roofing companies offer a combined solar-ready roof plus racking installation that keeps the warranty intact.
-
-### How does flat roof solar compare in cost to pitched roof solar?
-
-Expect to pay roughly 10 to 20 percent more per watt for a quality flat roof installation compared to a straightforward pitched roof job in the same area. The premium reflects the added engineering work, the racking system cost (ballasted systems use more hardware than standard rail systems), and the greater care required for waterproofing. Don't accept significantly higher quotes than that range without a detailed explanation of what's driving the cost.
-
-### Can I add EV charging to a solar system on a flat roof home?
-
-Absolutely, and it's one of the best combinations in residential energy. A 7 to 10 kW solar system on a flat roof with 6 to 10 panels dedicated to EV charging can cover most of a typical EV driver's annual mileage needs. You'll want a Level 2 EV charger (240V, 48 amps is the current standard for home charging) tied into the same electrical panel your solar feeds. [Level 2 EV charging equipment](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=your-tag-here) ranges from about $200 to $700 for the unit itself, plus installation. *(Disclosure: this site may earn a commission on qualifying purchases.)*
 
 ---
 

@@ -84,27 +84,6 @@ Panel mounting matters more than people think. If your roof isn't oriented well 
 
 ---
 
-## Frequently Asked Questions
-
-### How many solar panels does a remote cabin need?
-
-For a small cabin with basic loads (LED lights, device charging, a 12V refrigerator, and a water pump), two to four 200W panels is a common and workable range. The exact number depends on your daily watt-hour load and the peak sun hours at your specific location, so run the numbers before you buy.
-
-### Can I run a well pump on off-grid solar?
-
-Yes, but it significantly increases your system size requirements. A 1/2 HP 120V well pump can pull 750 to 1,000 watts at startup, which demands a larger inverter and more battery capacity to handle the surge. Some people use a 12V DC submersible pump and a gravity-fed holding tank to sidestep the issue entirely, which I'd honestly recommend for a simple cabin setup.
-
-### What's the best battery for a cold-climate off-grid cabin?
-
-LiFePO4 (lithium iron phosphate) batteries handle cold discharge better than many lithium chemistries and significantly better than flooded lead-acid, but you absolutely cannot charge them below 32°F without risking damage. If your cabin stays below freezing for extended periods without heat, look for heated LiFePO4 batteries (Battle Born makes a self-heating version) or plan your system so charging happens only when cabin temps are above freezing.
-
-### Do I need a generator backup for an off-grid cabin solar system?
-
-You don't strictly need one, but having a small generator as a backup is smart insurance, especially if you have extended stretches of cloudy weather or your loads vary a lot between visits. A Honda EU2200i is the gold standard for quiet, reliable cabin backup. That said, if you've sized your battery bank for 3 days of autonomy, most weather patterns won't push you to the edge.
-
-### How long does an off-grid cabin solar system last?
-
-Quality monocrystalline panels are warrantied to produce at least 80% of rated output after 25 years and often keep going well beyond that. LiFePO4 batteries are typically rated for 2,000 to 3,500 charge cycles, which at daily cycling translates to 8 to 10 years or more. Your charge controller and inverter are consumables by comparison; plan to replace those within 10 to 15 years.
 
 ---
 

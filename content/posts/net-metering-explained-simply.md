@@ -103,27 +103,6 @@ What this means practically: if you're in a state with full retail net metering 
 
 ---
 
-## FAQ
-
-### Does net metering mean I'll never pay a utility bill again?
-
-Probably not, and any installer who promises zero bills without caveats is oversimplifying. Most utilities have fixed monthly fees, typically $10 to $25, that apply regardless of your solar production. You'll also likely owe something during winter months or extended cloudy stretches. A well-sized system can get your variable energy charges close to zero in peak production months, but the goal is dramatic reduction, not elimination in most cases.
-
-### What happens to my excess credits at the end of the year?
-
-This depends on your utility's specific tariff. Most utilities will not write you a meaningful check for unused annual credits. They either carry a very small amount forward, pay you at the wholesale rate (a few cents per kWh), or zero out the balance entirely. This is why accurate system sizing matters so much. Over-building to "bank" lots of credits generally doesn't improve your return on investment.
-
-### Can my utility change my net metering rate after I install?
-
-Yes, though most states include grandfathering provisions that protect existing solar customers for a set period, often 10 to 20 years, when major policy changes happen. California's NEM 3.0 grandfathered NEM 2.0 customers for a period, for example. However, grandfathering isn't guaranteed indefinitely. Read your interconnection agreement carefully and ask your installer specifically what protections exist in your state.
-
-### Does net metering work the same with a battery system?
-
-Not exactly. With a battery, your system architecture changes because you can store excess solar production and use it yourself later instead of exporting it. In states with low export rates (like NEM 3.0 California), this is actually financially smarter than exporting. Your meter still tracks grid exchanges for billing purposes, but you're exporting less and using more of your own power. Some utilities also have specific rate tariffs for battery-equipped systems.
-
-### Is net metering available everywhere in the U.S.?
-
-The majority of U.S. states have some form of net metering policy, but not all, and the quality varies significantly. A few states have no statewide mandate, leaving it up to individual utilities, which means coverage can be inconsistent even within a state. Before you sign anything, look up your specific utility's current solar tariff, not just your state's general policy. Your state's public utilities commission website is usually the most reliable source for this.
 
 ---
 

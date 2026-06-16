@@ -126,27 +126,6 @@ Some things just tell you to close the folder and call the next company.
 
 ---
 
-## FAQ
-
-### How many bids should I get before choosing a solar installer?
-
-Three is the standard advice, and it's good advice. Three bids give you enough data to spot an outlier (high or low) without spending weeks gathering information. If all three are within 15% of each other on price per watt for comparable systems, you have a healthy market. If one is dramatically cheaper, find out why before assuming you found a deal.
-
-### Should I always choose the lowest cost per watt?
-
-Not necessarily. Cost per watt is a useful normalizing metric, but it doesn't capture installer quality, warranty depth, or equipment longevity. A $2.50/W bid with a 5-year workmanship warranty from a company two years old is not automatically better than a $2.80/W bid with a 10-year warranty from a contractor who's been in business since 2009. Use cost per watt to filter out outliers, not to make your final decision.
-
-### What's the federal solar tax credit and should it affect which bid I choose?
-
-The federal Investment Tax Credit (ITC) currently allows you to deduct 30% of your total system cost from your federal taxes. It applies to the system you own, which means cash purchases and loans, not PPAs or leases. Since the tax credit percentage is the same regardless of who installs the system, it shouldn't directly affect which bid you choose. But it does affect which financing structure makes sense. A $23,000 system nets to roughly $16,100 after the tax credit if you have sufficient tax liability.
-
-### Can I negotiate with solar installers?
-
-Yes, and you should. Showing a competing bid is the most effective negotiating tool. Installers have more flexibility on labor and margin than on equipment, so don't expect them to match a bid that uses inferior panels. You can also ask about bundled deals if you're considering adding a battery backup system at the same time, since installers often discount batteries on combined projects.
-
-### What happens to my warranty if the installer goes out of business?
-
-This is a real risk and not a hypothetical one. The panel manufacturer's warranty follows the panel, so Qcells or REC Group will still honor it regardless of who installed the system. The inverter warranty is similarly held by the manufacturer. The workmanship warranty, however, is held by the installer. If they close, it's typically gone. Some installers buy third-party workmanship warranty insurance. Ask about it specifically.
 
 ---
 

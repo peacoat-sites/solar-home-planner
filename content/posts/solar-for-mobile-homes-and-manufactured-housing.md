@@ -108,27 +108,6 @@ Use this sequence before you talk to a single contractor. It'll save you time an
 
 ---
 
-## FAQ
-
-### Can I put solar on a manufactured home that's in a mobile home park?
-
-Yes, but it's more complicated. If you don't own the land, a roof mount may be your only option since ground mounts require land rights. You'll also need the park owner's permission, and many parks have lease agreements that restrict exterior modifications. Review your lease carefully before spending money on a site evaluation. Some parks have blanket policies against solar. Others are fine with it. Get any approval in writing.
-
-### Does the federal solar tax credit apply to manufactured homes?
-
-Yes. The 30% ITC applies to solar installations on your primary residence regardless of whether it's a manufactured home or site-built. The home must be in the U.S., and you must own (not lease) the solar system. The credit is claimed on IRS Form 5695. If your tax liability in year one is less than the full credit, the remaining balance carries forward to the following tax year.
-
-### What happens if I need to re-roof while I have solar panels?
-
-You'll need to have the panels temporarily removed and reinstalled after the roof work is done. This is called a "pull and reset" and typically costs $500 to $1,500 depending on system size and your location. If your manufactured home's roof is aging, address it before installing solar. Adding panels to a roof that needs replacement in three years is an expensive mistake.
-
-### Can I add battery storage to a manufactured home solar system?
-
-Absolutely. Battery storage is especially valuable for manufactured home owners in areas with unreliable grid power or time-of-use utility rates. Systems like the Tesla Powerwall or Enphase IQ Battery can be wall-mounted inside or outside the home. Verify your utility's interconnection requirements for battery-paired systems, as some utilities have additional requirements or restrictions on battery backup modes.
-
-### Is a DIY solar installation legal on a manufactured home?
-
-In some jurisdictions, yes, but with significant caveats. The HUD alteration requirements mean any modification to a manufactured home needs to meet federal standards, and a permit is almost certainly required. Some states allow licensed homeowners to pull their own electrical permits; others don't. The electrical work on a solar installation involves working with both DC and AC systems, inverter wiring, and utility interconnection. If you're not a licensed electrician and comfortable with that work, hire out the electrical portion even if you handle the mounting and wiring runs yourself.
 
 ---
 

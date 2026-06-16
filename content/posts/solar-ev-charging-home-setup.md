@@ -117,27 +117,6 @@ Pair your system with a [home energy monitor like the Emporia Vue](https://www.a
 
 ---
 
-## Frequently Asked Questions
-
-### Can I charge my EV entirely from solar?
-
-You can come very close, especially if you use a smart charger set to charge during peak solar production hours. In practice, most homeowners cover 80-95% of their EV charging from solar when the system is correctly sized, with the gap typically filled by overnight grid power under a net metering arrangement.
-
-### How much does a solar plus EV charging setup cost?
-
-A 9-11 kW solar system runs roughly $25,000 to $35,000 before the federal 30% investment tax credit (ITC), which applies as long as you have a tax liability. After the credit, you're looking at $17,500 to $24,500. Add $1,000 to $2,000 for a Level 2 smart charger with installation. Battery storage adds another $12,000 to $20,000 if you want it.
-
-### Will solar actually power my car in a blackout?
-
-Not without battery storage, and even with a battery, it depends on your inverter configuration. Standard grid-tied solar systems shut down during outages as a safety requirement. If backup charging capability during outages matters to you, you need a battery and an inverter rated for off-grid or backup operation.
-
-### What federal incentives apply?
-
-The federal Investment Tax Credit (ITC) currently covers 30% of the total system cost, including battery storage if the battery is charged primarily by solar. This credit runs through 2032 at 30%, then steps down. Some states have additional rebates or tax credits on top of this. Check your state energy office website for current programs.
-
-### How long until a solar plus EV system pays for itself?
-
-Payback periods vary significantly by location, electricity rates, and how much you drive. In high-electricity-cost states like California, Hawaii, or Massachusetts, payback periods of 6 to 9 years are realistic. In lower-rate states, expect 10 to 14 years. The EV charging savings are additive on top of your household solar savings, which is why the combination often has a better payback than solar alone.
 
 ---
 

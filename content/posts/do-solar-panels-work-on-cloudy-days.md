@@ -86,27 +86,6 @@ There's also a real but underappreciated advantage to cold temperatures in cloud
 
 ---
 
-## Frequently Asked Questions
-
-### Do solar panels work in heavy rain?
-
-Yes, though production will be lower than on a clear day, typically in the 5-20% range depending on how thick the cloud cover is. One upside: rain actually cleans dust and pollen off your panels, which can briefly improve output after the storm passes. If you're in a particularly dusty area, a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=yourtag-20) can help maintain performance between rain events. *(This site may earn a commission on qualifying Amazon purchases.)*
-
-### How much do solar panels produce on a cloudy day compared to a sunny day?
-
-It depends on the cloud thickness. Light overcast conditions might give you 40-60% of your clear-sky output. Thick, heavy cloud cover can drop output to 10-15%. Partial cloud cover with the sun visible intermittently might produce 60-80%, and the edge-of-cloud effect can briefly push output above rated capacity.
-
-### Is solar worth it in a place like Seattle or London?
-
-The math is tighter than in a sunnier climate, but not necessarily negative. Seattle gets around 3.5-4.0 peak sun hours per day annually, which is lower than Phoenix's 6.5, but Seattle also has relatively high electricity rates. Use NREL's PVWatts calculator with your actual address to get location-specific projections, then run a real payback calculation. Don't let anyone tell you it's automatically a good or bad deal without doing that math first.
-
-### Do clouds actually ever help solar panel output?
-
-Yes, temporarily. The edge-of-cloud effect, where the border of a cloud concentrates diffuse light, can create brief spikes in irradiance that push output above what you'd get on a perfectly clear day. This is real but short-lived. It won't meaningfully change your annual production estimate, but it's a genuinely interesting quirk and a good rebuttal to anyone who claims clouds are nothing but a problem.
-
-### Will adding a battery help my solar system perform better on cloudy days?
-
-A battery doesn't make your panels produce more, but it changes how you use what they do produce. On cloudy days, your panels may still generate a meaningful amount of power during daylight hours, and a battery lets you shift that energy to evening use rather than exporting it at a low net metering rate. In climates with frequent cloud cover, this can make battery payback more attractive than it would be somewhere with reliable daily solar peaks.
 
 ---
 

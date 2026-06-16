@@ -115,27 +115,6 @@ Here's how you actually configure a working solar-to-car charging setup once har
 
 ---
 
-## Frequently Asked Questions
-
-### Can I charge my EV entirely from solar without a battery?
-
-Yes, with conditions. If you charge during daylight hours when your panels produce a surplus, the power flows directly from panels to car. At night or on overcast days, you draw from the grid. With net metering, daytime solar exports offset nighttime grid use financially, effectively approximating full solar charging on your bill even if not physically.
-
-### How many solar panels does it take to charge an EV?
-
-For an average driver covering 37 miles per day, expect to add 6 to 10 panels (400W each) specifically to offset EV charging. That's 2.4 to 4 kW of additional capacity. Variables include your location, roof orientation, panel efficiency, and whether you're targeting 100% offset or just a significant reduction.
-
-### Does solar charging work with any EV?
-
-Any EV with a standard J1772 port works with a Level 2 EVSE, which is what you'd connect to a solar system at home. Teslas use a different connector natively but ship with adapters. Bidirectional charging (vehicle-to-home) is a different question: only specific vehicles (Nissan Leaf with CHAdeMO port, Ford F-150 Lightning, Hyundai Ioniq 5 and 6) currently support it with the right hardware.
-
-### What's the payback period for solar plus EV charging?
-
-It depends heavily on your electricity rate, driving miles, solar resource, and whether you qualify for the federal 30% Investment Tax Credit under current IRS guidance. A rough estimate for a combined solar-plus-EV-charging system in a high-rate state like California or Massachusetts: 6 to 9 years. In a low-rate state like Louisiana or Idaho, closer to 10 to 14 years. The ITC significantly changes that math, so don't evaluate payback without it.
-
-### Is a dedicated circuit required for an EV charger?
-
-Yes. A Level 2 EVSE must be on a dedicated 240V circuit, sized to 125% of the charger's continuous load per NEC 625. A 32A charger needs a 40A dedicated circuit. A 48A charger needs a 60A circuit. Sharing a circuit with other loads isn't permitted and creates a genuine fire risk, not a theoretical one.
 
 ---
 

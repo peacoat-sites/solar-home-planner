@@ -137,27 +137,6 @@ Speaking of EV charging, if you're off-grid with an EV, consider a Level 1 or sm
 
 ---
 
-## FAQ
-
-### How many kWh of battery do I need for an off-grid home?
-
-Most off-grid homes need between 20 and 80 kWh of usable battery capacity. The range is that wide because load size, autonomy goals, and climate all vary dramatically. Start with your daily load in kWh, multiply by your days of autonomy target (typically 3), then divide by your battery's usable depth of discharge. Add 10 to 15% for system losses and temperature derating.
-
-### Is 10 kWh of battery storage enough for off-grid living?
-
-For a very small, extremely efficient home or seasonal cabin with propane backup, possibly. For a full-time family residence, almost certainly not. Ten kWh of usable storage would cover a 10 kWh/day home for exactly one day with no solar input. That's a dangerously thin margin for any location with variable weather.
-
-### What's the difference between battery capacity and usable capacity?
-
-Nameplate capacity is what the manufacturer lists. Usable capacity is what you can actually draw without damaging the battery. Lead-acid batteries are typically limited to 50% depth of discharge, meaning a 100Ah, 48V (4.8 kWh) battery only delivers 2.4 kWh usably. LiFePO4 at 85% DoD gives you 4.08 kWh from the same nameplate size. Always size to usable capacity, not nameplate.
-
-### How long will off-grid batteries last?
-
-LiFePO4 batteries typically last 10 to 15 years at daily cycling, with many manufacturers warranting 3,000 to 6,000 cycles to 80% capacity. Quality flooded lead-acid batteries, properly maintained and not over-discharged, can last 5 to 8 years. AGM lead-acid tends to fall in the 4 to 6 year range with regular use. The chemistry choice significantly affects your long-term cost per kWh delivered.
-
-### Do I need a generator with an off-grid solar battery system?
-
-Technically no, but practically speaking, most off-grid homeowners should plan for one. A propane or dual-fuel generator as a backup for extended cloudy periods is far more cost-effective than sizing your battery bank for worst-case seasonal scenarios. Think of it as insurance. Size your battery for typical winter autonomy, and let the generator handle the outliers.
 
 ---
 

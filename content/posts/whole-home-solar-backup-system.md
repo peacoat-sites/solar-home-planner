@@ -112,27 +112,6 @@ I've reviewed a lot of proposals on behalf of homeowners. Here's what I actually
 
 For DIY-capable homeowners handling part of the project, a solid [solar installation guide](https://www.amazon.com/s?k=solar+installation+guide) can help you understand what your contractor should be doing and catch gaps in the scope of work.
 
-## FAQ
-
-### How much does a whole home solar backup system cost?
-
-Expect $25,000 to $60,000 for a complete system designed for genuine whole home backup, depending on your home's size, location, existing solar, and how many days of autonomy you want. That range includes solar panels, battery bank, inverter, installation, permits, and utility fees. The federal Investment Tax Credit (ITC) currently covers 30% of the cost of both solar and storage, which meaningfully changes the net figure. A system that costs $40,000 before tax credit costs $28,000 after, assuming you have sufficient tax liability to use the full credit.
-
-### Can I add battery backup to my existing solar system?
-
-Yes, in most cases. The process depends on your current inverter brand and model. Some systems are designed for AC coupling and accept a battery inverter added alongside the existing equipment. Others work better with a full inverter replacement. Get a compatibility assessment before buying anything. Swapping out a functional inverter you've had for three years because a contractor didn't check compatibility first is a real and avoidable expense.
-
-### Will the system power my central AC during an outage?
-
-It can, but this is where sizing matters most. A 3-ton central AC unit draws roughly 3.5 kW running and can spike to 6 or 7 kW on startup. Your battery inverter must handle that surge without shutting down. Many single-battery systems can't. Two or more high-output battery units, or a hybrid inverter with a high surge rating, are typically required to run central air reliably during backup mode.
-
-### What's the difference between a critical loads panel and whole home backup?
-
-A critical loads panel is a subpanel wired to a limited set of circuits: typically the refrigerator, a few lights, and maybe one or two outlets. It's powered by your battery during outages while the rest of your house stays dark. Whole home backup keeps everything running. Critical loads panels cost less and require less battery capacity, but they're not the same thing as whole home backup, even if they're sometimes marketed similarly.
-
-### How long will the batteries last before needing replacement?
-
-Most quality LFP batteries are warrantied for 10 years at 70% of original capacity. In practice, LFP chemistry degrades slowly, and real-world installations regularly exceed warranty performance. NMC batteries degrade faster under frequent deep cycling. If your system is designed to cycle deeply every day, chemistry and cycle rating matter more than nameplate capacity alone.
 
 ---
 

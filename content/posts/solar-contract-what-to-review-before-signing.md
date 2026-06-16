@@ -124,27 +124,6 @@ Before you sign anything, go through this list. Print it out if you need to.
 
 ---
 
-## FAQ
-
-### Can I cancel a solar contract after I sign it?
-
-In most states, yes, but only within a specific window. Federal law (the FTC's Cooling-Off Rule) gives you three business days to cancel certain door-to-door sales contracts. Some states extend that to five or seven days for home solicitation sales. The right to cancel, along with a cancellation form, is legally required to be included in your contract. If you want to cancel after that window, you're likely looking at an early termination fee, which can range from a few hundred dollars to several thousand depending on how far along the installation process is.
-
-### What does a UCC-1 filing mean for my solar loan?
-
-A UCC-1 is a lien filed by a lender that establishes their security interest in the solar equipment. It's recorded publicly and attached to your property. It doesn't prevent you from selling your home, but it does have to be satisfied before title can transfer cleanly. Some solar lenders also file what's called a fixture filing, which goes against the real property itself rather than just the equipment. That's a stronger claim and harder to resolve quickly. Before signing a secured solar loan, ask your lender exactly what type of lien they file and how it gets released at payoff.
-
-### Is a 2.9% annual escalator always a bad deal?
-
-Not automatically, but run the math for your specific situation before assuming it's fine. The key comparison is your escalator rate versus your utility's historical rate increase trend. If your utility has raised rates an average of 4% per year over the last decade, a 2.9% escalator could still work in your favor over time. If your utility's rates have been flat or if you're on a rate structure that may change, the escalator may not pencil out. The problem is that most salespeople present escalators as a feature without showing you the 20-year comparison on paper. Ask for that table.
-
-### What happens to my solar warranty if the installer goes out of business?
-
-Equipment warranties from the manufacturer should survive the installer's bankruptcy, assuming the manufacturer stays in business. Workmanship warranties backed only by the installer are effectively worthless if the company closes. This is a real risk in an industry that still sees consolidation. Ask your installer which portions of the warranty are backed by a third-party insurer or whether they participate in a warranty protection program. Some installers buy insurance products specifically to backstop their workmanship guarantee.
-
-### Do I need a home energy monitor before or after going solar?
-
-You don't need one, but it's genuinely useful both before and after. Before installation, a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=your-tag) can help you understand your actual consumption patterns, which feeds directly into sizing the system correctly (disclosure: this site may earn a commission on purchases). After installation, it lets you verify your solar production against your contract's estimates and catch underperformance early. Many inverter systems include monitoring apps, but a standalone monitor covers your whole home load, not just solar output, which gives you a more complete picture.
 
 ---
 

@@ -106,27 +106,6 @@ Check your HOA CC&Rs before you sign anything with a contractor. I've seen insta
 
 ---
 
-## FAQ
-
-### Are monocrystalline panels worth the extra cost?
-
-In most cases today, yes, though the price gap is much smaller than it was five years ago. Monocrystalline panels offer better efficiency per square foot, slightly better heat performance, and they're now the industry standard for residential installs. If a contractor is quoting you a meaningfully cheaper poly system, compare lifetime production estimates before deciding.
-
-### Do polycrystalline panels last as long as monocrystalline?
-
-Both types are typically warrantied for 25 years on power output, and many will last longer. Degradation rates are similar: most panels lose around 0.5% to 0.7% output per year. Panel longevity has more to do with the manufacturer's quality control and the racking system protecting the panels from wind stress than it does with crystal type.
-
-### Can you mix monocrystalline and polycrystalline panels on the same system?
-
-Technically possible with certain microinverter setups (Enphase is the most common) but it's generally a bad idea and almost never done in practice. If you're using a string inverter, mismatched panel types will drag down the performance of the entire string. Even with microinverters, mixing panel types complicates monitoring and future warranty claims. Just don't.
-
-### How do I know which type I'm looking at on a quote?
-
-The panel model number on your contractor's proposal will get you to a spec sheet in about thirty seconds via a Google search. Look for "cell type" on the spec sheet: it'll say "monocrystalline," "monocrystalline PERC," or "polycrystalline." PERC (Passivated Emitter and Rear Cell) is a monocrystalline variant that's been the dominant technology for several years now and is a reasonable default expectation for any new residential quote.
-
-### Do monocrystalline panels perform better in low light or cloudy conditions?
-
-Marginally, yes. Monocrystalline panels tend to have slightly better low-light performance, which is reflected in their spectral response curves. In practical terms for a homeowner, the difference on an overcast January day in Seattle is real but not dramatic. If you're in a persistently cloudy climate, your bigger lever is system sizing and getting good south or southwest orientation, not panel type.
 
 ---
 

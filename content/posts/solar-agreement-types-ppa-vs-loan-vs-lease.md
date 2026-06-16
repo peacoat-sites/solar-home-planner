@@ -98,27 +98,6 @@ A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+
 
 ---
 
-## FAQ
-
-### Can I refinance or pay off a solar loan early?
-
-Most unsecured solar loans allow prepayment without penalty, but check your specific contract. Paying it down in year one with your ITC refund is a common and smart strategy: use the $9,000 tax credit to immediately reduce your principal, cutting interest significantly over the loan term.
-
-### Is a solar lease worth it if I have good credit and decent tax liability?
-
-Honestly, probably not. If you can qualify for a 7% or lower solar loan and you owe federal taxes, you'll almost certainly come out ahead with a loan over 20 years. The lease's main selling points are zero hassle and zero upfront cost, but the loan's ITC advantage is hard to overcome with math.
-
-### What happens to my PPA if the solar company goes out of business?
-
-The panels stay on your roof and the contract typically transfers to whoever acquires the company's assets. If no one acquires them and the company simply dissolves, your situation becomes murky. You'd likely keep using the panels, though getting service or a buyout becomes difficult. This is a real risk with smaller regional providers, and it's worth checking a company's financial stability and track record before signing a 25-year agreement.
-
-### Do I need good credit for a solar PPA or lease?
-
-Yes, though the threshold varies by provider. Most require a minimum credit score around 650 to 680 for lease/PPA approval. Solar loans through unsecured lenders typically want 680 to 700 minimum; HELOC-based financing uses your home equity and standard mortgage-style underwriting. Don't let a salesperson tell you your score "probably won't matter."
-
-### Can I add battery storage to a leased system?
-
-Sometimes, but it's complicated. If the battery is added by the same leasing company, they'll typically own it under a separate or amended agreement. Adding your own battery to a third-party-owned solar system isn't usually permitted without written consent. With an owned system (loan or cash), you can add a [Powerwall or Enphase IQ battery](https://www.amazon.com/s?k=home+battery+storage+system) whenever you want, and any storage added to an owned system after August 2022 qualifies for the 30% ITC under current IRA rules.
 
 ---
 

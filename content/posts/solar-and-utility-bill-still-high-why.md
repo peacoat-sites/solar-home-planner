@@ -100,27 +100,6 @@ Also check whether your system is actually turned on. This sounds absurd, but it
 
 ---
 
-## FAQ
-
-### Why is my solar bill still high in the winter?
-
-Solar production drops significantly in winter due to shorter days, lower sun angles, and increased cloud cover. Meanwhile, heating loads often spike. If your system was sized for annual average production, it'll underperform your load in December through February and make up some of that in summer. A battery storage system can help, but it won't solve a fundamentally undersized array.
-
-### Can my solar company be held responsible if my bill didn't go down like they said?
-
-Potentially, yes, but it depends on what was in writing. If the contract included a production guarantee and the system isn't hitting those numbers, you have grounds to push back. If the salesperson made verbal promises that didn't make it into the contract, that's much harder to pursue. Always get production estimates in writing, with specificity about kWh per year, not just percentage offset.
-
-### How do I know if my panels are actually working?
-
-Log into your inverter monitoring app (Enphase Enlighten, SolarEdge monitoring portal, or similar). You should see daily production graphs. Compare your actual production to the estimated production shown in your monitoring platform. If you don't have monitoring access, ask your installer to set it up. If they won't, that's a red flag.
-
-### Does adding a battery help lower my bill?
-
-Sometimes, but not always. A battery lets you use your own stored solar power instead of buying grid power at peak evening rates. If you're on a time-of-use rate where evening electricity costs $0.40/kWh or more, storage pays off faster. If your utility still offers full retail net metering, a battery adds cost without much financial benefit since you're already getting dollar-for-dollar credit for your exports.
-
-### What's a realistic first step if I can't figure out why my bill is still high?
-
-Get a full 12 months of utility bills and 12 months of production data from your monitoring platform, and put them side by side. Calculate your actual offset percentage. If it's under 80 percent of what was promised, start with your installer's customer service line and ask for an explanation in writing. If you don't get a satisfying answer, hire an independent solar inspector (expect to pay $150 to $300) to audit the system independently.
 
 ---
 

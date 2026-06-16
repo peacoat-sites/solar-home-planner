@@ -80,27 +80,6 @@ For systems with battery backup, add-on DC-coupled battery systems like the Fran
 
 ---
 
-## FAQ
-
-### Why is my solar inverter showing a red light but everything seems fine outside?
-
-A red fault light usually means the inverter has logged an error and shut down, but the cause could be as simple as a brief grid voltage disturbance or a morning ground fault that cleared on its own. Check your monitoring app for the specific fault code, then see if the inverter resets and produces normally. If the red light persists through reset attempts, document the error code and contact your installer.
-
-### My inverter is producing power but less than it should. What should I check first?
-
-Start with panel soiling and shading before assuming a hardware problem. Dirty panels can reduce output by 15-25% in some climates, and a new tree branch or a neighbor's addition can create shading that didn't exist when your system was designed. A [basic solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=yourtag-20) (affiliate link) and a visual inspection from the ground often solve it. If the panels look clean and unshaded, pull 30 days of production history and compare against weather-adjusted expectations.
-
-### How do I know if my inverter is failing or just hot?
-
-If your inverter is shutting down in the afternoon on hot days and recovering overnight, thermal protection is tripping. Check the ambient temperature at the installation location. If it's consistently above 40°C (104°F), that's your problem. Look for blocked vents, a fan that isn't spinning, or a mounting location that's getting direct sun. A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=yourtag-20) (affiliate link) can help you track production patterns over time to confirm the correlation.
-
-### Can I reset my solar inverter myself?
-
-Yes, for most common fault conditions. The standard procedure is: turn off the AC disconnect, wait 60 seconds, turn off the DC disconnect on the inverter, wait 5 minutes (to let capacitors discharge), then reverse the sequence to restart. This clears most transient faults. Do not keep repeatedly resetting an inverter that trips again immediately, that's a sign of a real underlying fault that needs diagnosis.
-
-### Does a solar inverter error code mean I'll lose production data?
-
-Not usually. Monitoring platforms like Fronius Solar.web and SolarEdge store historical production data in the cloud, independent of what the inverter is currently doing. Your data is safe even if the inverter is offline. The gap in production during the outage will simply show as zero or missing, which is actually useful information when you're building a timeline of what happened.
 
 ---
 

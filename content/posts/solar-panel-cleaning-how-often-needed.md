@@ -92,27 +92,6 @@ The U.S. Department of Energy's homeowner solar resources are pretty clear that 
 
 ---
 
-## Frequently Asked Questions
-
-### Does rain clean solar panels well enough?
-
-In most climates with regular, moderate rainfall, yes, light dust accumulation is handled adequately by rain. The problem is heavy debris: bird droppings, tree sap, ash from fires, and agricultural dust don't rinse off cleanly. Check your monitoring data, not just the weather, to know if rain is doing the job in your specific situation.
-
-### Can I use a pressure washer on my solar panels?
-
-No. Pressure washers can force water past frame seals into the junction box, and repeated high-pressure contact degrades edge sealing over time. Use a soft brush, an extension pole, and low-pressure water from a standard garden hose.
-
-### Will not cleaning my panels void the warranty?
-
-Not cleaning won't void your panel warranty outright, but accumulated soiling that causes hot spots or physical damage from debris over time can complicate warranty claims. More to the point, degraded output is real money. Clean them.
-
-### How do I know if my panels are dirty enough to affect output?
-
-Use your inverter's monitoring app and compare output on clear days over time. A consistent underperformance of one panel or one string relative to its neighbors on sunny days is your signal. Visual inspection from the ground is not reliable enough for anything except obvious bird fouling.
-
-### Is there a solar panel coating that reduces how often I need to clean?
-
-Yes, hydrophobic coatings exist, and some panel manufacturers apply them at the factory. Aftermarket versions like Rain-X variants formulated for solar glass are available, though long-term data on how much they actually reduce cleaning frequency is mixed. They help most in moderate-dust environments where rain is still doing much of the work.
 
 ## Helpful Resources
 

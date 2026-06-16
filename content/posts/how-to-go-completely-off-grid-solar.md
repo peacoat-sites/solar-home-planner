@@ -129,27 +129,6 @@ If you're doing a DIY install, some states allow homeowners to pull their own pe
 
 ---
 
-## FAQ
-
-### How much does a complete off-grid solar system cost?
-
-For a standard 2,000 square foot home, budget $30,000 to $60,000 for a fully installed, battery-backed off-grid system. That range covers array sizing from 8 to 16 kW, 20 to 50 kWh of LiFePO4 battery storage, inverter/charger, charge controllers, and installation labor. Larger homes or higher loads push that number up. You can reduce costs significantly with a DIY approach if you have electrical skills, but expect to pay $18,000 to $35,000 in materials alone for a properly sized system.
-
-### Can I run a whole house on off-grid solar including central air conditioning?
-
-Yes, but it's one of the most expensive and battery-intensive things you can do. A 3-ton central AC system draws 3,500 to 4,000 watts continuously and will eat through battery storage quickly after sundown. Most off-grid homeowners either use mini-split heat pumps (far more efficient), use propane or wood heat, or accept that they'll run the AC primarily during daylight hours when solar is actively producing. A mini-split solar setup is a more practical choice for most off-grid homes.
-
-### What happens during a long stretch of cloudy weather?
-
-This is exactly what your backup generator and battery autonomy are designed to handle. A five-day autonomy battery bank combined with a generator on auto-start means your home keeps running indefinitely regardless of weather. The generator charges the batteries during extended cloud cover, and then solar takes back over when conditions improve. This is also why load reduction matters so much before sizing a system.
-
-### Do I need to stay connected to the grid while transitioning to off-grid?
-
-No, but a phased approach can save money and reduce risk. Many homeowners install a hybrid system first: grid-tied with battery backup. This gives them experience with solar production patterns, actual consumption data, and backup power without fully committing. When they're ready, they can disconnect from the grid. Some utilities charge fees to disconnect, and in some areas you'll need to formally notify the utility and have your meter removed.
-
-### What maintenance does an off-grid solar system require?
-
-Less than people expect, but not zero. Panel cleaning two to four times per year (especially in dusty climates) maintains production. [Panel cleaning kits on Amazon](https://www.amazon.com/s?k=solar+panel+cleaning+kit) (the site may earn a commission) make this a 30-minute job. Battery management systems on modern LiFePO4 packs handle most cell balancing automatically. You'll want to check electrical connections annually for corrosion and tightness. The charge controller and inverter typically have fault logs you should review quarterly. And your backup generator needs regular oil changes and monthly test runs, just like any engine.
 
 ---
 

@@ -112,27 +112,6 @@ For a broader framework on evaluating bids, [comparing solar bids and what to lo
 
 ---
 
-## FAQ
-
-### Can my HOA legally ban solar panels completely?
-
-In most states with solar access laws, no. A complete ban on solar panels is typically void and unenforceable under state statute. In California, Florida, Texas, Colorado, and several other states, HOAs can regulate the aesthetics and placement of panels but cannot prohibit them outright. In states without solar access protections, a complete ban may be enforceable through the CC&Rs.
-
-### What if my HOA has a rule that was written before solar panels existed?
-
-Older CC&Rs that prohibit "structures on the roof" or "visible mechanical equipment" have sometimes been applied to solar panels. Whether that language holds up depends on your state's laws. In states with solar access statutes, those older provisions are typically overridden by the newer statute. Get your state's law in front of your HOA board in writing.
-
-### How long does HOA approval typically take?
-
-Most HOA governing documents specify a review period of 30 to 60 days from receipt of a complete application. Some states have shortened this window by statute. In California, the HOA must act within this period or approval is automatically granted. Knowing your specific timeline matters, so read your CC&Rs carefully and note the deadline before you submit.
-
-### Can my HOA require me to remove the panels when I sell the house?
-
-Generally, no. Solar panels are a permanent fixture that transfer with the home in a sale. Any CC&R provision requiring removal as a condition of sale would likely conflict with solar access statutes in protected states and would also raise serious questions about marketability under real estate law. That said, you'll want to disclose the system and HOA approval status to buyers.
-
-### What if the HOA approves my system but then changes its rules after installation?
-
-If your system was installed under a valid approval, retroactive rule changes typically cannot force you to remove a compliant installation. Keep your original approval letter and any correspondence permanently. Some states explicitly protect approved installations from later regulatory changes. This is one of the reasons getting written approval matters so much.
 
 ---
 

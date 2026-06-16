@@ -103,27 +103,6 @@ Red flags: anyone using a pressure washer, anyone who doesn't turn off the syste
 
 ---
 
-## Frequently Asked Questions
-
-### Can I clean solar panels with a pressure washer?
-
-No. Even at a moderate setting, pressure washers can crack the tempered glass, damage the rubber frame seals, and force water into conduit penetrations or junction boxes. Manufacturers explicitly void warranties for damage caused by pressure washing, and that kind of water intrusion can cause intermittent faults months after the fact.
-
-### Will cleaning my panels actually make a noticeable difference in my electric bill?
-
-Usually yes, especially if it's been over a year or you live in a dusty or high-pollen area. NREL data shows soiling losses averaging 1.5-6% annually in typical U.S. locations, with much higher numbers in arid climates. That can translate to $50-$150 a year in lost production on a mid-size residential system, so one cleaning pays for itself easily.
-
-### Do I need to turn off my solar system before cleaning?
-
-Yes. Shut down via the DC isolator or the solar supply main switch at the inverter before getting on the roof or directing water anywhere near the system. This is both a safety measure and a warranty protection step.
-
-### Is rainwater enough to keep panels clean on its own?
-
-In rainy climates with moderate tilt, rain handles a lot of the routine dust. But rain doesn't do much for bird droppings, pollen, or heavy soiling, and flat-mount panels don't self-clean well at all. Think of rain as maintenance between cleanings, not a substitute.
-
-### What's the best time of day to clean solar panels?
-
-Early morning, before the panels heat up in direct sun. Cleaning hot glass with cool water creates thermal stress and can cause micro-cracking over time. Early morning also means dew has been softening surface dirt, and you'll be done before the day heats up.
 
 ---
 

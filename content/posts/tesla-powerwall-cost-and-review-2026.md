@@ -102,27 +102,6 @@ And get at least three quotes. EnergySage's marketplace is legitimately useful f
 
 ---
 
-## FAQ
-
-### How long does a Tesla Powerwall 3 last?
-
-Tesla warrants the Powerwall 3 for 10 years with a guaranteed 70% capacity retention. Real-world lithium iron phosphate chemistry tends to perform well beyond that, but 10 years is the contractual floor. Most systems installed in the Powerwall 2 era (2016 onward) are still performing close to spec.
-
-### Can a single Powerwall 3 power a whole house during an outage?
-
-For most homes under 2,500 square feet, yes, with load management. The 11.5 kW continuous output handles most appliances simultaneously. The 13.5 kWh capacity lasts roughly 12 to 24 hours depending on consumption. Running an electric dryer and EV charger simultaneously during an outage will drain it fast. If you regularly lose power for more than a day, two units are the better call.
-
-### Does the Powerwall qualify for the 30% federal tax credit in 2026?
-
-Yes, as long as it's charged solely by solar (which you can configure in the Tesla app). The 30% ITC applies to the full installed cost including labor and permit fees. Confirm with a tax professional, especially if your tax liability is lower than the credit amount.
-
-### Is it worth buying a Powerwall without solar panels?
-
-Honestly, rarely. The financial case is weak without solar unless you're on an aggressive TOU rate or in an outage-prone area where backup power has real value to you. The emotional value of backup power is real and legitimate, but don't expect a financial payback without the solar pairing.
-
-### How do I find a legitimate Tesla-certified Powerwall installer?
-
-Go directly to tesla.com/energy and use their installer finder. Certified installers have gone through Tesla's training and have access to factory support. Getting a quote through a third-party aggregator like EnergySage also surfaces certified installers and lets you compare pricing without handing your contact info to six companies simultaneously.
 
 ## Helpful Resources
 

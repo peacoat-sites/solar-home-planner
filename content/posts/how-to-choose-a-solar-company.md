@@ -111,27 +111,6 @@ To track your system's performance once it's installed, a [home energy monitor](
 
 ---
 
-## FAQ
-
-### How many solar quotes should I get before deciding?
-
-Get at least three, and ideally four or five if your schedule allows. Each quote gives you more data on local pricing, and the process of comparing quotes forces installers to sharpen their proposals. Homeowners who compare multiple quotes on EnergySage report saving an average of 20% compared to those who go with the first company they contact.
-
-### Does it matter whether I hire a local company or a national brand?
-
-Both have trade-offs. Local installers often have deeper knowledge of your utility's interconnection process and local permit requirements, and they're more motivated to protect their community reputation. National brands may offer more financing options and more standardized processes. The real question is whether the company doing the work will still be operating when you need warranty service in year 12. Ask any company, local or national, about their warranty backstop: what happens to your workmanship warranty if they go out of business?
-
-### What questions should I ask during an in-home consultation?
-
-A few that cut through the pitch quickly: Who holds the electrical license on my permit? Will your employees or subcontractors be on my roof? What is your workmanship warranty, and is it backed by a third party? Can you show me the production modeling for my specific roof? What's your average time from contract signing to permission to operate? That last one is important because interconnection timelines vary widely and some companies are better at managing the utility coordination process than others.
-
-### Can I check whether a solar company has complaints against it?
-
-Yes, and you should. Check the Better Business Bureau and your state Attorney General's consumer protection database. Search "[company name] complaint" or "[company name] lawsuit" along with your state. Also check Google reviews, but look at the one and two-star reviews specifically rather than the average rating. Pay attention to whether the company responds to negative reviews and how. A company that gets defensive or dismissive about complaints tells you a lot about how they'll handle your problem if something goes wrong.
-
-### What should the contract include before I sign?
-
-The signed contract should specify: the exact equipment make and model, total installed price broken into labor and materials, projected annual production in kWh, permit responsibility (theirs, not yours), workmanship warranty duration, a completion timeline with milestones, and a clear cancellation policy. If anything is still described vaguely as "to be determined," don't sign until it's filled in. Verbal promises made during the sales pitch do not survive disputes.
 
 ---
 

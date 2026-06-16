@@ -78,27 +78,6 @@ The research here is mixed on whether domestically manufactured panels actually 
 
 ---
 
-## FAQ
-
-### Which solar panel brand has the best warranty in 2026?
-
-REC Group and Maxeon Solar currently offer the strongest warranty terms for residential installations: 25 years on both product defects and power performance. Qcells (Hanwha) is a strong runner-up with excellent warranty track record and US-accessible support. The brand matters less than whether the installer offering the warranty is financially stable enough to back it up.
-
-### Is it worth paying more for high-efficiency panels like Maxeon?
-
-Only if you have limited roof space or specific aesthetic requirements. For most standard residential roofs with good solar exposure, the payback math doesn't justify the Maxeon premium. A well-sized system using Qcells or REC panels will hit the same lifetime energy production targets at a lower cost.
-
-### Are Chinese solar panel brands reliable?
-
-Longi and Canadian Solar are among the largest panel manufacturers on earth, and their build quality is generally solid. The legitimate concern is long-term warranty support logistics for US residential customers. For most homeowners, that risk is manageable, especially given that domestic brands have also failed (see: SunPower 2024). Do your homework on the installer's warranty support process regardless of panel origin.
-
-### What happened to SunPower, and should I avoid their panels?
-
-SunPower filed for bankruptcy in 2024 and restructured. The Maxeon cell technology was spun into a separate company (Maxeon Solar). Existing SunPower panels continue to operate normally, but warranty and monitoring service continuity became uncertain for some customers. I'd approach any new SunPower-branded product carefully until the restructured entity demonstrates a stable long-term service record.
-
-### How do I compare solar panel quotes from different brands fairly?
-
-Ask each installer to provide the system's projected Year 1 production in kWh (not just wattage), the temperature coefficient, the degradation rate, and the specific warranty terms. Then calculate cost per kWh of projected lifetime production, not cost per watt. That's the number that actually tells you which quote is the better deal.
 
 ---
 

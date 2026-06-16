@@ -141,27 +141,6 @@ If you're interested in a more capable standalone setup that could power a full 
 
 ---
 
-## FAQ
-
-### Do I need a permit to install solar on a shed?
-
-It depends on your jurisdiction. For an off-grid, battery-based system that has no connection to the utility grid or the house's main panel, many counties don't require a permit. Some do require electrical permits for any wiring work. Call your local building department and ask directly. If you're grid-tying or connecting to the house, you'll almost certainly need permits.
-
-### What size solar panel do I need for a shed?
-
-For basic lighting and device charging, a single 100 to 200W panel with a 100Ah battery is plenty. For a working shop with power tool charging and a fan running several hours daily, budget for 400W of panels and a 200Ah LiFePO4 battery. The honest answer is: do the load calculation first, then size the system.
-
-### Can I connect my shed solar system to my house?
-
-Technically yes, but the moment you connect to the grid or to your house's electrical panel, you're into permitted, inspected, grid-tied territory. That requires utility approval and, in most states, a licensed electrician for the final interconnection. A standalone shed system is much simpler and often makes more practical sense anyway.
-
-### How long will a solar battery last for a shed?
-
-A quality LiFePO4 battery is rated for 2,000 to 4,000 charge cycles, which translates to roughly 10 to 15 years of daily use. AGM batteries in a similar application typically last 3 to 5 years. Store the battery indoors (which a shed counts as), keep it off concrete floors, and avoid running it below 20% state of charge regularly.
-
-### Is DIY shed solar safe?
-
-Yes, if you follow proper wiring practices, use appropriately rated wire and fuses, and don't skip the fusing on battery connections. The biggest safety risks are undersized wiring causing heat, missing fuses, and improper battery storage. Keep batteries in a ventilated area (especially if using AGM or flooded lead-acid, which off-gas during charging), and use a quality charge controller to prevent overcharging.
 
 ---
 

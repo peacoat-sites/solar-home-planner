@@ -123,27 +123,6 @@ A few contractor behaviors that should make you pause:
 
 ---
 
-## Frequently Asked Questions
-
-### How many solar panels does it take to charge an EV for free?
-
-There's no single answer, because it depends on your car's efficiency, how many miles you drive, and where you live. As a rough starting point, most EV owners in moderate-sun climates need 6 to 10 additional 400-watt panels beyond what they'd install for their home. High-mileage drivers or those in low-sun regions should plan for 10 to 14 panels.
-
-### Can I charge an EV with existing solar panels I already have?
-
-Maybe, but probably not without running a net deficit. If your current system was sized only for your home load, adding an EV typically pushes you back to buying grid electricity. Run the calculations in the section above to see how much of your EV load your current production actually covers.
-
-### Is it better to charge an EV during the day or at night with solar?
-
-During the day, if your schedule allows, because you're using solar power directly rather than going through the grid and net metering back and forth. If you have a home battery, nighttime charging from stored solar is the next best option. Overnight grid charging during off-peak hours is the practical fallback for most people.
-
-### Does panel brand or efficiency rating change how many I need?
-
-Yes. A 400W premium panel (22 percent efficiency) will produce more power per square foot than a 350W standard panel. If roof space is tight, higher-efficiency panels let you pack more production into a smaller area. The wattage is what matters for the math, not the brand name.
-
-### Do I need a permit to add panels specifically for EV charging?
-
-Any addition to your solar system, whether it's extra panels, a battery, or a new EV charger circuit, almost always requires a permit. Permit requirements are set locally, but unpermitted solar additions can void your utility interconnection agreement and create problems if you ever sell the house. Don't skip it.
 
 ---
 

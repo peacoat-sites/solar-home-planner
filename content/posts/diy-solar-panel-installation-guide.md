@@ -136,27 +136,6 @@ If at some point you decide the project is beyond what you want to tackle, our g
 
 ---
 
-## FAQ
-
-### Do I need an electrician for DIY solar, or can I do 100% myself?
-
-It depends on your jurisdiction. Some areas allow homeowners to do all of it, including the utility interconnection. Others require a licensed electrician to sign off on the AC wiring or pull the permit. Call your local building department and ask specifically about the owner-builder exemption for residential solar. In my experience, about half of homeowners end up hiring an electrician for just the panel connection work, which typically costs $500 to $1,500 and is well worth it if it's required.
-
-### What's the 30% federal tax credit, and does it apply to DIY installs?
-
-Yes, the federal Investment Tax Credit (ITC) applies to DIY installations. As of 2024, it's 30% of your total system cost, including equipment, permit fees, and even racking hardware. Labor you perform yourself doesn't count, but all purchased materials do. The Solar Energy Industries Association ([SEIA](https://www.seia.org/)) tracks any policy updates to this credit, so check their site if you're planning a system more than a few months out.
-
-### How long does a DIY solar installation take?
-
-For a typical 6 to 8 kW residential system, plan for a full weekend for the physical installation (two people working), plus time before and after for permit prep and utility approval. The permit application and utility PTO process often takes longer than the installation itself, sometimes 4 to 12 weeks depending on your location.
-
-### Can I add battery backup to a DIY system?
-
-Yes, but it adds complexity. If you want a system that keeps your lights on during grid outages, you need either a hybrid inverter designed for battery storage or a separate battery inverter. Enphase IQ Batteries pair with IQ microinverters. The Tesla Powerwall and Franklin Electric batteries work with compatible inverters. Size your battery based on your critical load needs, not your whole-home consumption. Most people do fine with 10 to 20 kWh of storage for essential circuits.
-
-### What happens if my panels stop working after a DIY install?
-
-You diagnose and fix it, same as a contractor-installed system. Panel-level monitoring (microinverters or optimizers) makes troubleshooting dramatically easier because you can pinpoint exactly which panel has dropped off. String inverter systems require more detective work. Our troubleshooting guide covers the most common failure scenarios if you run into this situation: [my solar panels stopped working, what to do](/my-solar-panels-stopped-working-what-to-do/).
 
 ---
 

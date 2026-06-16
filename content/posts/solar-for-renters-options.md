@@ -94,27 +94,6 @@ If you're in California, Colorado, Florida, or about 25 other states with solar 
 
 ---
 
-## FAQ
-
-### Can renters get the federal solar tax credit?
-
-No, not for a rooftop installation, because you don't own the property. However, community solar subscribers may be eligible for credits depending on the program structure, and if you purchase a portable solar system for a home-based business, there may be a partial deduction available. Talk to a tax professional before assuming either way.
-
-### Does community solar actually save money, or is it just a marketing pitch?
-
-It genuinely saves money in states with well-structured programs. The savings depend on your current utility rate, the solar operator's pricing, and how much of your usage the subscription covers. A subscription that covers 90% of your usage in a state with $0.22/kWh rates will deliver meaningful savings. In a state with $0.10/kWh rates, the math is less exciting. Read the contract before you sign.
-
-### What happens to my community solar subscription if I move?
-
-It depends on the contract. Month-to-month subscriptions are easy: cancel and move on. Longer-term contracts usually have a transfer clause or a relocation exit provision. Confirm the exit terms before you sign, and make sure "relocation" is defined broadly enough to cover moving to a different utility territory, not just moving across town.
-
-### Is plug-in balcony solar legal in the US?
-
-The short answer is: it depends on your utility and your lease. There's no federal prohibition, but utilities have their own interconnection rules, and some explicitly forbid feeding generation through a standard outlet without a formal interconnection agreement. Check with your utility's customer service or interconnection department before buying any equipment.
-
-### Can a portable solar generator power an air conditioner?
-
-A window AC unit drawing 500 to 1,000 watts will drain a standard 500Wh portable station in under an hour, so it's not practical for regular use. High-capacity units like the EcoFlow Delta Pro (3,600Wh) can run a small window unit for a few hours, but that's a $3,000+ system. For AC loads, community solar offsetting your bill is a much better approach than trying to power the unit directly.
 
 ---
 

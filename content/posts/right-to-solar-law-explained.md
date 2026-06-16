@@ -114,27 +114,6 @@ They don't apply uniformly to renters or condo owners. If you don't own the roof
 
 ---
 
-## FAQ
-
-### Does right to solar law mean my HOA can't require any changes to my installation?
-
-Not exactly. Most state solar rights laws still allow HOAs to impose "reasonable" aesthetic conditions, things like panel color, mounting style, or setbacks from the roof edge. What they can't do is use those conditions as a back-door ban by making requirements so costly or restrictive that the project becomes unviable. In states like California, there's a measurable threshold: if the HOA's requirements would cost more than $1,000 above standard installation costs or reduce output by more than 10 percent, they're not enforceable.
-
-### Can a deed restriction that predates state solar law still block my installation?
-
-Sometimes. This is one of the trickiest areas. Some state statutes explicitly void any existing covenant that conflicts with solar rights, including those recorded before the law was passed. Others only apply prospectively to restrictions created after the law's effective date. You need to read your specific state's statute and possibly get a legal opinion, because the answer isn't the same everywhere.
-
-### What if I'm in a state without a solar rights law?
-
-You're relying on the terms of your specific CC&Rs and HOA governing documents. If they don't address solar, you may have more flexibility than you think. If they prohibit anything "visible from the street" or any exterior alteration without approval, you're in a negotiation. Document everything, get any permissions in writing before you install, and consider consulting an attorney who handles HOA disputes.
-
-### How do I find out exactly which solar rights law applies in my state?
-
-The most reliable approach is to search your state legislature's official website for statutes containing the phrase "solar energy system" or "solar easement." The National Conference of State Legislatures also maintains a regularly updated database of solar policy laws by state. The U.S. Department of Energy's residential solar resource page cross-references many of these as well.
-
-### Does right to solar law affect how I should choose a solar contractor?
-
-Indirectly, yes. A good local installer will know your state's solar rights framework and your utility's interconnection rules cold. If a salesperson can't explain your HOA rights under state law or has never heard of your utility's net metering cap, that's a signal. Before signing any contract, look through what a solid [solar contract review](/solar-contract-what-to-review-before-signing/) should cover, because what's in writing protects you regardless of what the sales rep promised verbally.
 
 ---
 

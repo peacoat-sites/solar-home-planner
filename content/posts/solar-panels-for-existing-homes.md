@@ -104,27 +104,6 @@ Maintenance costs are low. The biggest expense in the system's life is typically
 
 ---
 
-## Frequently Asked Questions
-
-### Can I add solar if my roof isn't south-facing?
-
-Yes, and many homes do. East-west panel splits are a common design for homes with a ridge running north-south. Each side of the roof produces at different times of day, which can actually be an advantage for households that consume power morning and evening rather than just midday. You'll want to confirm your installer is using a true production model for each roof plane, not just averaging.
-
-### Will solar panels void my roof warranty?
-
-They can if the installation is done poorly. Penetration-based mounting requires properly flashed and sealed holes through the roofing material. A licensed, experienced installer will use manufacturer-approved flashing kits. Ask specifically what mounting hardware they use and whether it's been tested with your roof material type. Many roofing manufacturers have taken positions on solar installation requirements, so it's worth checking your roof warranty documentation.
-
-### What happens to my solar system if I sell my house?
-
-In most cases, it adds value. Lawrence Berkeley National Laboratory research has found that solar installations increase home sale prices, typically by around $15,000 for an average-sized system, though this varies by market. If you own the system outright or have a loan that can be paid off at sale, the transfer is clean. Leased systems or power purchase agreements (PPAs) are more complicated and require the buyer to either assume the contract or you to buy out the lease, which can sometimes complicate a sale.
-
-### How long does it actually take to pay back a solar investment?
-
-The real payback period for most U.S. homeowners ranges from 6 to 12 years, depending on local electricity rates, system cost, available incentives, and how much of the production you self-consume versus export. High-rate states like California, Hawaii, and Massachusetts see shorter payback periods. Low-rate states like Louisiana or Wyoming see longer ones. The 25-year production warranty on modern panels means most systems have 13 to 19 years of net positive cash flow after payback.
-
-### Do I need battery storage to benefit from solar?
-
-No. The majority of grid-tied solar installations in the U.S. operate without batteries, and they still deliver real bill savings. Battery storage makes the most sense in areas with frequent grid outages, utilities that charge high time-of-use rates in the evenings, or states that have moved away from favorable net metering (like California's NEM 3.0). If you're in a state with a solid net metering policy, batteries add cost and complexity that may not pencil out yet.
 
 ---
 

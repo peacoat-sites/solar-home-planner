@@ -114,27 +114,6 @@ An installer who can't clearly explain the difference between your retail TOU ra
 
 ---
 
-## Frequently Asked Questions
-
-### If I already have solar under NEM 2.0, does NEM 3.0 affect me?
-
-No, not for your existing system. NEM 2.0 grandfathering lasts 20 years from your original permission-to-operate date, regardless of any policy changes. If you want to add more panels or a battery later, the rules around what triggers a tariff change are worth checking with your utility, because some modifications can affect your grandfathered status.
-
-### Is solar still worth it in California under NEM 3.0?
-
-Yes, but the calculus is different. The combination of high California electricity rates (often 30 to 40 cents per kWh for peak consumption), significant federal tax credit availability (currently 30% through 2032 under the Inflation Reduction Act), and the strong case for battery storage still makes solar-plus-storage a viable investment. The payback period has gotten longer for solar-only systems, which is real, but well-designed solar-plus-storage systems in California can still achieve payback in 9 to 13 years with significant long-term savings.
-
-### What's the best battery to pair with a NEM 3.0 system?
-
-There isn't one universal answer. The Tesla Powerwall 3 offers 13.5 kWh usable capacity and strong software for TOU optimization. Enphase IQ batteries are modular and pair well with Enphase microinverter systems. Franklin Electric aGate has gotten strong reviews for efficiency and warranty terms. What matters most under NEM 3.0 is usable capacity, round-trip efficiency (look for 90% or better), and software that can automatically schedule charging and discharging around your TOU rate windows.
-
-### Can I add a battery to an existing NEM 2.0 solar system?
-
-Generally yes, and in most cases adding a battery to an existing NEM 2.0 system does not trigger a switch to NEM 3.0, as long as you're not also adding solar capacity. The CPUC has provided guidance supporting battery additions without tariff changes. Confirm this with your utility before proceeding and get any assurances in writing.
-
-### How do I find out my specific export rates under NEM 3.0?
-
-Contact your utility directly and ask for your applicable Avoided Cost Calculator export rate schedule. PG&E, SCE, and SDG&E each publish these, and they're updated annually. You can also ask your installer to provide the rate table they used to build your savings estimate, and then cross-reference it with the current published rates from your utility's website. If those numbers don't match, find out why before you sign.
 
 ---
 

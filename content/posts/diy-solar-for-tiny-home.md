@@ -108,27 +108,6 @@ If you're in an HOA community, the rules get thornier. The Solar Energy Industri
 
 ---
 
-## Frequently Asked Questions
-
-### Can I run a mini-split air conditioner on a tiny home solar system?
-
-Yes, but it's the single biggest load in most tiny home builds and it'll significantly increase your panel and battery requirements. A 9,000 BTU mini-split running 4 to 6 hours a day adds 3,000 to 4,500 Wh to your daily load. Budget for at least an additional 800W to 1,200W of panels and a proportionally larger battery bank if AC is part of your plan. Inverter-driven mini-splits like the Mister Cool DIY or Pioneer units are notably more efficient than older fixed-speed compressor models.
-
-### What's the best battery chemistry for a tiny home that experiences freezing winters?
-
-LiFePO4 is still the best choice overall, but you need to address the low-temperature charging limitation. Most LiFePO4 cells shouldn't be charged below 32°F (some are rated to 23°F). Buy batteries with built-in self-heating (SOK and EG4 offer these), or build an insulated, slightly heated battery compartment using a small thermostatically controlled heat pad. Don't let the winter limitation scare you off LiFePO4 entirely. The cycle life and usable capacity advantages far outweigh the cold-weather management requirement.
-
-### Do I need an inverter if I want to run everything at 12V DC?
-
-Technically, no. Some tiny home builders go fully 12V and run 12V refrigerators, 12V lighting, USB charging, and a 12V water pump without any inverter. You eliminate conversion losses (inverters waste 5 to 10 percent of power) and simplify the system. The trade-off is limited appliance options and the inability to use standard 120V tools or appliances. A hybrid approach works well: run your highest-load 12V-native devices directly from the battery bank, and use a smaller inverter for occasional 120V needs.
-
-### Will a solar system add value to a tiny home if I want to sell it?
-
-For THOWs, a well-documented, clean solar install absolutely adds value. Buyers shopping for off-grid-capable tiny homes will pay a premium for a working, properly sized system with quality components. Keep your wiring documentation, component specs, and any receipts. For foundation-mounted tiny homes, the value calculation is similar to conventional residential solar, though the market is thinner. Aim for clean installation quality. Nothing kills resale interest faster than a rat's nest of unlabeled wiring.
-
-### Can I expand my system later if I start small?
-
-Yes, and honestly, starting smaller and expanding is often smarter than trying to anticipate everything upfront. Buy a charge controller with capacity headroom (a 60A controller when you're initially running 30A of panels), and size your battery bank enclosure for future cells. Keep your wiring labeled and documented. Adding a second string of panels 18 months later is straightforward if you planned for it. Adding panels when your charge controller is already maxed out means buying a new controller, which is wasted money.
 
 ---
 

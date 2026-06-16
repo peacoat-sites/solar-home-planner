@@ -105,27 +105,6 @@ A quality [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=
 
 ---
 
-## Frequently Asked Questions
-
-### Can I add a battery backup to my existing solar system?
-
-Yes, in most cases. If your inverter is battery-compatible or you have a string inverter that can be retrofitted with an AC-coupled battery, an installer can add a Powerwall or similar product without replacing your existing panels. If your inverter isn't compatible, you may need a new hybrid inverter, which adds to the cost. Get a site assessment from a certified installer before assuming it's a simple add-on.
-
-### How long will a solar battery last during a power outage?
-
-That depends entirely on what you're running. A single Powerwall 3 holds 13.5 kWh. A refrigerator running constantly uses about 1.5 to 2 kWh per day. Your CPAP might use 0.2 to 0.5 kWh per night. A sump pump running occasionally might use 0.5 kWh over a full day. Power critical loads only and you can stretch 13.5 kWh over 24 to 48 hours easily. Try to run your whole house and you might drain it in 4 to 6 hours.
-
-### Is a whole-home standby generator worth the $15,000 investment?
-
-For some households, absolutely yes. If you work from home, rely on medical equipment, have a well pump, or live in a region with frequent extended outages, a whole-home standby on natural gas is a reliable, indefinite solution. Where it struggles to justify the cost is for homeowners who experience occasional short outages and don't have critical continuous loads. The annual maintenance and installation cost don't pencil out well for 4-hour-once-a-year scenarios.
-
-### Do I need a permit for a battery backup system or generator?
-
-Almost certainly yes, for both. Battery systems typically require an electrical permit and often a utility interconnection application. Standby generators require permits for both the electrical and gas work. Portable generators used with a transfer switch need an electrical permit for the switch installation. Don't skip this. Unpermitted work can void your homeowner's insurance, create liability issues, and cause problems when you sell your home.
-
-### What's the lifespan of a solar battery versus a generator?
-
-A quality lithium iron phosphate or NMC battery like a Powerwall carries a 10-year warranty and is designed to retain at least 70% capacity over that period. Real-world lifespan is likely 15 years or more with normal use. A well-maintained natural gas standby generator can last 15 to 20 years. A portable gasoline generator, if maintained properly, realistically gives you 10 to 15 years but with significantly higher maintenance demands throughout.
 
 ---
 

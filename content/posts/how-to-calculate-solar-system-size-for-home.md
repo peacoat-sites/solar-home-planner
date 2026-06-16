@@ -116,27 +116,6 @@ Ask every installer for a production estimate in kWh per year, not just system s
 
 ---
 
-## FAQ
-
-### How many solar panels does the average home need?
-
-Most U.S. homes need between 17 and 25 panels to fully offset their electricity usage, assuming standard 380 to 400-watt panels. The exact number depends heavily on your annual kWh consumption, your location's peak sun hours, and how much usable roof space you have. Run your own numbers before accepting a contractor's recommendation at face value.
-
-### Can I size a solar system myself without hiring a professional?
-
-You can absolutely do the preliminary sizing yourself using PVWatts and your utility bills, and you should. It won't replace a proper shading analysis and engineering review for permitting, but doing your own math first means you'll walk into contractor conversations knowing whether a proposal makes sense.
-
-### Does roof orientation really affect how many panels I need?
-
-Yes, significantly. A south-facing roof at a 30-degree pitch in most of the continental U.S. is close to ideal. A west-facing roof might produce 10 to 20% less annually. A roof with meaningful shading from trees or neighboring structures can lose 30% or more of potential production, which would require a proportionally larger array to hit the same output target.
-
-### Should I size my system for my current usage or future usage?
-
-Size for your realistic 5-year expected usage. If you're buying an EV or switching from gas to electric appliances in that window, factor it in now. Adding capacity later is possible but expensive. Most permitting offices treat system expansions as a new permit, which means new fees and inspection costs.
-
-### What if my utility has a net metering cap lower than my ideal system size?
-
-This is more common than people realize, especially in states like Nevada and Hawaii where net metering policies have tightened. If your utility caps residential interconnection at 10 kW and your load analysis says you need 11.5 kW, you have two choices: accept the cap and use efficiency upgrades to close the gap, or pair a smaller grid-tied array with battery storage to capture excess production locally rather than exporting it.
 
 ---
 

@@ -90,27 +90,6 @@ Home energy monitors like the Sense Energy Monitor or Emporia Vue are also worth
 
 ---
 
-## FAQ
-
-### Are there any truly free solar panel programs for homeowners?
-
-Genuinely free solar, with no lease payments, no loan, and no PPA, exists primarily for income-qualified households through state utility programs and the federal Weatherization Assistance Program. If you meet income requirements, check your state's energy office website and look up programs through dsireusa.org. For most middle-income homeowners, "free" programs are actually leases or PPAs.
-
-### Is the "30% government solar rebate" advertised online a scam?
-
-The 30 percent federal Investment Tax Credit is real, but it's a tax credit, not a rebate or check in the mail. You claim it when you file your federal taxes, and it only helps you if you have enough federal tax liability to offset. Ads that call it a "rebate" or suggest you'll receive a cash payment are misleading, though the underlying credit is legitimate.
-
-### Can a solar lease hurt me when I sell my home?
-
-It can complicate things. Lease agreements typically have to be transferred to the new buyer or paid off at closing. Some buyers are reluctant to assume a 15-year lease obligation. It's not necessarily a dealbreaker, but it's a real consideration, and any installer who waves this off during the sales conversation is not being straight with you.
-
-### How do I check if a solar contractor is licensed?
-
-Every state has a contractor license lookup tool through the state licensing board, usually the Department of Consumer Affairs or the equivalent. Search "[your state] contractor license lookup" and you'll find it. In California that's the CSLB, in Florida it's the DBPR. Enter the company name or license number and verify it's active and has no serious complaints.
-
-### What's the difference between a solar lease and a PPA?
-
-With a lease, you pay a fixed monthly fee to rent the panels, regardless of how much electricity they produce. With a PPA, you pay for the actual electricity generated, at a set per-kilowatt-hour rate. PPAs can be a better deal in high-production months and worse in low-production months. Both leave the company owning the equipment and claiming the federal tax credit.
 
 ---
 

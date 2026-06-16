@@ -101,27 +101,6 @@ If your monitoring app doesn't let you export data as a CSV or PDF report, that'
 
 ---
 
-## FAQ
-
-### Which solar monitoring app works without the internet?
-
-Most inverter apps require a cloud connection to display real-time data on your phone. However, some inverters (particularly Fronius models with a Datalogger, and certain SMA Sunny Boy setups) support local network access so you can see data on the home network even without internet. Enphase Enlighten is cloud-dependent, which is a limitation worth knowing before you buy in a location with spotty connectivity.
-
-### Can I use a monitoring app with any solar system?
-
-No, and this is a common misunderstanding. Each manufacturer's app is tied to their hardware. You can't plug Enphase Enlighten into a SolarEdge system. Third-party monitors like Emporia Vue work with any system because they measure independently at the electrical panel level rather than pulling data from the inverter.
-
-### How often should I check my solar monitoring app?
-
-Daily production summaries are enough for most homeowners. A quick glance at monthly production versus the same month last year takes about 30 seconds and will catch most problems. I check my system in detail about once a month and rely on push alerts for anything urgent in between.
-
-### Will my monitoring app tell me when panels need cleaning?
-
-Indirectly, yes. If you see a production dip that can't be explained by weather and your system is a few years old in a dusty or pollen-heavy area, dirty panels are a reasonable suspect. There's no sensor that directly detects soiling, but consistent underperformance relative to expected output is the flag. A [panel cleaning kit with soft brushes and a hose-end attachment](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=solarsite-20) runs about $30-50 and is worth having on hand.
-
-### Do solar monitoring apps work with battery storage?
-
-It depends on the battery manufacturer. Tesla Powerwall integrates with the Tesla app natively. Enphase batteries (IQ series) are visible in Enlighten. SolarEdge batteries show in the SolarEdge portal. If you have a third-party battery added to a different-brand inverter system, integration varies and sometimes requires a separate app or a third-party platform like Home Assistant to tie everything together.
 
 ---
 
