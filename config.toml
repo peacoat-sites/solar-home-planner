@@ -21,6 +21,7 @@ enableEmoji = true
   pagerSize = 12
 
 [params]
+  youtube_channel = "UCVEzRfjjefdi3iejwvU-_qw"
   page_bg = "#fffbeb"
   nav_style = "dark"
   description = "Plan your home solar system the right way,  contractor selection, permits, home types, off-grid, EV charging, and maintenance guides all in one place."
