@@ -120,7 +120,7 @@ The solar industry has a lot of excellent, professional installers who do carefu
 - **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
 
 
-*Photo: [Vladimir Srajber](https://www.pexels.com/@vladimirsrajber) via Pexels*
+*Photo: [James Thomas](https://www.pexels.com/@digitaljames) via Pexels*
 
 ---
 

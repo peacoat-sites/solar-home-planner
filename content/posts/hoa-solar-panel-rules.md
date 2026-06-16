@@ -3,7 +3,7 @@ title: "HOA Solar Panel Rules"
 date: 2026-05-24T22:33:22.882718+00:00
 draft: false
 description: "HOA solar panel rules guide homeowners through regulations, approval processes, and legal requirements for installing solar panels in your community."
-image: "https://images.pexels.com/photos/9875678/pexels-photo-9875678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/18306342/pexels-photo-18306342.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Permits & HOA"]
 tags: ["solar", "panel", "rules"]
 slug: "hoa-solar-panel-rules"
@@ -126,7 +126,7 @@ The HOA process adds a layer of friction that most homeowners don't anticipate, 
 - **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Michael Pointner](https://www.pexels.com/@michael-pointner-134459625) via Pexels*
 
 ---
 

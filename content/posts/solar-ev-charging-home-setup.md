@@ -3,7 +3,7 @@ title: "Solar + Ev Charging Home Setup"
 date: 2026-05-28T16:01:26.792155+00:00
 draft: false
 description: "Discover how to set up solar panels with EV charging at home, reduce energy costs, and drive on clean power with our complete step-by-step guide."
-image: "https://images.pexels.com/photos/27355835/pexels-photo-27355835.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35736766/pexels-photo-35736766.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["solar", "charging", "home", "setup"]
 slug: "solar-ev-charging-home-setup"
@@ -131,7 +131,7 @@ Getting the solar and EV charging setup right is genuinely one of those projects
 - **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
 
 
-*Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*
+*Photo: [04iraq](https://www.pexels.com/@04iraq-1272398525) via Pexels*
 
 ---
 

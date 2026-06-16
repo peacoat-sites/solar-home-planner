@@ -3,7 +3,7 @@ title: "Solar For Renters Options"
 date: 2026-06-08T23:45:33.595609+00:00
 draft: false
 description: "Discover practical solar energy options for renters, including community solar, portable panels, and lease agreements, to save money and reduce your carbon foot"
-image: "https://images.pexels.com/photos/8457866/pexels-photo-8457866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8962342/pexels-photo-8962342.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Access & Community"]
 tags: ["solar", "renters", "options"]
 slug: "solar-for-renters-options"
@@ -110,7 +110,7 @@ Your electricity bill doesn't care whether you own the roof.
 - **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
 
 
-*Photo: [K](https://www.pexels.com/@kelly) via Pexels*
+*Photo: [Ivan S](https://www.pexels.com/@ivan-s) via Pexels*
 
 ---
 

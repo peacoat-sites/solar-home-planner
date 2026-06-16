@@ -3,7 +3,7 @@ title: "How Many Solar Panels To Charge Ev"
 date: 2026-05-26T09:44:19.406178+00:00
 draft: false
 description: "Discover how many solar panels you need to charge your electric vehicle at home. We cover daily mileage, panel output, and setup tips to maximize savings."
-image: "https://images.pexels.com/photos/9799757/pexels-photo-9799757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11331658/pexels-photo-11331658.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["many", "solar", "panels", "charge"]
 slug: "how-many-solar-panels-to-charge-ev"
@@ -137,7 +137,7 @@ The honest truth is that solar plus EV is one of the most financially powerful c
 - **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818) via Pexels*
 
 ---
 

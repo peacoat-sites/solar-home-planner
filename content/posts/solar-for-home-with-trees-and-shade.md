@@ -118,7 +118,7 @@ Shade doesn't disqualify your home from solar. It just means you need to be more
 - **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Serg Karpow](https://www.pexels.com/@strannik-sk) via Pexels*
 
 ---
 

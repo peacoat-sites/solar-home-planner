@@ -3,7 +3,7 @@ title: "How To Size Solar System For Ev"
 date: 2026-05-20T09:03:17.151120+00:00
 draft: false
 description: "Learn how to properly size a solar system for your EV with our step-by-step guide covering energy needs, panel calculations, battery storage, and charging optio"
-image: "https://images.pexels.com/photos/9800024/pexels-photo-9800024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4320475/pexels-photo-4320475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["size", "solar", "system"]
 slug: "how-to-size-solar-system-for-ev"
@@ -137,7 +137,7 @@ The bottom line is that solar-plus-EV is one of the best financial decisions a h
 - **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
 
 
-*Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*
+*Photo: [K](https://www.pexels.com/@kelly) via Pexels*
 
 ---
 

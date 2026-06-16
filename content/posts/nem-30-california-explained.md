@@ -3,7 +3,7 @@ title: "Nem 3.0 California Explained"
 date: 2026-06-02T12:54:29.245787+00:00
 draft: false
 description: "Learn how NEM 3.0 changes solar billing in California, how it affects your savings, and what homeowners need to know before going solar under the new rules."
-image: "https://images.pexels.com/photos/9875405/pexels-photo-9875405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11658940/pexels-photo-11658940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Policy & Utility Issues"]
 tags: ["California", "explained"]
 slug: "nem-30-california-explained"
@@ -128,7 +128,7 @@ NEM 3.0 is a real shift, not a minor tweak, and the homeowners who do well under
 - **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Jan van der Wolf](https://www.pexels.com/@jan-van-der-wolf-11680885) via Pexels*
 
 ---
 

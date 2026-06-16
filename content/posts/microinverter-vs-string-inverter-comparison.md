@@ -3,7 +3,7 @@ title: "Microinverter Vs String Inverter Comparison"
 date: 2026-06-12T00:00:21.172413+00:00
 draft: false
 description: "Compare microinverters vs string inverters on cost, efficiency, shading performance, and reliability to find the best solar inverter for your home or business."
-image: "https://images.pexels.com/photos/9875441/pexels-photo-9875441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37860727/pexels-photo-37860727.png?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Equipment Deep Dives"]
 tags: ["microinverter", "string", "inverter", "comparison"]
 slug: "microinverter-vs-string-inverter-comparison"
@@ -104,7 +104,7 @@ Get this decision right before you sign anything. The inverter choice is one you
 - **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Phát Trương](https://www.pexels.com/@phat-tr-ng-1662052981) via Pexels*
 
 ---
 

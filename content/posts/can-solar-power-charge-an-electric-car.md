@@ -3,7 +3,7 @@ title: "Can Solar Power Charge An Electric Car"
 date: 2026-05-23T02:14:00.972981+00:00
 draft: false
 description: "Discover if solar power can charge an electric car, how many panels you need, and whether it's a cost-effective and eco-friendly solution for EV owners."
-image: "https://images.pexels.com/photos/9875415/pexels-photo-9875415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9800005/pexels-photo-9800005.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["solar", "power", "charge", "electric"]
 slug: "can-solar-power-charge-an-electric-car"

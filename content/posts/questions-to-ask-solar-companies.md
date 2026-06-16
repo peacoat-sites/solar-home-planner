@@ -133,7 +133,7 @@ You are making a two-decade financial decision about your home. The good news is
 - **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Hoan Ngọc](https://www.pexels.com/@hoan-ng-c-510735) via Pexels*
 
 ---
 

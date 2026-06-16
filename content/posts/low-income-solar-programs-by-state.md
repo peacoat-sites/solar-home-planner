@@ -3,7 +3,7 @@ title: "Low Income Solar Programs By State"
 date: 2026-06-07T23:36:06.127235+00:00
 draft: false
 description: "Discover low income solar programs available in your state, including grants, subsidies, and incentives that help qualifying households access affordable clean "
-image: "https://images.pexels.com/photos/9875680/pexels-photo-9875680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32270936/pexels-photo-32270936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Access & Community"]
 tags: ["income", "solar", "programs", "state"]
 slug: "low-income-solar-programs-by-state"
@@ -118,7 +118,7 @@ The difference between a $28,000 solar quote and a free installation often comes
 - **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Chris  The Island](https://www.pexels.com/@chris-the-island-3570397) via Pexels*
 
 ---
 

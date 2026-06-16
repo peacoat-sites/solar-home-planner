@@ -125,7 +125,7 @@ Choosing a solar company isn't glamorous work, but it's the part of going solar 
 - **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Nadeem Jafar](https://www.pexels.com/@nadeem-jafar-10715349) via Pexels*
 
 ---
 

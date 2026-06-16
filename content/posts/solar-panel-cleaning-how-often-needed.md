@@ -3,7 +3,7 @@ title: "Solar Panel Cleaning How Often Needed"
 date: 2026-06-14T23:45:03.261540+00:00
 draft: false
 description: "Learn how often solar panels need cleaning to maintain peak efficiency. Discover the best cleaning schedule based on location, weather, and panel type."
-image: "https://images.pexels.com/photos/9229395/pexels-photo-9229395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8312917/pexels-photo-8312917.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "panel", "cleaning", "often", "needed"]
 author: "Stephanie Walsh"
@@ -102,7 +102,7 @@ The U.S. Department of Energy's homeowner solar resources are pretty clear that 
 - **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
 
 
-*Photo: [K](https://www.pexels.com/@kelly) via Pexels*
+*Photo: [Harrison Haines](https://www.pexels.com/@harrisonhaines) via Pexels*
 
 ---
 

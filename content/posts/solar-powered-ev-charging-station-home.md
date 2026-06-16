@@ -3,7 +3,7 @@ title: "Solar Powered Ev Charging Station Home"
 date: 2026-05-21T09:57:34.814832+00:00
 draft: false
 description: "Discover how to set up a solar powered EV charging station at home. Save money, reduce emissions, and charge your electric vehicle with clean, renewable energy."
-image: "https://images.pexels.com/photos/9800035/pexels-photo-9800035.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34800670/pexels-photo-34800670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["solar", "powered", "charging", "station", "home"]
 slug: "solar-powered-ev-charging-station-home"
@@ -129,7 +129,7 @@ The gap between "I have solar" and "I'm actually fueling my car with sunlight" i
 - **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [smart-me AG](https://www.pexels.com/@smart-me-ag-2155714756) via Pexels*
 
 ---
 

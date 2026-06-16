@@ -122,7 +122,7 @@ The goal isn't to make the vetting process feel intimidating. It's to shift some
 - **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Raze Solar](https://www.pexels.com/@razesolarfl) via Pexels*
 
 ---
 

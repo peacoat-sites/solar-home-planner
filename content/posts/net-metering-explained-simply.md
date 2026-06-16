@@ -3,7 +3,7 @@ title: "Net Metering Explained Simply"
 date: 2026-06-02T12:56:37.595863+00:00
 draft: false
 description: "Learn how net metering works, how it can lower your electricity bills, and why it matters for solar panel owners. A simple, clear guide for beginners."
-image: "https://images.pexels.com/photos/9875418/pexels-photo-9875418.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/12274476/pexels-photo-12274476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Policy & Utility Issues"]
 tags: ["metering", "explained", "simply"]
 slug: "net-metering-explained-simply"
@@ -117,7 +117,7 @@ Net metering is the piece of the solar equation that deserves as much attention 
 - **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*
 
 ---
 

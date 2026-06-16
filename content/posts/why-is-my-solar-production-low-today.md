@@ -3,7 +3,7 @@ title: "Why Is My Solar Production Low Today"
 date: 2026-06-09T23:50:35.319633+00:00
 draft: false
 description: "Discover the top reasons your solar panels are producing less energy today, from cloud cover and shading to dirty panels and seasonal changes, plus easy fixes."
-image: "https://images.pexels.com/photos/16427010/pexels-photo-16427010.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9799762/pexels-photo-9799762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Monitoring & Apps"]
 tags: ["solar", "production", "today"]
 slug: "why-is-my-solar-production-low-today"
@@ -102,7 +102,7 @@ I'd recommend pulling up PVWatts (NREL's free calculator at pvwatts.nrel.gov) an
 - **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
 
 
-*Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
+*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
 

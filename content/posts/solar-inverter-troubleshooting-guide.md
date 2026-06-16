@@ -3,7 +3,7 @@ title: "Solar Inverter Troubleshooting Guide"
 date: 2026-06-09T23:52:50.537147+00:00
 draft: false
 description: "Diagnose and fix common solar inverter problems with our expert troubleshooting guide covering error codes, fault lights, connectivity issues, and performance d"
-image: "https://images.pexels.com/photos/9875416/pexels-photo-9875416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8853536/pexels-photo-8853536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "inverter", "troubleshooting", "guide"]
 slug: "solar-inverter-troubleshooting-guide"
@@ -94,7 +94,7 @@ The honest takeaway from years of troubleshooting these systems: patience and me
 - **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Los Muertos Crew](https://www.pexels.com/@cristian-rojas) via Pexels*
 
 ---
 

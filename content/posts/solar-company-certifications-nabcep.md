@@ -129,7 +129,7 @@ The residential solar industry is growing fast, and unfortunately, that growth a
 - **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Michael Pointner](https://www.pexels.com/@michael-pointner-134459625) via Pexels*
 
 ---
 

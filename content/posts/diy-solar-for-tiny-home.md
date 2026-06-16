@@ -3,7 +3,7 @@ title: "DIY Solar For Tiny Home"
 date: 2026-05-19T23:03:46.193905+00:00
 draft: false
 description: "DIY solar for tiny homes: Learn how to install affordable solar panels, reduce energy costs, and achieve energy independence in your small space today."
-image: "https://images.pexels.com/photos/16451219/pexels-photo-16451219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/18306343/pexels-photo-18306343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["DIY Solar"]
 tags: ["solar", "tiny", "home"]
 slug: "diy-solar-for-tiny-home"
@@ -122,7 +122,7 @@ Going solar in a tiny home is one of the few situations where the DIY path genui
 - **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
 
 
-*Photo: [Mahavir Shah](https://www.pexels.com/@mahavir-shah-416970257) via Pexels*
+*Photo: [Michael Pointner](https://www.pexels.com/@michael-pointner-134459625) via Pexels*
 
 ---
 

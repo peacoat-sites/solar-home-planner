@@ -3,7 +3,7 @@ title: "Net Metering Rates By State 2026"
 date: 2026-06-06T23:35:32.649478+00:00
 draft: false
 description: "Discover net metering rates by state in 2026. Compare policies, compensation rates, and solar buyback programs to maximize your home solar energy savings."
-image: "https://images.pexels.com/photos/29206488/pexels-photo-29206488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35790060/pexels-photo-35790060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Policy & Utility Issues"]
 tags: ["metering", "rates", "state", "2026"]
 slug: "net-metering-rates-by-state-2026"
@@ -132,7 +132,7 @@ The states with strong net metering right now won't all look this way in five ye
 - **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
 
 
-*Photo: [Stefan de Vries](https://www.pexels.com/@sdvmovies) via Pexels*
+*Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*
 
 ---
 

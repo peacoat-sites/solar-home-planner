@@ -3,7 +3,7 @@ title: "Off Grid Solar For Remote Cabin"
 date: 2026-06-08T23:47:58.050750+00:00
 draft: false
 description: "Discover how to power your remote cabin with off grid solar energy. Learn system sizing, battery storage, and top components for reliable, sustainable electrici"
-image: "https://images.pexels.com/photos/9875423/pexels-photo-9875423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35486171/pexels-photo-35486171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["grid", "solar", "remote", "cabin"]
 slug: "off-grid-solar-for-remote-cabin"
@@ -100,7 +100,7 @@ Three years later, she's never once dealt with a dead battery bank during a visi
 - **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Jean-Paul Wettstein](https://www.pexels.com/@jean-paul-wettstein-677916508) via Pexels*
 
 ---
 

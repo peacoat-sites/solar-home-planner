@@ -3,7 +3,7 @@ title: "DIY Solar Panel Installation Guide"
 date: 2026-05-24T20:48:30.434146+00:00
 draft: false
 description: "Install solar panels yourself with our comprehensive DIY guide. Learn step-by-step instructions, safety tips, tools needed, and cost savings. Start today!"
-image: "https://images.pexels.com/photos/6040783/pexels-photo-6040783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14384695/pexels-photo-14384695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["DIY Solar"]
 tags: ["solar", "panel", "installation", "guide"]
 slug: "diy-solar-panel-installation-guide"
@@ -150,7 +150,7 @@ DIY solar isn't for everyone, and there's no shame in deciding that hiring a pro
 - **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
 
 
-*Photo: [William Mead](https://www.pexels.com/@william-mead-106275) via Pexels*
+*Photo: [Markus Spiske](https://www.pexels.com/@markusspiske) via Pexels*
 
 ---
 

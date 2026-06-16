@@ -3,7 +3,7 @@ title: "What Size Solar System For 2000 Sq Ft House"
 date: 2026-05-31T11:10:21.742927+00:00
 draft: false
 description: "Find out what size solar system you need for a 2000 sq ft home. Learn about average energy usage, panel requirements, and costs to power your house efficiently."
-image: "https://images.pexels.com/photos/9875408/pexels-photo-9875408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6961088/pexels-photo-6961088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["System Sizing"]
 tags: ["what", "size", "solar", "system", "2000"]
 slug: "what-size-solar-system-for-2000-sq-ft-house"

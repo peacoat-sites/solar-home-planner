@@ -3,7 +3,7 @@ title: "Solar Panels For Low Income Homeowners Programs"
 date: 2026-06-05T23:45:39.422037+00:00
 draft: false
 description: "Discover solar panel programs designed for low income homeowners. Learn how to access grants, incentives, and subsidies to reduce energy costs and install solar"
-image: "https://images.pexels.com/photos/9875414/pexels-photo-9875414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14614021/pexels-photo-14614021.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Access & Community"]
 tags: ["solar", "panels", "income", "homeowners", "programs"]
 slug: "solar-panels-for-low-income-homeowners-programs"
@@ -110,7 +110,7 @@ There are real dollars available for people who need them most. The programs exi
 - **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Trinh Trần](https://www.pexels.com/@trinh-tr-n-191284110) via Pexels*
 
 ---
 

@@ -131,7 +131,7 @@ Condos and solar are genuinely complicated, but they're not incompatible. The pa
 - **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Job1505 De waal](https://www.pexels.com/@job1505-de-waal-461434964) via Pexels*
 
 ---
 

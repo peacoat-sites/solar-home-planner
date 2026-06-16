@@ -131,7 +131,7 @@ Getting solar quotes is a skill, not just a task. The homeowners who end up with
 - **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [K](https://www.pexels.com/@kelly) via Pexels*
 
 ---
 

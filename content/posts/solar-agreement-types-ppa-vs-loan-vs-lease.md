@@ -3,7 +3,7 @@ title: "Solar Agreement Types Ppa Vs Loan Vs Lease"
 date: 2026-06-05T12:21:46.323411+00:00
 draft: false
 description: "Compare solar agreement types including PPAs, loans, and leases to find the best option for your home or business. Learn costs, benefits, and ownership details."
-image: "https://images.pexels.com/photos/9875674/pexels-photo-9875674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7821937/pexels-photo-7821937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Planning Tools"]
 tags: ["solar", "agreement", "types", "loan", "lease"]
 slug: "solar-agreement-types-ppa-vs-loan-vs-lease"
@@ -112,7 +112,7 @@ The decision isn't which structure is universally best. It's which structure fit
 - **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

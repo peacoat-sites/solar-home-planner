@@ -3,7 +3,7 @@ title: "How Long Do Solar Panels Last"
 date: 2026-06-07T23:38:37.138260+00:00
 draft: false
 description: "Discover how long solar panels last, what affects their lifespan, and how to maximise performance so you get the most from your renewable energy investment."
-image: "https://images.pexels.com/photos/9875683/pexels-photo-9875683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37372077/pexels-photo-37372077.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["long", "solar", "panels", "last"]
 slug: "how-long-do-solar-panels-last"
@@ -109,7 +109,7 @@ The case for keeping old panels running is strong as long as the balance of syst
 - **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Serg Karpow](https://www.pexels.com/@strannik-sk) via Pexels*
 
 ---
 

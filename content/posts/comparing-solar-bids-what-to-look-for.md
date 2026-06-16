@@ -140,7 +140,7 @@ Getting three bids and picking the middle one is a strategy. It's just not a ver
 - **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Vinícius Vieira ft](https://www.pexels.com/@viniciusvieirafotografia) via Pexels*
 
 ---
 

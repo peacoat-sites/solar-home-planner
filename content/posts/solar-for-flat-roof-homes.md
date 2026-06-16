@@ -119,7 +119,7 @@ A flat roof isn't a compromise when it comes to solar. Done right, it's a genuin
 - **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Trinh Trần](https://www.pexels.com/@trinh-tr-n-191284110) via Pexels*
 
 ---
 

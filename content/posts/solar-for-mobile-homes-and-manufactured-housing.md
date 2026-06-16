@@ -122,7 +122,7 @@ Solar on a manufactured home isn't plug-and-play, but it's absolutely achievable
 - **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
 
 
-*Photo: [Vladimir Srajber](https://www.pexels.com/@vladimirsrajber) via Pexels*
+*Photo: [Hoan Ngọc](https://www.pexels.com/@hoan-ng-c-510735) via Pexels*
 
 ---
 

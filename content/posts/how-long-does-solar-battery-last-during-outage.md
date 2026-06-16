@@ -3,7 +3,7 @@ title: "How Long Does Solar Battery Last During Outage"
 date: 2026-06-16T00:11:41.582957+00:00
 draft: false
 description: "Find out how long a solar battery lasts during a power outage based on battery capacity, home energy usage, and system size."
-image: "https://images.pexels.com/photos/20483665/pexels-photo-20483665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/2004164/pexels-photo-2004164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid & Backup Power"]
 tags: ["long", "does", "solar", "battery", "last"]
 author: "Rachel Kim"
@@ -115,7 +115,7 @@ My neighbor got batteries installed six months after that derecho. Two Powerwall
 - **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
 
 
-*Photo: [Barnabas Davoti](https://www.pexels.com/@barnabas-davoti-31615494) via Pexels*
+*Photo: [Markus Spiske](https://www.pexels.com/@markusspiske) via Pexels*
 
 ---
 

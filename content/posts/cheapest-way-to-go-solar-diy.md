@@ -3,7 +3,7 @@ title: "Cheapest Way To Go Solar DIY"
 date: 2026-05-22T13:04:55.518735+00:00
 draft: false
 description: "Save money going solar with DIY installation tips. Discover the cheapest methods, best budget panels, and step-by-step guidance to cut energy costs and boost sa"
-image: "https://images.pexels.com/photos/9875422/pexels-photo-9875422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14384697/pexels-photo-14384697.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["DIY Solar"]
 tags: ["cheapest", "solar"]
 slug: "cheapest-way-to-go-solar-diy"
@@ -160,7 +160,7 @@ The cheapest way to go solar is the way that matches your skills honestly, gets 
 - **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Markus Spiske](https://www.pexels.com/@markusspiske) via Pexels*
 
 ---
 

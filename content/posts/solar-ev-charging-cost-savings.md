@@ -3,7 +3,7 @@ title: "Solar Ev Charging Cost Savings"
 date: 2026-05-20T22:07:16.529365+00:00
 draft: false
 description: "Save money charging your EV with solar power. Discover how combining solar panels with electric vehicle charging can slash energy bills and reduce your carbon f"
-image: "https://images.pexels.com/photos/9800030/pexels-photo-9800030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35736772/pexels-photo-35736772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar and EV Charging"]
 tags: ["solar", "charging", "cost", "savings"]
 slug: "solar-ev-charging-cost-savings"
@@ -122,7 +122,7 @@ The combination of rooftop solar and home EV charging is genuinely one of the be
 - **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [04iraq](https://www.pexels.com/@04iraq-1272398525) via Pexels*
 
 ---
 

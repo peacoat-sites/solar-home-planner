@@ -3,7 +3,7 @@ title: "Solar Panel Permit Process Explained"
 date: 2026-05-26T05:37:34.319690+00:00
 draft: false
 description: "Get a complete guide to the solar panel permit process. Learn requirements, timelines, and steps needed to install solar panels at your home or business."
-image: "https://images.pexels.com/photos/9799706/pexels-photo-9799706.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9229392/pexels-photo-9229392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Permits & HOA"]
 tags: ["solar", "panel", "permit", "process", "explained"]
 slug: "solar-panel-permit-process-explained"
@@ -112,7 +112,7 @@ The permit process isn't exciting, but getting it right protects your investment
 - **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
 
 
-*Photo: [Los Muertos Crew](https://www.pexels.com/@cristian-rojas) via Pexels*
+*Photo: [K](https://www.pexels.com/@kelly) via Pexels*
 
 ---
 

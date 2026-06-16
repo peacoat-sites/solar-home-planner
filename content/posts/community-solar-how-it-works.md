@@ -3,7 +3,7 @@ title: "Community Solar How It Works"
 date: 2026-06-13T00:01:39.760677+00:00
 draft: false
 description: "Discover how community solar works, letting renters and homeowners access clean, affordable solar energy without rooftop panels and save money on electricity bi"
-image: "https://images.pexels.com/photos/30440447/pexels-photo-30440447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35425765/pexels-photo-35425765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Access & Community"]
 tags: ["community", "solar", "works"]
 slug: "community-solar-how-it-works"
@@ -102,7 +102,7 @@ The honest truth is that community solar flies under the radar in a lot of energ
 - **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
 
 
-*Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
+*Photo: [Giant Asparagus](https://www.pexels.com/@giantasparagus) via Pexels*
 
 ---
 

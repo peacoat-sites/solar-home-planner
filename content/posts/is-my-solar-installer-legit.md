@@ -125,7 +125,7 @@ The solar industry has a lot of genuinely good installers who will do right by y
 - **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Los Muertos Crew](https://www.pexels.com/@cristian-rojas) via Pexels*
 
 ---
 
