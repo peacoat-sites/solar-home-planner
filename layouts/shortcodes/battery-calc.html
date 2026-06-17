@@ -1,0 +1,114 @@
+<style>
+.batcalc{margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.batcalc-head{padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem}
+.batcalc-body{padding:20px}
+.batcalc .ig{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:16px}
+.batcalc label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)}
+.batcalc input,.batcalc select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.batcalc input:focus,.batcalc select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)}
+.batcalc .hint{font-size:12px;color:var(--stone);margin:-10px 0 14px;line-height:1.5}
+.batcalc .rg{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.batcalc .rc{background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center}
+.batcalc .rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.batcalc .rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0}
+.batcalc .rs{display:block;font-size:11.5px;color:var(--muted)}
+.batcalc .callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5}
+.batcalc .callout b{color:var(--accent)}
+.batcalc .load-table{width:100%;border-collapse:collapse;margin:16px 0;font-size:13.5px}
+.batcalc .load-table th{text-align:left;padding:7px 10px;background:var(--surface2);font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);border-bottom:1px solid var(--border)}
+.batcalc .load-table td{padding:7px 10px;border-bottom:1px solid var(--border)}
+.batcalc .load-table tr:last-child td{border-bottom:none}
+.batcalc .sect-label{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:20px 0 10px}
+.batcalc .note{margin:16px 0 0;font-size:12px;color:var(--stone);line-height:1.5}
+@media(max-width:560px){.batcalc .rv{font-size:1.4rem}}
+</style>
+
+<div class="batcalc">
+  <div class="batcalc-head">&#128267; Solar Battery Sizing Calculator</div>
+  <div class="batcalc-body">
+
+    <div class="sect-label">Common Critical Loads Reference</div>
+    <table class="load-table">
+      <thead><tr><th>Appliance</th><th>Estimated kWh/day</th></tr></thead>
+      <tbody>
+        <tr><td>Refrigerator</td><td>1.5 kWh</td></tr>
+        <tr><td>LED lights (10 bulbs, 8 hrs)</td><td>0.5 kWh</td></tr>
+        <tr><td>TV (4 hrs)</td><td>0.2 kWh</td></tr>
+        <tr><td>Phone chargers (4 devices)</td><td>0.1 kWh</td></tr>
+        <tr><td>Laptop (8 hrs)</td><td>0.3 kWh</td></tr>
+        <tr><td>Window AC unit (4 hrs)</td><td>4&ndash;8 kWh</td></tr>
+        <tr><td>Well pump (per use cycle)</td><td>0.5 kWh</td></tr>
+        <tr><td>Typical essentials (no AC)</td><td>~3&ndash;5 kWh</td></tr>
+        <tr><td>Typical essentials (with AC)</td><td>~10&ndash;18 kWh</td></tr>
+      </tbody>
+    </table>
+
+    <div class="sect-label">Your Backup Requirements</div>
+    <div class="ig">
+      <label>Critical Loads (kWh/day)
+        <input type="number" id="bc-loads" value="15" min="1" max="200" step="0.5" oninput="bcCalc()">
+      </label>
+      <label>Days of Backup Needed
+        <select id="bc-days" onchange="bcCalc()">
+          <option value="1">1 day</option>
+          <option value="2" selected>2 days</option>
+          <option value="3">3 days</option>
+        </select>
+      </label>
+    </div>
+    <div class="ig">
+      <label>Depth of Discharge (DoD)
+        <select id="bc-dod" onchange="bcCalc()">
+          <option value="0.80" selected>80% — recommended for lithium (longer life)</option>
+          <option value="0.90">90% — maximum lithium (shorter cycle life)</option>
+        </select>
+      </label>
+      <label>Battery Capacity per Unit (kWh)
+        <input type="number" id="bc-cap" value="13.5" min="1" max="50" step="0.5" oninput="bcCalc()">
+      </label>
+    </div>
+    <p class="hint">Default 13.5 kWh = Tesla Powerwall 3 usable capacity. LG Resu10H = 9.3 kWh, Enphase IQ Battery 5P = 5 kWh, Franklin Apower = 13.6 kWh.</p>
+
+    <div id="bc-results" class="rg"></div>
+    <div id="bc-callout" class="callout" style="margin-top:16px"></div>
+    <p class="note">Battery cost estimates are rough installed averages (approx. $12,000/unit for a Powerwall-class battery including installation). Actual quotes vary significantly by installer, battery brand, and local labor costs. Battery pricing is separate from solar panel system cost.</p>
+  </div>
+</div>
+
+<script>
+(function(){
+function fmtUSD(n){ return '$'+Math.round(n).toLocaleString('en-US'); }
+function fmtNum(n,d){ return n.toLocaleString('en-US',{maximumFractionDigits:d||1}); }
+
+window.bcCalc = function(){
+  var loads = parseFloat(document.getElementById('bc-loads').value)||15;
+  var days  = parseFloat(document.getElementById('bc-days').value)||2;
+  var dod   = parseFloat(document.getElementById('bc-dod').value)||0.80;
+  var cap   = parseFloat(document.getElementById('bc-cap').value)||13.5;
+
+  var totalNeeded = loads * days / dod;
+  var numBat = Math.ceil(totalNeeded / cap);
+  if(numBat < 1) numBat = 1;
+  var estCost = numBat * 12000;
+  var costPerKwh = estCost / (numBat * cap);
+
+  var cards = [
+    {label:'Total Storage Needed', val: fmtNum(totalNeeded,1)+' kWh', sub: loads+' kWh/day \xd7 '+days+' day(s) \xf7 '+Math.round(dod*100)+'% DoD'},
+    {label:'Number of Batteries', val: numBat+' unit'+(numBat>1?'s':''), sub: cap+' kWh each'},
+    {label:'Estimated Installed Cost', val: fmtUSD(estCost), sub: 'Rough estimate only'},
+    {label:'Cost per kWh Stored', val: fmtUSD(costPerKwh)+'/kWh', sub: 'Based on '+numBat+' \xd7 '+cap+' kWh'}
+  ];
+
+  var html = cards.map(function(c){
+    return '<div class="rc"><span class="rl">'+c.label+'</span><span class="rv">'+c.val+'</span><span class="rs">'+c.sub+'</span></div>';
+  }).join('');
+  document.getElementById('bc-results').innerHTML = html;
+
+  var callout = document.getElementById('bc-callout');
+  var dodPct = Math.round(dod*100);
+  callout.innerHTML = '<b>Sizing summary:</b> To power <b>'+loads+' kWh/day</b> of critical loads for <b>'+days+' day(s)</b> at <b>'+dodPct+'% DoD</b>, you need at least <b>'+fmtNum(totalNeeded,1)+' kWh</b> of usable battery capacity &mdash; that\'s <b>'+numBat+' battery unit'+(numBat>1?'s':'')+' </b> at '+cap+' kWh each.';
+};
+
+bcCalc();
+})();
+</script>

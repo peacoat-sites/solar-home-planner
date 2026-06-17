@@ -1,0 +1,139 @@
+<style>
+.solcalc{margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.solcalc-head{padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem}
+.solcalc-body{padding:20px}
+.solcalc .ig{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:16px}
+.solcalc label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)}
+.solcalc input,.solcalc select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.solcalc input:focus,.solcalc select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)}
+.solcalc .ck-row{display:flex;align-items:center;gap:10px;margin-bottom:16px;font-size:14px;font-weight:600;color:var(--text)}
+.solcalc .ck-row input[type=checkbox]{width:18px;height:18px;accent-color:var(--accent);cursor:pointer}
+.solcalc .rg{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.solcalc .rc{background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center}
+.solcalc .rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.solcalc .rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0}
+.solcalc .rs{display:block;font-size:11.5px;color:var(--muted)}
+.solcalc .callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5}
+.solcalc .callout b{color:var(--accent)}
+.solcalc .note{margin:16px 0 0;font-size:12px;color:var(--stone);line-height:1.5}
+.solcalc .sect-label{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:20px 0 10px}
+@media(max-width:560px){.solcalc .rv{font-size:1.4rem}}
+</style>
+
+<div class="solcalc">
+  <div class="solcalc-head">&#9728;&#65039; Solar Savings &amp; Payback Calculator</div>
+  <div class="solcalc-body">
+    <div class="sect-label">Your Energy Profile</div>
+    <div class="ig">
+      <label>Monthly Electric Bill ($)
+        <input type="number" id="sc-bill" value="150" min="20" max="1000" oninput="scCalc()">
+      </label>
+      <label>System Size (kW)
+        <input type="number" id="sc-kw" value="6" min="2" max="20" step="0.5" oninput="scCalc()">
+      </label>
+      <label>Your State
+        <select id="sc-state" onchange="scCalc()">
+          <option value="CA">California (CA)</option>
+          <option value="TX">Texas (TX)</option>
+          <option value="FL">Florida (FL)</option>
+          <option value="AZ">Arizona (AZ)</option>
+          <option value="NC">North Carolina (NC)</option>
+          <option value="NY">New York (NY)</option>
+          <option value="GA">Georgia (GA)</option>
+          <option value="CO">Colorado (CO)</option>
+          <option value="NV">Nevada (NV)</option>
+          <option value="NJ">New Jersey (NJ)</option>
+          <option value="MA">Massachusetts (MA)</option>
+          <option value="WA">Washington (WA)</option>
+          <option value="IL">Illinois (IL)</option>
+          <option value="OH">Ohio (OH)</option>
+          <option value="PA">Pennsylvania (PA)</option>
+          <option value="VA">Virginia (VA)</option>
+          <option value="SC">South Carolina (SC)</option>
+          <option value="MD">Maryland (MD)</option>
+          <option value="MN">Minnesota (MN)</option>
+          <option value="MI">Michigan (MI)</option>
+          <option value="OTHER">Other State</option>
+        </select>
+      </label>
+      <label>Electricity Rate (&#162;/kWh)
+        <input type="number" id="sc-rate" value="14" min="5" max="40" step="0.5" oninput="scCalc()">
+      </label>
+    </div>
+    <div class="sect-label">System Cost &amp; Incentives</div>
+    <div class="ig">
+      <label>Installer Quote ($ — leave blank to estimate)
+        <input type="number" id="sc-quote" placeholder="Leave blank to auto-estimate" min="1000" oninput="scCalc()">
+      </label>
+      <label>State/Utility Rebate ($)
+        <input type="number" id="sc-rebate" value="0" min="0" oninput="scCalc()">
+      </label>
+    </div>
+    <div class="ck-row">
+      <input type="checkbox" id="sc-itc" checked onchange="scCalc()">
+      <span>Apply 30% Federal Solar Tax Credit (ITC — through 2032)</span>
+    </div>
+    <div id="sc-results" class="rg"></div>
+    <div id="sc-itc-callout" class="callout" style="display:none"></div>
+    <p class="note">Estimates use average utility rates and production ratios. Actual results vary with shading, roof orientation, and local rates. Get multiple installer quotes before making any purchasing decision.</p>
+  </div>
+</div>
+
+<script>
+(function(){
+var PSH = {CA:5.5,TX:5.2,FL:5.0,AZ:6.0,NC:4.7,NY:4.0,GA:4.9,CO:5.5,NV:6.2,NJ:4.1,MA:3.9,WA:3.9,IL:4.2,OH:4.0,PA:4.0,VA:4.5,SC:4.8,MD:4.3,MN:4.5,MI:4.0,OTHER:4.5};
+
+function fmt(n,dec){
+  dec = dec||0;
+  if(Math.abs(n)>=1000) return '$'+n.toLocaleString('en-US',{maximumFractionDigits:dec});
+  return '$'+n.toFixed(dec);
+}
+function fmtNum(n,dec){ return n.toLocaleString('en-US',{maximumFractionDigits:dec||0}); }
+
+window.scCalc = function(){
+  var bill = parseFloat(document.getElementById('sc-bill').value)||150;
+  var kw   = parseFloat(document.getElementById('sc-kw').value)||6;
+  var state= document.getElementById('sc-state').value||'OTHER';
+  var rate = parseFloat(document.getElementById('sc-rate').value)||14;
+  var itc  = document.getElementById('sc-itc').checked;
+  var rebate= parseFloat(document.getElementById('sc-rebate').value)||0;
+  var quoteEl= document.getElementById('sc-quote');
+  var quoteRaw= quoteEl.value ? parseFloat(quoteEl.value) : null;
+
+  var psh = PSH[state]||4.5;
+  var annualProd = kw * psh * 365 * 0.80;
+  var annualSav  = annualProd * (rate/100);
+  var systemCost = quoteRaw || (kw * 2800);
+  var afterItc   = systemCost * (itc ? 0.70 : 1.0) - rebate;
+  if(afterItc < 0) afterItc = 0;
+  var payback    = afterItc / annualSav;
+  var net25      = annualSav * 25 - systemCost;
+  var co2        = annualProd * 0.92;
+  var itcSavings = itc ? systemCost * 0.30 : 0;
+
+  var cards = [
+    {label:'Annual Savings', val: fmt(annualSav), sub: fmtNum(annualProd)+ ' kWh produced/yr'},
+    {label:'System Cost After Incentives', val: fmt(afterItc), sub: 'Before: '+fmt(systemCost)},
+    {label:'Payback Period', val: payback.toFixed(1)+' yrs', sub: 'Break-even point'},
+    {label:'25-Year Net Savings', val: fmt(net25), sub: 'After full system cost'},
+    {label:'Annual CO₂ Avoided', val: fmtNum(co2)+' lbs', sub: '≈'+fmtNum(co2/2204.6,1)+' metric tons'}
+  ];
+
+  var html = cards.map(function(c){
+    return '<div class="rc"><span class="rl">'+c.label+'</span><span class="rv">'+c.val+'</span><span class="rs">'+c.sub+'</span></div>';
+  }).join('');
+  document.getElementById('sc-results').innerHTML = html;
+
+  var callout = document.getElementById('sc-itc-callout');
+  if(itc){
+    callout.style.display='';
+    callout.innerHTML = '✨ <b>Federal Tax Credit: 30% = saves '+fmt(itcSavings)+'</b> off your system cost — claimed on IRS Form 5695 when you file taxes the year installation is complete.';
+  } else {
+    callout.style.display='none';
+  }
+};
+
+// Run on load
+scCalc();
+})();
+</script>
