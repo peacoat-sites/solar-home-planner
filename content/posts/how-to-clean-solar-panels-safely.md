@@ -33,6 +33,16 @@ Here's what I tell people who ask me about cleaning: it's genuinely simple, but 
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Panel Cleaning Safety Checklist with Thresholds</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to verify conditions before cleaning—each item has a specific pass/fail threshold based on manufacturer guidelines and installer best practices.</p>
+    <table><thead><tr><th>Safety Check</th><th>Pass Threshold</th><th>Fail Action</th></tr></thead><tbody><tr><td>Panel surface temperature</td><td>Within 20°F (11°C) of ambient air temperature</td><td>Wait until early morning or 2+ hours after sunset</td></tr><tr><td>Water temperature differential</td><td>Less than 30°F (17°C) difference from panel surface</td><td>Use lukewarm water or let panels cool further</td></tr><tr><td>System power status</td><td>DC isolator OFF and inverter showing no production</td><td>Locate isolator switch; consult installer if unclear</td></tr><tr><td>Roof pitch</td><td>≤6:12 (≤27°) for DIY cleaning without harness</td><td>Hire professional or use fall protection equipment</td></tr><tr><td>Water pressure (if using hose)</td><td>≤40 PSI at nozzle (standard garden hose is typically 40–60 PSI)</td><td>Use spray attachment with gentle shower setting</td></tr><tr><td>Water mineral content</td><td>Soft or filtered water (under 120 ppm hardness)</td><td>Use deionized water or squeegee immediately to prevent spotting</td></tr><tr><td>Cleaning tool material</td><td>Soft sponge, microfiber, or lamb's wool only</td><td>Never use abrasive pads, brushes with stiff bristles, or pressure washers</td></tr><tr><td>Weather conditions</td><td>No rain forecast for 2+ hours, wind under 15 mph</td><td>Postpone cleaning to avoid slip hazards and streaking</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Before You Touch Anything: Safety and Timing
 
 The single most important thing isn't what soap to use. It's when and how you get up there.

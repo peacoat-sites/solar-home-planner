@@ -22,6 +22,16 @@ That story drives a lot of what I want to cover here, because the question "how 
 
 The answer can range from three hours to three weeks, and both are technically correct.
 
+
+<div class="value-module">
+  <div class="vm-head">Battery Runtime by Usage Scenario</div>
+  <div class="vm-body">
+    <p class="vm-intro">This table shows how long common battery systems last under three realistic usage patterns, from emergency-only to near-normal household operation.</p>
+    <table><thead><tr><th>Battery System</th><th>Capacity</th><th>Emergency Mode (fridge, lights, phones: ~0.5 kW avg)</th><th>Essential Mode (+ well pump, fan, router: ~1.2 kW avg)</th><th>Comfort Mode (+ window AC, TV, microwave use: ~3 kW avg)</th></tr></thead><tbody><tr><td>Enphase IQ 5P (single)</td><td>5 kWh</td><td>~10 hours</td><td>~4 hours</td><td>~1.5 hours</td></tr><tr><td>Tesla Powerwall 3 (single)</td><td>13.5 kWh</td><td>~27 hours</td><td>~11 hours</td><td>~4.5 hours</td></tr><tr><td>FranklinWH aPower 2</td><td>15 kWh</td><td>~30 hours</td><td>~12 hours</td><td>~5 hours</td></tr><tr><td>Two Powerwalls stacked</td><td>27 kWh</td><td>~54 hours</td><td>~22 hours</td><td>~9 hours</td></tr><tr><td>Three Powerwalls stacked</td><td>40.5 kWh</td><td>~81 hours (3+ days)</td><td>~34 hours</td><td>~13 hours</td></tr></tbody><tfoot><tr><td colspan="5"><em>Note: Runtimes assume battery-only (no solar recharging) and 90% usable capacity. With daytime solar production, runtimes extend significantly—often indefinitely for Emergency Mode in sunny conditions.</em></td></tr></tfoot></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What "battery capacity" actually means in practice
 
 Most home battery systems sold today are measured in kilowatt-hours (kWh). A Tesla Powerwall 3 holds 13.5 kWh. The Enphase IQ Battery 5P holds 5 kWh. The FranklinWH aPower 2 gives you 15 kWh. These numbers look tidy on spec sheets. They don't tell you much until you compare them against what you plan to power.

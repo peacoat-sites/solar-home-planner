@@ -32,6 +32,16 @@ Let's get into the real math and what it actually takes to make this work.
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Solar-to-EV Sizing Quick Calculator</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this worked example to estimate how much solar capacity you need based on your actual driving habits.</p>
+    <table><thead><tr><th>Step</th><th>Calculation</th><th>Example (Average US Driver)</th></tr></thead><tbody><tr><td>1. Annual miles driven</td><td>Your yearly mileage</td><td>12,000 miles/year</td></tr><tr><td>2. EV efficiency</td><td>Check your car's EPA rating (kWh per mile)</td><td>0.30 kWh/mile (mid-size EV)</td></tr><tr><td>3. Annual kWh for driving</td><td>Miles × efficiency</td><td>12,000 × 0.30 = 3,600 kWh/year</td></tr><tr><td>4. Account for charging losses</td><td>Multiply by 1.15 (typical 15% loss)</td><td>3,600 × 1.15 = 4,140 kWh/year</td></tr><tr><td>5. Your location's sun hours</td><td>Peak sun hours/day (ranges 4–6+ across US)</td><td>4.5 hours (national average)</td></tr><tr><td>6. Solar kW needed for EV only</td><td>Annual kWh ÷ 365 ÷ sun hours ÷ 0.80 (system losses)</td><td>4,140 ÷ 365 ÷ 4.5 ÷ 0.80 = 3.15 kW</td></tr><tr><td>7. Number of panels</td><td>kW needed ÷ panel wattage (typically 0.35–0.40 kW)</td><td>3.15 ÷ 0.40 = 8 panels</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## How Solar Charging an EV Actually Works
 
 At the most basic level, your solar panels convert sunlight into DC electricity. Your inverter converts that into the AC electricity your home runs on. Your car's onboard charger then takes that AC power and converts it back to DC to fill the battery. So the power path is: roof panels, inverter, your home's electrical panel, and then your Level 2 EVSE (Electric Vehicle Supply Equipment, the proper name for what most people call an EV charger).

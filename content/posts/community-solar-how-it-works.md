@@ -30,6 +30,16 @@ Your electric bill arrives and you think: solar makes sense, but I rent. Or you 
 
 Let me fix that.
 
+
+<div class="value-module">
+  <div class="vm-head">Community Solar Savings Breakdown Example</div>
+  <div class="vm-body">
+    <p class="vm-intro">Here's how the math typically works for a real subscriber, showing each line item you'll see on your bills.</p>
+    <table><caption>Monthly Bill Comparison: Before vs. After Community Solar</caption><thead><tr><th>Line Item</th><th>Without Community Solar</th><th>With Community Solar</th></tr></thead><tbody><tr><td>Electricity usage (800 kWh)</td><td>$120.00</td><td>$120.00</td></tr><tr><td>Delivery/distribution charges</td><td>$25.00</td><td>$25.00</td></tr><tr><td>Utility bill subtotal</td><td>$145.00</td><td>$145.00</td></tr><tr><td>Community solar bill credit (500 kWh × $0.14)</td><td>—</td><td>−$70.00</td></tr><tr><td>Adjusted utility bill</td><td>$145.00</td><td>$75.00</td></tr><tr><td>Community solar subscription fee (500 kWh × $0.12)</td><td>—</td><td>$60.00</td></tr><tr><td><strong>Total monthly cost</strong></td><td><strong>$145.00</strong></td><td><strong>$135.00</strong></td></tr><tr><td>Monthly savings</td><td>—</td><td>$10.00 (7%)</td></tr><tr><td>Annual savings</td><td>—</td><td>~$120</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Community Solar Actually Is
 
 Think of it this way: somewhere within your utility service territory, a large solar array gets built, usually on farmland, a brownfield site, or a commercial rooftop. That array is owned by a developer, a utility, a co-op, or sometimes even a municipality. Instead of powering one building, it feeds electricity directly into the grid. Then, households like yours subscribe to a share of that array's output.

@@ -28,6 +28,16 @@ author_bio: "Stephanie Walsh spent years as a financial planner before narrowing
 
 You've found the perfect south-facing roof, gotten three quotes, and you're ready to pull the trigger on a solar install. Then the HOA letter arrives. "Your request has been denied pending further review." It's one of the most common gut-punch moments in residential solar, and I've watched it derail installs that should have been straightforward. Here's the thing though: in most states, your HOA doesn't actually have the final say. Understanding exactly where the law stands, what your HOA can and can't demand, and how to build an airtight approval request can mean the difference between getting your system installed and fighting a losing battle with your neighbor's architectural committee.
 
+
+<div class="value-module">
+  <div class="vm-head">State Solar Access Law Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">These thresholds determine what your HOA can legally require—know your state's specific protections before submitting your approval request.</p>
+    <table><caption>Solar Access Protections by State (Selected Examples)</caption><thead><tr><th>State</th><th>Can HOA Ban Solar?</th><th>Cost Increase Cap</th><th>Efficiency Loss Cap</th><th>Notable Restrictions HOA May Impose</th></tr></thead><tbody><tr><td>California</td><td>No</td><td>$1,000 or 10% of system cost</td><td>10%</td><td>Roofline height limits; specific mounting aesthetics</td></tr><tr><td>Arizona</td><td>No</td><td>$1,000</td><td>10%</td><td>Location preferences on less-visible roof areas</td></tr><tr><td>Texas</td><td>No</td><td>Not specified</td><td>25%</td><td>Must allow at least one conforming location</td></tr><tr><td>Florida</td><td>No</td><td>Not specified</td><td>10%</td><td>May require specific colors matching roof</td></tr><tr><td>Colorado</td><td>No</td><td>Not specified</td><td>10%</td><td>Limited to adjustments that don't impair function</td></tr><tr><td>New Jersey</td><td>No</td><td>Not specified</td><td>10%</td><td>Reasonable aesthetic requirements only</td></tr><tr><td>No State Law</td><td>Depends on CC&Rs</td><td>None</td><td>None</td><td>HOA has full discretion; negotiate directly</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Federal and State Laws Actually Say About HOA Solar Rights
 
 Let's start with the legal foundation, because this is where most homeowners have more power than they realize.

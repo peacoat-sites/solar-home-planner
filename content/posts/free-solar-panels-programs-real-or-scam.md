@@ -32,6 +32,16 @@ Here's what I tell people who come to me with this question: the answer is genui
 
 Let me walk you through what's real, what's misleading, and how to tell the difference before you sign anything.
 
+
+<div class="value-module">
+  <div class="vm-head">Solar Program Comparison: True Costs Over 20 Years</div>
+  <div class="vm-body">
+    <p class="vm-intro">This comparison uses a typical 8kW residential system to show how 'free' solar options actually compare financially over a standard contract period.</p>
+    <table><caption>20-Year Cost Comparison for 8kW Residential Solar System</caption><thead><tr><th>Program Type</th><th>Upfront Cost</th><th>Who Owns Panels</th><th>Estimated 20-Year Total Cost</th><th>Who Gets Tax Credit</th><th>Home Sale Impact</th></tr></thead><tbody><tr><td>Cash Purchase</td><td>$18,000–$24,000</td><td>You</td><td>$13,000–$17,000 (after 30% tax credit)</td><td>You</td><td>Increases home value</td></tr><tr><td>Solar Loan (10-year, 6% APR)</td><td>$0</td><td>You</td><td>$20,000–$27,000 (interest minus tax credit)</td><td>You</td><td>Increases home value</td></tr><tr><td>Solar Lease</td><td>$0</td><td>Company</td><td>$22,000–$35,000 (with 2.9% annual escalator)</td><td>Company</td><td>Lease transfer required; can complicate sale</td></tr><tr><td>PPA ($0.10/kWh start, 2.9% escalator)</td><td>$0</td><td>Company</td><td>$24,000–$38,000</td><td>Company</td><td>Contract transfer required; can complicate sale</td></tr><tr><td>Low-Income Grant Programs (LIHEAP, state programs)</td><td>$0</td><td>You</td><td>$0 (if fully subsidized)</td><td>Not applicable</td><td>Increases home value</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What "Free Solar" Actually Means (Usually)
 
 Nine times out of ten, when you see "free solar panels," the program in question is a solar lease or a Power Purchase Agreement, better known as a PPA. These are real financial products offered by legitimate companies like Sunrun, SunPower, and Tesla Energy. They're not scams. But they're also not free solar. Not even close.

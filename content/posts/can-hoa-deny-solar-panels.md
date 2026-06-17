@@ -28,6 +28,16 @@ author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system
 
 Your HOA just sent you a letter saying your solar panel application has been denied. Maybe they cited "aesthetic guidelines" or said panels aren't permitted on street-facing roof sections. You're frustrated, and honestly, you might be thinking the HOA has the final word here. In most states, they don't. Solar access rights have quietly become one of the most consumer-friendly areas of property law over the past decade, and a lot of HOA boards either don't know the limits of their own authority or are counting on you not knowing yours.
 
+
+<div class="value-module">
+  <div class="vm-head">State Solar Access Law Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">Solar access protections vary significantly by state—here's how the major statutes compare on key provisions that determine your leverage against an HOA denial.</p>
+    <table><thead><tr><th>State</th><th>Law Name</th><th>Can HOA Ban Panels Outright?</th><th>Can HOA Restrict Placement?</th><th>Cost-Reduction Threshold</th><th>Aesthetic Rules Allowed?</th></tr></thead><tbody><tr><td>California</td><td>Solar Rights Act (Civil Code §714)</td><td>No</td><td>Only if it doesn't reduce efficiency by &gt;10%</td><td>Cannot increase cost by &gt;$1,000</td><td>Limited; cannot significantly impair function</td></tr><tr><td>Texas</td><td>Property Code §202.010</td><td>No</td><td>Yes, but only to less-visible areas if equally efficient</td><td>Not specified</td><td>Yes, if panels remain reasonably effective</td></tr><tr><td>Arizona</td><td>ARS §33-439</td><td>No</td><td>Cannot "unreasonably restrict"</td><td>Cannot increase cost by &gt;15%</td><td>Limited; courts favor homeowners</td></tr><tr><td>Florida</td><td>F.S. §163.04</td><td>No</td><td>Cannot prohibit on any roof section</td><td>Cannot increase cost by &gt;10%</td><td>Minimal; must not impair performance</td></tr><tr><td>Colorado</td><td>CRS §38-30-168</td><td>No</td><td>Only to comparable-efficiency locations</td><td>Cannot reduce output by &gt;10%</td><td>Yes, if function preserved</td></tr><tr><td>New Jersey</td><td>NJSA 45:22A-48.2</td><td>No</td><td>Limited restrictions permitted</td><td>Not specified</td><td>Yes, subject to reasonableness</td></tr><tr><td>Alabama</td><td>No specific statute</td><td>Potentially yes</td><td>At HOA discretion</td><td>N/A</td><td>At HOA discretion</td></tr><tr><td>Mississippi</td><td>No specific statute</td><td>Potentially yes</td><td>At HOA discretion</td><td>N/A</td><td>At HOA discretion</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Solar Access Laws Actually Say
 
 Forty-plus states have passed some form of solar access law or solar easement statute. The strength of those laws varies enormously, but the trend is clear: state legislatures have been systematically stripping HOAs of their ability to flatly prohibit solar installations.

@@ -30,6 +30,16 @@ Most homeowners I talk to start the solar-plus-EV conversation completely backwa
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">EV Solar Sizing Quick Calculator</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this worksheet to estimate your total solar system size before talking to installers.</p>
+    <table><thead><tr><th>Input</th><th>How to Find It</th><th>Example</th></tr></thead><tbody><tr><td>Annual home usage (kWh)</td><td>Sum 12 months of utility bills</td><td>10,500 kWh</td></tr><tr><td>Annual miles driven</td><td>Odometer ÷ years owned, or estimate daily × 365</td><td>13,500 miles</td></tr><tr><td>EV efficiency (mi/kWh)</td><td>Check EPA rating: sedans 3.5–4, SUVs 2.5–3, trucks 1.8–2.2</td><td>3.0 mi/kWh</td></tr><tr><td>Annual EV demand (kWh)</td><td>Miles ÷ efficiency</td><td>4,500 kWh</td></tr><tr><td>Total annual need (kWh)</td><td>Home + EV demand</td><td>15,000 kWh</td></tr><tr><td>Local sun-hours/day</td><td>NREL PVWatts or installer estimate (US range: 3.5–6.5)</td><td>5.0 hrs</td></tr><tr><td>System size needed (kW)</td><td>Total kWh ÷ 365 ÷ sun-hours ÷ 0.80 (system losses)</td><td>10.3 kW</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Your EV Changes Everything About System Sizing
 
 Here's the number that reframes this whole conversation: the average American drives about 37 miles per day, according to Federal Highway Administration data. Most EVs consume roughly 3 to 4 miles of range per kilowatt-hour, depending on the vehicle and how you drive. Do that math and you're looking at approximately 10 to 12 kWh of additional electricity demand, every single day, just to charge one car.

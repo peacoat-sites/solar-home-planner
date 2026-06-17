@@ -34,6 +34,16 @@ I've seen systems run at 60% capacity for six months before anyone noticed. A lo
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Monthly Solar Output Diagnostic Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to identify whether low production stems from normal conditions or a system fault requiring action.</p>
+    <table><thead><tr><th>Check Item</th><th>Normal Range / Threshold</th><th>Action If Outside Range</th></tr></thead><tbody><tr><td>Daily kWh vs. same month last year</td><td>Within ±15% (weather-adjusted)</td><td>If &gt;15% lower for 3+ consecutive days, investigate further</td></tr><tr><td>Panel-level production variance</td><td>All panels within 5% of each other</td><td>If one panel &gt;10% below peers, check for shading, soiling, or microinverter fault</td></tr><tr><td>Inverter error codes</td><td>Zero active faults</td><td>Any fault code: document and contact installer within 48 hours</td></tr><tr><td>String voltage readings</td><td>Within manufacturer spec (typically 300–500V DC for residential)</td><td>Voltage drop &gt;10% suggests connector issue or panel failure</td></tr><tr><td>Peak production timing</td><td>Should occur within 1 hour of solar noon</td><td>If peak shifts &gt;2 hours, check for new shading obstruction</td></tr><tr><td>Monthly capacity factor</td><td>12–18% winter / 18–25% summer (varies by region)</td><td>Consistently below range suggests system-wide issue</td></tr><tr><td>Inverter clipping frequency</td><td>Occasional on high-production days is normal</td><td>Daily clipping &gt;1 hour may indicate undersized inverter or configuration issue</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What "Monitoring" Actually Means (and Why Most People Do It Wrong)
 
 Most solar installers hand you an app on install day, show you a pretty graph, and send you on your way. You open the app a few times, see green numbers, feel good, and then mostly forget about it.

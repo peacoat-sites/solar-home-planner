@@ -28,6 +28,16 @@ author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system
 
 Most homeowners walk into solar quotes with zero leverage. They hand the salesperson a utility bill, nod along while someone explains "peak sun hours," and end up with a system somebody else sized for them. I've watched this happen dozens of times. The salesperson isn't necessarily lying, but they have every incentive to round up. A bigger system means a bigger commission. What I want to show you is that sizing a solar system yourself isn't that complicated, and doing it before you ever talk to a contractor changes the entire conversation.
 
+
+<div class="value-module">
+  <div class="vm-head">System Sizing Worked Example</div>
+  <div class="vm-body">
+    <p class="vm-intro">Here's how the math flows from your utility bill to a specific panel count, using realistic numbers you can swap for your own.</p>
+    <table><caption>Sizing a 12,000 kWh/year home in a 5-peak-sun-hour location</caption><thead><tr><th>Step</th><th>Calculation</th><th>Result</th></tr></thead><tbody><tr><td>1. Annual consumption</td><td>Sum of 12 monthly bills</td><td>12,000 kWh</td></tr><tr><td>2. Planned load changes</td><td>+3,500 kWh for new EV</td><td>15,500 kWh target</td></tr><tr><td>3. Daily production needed</td><td>15,500 kWh ÷ 365 days</td><td>42.5 kWh/day</td></tr><tr><td>4. DC system size (ideal)</td><td>42.5 kWh ÷ 5 peak sun hours</td><td>8.5 kW DC</td></tr><tr><td>5. Derate for real-world losses</td><td>8.5 kW ÷ 0.80 (inverter, wiring, soiling, temp)</td><td>10.6 kW DC</td></tr><tr><td>6. Panel count (400W panels)</td><td>10,600 W ÷ 400 W</td><td>27 panels</td></tr><tr><td>7. Roof space check</td><td>27 panels × 18 sq ft each</td><td>~486 sq ft needed</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Your Utility Bill Is the Starting Point, Not the Finish Line
 
 Pull your last 12 months of electric bills. Not just last month. Twelve months. This is the single most important thing you can do before sizing anything.

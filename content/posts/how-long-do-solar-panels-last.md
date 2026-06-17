@@ -30,6 +30,16 @@ Most people assume solar panels wear out like a car battery: slow decline, then 
 
 I got genuinely curious about panel longevity a while back after a reader emailed me asking whether it was worth replacing a 22-year-old system that was still producing power. That question sent me down a rabbit hole of degradation studies, manufacturer warranty fine print, and some surprisingly candid conversations with installers who've been pulling panels off roofs long enough to have real data. Here's what I actually found.
 
+
+<div class="value-module">
+  <div class="vm-head">Panel Degradation: Real Output Over Time</div>
+  <div class="vm-body">
+    <p class="vm-intro">Here's what a typical 10kW residential solar system actually produces as panels age, using the industry-standard 0.5% annual degradation rate versus premium panels at 0.25%.</p>
+    <table><caption>Projected Annual Output (kWh) for 10kW System by Panel Quality</caption><thead><tr><th>Year</th><th>Standard Panel (0.5%/yr)</th><th>Premium Panel (0.25%/yr)</th><th>Cumulative Difference</th></tr></thead><tbody><tr><td>0 (Install)</td><td>14,000 kWh</td><td>14,000 kWh</td><td>—</td></tr><tr><td>10</td><td>13,320 kWh</td><td>13,655 kWh</td><td>+1,675 kWh total</td></tr><tr><td>20</td><td>12,670 kWh</td><td>13,315 kWh</td><td>+4,895 kWh total</td></tr><tr><td>25</td><td>12,355 kWh</td><td>13,150 kWh</td><td>+6,970 kWh total</td></tr><tr><td>30</td><td>12,050 kWh</td><td>12,985 kWh</td><td>+9,350 kWh total</td></tr><tr><td>Year 25 Output %</td><td>88.3% of original</td><td>93.9% of original</td><td>—</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The "25-Year Warranty" Doesn't Mean What You Think
 
 Every major panel manufacturer advertises a 25-year performance warranty. SunPower, Panasonic, Q CELLS, REC Group, they all offer it. It sounds like a guarantee that your panels will work for 25 years, but read the actual document and you'll find something more specific and more interesting.
