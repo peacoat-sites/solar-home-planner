@@ -90,7 +90,7 @@ Second, contact your state energy office or public utilities commission directly
 
 Third, if a nonprofit is involved (GRID Alternatives in particular operates in California, the Mountain West, Mid-Atlantic, and Southeast), get on their waitlist early. These organizations do the work with integrity, and they're not trying to upsell you a battery you don't need.
 
-Fourth, if you do end up working with a private installer for any remaining cost, get three quotes and ask each one to itemize: panels, inverter, labor, permit fees, and utility interconnection separately. A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=home+energy+monitor&tag=your-tag) (around $60-$80, *this site may earn a commission on purchases*) is worth buying before you go solar anyway, so you understand your actual consumption patterns before sizing a system.
+Fourth, if you do end up working with a private installer for any remaining cost, get three quotes and ask each one to itemize: panels, inverter, labor, permit fees, and utility interconnection separately. A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) (around $60-$80, *this site may earn a commission on purchases*) is worth buying before you go solar anyway, so you understand your actual consumption patterns before sizing a system.
 
 ---
 

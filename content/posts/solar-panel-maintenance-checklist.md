@@ -72,7 +72,7 @@ Here's my honest take: in most of the country, rain does about 80% of the work f
 
 When you do clean, the method matters. Use plain deionized or distilled water when possible. Tap water leaves mineral deposits (those white streaks you see) that can accumulate over time. A soft brush or a squeegee with a long handle is better than a pressure washer. Never use a pressure washer on solar panels. The water can force its way into junction boxes and frame seals, and you can crack cells with the pressure if you're too close. I've seen warranty claims denied specifically because of pressure washer damage.
 
-There are decent purpose-built cleaning kits worth having if you plan to do this yourself. [A solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=your-affiliate-tag) with an extension pole and a soft-bristle brush runs about $30-60 on Amazon and makes the job a lot safer since you can often reach panels from the edge of the roof or even a ladder without stepping on them. (Full disclosure: the site may earn a small commission on that link.)
+There are decent purpose-built cleaning kits worth having if you plan to do this yourself. [A solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) with an extension pole and a soft-bristle brush runs about $30-60 on Amazon and makes the job a lot safer since you can often reach panels from the edge of the roof or even a ladder without stepping on them. (Full disclosure: the site may earn a small commission on that link.)
 
 Morning is the best time to clean. Panels are cool, which matters because spraying cold water on hot glass can cause thermal shock and micro-cracking. Early morning, the surface hasn't had time to heat up, and you'll also see a production boost during a part of the day when the sun is actively working.
 
@@ -82,7 +82,7 @@ One thing most people don't realize: cleaning frequency has diminishing returns 
 
 ## The Monitoring Habit That Saves You Real Money
 
-A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=your-affiliate-tag) like the Emporia Vue 2 (around $70) or Sense (around $299) installed at your main panel gives you whole-home visibility into what your solar is producing versus what you're actually consuming. It's a genuinely useful tool, not just a gadget. (Again, the site may earn a commission on purchases through that link.)
+A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) like the Emporia Vue 2 (around $70) or Sense (around $299) installed at your main panel gives you whole-home visibility into what your solar is producing versus what you're actually consuming. It's a genuinely useful tool, not just a gadget. (Again, the site may earn a commission on purchases through that link.)
 
 More specifically: get in the habit of checking your monitoring app every week or two, not just when you're worried something is wrong. Production problems creep up slowly and most people only notice them when they get a surprisingly high electric bill six months later. By then, they've lost potentially hundreds of dollars in generation they should have been banking.
 

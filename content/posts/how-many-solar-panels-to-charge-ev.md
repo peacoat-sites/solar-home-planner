@@ -97,13 +97,13 @@ The number of panels is only half the equation. When you charge matters almost a
 
 If you have time-of-use (TOU) billing from your utility, you're probably paying peak rates from 4 to 9 p.m. Charging during that window using grid power is expensive. The smarter play: schedule your charging to start in the late morning if you have a flexible schedule, or charge overnight during off-peak hours (usually 11 p.m. to 7 a.m.) and let your solar production offset the daytime home loads.
 
-Better yet, add a home energy monitor to your setup. A device like the [Emporia Vue or Sense Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=your-affiliate-tag) (the site may earn a commission) lets you see real-time solar production versus consumption, so you can actually verify whether your solar panels are covering your car's energy use or whether you're just fooling yourself with net metering math.
+Better yet, add a home energy monitor to your setup. A device like the [Emporia Vue or Sense Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) (the site may earn a commission) lets you see real-time solar production versus consumption, so you can actually verify whether your solar panels are covering your car's energy use or whether you're just fooling yourself with net metering math.
 
 The best scenario is a battery storage system paired with solar. You store midday solar surplus in a home battery (a Tesla Powerwall, Enphase IQ, or Franklin WH), then dispatch it to your EV charger in the evening. No grid. No peak-rate exposure. You'll need to factor the battery capacity into your overall system design, but for EV owners, it's increasingly worth pricing out.
 
 ## Buying an EV Charger That Works With Solar
 
-Not all Level 2 chargers are created equal when it comes to solar integration. A basic [240V EV charger](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=your-affiliate-tag) (the site may earn a commission) like a ChargePoint Home Flex or Emporia EV Charger does the job fine. But if you want solar-aware charging, look for chargers with Wi-Fi and scheduling features, or better yet, units that integrate with your inverter or home energy management system.
+Not all Level 2 chargers are created equal when it comes to solar integration. A basic [240V EV charger](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=contentportfo-20) (the site may earn a commission) like a ChargePoint Home Flex or Emporia EV Charger does the job fine. But if you want solar-aware charging, look for chargers with Wi-Fi and scheduling features, or better yet, units that integrate with your inverter or home energy management system.
 
 Some inverters, like Enphase and SolarEdge, have ecosystem integrations that allow the charger to automatically throttle up when solar is producing excess power and dial back when it isn't. This is called solar-optimized or excess solar charging. It's not magic, it's just smart scheduling, but it can meaningfully reduce your reliance on grid power without requiring a full battery storage system.
 

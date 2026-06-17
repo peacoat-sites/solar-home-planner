@@ -70,7 +70,7 @@ Electric vehicles are the biggest wildcard I see right now. Adding an EV and cha
 
 Same story with heat pump conversions. If you replaced gas heat with a heat pump, your electricity use could jump by 500 kWh or more per month in winter. Your solar system, which produces its lowest output in winter, is now fighting a much bigger load at exactly the wrong time of year.
 
-A home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor&tag=solardiyhome-20) (around $70 on Amazon, disclosure: affiliate link) will show you, circuit by circuit, where your electricity is actually going. Spend an afternoon with that data before you assume the panels are the problem. You might be shocked what you find. The first time I installed one of these, I discovered a crawl space dehumidifier that had been running non-stop for months and accounting for about 90 kWh per month all by itself.
+A home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor&tag=contentportfo-20) (around $70 on Amazon, disclosure: affiliate link) will show you, circuit by circuit, where your electricity is actually going. Spend an afternoon with that data before you assume the panels are the problem. You might be shocked what you find. The first time I installed one of these, I discovered a crawl space dehumidifier that had been running non-stop for months and accounting for about 90 kWh per month all by itself.
 
 ---
 
@@ -78,7 +78,7 @@ A home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Empori
 
 Panels degrade slowly over time, which is normal (about 0.5 percent per year is typical). But there are faster, silent production killers that don't trigger alarms.
 
-Soiling is underrated. A layer of dust, pollen, or bird droppings on even two or three panels can drop production by 5 to 15 percent, and it accumulates gradually so you don't notice until you compare year-over-year data. In dusty climates, or areas with heavy tree canopy, this compounds fast. A [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=solardiyhome-20) (affiliate link) runs $30 to $60 and can make a meaningful difference in output if your panels haven't been cleaned in a couple of years.
+Soiling is underrated. A layer of dust, pollen, or bird droppings on even two or three panels can drop production by 5 to 15 percent, and it accumulates gradually so you don't notice until you compare year-over-year data. In dusty climates, or areas with heavy tree canopy, this compounds fast. A [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) (affiliate link) runs $30 to $60 and can make a meaningful difference in output if your panels haven't been cleaned in a couple of years.
 
 Shading is worse. A tree that was 20 feet tall when your system was installed might now be 30 feet and throwing shade across your array for two or three hours a day in summer. Or a neighbor added a second story. Or your system uses string inverters (as opposed to microinverters or power optimizers), meaning one shaded panel drags down the entire string. NREL research has shown that shading as little as 9 percent of a panel's surface can cut its output by 54 percent in a string configuration. That's not a typo.
 

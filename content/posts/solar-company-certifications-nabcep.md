@@ -109,7 +109,7 @@ Ask for three references from jobs completed in the last 12 months and actually 
 
 Get the permit pulled under the contractor's license, not a separate permit-pulling service they hired. This is your assurance that a licensed professional takes legal responsibility for the installation meeting local code.
 
-Consider adding a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=your-tag) to your system after installation. Devices like the Emporia Vue or Sense monitor track your actual production and consumption in real time, which is the only way to catch a chronic underperformance problem early, before the warranty issues compound. *(This site may earn a commission on qualifying purchases.)*
+Consider adding a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) to your system after installation. Devices like the Emporia Vue or Sense monitor track your actual production and consumption in real time, which is the only way to catch a chronic underperformance problem early, before the warranty issues compound. *(This site may earn a commission on qualifying purchases.)*
 
 If you're interested in expanding to battery storage or EV charging down the road, ask whether the company's certified staff also holds NABCEP's Battery Storage credential or has experience with Level 2 EVSE installation. These are different skill sets. A great PV installer isn't automatically qualified to size and configure a battery system.
 

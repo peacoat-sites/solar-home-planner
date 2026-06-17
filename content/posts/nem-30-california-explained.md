@@ -62,7 +62,7 @@ The National Renewable Energy Laboratory has published analysis showing that sol
 
 In terms of sizing, most NEM 3.0 analysis suggests pairing each 5 to 6 kW of solar capacity with roughly 10 kWh of usable battery storage as a starting point. A 10 kW system would ideally be paired with something like a Tesla Powerwall 3 (13.5 kWh usable), two LG RESU16H units, or a Franklin Electric aGate system. Battery technology is evolving fast, so don't let a contractor lock you into hardware decisions without showing you current specs and pricing.
 
-If you're sizing a new system from scratch, a home energy monitor can be invaluable for understanding your real consumption patterns before you commit to equipment. The [Emporia Vue 2](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=solarsite-20) is a well-regarded option that gives you circuit-level data and is often under $100. (This site may earn a commission on purchases made through this link.)
+If you're sizing a new system from scratch, a home energy monitor can be invaluable for understanding your real consumption patterns before you commit to equipment. The [Emporia Vue 2](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20) is a well-regarded option that gives you circuit-level data and is often under $100. (This site may earn a commission on purchases made through this link.)
 
 ## NEM 3.0 vs. NEM 2.0: What the Numbers Look Like
 
@@ -94,7 +94,7 @@ Here's a practical process for making a smart decision under NEM 3.0:
 
 **Step 5: Check your interconnection application status carefully.** If you applied before April 14, 2023 and your project stalled, confirm in writing with your utility whether you're still grandfathered. Some homeowners in limbo have had to fight for their NEM 2.0 status. Get documentation.
 
-**Step 6: Run the numbers on an EV if you don't have one.** Adding an EV dramatically increases your load, which under NEM 3.0 is actually a good thing, because higher consumption means more self-use of solar and less low-value export. If you're considering an EV, look at a [Level 2 EVSE charger](https://www.amazon.com/s?k=level+2+ev+charger+home+240v&tag=solarsite-20) that can be scheduled to charge during peak solar production hours. (This site may earn a commission on purchases through this link.)
+**Step 6: Run the numbers on an EV if you don't have one.** Adding an EV dramatically increases your load, which under NEM 3.0 is actually a good thing, because higher consumption means more self-use of solar and less low-value export. If you're considering an EV, look at a [Level 2 EVSE charger](https://www.amazon.com/s?k=level+2+ev+charger+home+240v&tag=contentportfo-20) that can be scheduled to charge during peak solar production hours. (This site may earn a commission on purchases through this link.)
 
 ## Red Flags That Mean You're Getting a NEM 2.0-Era Sales Pitch
 

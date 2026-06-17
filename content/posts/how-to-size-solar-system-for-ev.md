@@ -83,7 +83,7 @@ This part surprised me when I started digging into the grid interaction side of 
 
 Level 1 charging draws about 1.4 kW from a standard 120V outlet. At that rate, adding 10 to 12 kWh takes 8 to 10 hours. Most people plug in when they get home in the evening, which means Level 1 charging often happens at night when your panels produce nothing. You're drawing from the grid, not your solar system. Net metering softens this, but if your utility has time-of-use (TOU) rates, you may be paying peak evening prices while your daytime solar credit goes to waste.
 
-Level 2 charging uses a 240V circuit and draws 7.2 kW to 11.5 kW depending on your EVSE. [Equipment like the ChargePoint Home Flex](https://www.amazon.com/s?k=Level+2+EV+home+charger&tag=solarsite-20) *(the site may earn a commission)* lets you set charge schedules so your car charges during solar production hours or during off-peak rate windows. That's a huge deal if your utility uses TOU pricing.
+Level 2 charging uses a 240V circuit and draws 7.2 kW to 11.5 kW depending on your EVSE. [Equipment like the ChargePoint Home Flex](https://www.amazon.com/s?k=Level+2+EV+home+charger&tag=contentportfo-20) *(the site may earn a commission)* lets you set charge schedules so your car charges during solar production hours or during off-peak rate windows. That's a huge deal if your utility uses TOU pricing.
 
 If you're on a flat-rate tariff and have good net metering, Level 1 vs. Level 2 timing matters less for economics. But if your utility is moving toward reduced net metering (and a lot of them are, California's NEM 3.0 being the loudest example), charging during peak solar hours becomes critical. A Level 2 EVSE with smart scheduling isn't optional in that environment. It's how you actually use the solar energy you're producing.
 
@@ -101,7 +101,7 @@ For an EV owner, the case for adding a home battery like a Tesla Powerwall or En
 
 **Scenario 3: You want to use your EV as a battery.** Vehicle-to-home (V2H) technology is real and expanding. The Ford F-150 Lightning supports it natively with a home energy hub. Rivian R1T does not yet. The Nissan Leaf has supported bidirectional charging longer than any mainstream U.S. vehicle. The research here is mixed on long-term battery degradation from frequent V2H cycling, and I'd wait for more independent data before banking on it as a primary strategy.
 
-A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=solarsite-20) *(the site may earn a commission)* is something I recommend before committing to battery storage. Install it first, watch your load patterns for 60 to 90 days, and you'll have real data on when and how you consume power. That data is worth more than any installer's estimate.
+A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=contentportfo-20) *(the site may earn a commission)* is something I recommend before committing to battery storage. Install it first, watch your load patterns for 60 to 90 days, and you'll have real data on when and how you consume power. That data is worth more than any installer's estimate.
 
 ---
 

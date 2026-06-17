@@ -86,7 +86,7 @@ If you're only getting $0.04/kWh for power you export, but you'd pay $0.14/kWh t
 
 This is exactly the dynamic California's NEM 3.0 was designed to create. It's working. Battery attachment rates in California reportedly jumped significantly after the new rate structure took effect. Whether that's good policy or a utility overreach is a genuinely contested question, but the practical effect for homeowners is clear: in low-export-rate environments, size your system for self-consumption, not maximum production.
 
-What does that mean in practice? A home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor&tag=yourtag-20) (affiliate link, site may earn a commission) is genuinely useful here. Running it for 30-60 days before you design a solar system gives you granular load data by circuit, so you can match system production to actual consumption patterns instead of just sizing for maximum kWh.
+What does that mean in practice? A home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor&tag=contentportfo-20) (affiliate link, site may earn a commission) is genuinely useful here. Running it for 30-60 days before you design a solar system gives you granular load data by circuit, so you can match system production to actual consumption patterns instead of just sizing for maximum kWh.
 
 Solar-plus-storage is increasingly the answer in degraded-NEM states, but it's not for every budget. And I'll note: even in states with strong NEM today, there's no guarantee it stays that way. If you're planning a 25-year system and betting on retail-rate exports for the whole period, you're making a significant policy assumption.
 

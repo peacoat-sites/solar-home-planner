@@ -52,7 +52,7 @@ You might be wondering what "solar integration" actually looks like under the ho
 
 **API and app-based scheduling.** This is the weakest form of solar awareness. You set a charge window in an app based on when your solar historically produces well. It's better than nothing, but it's blind to actual conditions. A cloudy Tuesday in October will bust your schedule and you won't know until you look at your utility bill.
 
-If you're building a solar home energy system that you want to actually optimize, I'd push you toward either direct inverter integration or a quality CT-clamp monitor paired with a smart charger. The [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=solarsite-20) is one of the more affordable and capable options in that second category, and it integrates directly with the Emporia EV charger. *(Disclosure: this site may earn a commission on purchases.)*
+If you're building a solar home energy system that you want to actually optimize, I'd push you toward either direct inverter integration or a quality CT-clamp monitor paired with a smart charger. The [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) is one of the more affordable and capable options in that second category, and it integrates directly with the Emporia EV charger. *(Disclosure: this site may earn a commission on purchases.)*
 
 ## The Top Chargers Worth Considering
 
@@ -62,7 +62,7 @@ I'm not going to give you a list of ten chargers with vague pros and cons. Here 
 
 **Wallbox Quasar 2 (for bidirectional charging):** If you drive a compatible vehicle (the Ford F-150 Lightning, certain Hyundai and Kia models), the Quasar 2 supports V2H (vehicle to home) discharge. You can fill your truck with solar during the day and run your house off it at night. This is niche but genuinely powerful for solar homeowners who don't have a dedicated battery like a Powerwall. It's also expensive. Plan on $1,500 to $2,000 before installation.
 
-**Emporia Smart EV Charger (for budget-conscious solar owners):** At roughly $250 to $300, it's one of the most affordable solar-aware chargers on the market. It works with the Emporia energy monitor to charge from solar excess. The app is functional. The hardware is solid. I've recommended this to clients who have Enphase systems or other non-integrated inverters and it does the job well. You can find it [on Amazon](https://www.amazon.com/s?k=emporia+smart+ev+charger&tag=solarsite-20) alongside their monitoring ecosystem. *(Disclosure: this site may earn a commission on purchases.)*
+**Emporia Smart EV Charger (for budget-conscious solar owners):** At roughly $250 to $300, it's one of the most affordable solar-aware chargers on the market. It works with the Emporia energy monitor to charge from solar excess. The app is functional. The hardware is solid. I've recommended this to clients who have Enphase systems or other non-integrated inverters and it does the job well. You can find it [on Amazon](https://www.amazon.com/s?k=emporia+smart+ev+charger&tag=contentportfo-20) alongside their monitoring ecosystem. *(Disclosure: this site may earn a commission on purchases.)*
 
 **ChargePoint Home Flex:** The ChargePoint is not deeply solar-aware out of the box, but it offers flexible amperage (16 to 50 amps), excellent build quality, and integrates reasonably well with third-party platforms. For homeowners who want scheduling flexibility and a trusted brand with good customer support, it's a solid middle-ground pick.
 

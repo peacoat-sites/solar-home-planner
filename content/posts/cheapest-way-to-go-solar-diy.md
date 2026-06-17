@@ -84,7 +84,7 @@ Now stack the 30% federal Investment Tax Credit (ITC) on that. On a $5,000 syste
 
 For equipment, stick to tier-1 panels. Brands like Qcells, Canadian Solar, and Jinko are widely used and have real warranty support. Avoid no-name panels from obscure resellers, the savings aren't worth the warranty risk. For inverters, Enphase microinverters are reliable and simplify the wiring but cost more per watt. A SolarEdge or Fronius string inverter is more cost-efficient for a straightforward roof.
 
-If you're adding battery backup, costs jump significantly. A single 10kWh lithium battery adds $3,000-$5,000 to your project. For a first system on a tight budget, skip the battery. Get the solar working, optimize your usage with a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=yourtag-20) *(this site may earn a commission on purchases)*, then revisit storage after year one when you have real production data.
+If you're adding battery backup, costs jump significantly. A single 10kWh lithium battery adds $3,000-$5,000 to your project. For a first system on a tight budget, skip the battery. Get the solar working, optimize your usage with a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) *(this site may earn a commission on purchases)*, then revisit storage after year one when you have real production data.
 
 ---
 
@@ -120,7 +120,7 @@ Don't buy equipment until you've completed steps 1-3. This is where most DIYers 
 
 **Step 4: Order equipment.** Order panels, inverter, racking, and all BOS (balance of system) components together. Consolidating shipments reduces freight costs and means everything arrives before you start.
 
-**Step 5: Install the racking.** This is the most physically demanding part. Use a [solar panel mounting kit](https://www.amazon.com/s?k=solar+panel+roof+mounting+kit&tag=yourtag-20) *(this site may earn a commission on purchases)* appropriate for your roof type (asphalt shingle, metal, tile all have different hardware). Lag bolts go into rafters, not just sheathing. Every penetration gets flashed and sealed.
+**Step 5: Install the racking.** This is the most physically demanding part. Use a [solar panel mounting kit](https://www.amazon.com/s?k=solar+panel+roof+mounting+kit&tag=contentportfo-20) *(this site may earn a commission on purchases)* appropriate for your roof type (asphalt shingle, metal, tile all have different hardware). Lag bolts go into rafters, not just sheathing. Every penetration gets flashed and sealed.
 
 **Step 6: Mount panels and run DC wiring.** Panels click onto the racking rails. MC4 connectors handle the DC connections. Keep wiring neat and secured. Loose wire runs that can abrade against the roof are a fire hazard.
 
@@ -128,7 +128,7 @@ Don't buy equipment until you've completed steps 1-3. This is where most DIYers 
 
 **Step 8: Inspection and utility sign-off.** Schedule your inspection, pass it, then wait for your utility to flip the interconnection switch. Don't energize the system before utility approval. In most states, doing so violates your interconnection agreement.
 
-**Step 9: Monitor production.** Track your output for the first 30-60 days against your projected numbers. A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=yourtag-20) *(this site may earn a commission on purchases)* lets you correlate solar production with consumption in real time and find inefficiencies you didn't know existed.
+**Step 9: Monitor production.** Track your output for the first 30-60 days against your projected numbers. A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) *(this site may earn a commission on purchases)* lets you correlate solar production with consumption in real time and find inefficiencies you didn't know existed.
 
 ---
 

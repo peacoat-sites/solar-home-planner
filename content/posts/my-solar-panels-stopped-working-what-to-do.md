@@ -81,7 +81,7 @@ Soiling,  accumulated dust, bird droppings, pollen, leaves, and grime,  is a fre
 
 A sudden drop to zero production is unlikely from soiling alone unless the panels are completely buried in debris or snow. However, significant soiling combined with other minor issues can push a system into shutdown.
 
-**What to do:** Visually inspect your panels from the ground or a safe vantage point. Look for obvious debris, thick dust, or bird droppings. If cleaning is needed, use a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=your-affiliate-tag) designed specifically for PV modules,  these typically include a soft brush, squeegee, and non-abrasive cleaning solution that won't leave streaks or damage anti-reflective coatings.
+**What to do:** Visually inspect your panels from the ground or a safe vantage point. Look for obvious debris, thick dust, or bird droppings. If cleaning is needed, use a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) designed specifically for PV modules,  these typically include a soft brush, squeegee, and non-abrasive cleaning solution that won't leave streaks or damage anti-reflective coatings.
 
 > *This site may earn a commission from qualifying Amazon purchases at no extra cost to you.*
 
@@ -165,7 +165,7 @@ Some issues genuinely require a licensed professional,  not just because they're
 - A screenshot or download of your recent production history
 - Your warranty documentation
 
-Many homeowners benefit from investing in a [whole-home energy monitor like Sense or Emporia](https://www.amazon.com/s?k=home+energy+monitor&tag=your-affiliate-tag) that provides circuit-level data independent of your solar monitoring system. This makes it much easier to detect when production has dropped and by how much.
+Many homeowners benefit from investing in a [whole-home energy monitor like Sense or Emporia](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) that provides circuit-level data independent of your solar monitoring system. This makes it much easier to detect when production has dropped and by how much.
 
 [RELATED: best home energy monitors for solar households]
 
@@ -179,7 +179,7 @@ Once you've resolved your current issue, it's worth taking steps to reduce the l
 
 **Set up production alerts:** Most monitoring platforms (Enphase Enlighten, SolarEdge, SunPower mySunPower) allow you to configure email or push notification alerts if production drops below a threshold. Turn these on,  they're your early warning system.
 
-**Keep panels clean:** In dusty or high-pollen areas, consider cleaning your panels two to four times per year. A quality [solar panel cleaning brush kit](https://www.amazon.com/s?k=solar+panel+brush+cleaning+kit&tag=your-affiliate-tag) with an extendable handle lets you clean most panels from the ground safely.
+**Keep panels clean:** In dusty or high-pollen areas, consider cleaning your panels two to four times per year. A quality [solar panel cleaning brush kit](https://www.amazon.com/s?k=solar+panel+brush+cleaning+kit&tag=contentportfo-20) with an extendable handle lets you clean most panels from the ground safely.
 
 **Protect wiring from wildlife:** Ask your installer about critter guards,  wire mesh barriers that prevent squirrels, birds, and other animals from accessing the underside of your panels and chewing wiring.
 

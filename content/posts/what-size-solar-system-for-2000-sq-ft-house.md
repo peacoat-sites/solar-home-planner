@@ -117,9 +117,9 @@ In states with weak net metering (some utilities only pay you 2 to 4 cents per k
 
 If your utility has poor net metering, or you want backup power, a battery like the Tesla Powerwall or Enphase IQ Battery becomes worth serious consideration. A single 13.5 kWh Powerwall covers most homes for one evening and the following morning, which handles the majority of outage scenarios. Two units give you more buffer.
 
-If you're driving an electric vehicle or planning to, [adding a Level 2 EV charger](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=youraffiliatetag-20) to your home is a significant load addition, often 3,000 to 5,000 additional kWh per year depending on how much you drive. Size for it now, not after the system is installed.
+If you're driving an electric vehicle or planning to, [adding a Level 2 EV charger](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=contentportfo-20) to your home is a significant load addition, often 3,000 to 5,000 additional kWh per year depending on how much you drive. Size for it now, not after the system is installed.
 
-A [home energy monitor like the Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=youraffiliatetag-20) is genuinely worth installing before you get solar quotes. Spending two or three months with a real-time monitor shows you where your energy is actually going. I've had clients discover their old electric water heater or a malfunctioning HVAC unit was responsible for 30% of their bill. Fixing that first shrinks the solar system you need and reduces your upfront cost.
+A [home energy monitor like the Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) is genuinely worth installing before you get solar quotes. Spending two or three months with a real-time monitor shows you where your energy is actually going. I've had clients discover their old electric water heater or a malfunctioning HVAC unit was responsible for 30% of their bill. Fixing that first shrinks the solar system you need and reduces your upfront cost.
 
 ## Contractor Red Flags and Getting the Right Quote
 

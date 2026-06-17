@@ -107,7 +107,7 @@ When you have quotes in hand, compare them on a cost-per-watt basis, not just to
 
 Also ask each company for three local references, specifically homeowners whose systems have been running for at least two years. Call them. Ask about the installation process, any problems that came up, and how the company handled them. A company that handles problems well is worth more than one that never has them.
 
-To track your system's performance once it's installed, a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=YOURTAG-20) *(affiliate link, we may earn a commission)* lets you verify that actual production matches the installer's projections and catch underperformance early.
+To track your system's performance once it's installed, a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) *(affiliate link, we may earn a commission)* lets you verify that actual production matches the installer's projections and catch underperformance early.
 
 ---
 

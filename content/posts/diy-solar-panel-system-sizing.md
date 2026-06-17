@@ -91,7 +91,7 @@ Most DIY solar conversations focus on panels. The inverter and battery decisions
 
 For basic backup: figure out your critical loads. Refrigerator, lights, a few outlets, maybe a well pump. That's typically 5 to 10 kWh for an overnight backup. A single Tesla Powerwall 3 at 13.5 kWh usable covers that. If you want whole-home backup or multi-day autonomy, you're looking at two or more batteries and costs that can exceed $20,000 installed.
 
-A home energy monitor like the [Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=solardiyhome-20) *(affiliate link, the site may earn a commission)* is genuinely useful here. Installed on your main panel, it shows you real-time consumption by circuit over weeks, so you can identify actual critical loads versus everything else. I've recommended these to probably 50 homeowners, and almost every one of them was surprised by what they found.
+A home energy monitor like the [Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) *(affiliate link, the site may earn a commission)* is genuinely useful here. Installed on your main panel, it shows you real-time consumption by circuit over weeks, so you can identify actual critical loads versus everything else. I've recommended these to probably 50 homeowners, and almost every one of them was surprised by what they found.
 
 ## Step-by-Step: Size Your Own System Before Calling a Contractor
 

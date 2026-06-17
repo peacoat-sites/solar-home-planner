@@ -54,7 +54,7 @@ What I recommend thinking about instead is critical load backup: the refrigerato
 
 Battery chemistry matters too, though the research here is genuinely mixed on which is "best" for homeowners. Lithium iron phosphate (LFP) batteries like those in newer Powerwall models, the Enphase IQ Battery 5P, and the FranklinWH aGate offer excellent cycle life (often rated for 4,000+ cycles) and better thermal stability than older NMC chemistries. For a device sitting in your garage through Arizona summers, that thermal stability isn't a minor detail.
 
-If you want to monitor your battery state and home energy consumption in real time during an outage, a home energy monitor like the [Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=yourtag-20) clipped onto your main panel gives you the visibility to make smart load decisions. That awareness is genuinely useful when you're trying to stretch 13.5 kWh through a 36-hour outage. *(This site may earn a commission on qualifying purchases.)*
+If you want to monitor your battery state and home energy consumption in real time during an outage, a home energy monitor like the [Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) clipped onto your main panel gives you the visibility to make smart load decisions. That awareness is genuinely useful when you're trying to stretch 13.5 kWh through a 36-hour outage. *(This site may earn a commission on qualifying purchases.)*
 
 ## Inverter Options: SMA Sunny Boy, Enphase, and the Hybrid Approach
 

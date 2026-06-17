@@ -68,9 +68,9 @@ Look specifically for:
 - **Adjustable amperage:** A unit that can throttle from 8A to 48A lets you dial in exactly how much solar surplus you're pushing to the car instead of exporting to the grid.
 - **Open protocols:** OCPP (Open Charge Point Protocol) compliance means you're not locked into one ecosystem forever.
 
-For a [solar-compatible Level 2 EVSE with adjustable amperage](https://www.amazon.com/s?k=solar+compatible+level+2+EV+charger+adjustable+amperage&tag=your-tag-here), Amazon carries several options worth comparing. (The site may earn a commission on purchases.)
+For a [solar-compatible Level 2 EVSE with adjustable amperage](https://www.amazon.com/s?k=solar+compatible+level+2+EV+charger+adjustable+amperage&tag=contentportfo-20), Amazon carries several options worth comparing. (The site may earn a commission on purchases.)
 
-Pair the charger with a [whole-home energy monitor](https://www.amazon.com/s?k=whole+home+energy+monitor+solar+EV&tag=your-tag-here) like the Emporia Vue or Sense Energy. These devices install at your panel and give you real-time visibility into production, consumption, and EV charging draw simultaneously. (The site may earn a commission on purchases.) You can't optimize what you can't measure.
+Pair the charger with a [whole-home energy monitor](https://www.amazon.com/s?k=whole+home+energy+monitor+solar+EV&tag=contentportfo-20) like the Emporia Vue or Sense Energy. These devices install at your panel and give you real-time visibility into production, consumption, and EV charging draw simultaneously. (The site may earn a commission on purchases.) You can't optimize what you can't measure.
 
 ## Battery Storage: When You Actually Need It
 

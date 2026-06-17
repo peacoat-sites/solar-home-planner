@@ -60,7 +60,7 @@ A Level 2 EVSE (that's a 240V home charger) typically pulls between 7.2 kW and 1
 
 Add that number to your baseline household consumption before sizing your solar array. A good installer does this automatically. A mediocre one quotes you a system based on last year's bills without asking whether you just bought a Tesla.
 
-The EVSE itself qualifies for the 30C Alternative Fuel Vehicle Refueling Property Credit, which is separate from both the solar and EV credits. It's worth 30% of the equipment and installation cost, up to $1,000 for residential installations. A [quality Level 2 home charger](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=yourtag-20) typically runs $400-$900 for the hardware alone, so the credit can cover a big chunk of that. *(Note: this site may earn a commission on purchases.)*
+The EVSE itself qualifies for the 30C Alternative Fuel Vehicle Refueling Property Credit, which is separate from both the solar and EV credits. It's worth 30% of the equipment and installation cost, up to $1,000 for residential installations. A [quality Level 2 home charger](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=contentportfo-20) typically runs $400-$900 for the hardware alone, so the credit can cover a big chunk of that. *(Note: this site may earn a commission on purchases.)*
 
 That's three separate federal credits potentially in play: solar, EV purchase, and home charger installation.
 
@@ -119,7 +119,7 @@ Both credits require documentation, and the IRS can and does audit clean energy 
 
 File Form 5695 for solar, Form 8936 for the EV, Form 8911 for the charger. If you're using tax software, these are available in most major packages, but the inputs require your actual cost figures, not estimates.
 
-One often-missed point: the solar credit covers battery storage even if the battery isn't paired with new panels. Standalone battery installations added to an existing solar system qualify. If you're adding a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=yourtag-20) to manage your solar-plus-storage system, that monitoring equipment doesn't qualify for the credit, but it's genuinely useful for tracking whether your system is performing as promised. *(Note: this site may earn a commission on purchases.)*
+One often-missed point: the solar credit covers battery storage even if the battery isn't paired with new panels. Standalone battery installations added to an existing solar system qualify. If you're adding a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) to manage your solar-plus-storage system, that monitoring equipment doesn't qualify for the credit, but it's genuinely useful for tracking whether your system is performing as promised. *(Note: this site may earn a commission on purchases.)*
 
 ---
 

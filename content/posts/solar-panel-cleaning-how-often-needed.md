@@ -57,7 +57,7 @@ One more thing: late winter or early spring is the single best time for a manual
 
 ## How to Actually Check If Your Panels Need Cleaning (Don't Just Eyeball It)
 
-Ground-level inspection is nearly useless for anything except obvious bird activity. Get a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=yourtag-20) *(this site may earn a commission on qualifying purchases)* or use whatever monitoring your inverter manufacturer provides. Enphase Enlighten, SolarEdge monitoring, and SMA Sunny Portal all show you per-panel or per-string output. A clean panel on a clear day should be hitting close to its STC rating adjusted for temperature. A dirty one will show a consistent underperformance pattern that holds across multiple clear days.
+Ground-level inspection is nearly useless for anything except obvious bird activity. Get a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) *(this site may earn a commission on qualifying purchases)* or use whatever monitoring your inverter manufacturer provides. Enphase Enlighten, SolarEdge monitoring, and SMA Sunny Portal all show you per-panel or per-string output. A clean panel on a clear day should be hitting close to its STC rating adjusted for temperature. A dirty one will show a consistent underperformance pattern that holds across multiple clear days.
 
 EnergySage's market data has tracked real-world soiling losses across regions and found that in heavily polluted or dusty environments, annual output losses from soiling alone can reach 25 percent or more. In the Pacific Northwest with its regular rainfall, the same panels might lose less than 2 percent annually. Same technology, radically different result based purely on environment.
 
@@ -67,7 +67,7 @@ If you see one panel or one string consistently underperforming its neighbors on
 
 Early morning is ideal. Panels are cool, there's no direct sun, and the dew that's often already on them helps loosen debris. Cleaning hot glass with cold water can stress the tempered glass surface over many cycles, and it also means the water evaporates before you can squeegee it off, leaving mineral deposits.
 
-For most cleanings, a soft brush with an extension pole and plain water is genuinely all you need. I use a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=yourtag-20) with a soft microfiber head and a telescoping pole *(this site may earn a commission on qualifying purchases)* that lets me reach most of my array from the ground or gutters without climbing. Staying off the roof when you can is always the right call.
+For most cleanings, a soft brush with an extension pole and plain water is genuinely all you need. I use a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) with a soft microfiber head and a telescoping pole *(this site may earn a commission on qualifying purchases)* that lets me reach most of my array from the ground or gutters without climbing. Staying off the roof when you can is always the right call.
 
 What you don't want:
 

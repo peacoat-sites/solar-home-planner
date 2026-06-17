@@ -75,7 +75,7 @@ Level 2 charging, which uses a 240V circuit and a dedicated EVSE (Electric Vehic
 
 If you time your charging to run between 10 a.m. and 4 p.m., when your solar panels are producing at peak, you can directly offset or cover most of that charging load with solar generation. This is called "solar self-consumption," and it's the most cost-effective way to operate the system because you're using the power before it ever hits the grid.
 
-A quality Level 2 charger like the [ChargePoint Home Flex](https://www.amazon.com/s?k=ChargePoint+Home+Flex+Level+2+EV+charger&tag=solarsite-20) (affiliate link, site may earn a commission) is adjustable from 16 to 50 amps and has scheduling built in, which makes solar-timed charging straightforward. Pair it with a [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+home+energy+monitor&tag=solarsite-20) (affiliate link, site may earn a commission) and you can see in real time exactly how much of your EV charging is solar-sourced versus grid-sourced.
+A quality Level 2 charger like the [ChargePoint Home Flex](https://www.amazon.com/s?k=ChargePoint+Home+Flex+Level+2+EV+charger&tag=contentportfo-20) (affiliate link, site may earn a commission) is adjustable from 16 to 50 amps and has scheduling built in, which makes solar-timed charging straightforward. Pair it with a [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+home+energy+monitor&tag=contentportfo-20) (affiliate link, site may earn a commission) and you can see in real time exactly how much of your EV charging is solar-sourced versus grid-sourced.
 
 ---
 
@@ -85,7 +85,7 @@ Short answer: yes, if you can afford it. Battery storage isn't cheap, but it sol
 
 First, it lets you store solar excess from peak midday production and discharge it during morning or evening charging sessions when solar isn't producing at full capacity. Second, it protects you from time-of-use (TOU) rate structures that many utilities are now pushing, where grid electricity during evening hours (typically 4 to 9 p.m.) can cost $0.35 to $0.55/kWh in some markets.
 
-A 10 kWh battery like the [Tesla Powerwall 3](https://www.amazon.com/s?k=home+solar+battery+storage+10kwh&tag=solarsite-20) (affiliate link, site may earn a commission) or the Enphase IQ Battery can store enough to run your Level 2 charger for roughly 1.5 to 2 hours at full power, which translates to adding 25 to 40 miles of range from stored solar. If your utility has aggressive TOU pricing and you have a long commute, that's where a battery starts paying for itself in a reasonable timeframe.
+A 10 kWh battery like the [Tesla Powerwall 3](https://www.amazon.com/s?k=home+solar+battery+storage+10kwh&tag=contentportfo-20) (affiliate link, site may earn a commission) or the Enphase IQ Battery can store enough to run your Level 2 charger for roughly 1.5 to 2 hours at full power, which translates to adding 25 to 40 miles of range from stored solar. If your utility has aggressive TOU pricing and you have a long commute, that's where a battery starts paying for itself in a reasonable timeframe.
 
 That said, if you work from home and can charge during peak solar hours, a battery is far less critical. Context matters. Don't let a salesperson upsell you on storage unless the numbers actually work for your usage pattern.
 

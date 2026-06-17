@@ -109,7 +109,7 @@ Check your HOA CC&Rs before you sign anything with a contractor. I've seen insta
 
 ---
 
-A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=your-affiliate-tag) (Amazon, commission may apply) is genuinely useful once your system is running, regardless of panel type, because it lets you see real-time production and consumption data in a way that most installer app interfaces don't. Knowing how your panels actually perform through different seasons tells you a lot more than any spec sheet comparison ever will.
+A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20) (Amazon, commission may apply) is genuinely useful once your system is running, regardless of panel type, because it lets you see real-time production and consumption data in a way that most installer app interfaces don't. Knowing how your panels actually perform through different seasons tells you a lot more than any spec sheet comparison ever will.
 
 Buy the mono panels. Get the system sized right for your roof and your load. And spend your research energy on picking a contractor who pulls permits and doesn't disappear after installation, because that matters more than the crystalline structure debate ever will.
 

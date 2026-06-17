@@ -68,7 +68,7 @@ Temperature coefficient is the other underrated number. A panel rated at 400W at
 
 One thing I'll tell you from experience: the best panel from a brand your installer has never worked with is often worse than a slightly lesser panel from a brand they've installed 300 times. Installers who know a product know where the fragile connectors are, how to read the monitoring software, and how to diagnose issues fast. Ask your installer which brands they have the most experience with before you insist on a specific product.
 
-If you want to monitor your system's performance independently of the installer's app, [a home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=yourtag-20) is a genuinely useful tool and runs about $100-130. (The site may earn a commission on purchases through that link.)
+If you want to monitor your system's performance independently of the installer's app, [a home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=contentportfo-20) is a genuinely useful tool and runs about $100-130. (The site may earn a commission on purchases through that link.)
 
 ## The Honest Take on Made-in-USA Claims
 

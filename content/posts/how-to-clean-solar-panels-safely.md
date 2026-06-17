@@ -67,7 +67,7 @@ You don't need a special solar panel cleaning solution. There. I said it. Most o
 
 Here's what actually works:
 
-A soft-bristle brush or a squeegee with a long handle, warm water, and a tiny amount of mild dish soap (we're talking a few drops of Dawn in a bucket). That's the core kit. If you want to step up slightly, a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=solarsite-20) that includes a microfiber head on an extendable pole lets you reach panels from the roof edge or from the ground on a ground mount without walking across the glass. The site may earn a commission on purchases through that link.
+A soft-bristle brush or a squeegee with a long handle, warm water, and a tiny amount of mild dish soap (we're talking a few drops of Dawn in a bucket). That's the core kit. If you want to step up slightly, a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) that includes a microfiber head on an extendable pole lets you reach panels from the roof edge or from the ground on a ground mount without walking across the glass. The site may earn a commission on purchases through that link.
 
 What you should not use: abrasive scrubbers, steel wool, anything with ammonia (Windex), pressure washers, or any cleaning product that contains fragrance or wax. Pressure washers can crack the glass, damage the frame seals, and drive water into places it should never go. I've watched a homeowner pressure-wash his panels and walk away feeling great about it. Six months later his inverter was throwing ground fault errors because water had gotten into a conduit penetration the pressure had forced open. Don't do it.
 

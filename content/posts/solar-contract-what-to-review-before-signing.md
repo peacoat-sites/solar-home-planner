@@ -58,7 +58,7 @@ Look for a **production guarantee clause.** Some contracts guarantee a minimum a
 
 Read the fine print on how underperformance is defined and measured. Some contracts measure production at the inverter, some at the utility meter. The difference can be 3 to 8% depending on losses in your wiring. That gap matters over 25 years.
 
-Also check whether the production estimate assumes you'll clean the panels. Dirty panels in dusty climates can lose 15 to 25% of output. If you want to stay on top of that yourself, a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=your-tag) can handle most residential arrays without the cost of a service call (disclosure: this site may earn a commission on purchases).
+Also check whether the production estimate assumes you'll clean the panels. Dirty panels in dusty climates can lose 15 to 25% of output. If you want to stay on top of that yourself, a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) can handle most residential arrays without the cost of a service call (disclosure: this site may earn a commission on purchases).
 
 ## The Financial Terms You Can't Afford to Skim
 

@@ -93,7 +93,7 @@ Solar loans with rates below 4% can still make financial sense, especially if yo
 
 If you do finance, look for solar-specific loans from credit unions or green energy lenders. Standard home equity products work too, and the interest may be deductible if the loan is secured by your home.
 
-A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=solarsite-20) can be a smart add-on here, letting you track real-time production versus consumption and catch underperformance before it silently eats into your projected savings. *(This site may earn a commission on qualifying Amazon purchases.)*
+A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) can be a smart add-on here, letting you track real-time production versus consumption and catch underperformance before it silently eats into your projected savings. *(This site may earn a commission on qualifying Amazon purchases.)*
 
 ## Red Flags That Inflate the Payback Promise
 

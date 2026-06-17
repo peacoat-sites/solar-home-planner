@@ -35,7 +35,7 @@ Counterintuitive, but hear me out. Your average monthly kWh tells you what you c
 
 A house that uses 1,200 kWh a month could run a 5kWh battery just fine, or it could drain a 20kWh battery before midnight, depending entirely on load shape. If you're running a pool pump, two window AC units, and a dryer between 4pm and 9pm, your evening draw is enormous and concentrated. If your big loads are spread across the day, a smaller battery handles the same bill.
 
-Before you touch a calculator, pull your last 12 months of utility bills and note the *seasonal peaks*, not the averages. Then, ideally, grab a [home energy monitor like the Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=solarsite-20) and run it for two weeks. You'll see your load curve: when your draw spikes, for how long, and what's causing it. That two-week investment will save you from buying a battery that's either embarrassingly undersized or pointlessly expensive.
+Before you touch a calculator, pull your last 12 months of utility bills and note the *seasonal peaks*, not the averages. Then, ideally, grab a [home energy monitor like the Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) and run it for two weeks. You'll see your load curve: when your draw spikes, for how long, and what's causing it. That two-week investment will save you from buying a battery that's either embarrassingly undersized or pointlessly expensive.
 
 ## The Actual Sizing Math (With Real Numbers)
 

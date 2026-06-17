@@ -38,7 +38,7 @@ Pull your last 12 months of utility bills if you have them. Look for kilowatt-ho
 
 If you haven't had utility bills (you're building new), walk through your home room by room with a load calculator. Multiply each appliance's wattage by its estimated daily run time. A refrigerator running 8 hours at 150W is 1,200Wh. A well pump cycling 30 minutes per day at 1,000W is 500Wh. Add them up. Don't forget phantom loads, EV charging, or anything seasonal like window AC units.
 
-A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=solarsite-20) *(affiliate link, site may earn a commission)* is one of the most useful tools you can own before designing an off-grid system. Brands like Emporia or Sense will give you real-time and historical data that's far more accurate than guessing.
+A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) *(affiliate link, site may earn a commission)* is one of the most useful tools you can own before designing an off-grid system. Brands like Emporia or Sense will give you real-time and historical data that's far more accurate than guessing.
 
 ## How Many Days of Autonomy Do You Actually Need?
 
@@ -105,7 +105,7 @@ Here's a quick comparison for a 48 kWh system:
 
 For permanent off-grid homes where you're living full time, I now lean toward LiFePO4 in almost every case. For seasonal cabins where the system sits idle for months, the math gets murkier and lead-acid may still make sense with careful maintenance.
 
-If you want to go deep on this before talking to a contractor, a good [solar DIY wiring guide](https://www.amazon.com/s?k=solar+wiring+simplified+book&tag=solarsite-20) *(affiliate link, site may earn a commission)* that covers battery chemistry comparisons can save you from a lot of expensive assumptions.
+If you want to go deep on this before talking to a contractor, a good [solar DIY wiring guide](https://www.amazon.com/s?k=solar+wiring+simplified+book&tag=contentportfo-20) *(affiliate link, site may earn a commission)* that covers battery chemistry comparisons can save you from a lot of expensive assumptions.
 
 ## System Voltage: 12V, 24V, or 48V?
 
@@ -133,7 +133,7 @@ Gross storage needed: 66 to 84 kWh
 LiFePO4 adjusted: 85 to 110 kWh nameplate capacity
 Realistic system: This is where packaged solutions like multiple Powerwall 3 units or a Fortress Power eFlex bank start making economic sense. Budget $50,000 to $80,000 for batteries alone, which is why EV charging loads deserve a serious conversation before finalizing a system.
 
-Speaking of EV charging, if you're off-grid with an EV, consider a Level 1 or smart Level 2 charger that integrates with your system's state of charge, not one that just draws maximum power whenever plugged in. A [smart EV charging station](https://www.amazon.com/s?k=smart+ev+charger+home&tag=solarsite-20) *(affiliate link, site may earn a commission)* that can throttle based on battery availability can meaningfully reduce your peak loads.
+Speaking of EV charging, if you're off-grid with an EV, consider a Level 1 or smart Level 2 charger that integrates with your system's state of charge, not one that just draws maximum power whenever plugged in. A [smart EV charging station](https://www.amazon.com/s?k=smart+ev+charger+home&tag=contentportfo-20) *(affiliate link, site may earn a commission)* that can throttle based on battery availability can meaningfully reduce your peak loads.
 
 ---
 

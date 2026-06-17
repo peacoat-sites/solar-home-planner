@@ -80,7 +80,7 @@ This is something I wish someone had walked me through earlier. Utility bills wi
 
 **Step 6: Identify any fixed charges that don't go away.** Most utilities have a customer charge, sometimes called a service fee, that's a flat monthly amount, usually $5 to $25, that you owe regardless of your solar production. Net metering can reduce your energy charges to zero some months, but it can't eliminate fixed fees.
 
-A home energy monitor like the [Emporia Vue or Sense Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=youraffiliateID) (our site may earn a commission on purchases) can help you track real-time production and consumption so you're not waiting for a monthly statement to understand what's happening with your system.
+A home energy monitor like the [Emporia Vue or Sense Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) (our site may earn a commission on purchases) can help you track real-time production and consumption so you're not waiting for a monthly statement to understand what's happening with your system.
 
 ## The Policy Risks Nobody Wants to Talk About
 
@@ -90,7 +90,7 @@ Net metering policies are not guaranteed. California moved from NEM 2.0 to NEM 3
 
 The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) notes that net metering policies vary significantly by state and are subject to change as utility commissions periodically review rate structures. That's politely worded. The real-world implication is that the financial projections your installer gives you today are based on today's policy environment.
 
-What this means practically: if you're in a state with full retail net metering right now, don't assume that will hold for the 25-year life of your system. Consider whether adding battery storage makes sense as a hedge, because batteries let you consume your own solar production directly instead of exporting it at whatever rate the utility decides to pay you later. If you're already thinking about an EV, pairing solar with a [Level 2 home EV charger](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=youraffiliateID) (our site may earn a commission) is a smart way to consume more of your own daytime production and reduce your grid dependency, which matters more as net metering becomes less generous.
+What this means practically: if you're in a state with full retail net metering right now, don't assume that will hold for the 25-year life of your system. Consider whether adding battery storage makes sense as a hedge, because batteries let you consume your own solar production directly instead of exporting it at whatever rate the utility decides to pay you later. If you're already thinking about an EV, pairing solar with a [Level 2 home EV charger](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=contentportfo-20) (our site may earn a commission) is a smart way to consume more of your own daytime production and reduce your grid dependency, which matters more as net metering becomes less generous.
 
 ## Comparison: Net Metering Structures at a Glance
 

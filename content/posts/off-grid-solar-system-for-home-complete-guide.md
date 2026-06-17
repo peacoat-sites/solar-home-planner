@@ -82,7 +82,7 @@ The charge controller manages the flow of power from your panels into your batte
 
 **Battery Bank**
 
-LiFePO4 has largely replaced lead-acid as the recommended chemistry for off-grid because of its deeper usable depth of discharge, longer cycle life (3,000 to 6,000 cycles versus 300 to 1,000 for lead-acid), and lower long-term cost per kWh stored. Brands like Battle Born, Signature Solar's EG4, and Victron-compatible lithium options are popular in the DIY community. If you want to monitor your battery state of charge and consumption in real time, a home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=solarsite-20) is a practical addition that pays for itself in better system management. *(This site may earn a commission on qualifying purchases.)*
+LiFePO4 has largely replaced lead-acid as the recommended chemistry for off-grid because of its deeper usable depth of discharge, longer cycle life (3,000 to 6,000 cycles versus 300 to 1,000 for lead-acid), and lower long-term cost per kWh stored. Brands like Battle Born, Signature Solar's EG4, and Victron-compatible lithium options are popular in the DIY community. If you want to monitor your battery state of charge and consumption in real time, a home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) is a practical addition that pays for itself in better system management. *(This site may earn a commission on qualifying purchases.)*
 
 **Inverter/Charger**
 
@@ -113,7 +113,7 @@ A few honest things about off-grid living worth knowing before you commit:
 - You will become aware of your power consumption in a way grid-connected people never are.
 - Running high-draw appliances like electric dryers, electric water heaters, and central AC becomes a conversation you'll have with your system regularly.
 - Most off-grid homes shift to propane for cooking, water heating, and space heating because thermal energy from propane is far cheaper than thermal energy from electricity stored in batteries.
-- Solar panel cleaning matters more in off-grid systems because dirty panels mean reduced output, and reduced output has direct consequences on your battery state of charge. A good [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=solarsite-20) is a small investment that protects a large one. *(This site may earn a commission on qualifying purchases.)*
+- Solar panel cleaning matters more in off-grid systems because dirty panels mean reduced output, and reduced output has direct consequences on your battery state of charge. A good [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) is a small investment that protects a large one. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 
@@ -135,7 +135,7 @@ The Solar Energy Industries Association (SEIA) tracks installed solar costs acro
 
 The range is wide because system size, battery capacity, and whether you DIY any portion of the work make a massive difference. Many off-grid homeowners handle the design and sourcing themselves but hire a licensed electrician for the final connections and inspection sign-off. That hybrid approach can save $5,000 to $8,000 while keeping the system code-compliant and insurable.
 
-If you're ready to start educating yourself on the installation side, a [DIY solar installation guide](https://www.amazon.com/s?k=diy+solar+installation+guide+book&tag=solarsite-20) tailored to off-grid systems is worth having in hand before you start ordering equipment. *(This site may earn a commission on qualifying purchases.)*
+If you're ready to start educating yourself on the installation side, a [DIY solar installation guide](https://www.amazon.com/s?k=diy+solar+installation+guide+book&tag=contentportfo-20) tailored to off-grid systems is worth having in hand before you start ordering equipment. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 

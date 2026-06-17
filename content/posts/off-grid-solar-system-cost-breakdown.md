@@ -68,7 +68,7 @@ MPPT (maximum power point tracking) charge controllers are non-negotiable for a 
 
 **5. Balance of System: $3,000–$12,000**
 
-This covers wiring, conduit, disconnects, overcurrent protection, mounting hardware, grounding, monitoring equipment, and the critical battery enclosure. Skimping here is where fires start. A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=solarsite-20) like the Emporia Vue or Sense is worth adding for ongoing load management.
+This covers wiring, conduit, disconnects, overcurrent protection, mounting hardware, grounding, monitoring equipment, and the critical battery enclosure. Skimping here is where fires start. A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) like the Emporia Vue or Sense is worth adding for ongoing load management.
 
 **6. Installation Labor: $8,000–$20,000**
 
@@ -107,7 +107,7 @@ Bad sizing is the most expensive mistake in off-grid solar. Here's the process I
 | Average full-time home | Standard loads, 3–4 people | 8–15 kW | 30–50 kWh | $65,000–$95,000 |
 | High-consumption home | EV charging, electric heat | 15–20 kW | 50–80 kWh | $95,000–$140,000 |
 
-If you're adding an EV charger to an off-grid system, [Level 2 charging equipment](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=solarsite-20) is manageable, but plan to charge during peak sun hours only and factor the additional daily kWh into your load calculation.
+If you're adding an EV charger to an off-grid system, [Level 2 charging equipment](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=contentportfo-20) is manageable, but plan to charge during peak sun hours only and factor the additional daily kWh into your load calculation.
 
 ## Contractor Red Flags Specific to Off-Grid Quotes
 

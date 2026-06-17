@@ -103,7 +103,7 @@ A short list from actual proposals I've reviewed, not hypotheticals:
 - Escalation clauses in PPAs that increase your payment 2.9% per year (buried in the contract, not the proposal)
 - Roof warranty language that says the installer "is not responsible" for leaks that occur around penetrations more than 12 months post-install (that's a huge exposure)
 
-The monitoring thing especially bothers me. You're making a 25-year investment in a generating asset and some installers still don't include a monitoring platform in the price. Products like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=solarsite-20) whole-home energy monitor (affiliate link, the site may earn a commission) can supplement panel-level monitoring or even serve as a standalone if your system doesn't include it, but that shouldn't be your workaround for an installer cutting corners.
+The monitoring thing especially bothers me. You're making a 25-year investment in a generating asset and some installers still don't include a monitoring platform in the price. Products like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20) whole-home energy monitor (affiliate link, the site may earn a commission) can supplement panel-level monitoring or even serve as a standalone if your system doesn't include it, but that shouldn't be your workaround for an installer cutting corners.
 
 ---
 

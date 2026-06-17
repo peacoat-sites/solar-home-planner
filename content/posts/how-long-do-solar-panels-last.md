@@ -83,7 +83,7 @@ Gradual degradation is the boring story. The real causes of premature panel fail
 
 **Physical damage.** Hail is the obvious one. A 2023 hailstorm in Colorado and Texas wiped out a significant number of residential systems, and homeowner's insurance claims for solar panel hail damage spiked in ways that are now making some insurers add exclusions. Check your policy specifically. A Class 4 impact-resistant panel rating (FM 4473) is worth paying for if you're in hail country.
 
-Soiling is a more mundane killer that people underestimate. Dust, bird droppings, and pollen can cut output by 5-25% in some regions. Arizona, Nevada, the Central Valley in California: soiling losses are significant there. Cleaning matters. I keep a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=your-tag-here) on hand and do a quick rinse twice a year, more after dust storms. (Full disclosure: the site may earn a commission on purchases made through that link.)
+Soiling is a more mundane killer that people underestimate. Dust, bird droppings, and pollen can cut output by 5-25% in some regions. Arizona, Nevada, the Central Valley in California: soiling losses are significant there. Cleaning matters. I keep a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) on hand and do a quick rinse twice a year, more after dust storms. (Full disclosure: the site may earn a commission on purchases made through that link.)
 
 ## The Inverter Is Not the Panel: A Distinction That Costs People Money
 
@@ -95,7 +95,7 @@ When homeowners tell me their "solar system" is failing or needs replacement at 
 
 This distinction matters enormously for financial planning. Budget for an inverter replacement somewhere around the 12-15 year mark. The panels? They'll probably keep going.
 
-If you want to get granular about what your system is actually producing day to day, a home energy monitor like the [Sense Energy Monitor](https://www.amazon.com/s?k=sense+energy+monitor&tag=your-tag-here) or [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=your-tag-here) can give you real-time data that helps you spot degradation or failure early. Worth having.
+If you want to get granular about what your system is actually producing day to day, a home energy monitor like the [Sense Energy Monitor](https://www.amazon.com/s?k=sense+energy+monitor&tag=contentportfo-20) or [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) can give you real-time data that helps you spot degradation or failure early. Worth having.
 
 ## Should You Replace an Old System or Keep It Running?
 
