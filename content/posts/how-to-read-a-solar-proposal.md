@@ -14,16 +14,14 @@ author_title: "Finance Writer"
 author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
 
 ---
+Most homeowners sign a solar proposal they don't fully understand. I didn't either, and I was already a licensed electrician when I started reviewing them. The language is built to impress, not inform. That's deliberate.
 
-Most homeowners sign a solar proposal they don't fully understand. I'll be honest: I didn't fully understand the first few I reviewed either, and I was already a licensed electrician at the time. The language is designed to impress, not inform. That's not an accident.
-
-So let's fix that.
-
+Let's fix it.
 
 <div class="value-module">
   <div class="vm-head">Solar Proposal Red Flag Checklist</div>
   <div class="vm-body">
-    <p class="vm-intro">Use this checklist to quickly evaluate any residential solar proposal-items missing or unclear warrant follow-up before signing.</p>
+    <p class="vm-intro">Use this checklist to quickly evaluate any residential solar proposal, items missing or unclear warrant follow-up before signing.</p>
     <table><thead><tr><th>Proposal Element</th><th>Green Flag</th><th>Red Flag</th><th>Question to Ask</th></tr></thead><tbody><tr><td>Price per watt</td><td>Clearly stated; $2.50–$3.50/W range</td><td>Not listed or over $4.00/W without explanation</td><td>"What is the all-in cost per watt before incentives?"</td></tr><tr><td>System size (kW)</td><td>Specific number (e.g., 8.4 kW)</td><td>Vague or missing; only total price shown</td><td>"What is the total DC system size in kilowatts?"</td></tr><tr><td>Panel brand/model</td><td>Named manufacturer and model number</td><td>"Tier 1 panels" with no specifics</td><td>"Which exact panel model will be installed?"</td></tr><tr><td>Panel efficiency</td><td>20%+ efficiency listed</td><td>No efficiency spec or under 18%</td><td>"What is the panel efficiency rating?"</td></tr><tr><td>Temperature coefficient</td><td>-0.30%/°C or better</td><td>Not mentioned (affects hot-climate performance)</td><td>"What is the power temperature coefficient?"</td></tr><tr><td>Inverter type/brand</td><td>Named brand; string vs. micro specified</td><td>Generic "inverter included"</td><td>"Is this a string inverter or microinverters, and which brand?"</td></tr><tr><td>Product warranty</td><td>25-year panel warranty; 12+ year inverter</td><td>Warranty terms missing or under 10 years</td><td>"What are the separate product and performance warranties?"</td></tr><tr><td>Production estimate</td><td>Annual kWh with assumptions (shade, orientation)</td><td>Only shows dollar savings, not kWh</td><td>"What annual kWh production do you guarantee?"</td></tr><tr><td>Incentives breakdown</td><td>Federal tax credit (30%) itemized separately</td><td>Incentives bundled into "net cost" without explanation</td><td>"Can you show the gross price and each incentive line item?"</td></tr><tr><td>Roof/site assessment</td><td>Mentions site visit, shade analysis, roof condition</td><td>Quote given without visiting property</td><td>"Was this quote based on satellite imagery or an on-site visit?"</td></tr></tbody></table>
     <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
@@ -31,107 +29,101 @@ So let's fix that.
 
 ## The Number That Actually Matters (and It's Not the System Price)
 
-Everyone focuses on the total system cost. "$32,000 before incentives" sounds like a lot, or maybe a great deal, depending on which salesperson got to you first. But that number alone is nearly meaningless without knowing what you're getting for it.
+Everyone stares at the total system cost. "$32,000 before incentives", that's big money either way. But that number alone tells you almost nothing.
 
-The number I look at first is the **price per watt**. Take the total system cost and divide it by the system's total wattage. A 10 kW system (10,000 watts) quoted at $32,000 is $3.20 per watt. Anything between $2.50 and $3.50 per watt is currently in a reasonable range for a full residential installation. Under $2.50 and I'd want to know what they're skimping on. Over $4.00 without some very specific reason (complicated roof, underground conduit run, premium equipment) and they're making excellent margins at your expense.
+The metric I check first is **price per watt**. Divide your total system cost by its total wattage. A 10 kW system quoted at $32,000 is $3.20 per watt. Currently, $2.50 to $3.50 per watt is solid for a full residential installation. Below $2.50 and I want details on what they're cutting. Above $4.00 without a specific reason (complicated roof, underground runs, premium gear) and they're pocketing fat margins on your dime.
 
-What surprised me was how often proposals bury or omit the watt-level breakdown. If a company won't tell you the system size in kilowatts and the cost per watt, ask directly. Their reaction tells you something.
+What strikes me is how often proposals bury this number entirely. If a company won't tell you the system size in kilowatts and the cost per watt, ask. Their answer matters.
 
 ## Equipment Matters More Than Installers Admit
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+A proposal lists panels, an inverter, sometimes a monitoring system. Most salespeople will say "we use premium equipment" and move forward. Don't let that be the end of it.
 
+The panel brand and model should be spelled out. "Tier 1 panels" with no name is a red flag. Find the specific model and check the efficiency rating (20%+ is good), the power temperature coefficient (lower is better, aim for -0.30%/°C or better), and the warranty split. Panels typically get a 10-12 year product warranty and a 25-year performance warranty. Anything shorter deserves pushback.
 
+Inverters come in three main flavors:
 
-A proposal will list panels, an inverter, and sometimes a monitoring platform. Most salespeople will say something like "we use premium equipment" and move on. Don't let them.
+- **String inverters** (one box on the wall, often SolarEdge or older Enphase): cheapest. The whole system underperforms if one panel gets shaded or dirty.
+- **String inverters with optimizers** (SolarEdge dominates here): better performance on complex or partially shaded roofs.
+- **Microinverters** (Enphase IQ8 series is standard now): each panel has its own inverter. Best for shading, simplest to monitor, higher upfront cost.
 
-For panels, the brand and model number should be right there in the proposal. If it says "Tier 1 panels" without a name, that's a flag. Look up the specific model. Check the efficiency rating (anything above 20% is solid for residential), the power temperature coefficient (lower is better, closer to -0.30%/°C or better), and critically, the product warranty vs. the performance warranty. Panels typically carry a 10-12 year product warranty and a 25-year performance warranty. If either is shorter, push back.
+Here's my honest take: if your roof is straightforward, south-facing, and clear, a string inverter works fine and saves you money. Enphase will tell you everyone needs microinverters. That's marketing. For complicated roofs with trees or multiple directions, microinverters genuinely earn their premium.
 
-For inverters, there are three common types:
-
-- **String inverters** (one box on the wall, often from SolarEdge or Enphase's older competitors): cheapest, but the whole string underperforms if one panel is shaded or dirty
-- **String inverters with optimizers** (SolarEdge is the dominant player here): better performance on complex or partially shaded roofs
-- **Microinverters** (Enphase IQ8 series is the current standard): each panel gets its own inverter, best for shading, simplest monitoring, higher upfront cost
-
-I'll give you my honest take: if your roof is simple, south-facing, and unobstructed, a string inverter is perfectly fine and will save you money. Enphase will tell you everyone needs microinverters. That's not always true. For complicated roofs with trees or multiple orientations, microinverters genuinely earn their premium.
-
-The proposal should also indicate whether panel-level monitoring is included. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has published research showing that homeowners with real-time monitoring catch underperformance issues significantly faster than those without it. That matters. A system that drops 15% efficiency and you don't notice for six months is costing you money.
+The proposal should also note whether you're getting panel-level monitoring. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has published research showing homeowners with real-time monitoring catch performance drops much faster than those without it. A system dropping 15% efficiency that you don't notice for six months is money out of your pocket.
 
 ## Production Estimates: Where the Optimism Lives
 
-This section is where proposals do the most creative writing.
+This is where proposals get creative.
 
-The proposal will show you estimated annual production in kilowatt-hours (kWh). That number is compared against your current annual electricity usage (pulled from your utility bills) to show you an "offset percentage," often conveniently close to 100%.
+You'll see an estimated annual production in kilowatt-hours (kWh), compared against your current usage to show an "offset percentage", often suspiciously close to 100%.
 
-Here's what to look for:
+What to actually look at:
 
-The production estimate should come from a software tool, most commonly PVWatts (free from NREL, you can run it yourself at pvwatts.nrel.gov), Aurora, or Helioscope. If the proposal doesn't name the tool, ask. If they "just know" the production, walk.
+The estimate should come from a software tool. PVWatts (free from NREL at pvwatts.nrel.gov), Aurora, or Helioscope are the standards. If the proposal doesn't name the tool, ask. If they "just know," walk away.
 
-Once you have the tool name, plug in the numbers yourself or cross-check with PVWatts. Enter your zip code, the proposed system size, and the roof tilt and azimuth (direction). See if you get a similar output. A 10-15% variance is normal. A 25%+ difference is a problem.
+Once you know the tool, run the numbers yourself or cross-check with PVWatts. Plug in your zip code, the system size, roof tilt, and azimuth. See if you get similar output. A 10-15% variance is normal. Twenty-five percent or more is a problem.
 
-Also check the **degradation assumption**. Solar panels lose output over time, typically 0.5% per year (good panels) to 0.8% per year (cheaper ones). A 25-year production estimate that doesn't account for degradation is overstating what you'll actually generate by year 20 by a meaningful amount. Some proposals roll this in; many don't.
+Check the **degradation assumption**. Solar panels lose output over time, typically 0.5% per year (good panels) to 0.8% per year (cheaper ones). A 25-year estimate that doesn't account for degradation overstates what you'll actually generate by year 20. Some proposals include this; many don't.
 
-One reader emailed me last month after signing a contract where the proposal showed 105% offset. Sounded great. What the installer hadn't mentioned was that the production estimate assumed she'd add a battery (not included in the quote) and that the offset calculation used her summer-only bills, not her annual average. Her real offset was going to be closer to 78%. That's a very different conversation.
+A reader emailed me last month after signing a contract where the proposal showed 105% offset. Sounded great. The installer hadn't mentioned that the estimate assumed she'd buy a battery (not included in the quote) and that the offset calculation used only her summer bills, not her annual average. Her real offset would be closer to 78%. Different conversation entirely.
 
 ## The Financial Page: Read Every Line
 
-Proposals always include a financial summary. This is the part that often looks clearest but hides the most assumptions.
+Proposals always include a financial summary. This looks the clearest but often hides the most assumptions.
 
-**If you're financing:** What's the interest rate? What's the term? Does the loan have a "dealer fee" baked in? Many solar loans from lenders like GoodLeap or Mosaic have dealer fees of 15-30% built into the loan amount, meaning the installer effectively charges you more if you finance than if you pay cash. That $32,000 system? You might actually be borrowing $38,000-$40,000. Ask directly: "What is the cash price vs. the financed price, and is there a dealer fee?"
+**If you're financing:** What's the interest rate? The term? Is there a "dealer fee" in the loan? Many solar loans from GoodLeap or Mosaic build in dealer fees of 15-30%, meaning the installer charges you more to finance than to pay cash. That $32,000 system might actually be $38,000–$40,000 borrowed. Ask bluntly: "What's the cash price versus the financed price, and is there a dealer fee?"
 
-**If it's a PPA or lease:** I'll be honest, I'm skeptical of most residential solar leases in 2024. You don't own the system, you don't get the federal tax credit (the company takes it), and you're signing a 20-25 year contract that may complicate selling your home. The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) reports that leases and PPAs still account for a meaningful share of residential solar, but ownership has grown substantially as loan products improved. There are narrow situations where a lease makes sense (you can't use the tax credit, you want zero maintenance responsibility), but most homeowners are better served by ownership.
+**If it's a PPA or lease:** I'm skeptical of most residential solar leases in 2024. You don't own the system, you don't get the federal tax credit (the company takes it), and you're locked into a 20-25 year contract that can complicate selling your home later. The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) reports leases and PPAs still represent a meaningful share of residential solar, but ownership has grown as loan products improved. Leases make sense in narrow situations (you can't use the tax credit, you want zero maintenance hassle), but most homeowners are better off owning.
 
-**The federal tax credit:** As of 2024, the Residential Clean Energy Credit is 30% of the total installed cost. The proposal should acknowledge this and show you the net cost after the credit. What it should NOT do is show you the credit as guaranteed cash back. It's a tax credit, meaning it reduces your tax liability. If you don't owe $9,600 in federal income taxes in the year you install, you won't capture the full credit immediately. You can roll unused credit forward, but some homeowners are surprised to learn they don't get a check.
+**The federal tax credit:** It's 30% of the total installed cost as of 2024. The proposal should show this and display your net cost after the credit. What it shouldn't do is promise you a check. It's a tax credit, meaning it reduces what you owe in federal income taxes. If you don't owe $9,600 in federal income tax the year you install, you won't capture the full credit immediately. Unused credit carries forward, but some homeowners are shocked to learn they don't get a refund.
 
 ## The Paperwork They Don't Always Mention
 
-Permits. Every grid-tied residential solar installation requires a building permit and utility interconnection approval. The proposal should either include permit fees in the cost or note that they're passed through at cost. If a contractor says permits "aren't necessary" in your area, that's a serious problem.
+Permits. Every grid-tied residential solar installation needs a building permit and utility interconnection approval. The proposal should either include permit fees or note they're passed through at cost. If a contractor says permits "aren't necessary" in your area, that's a serious red flag.
 
-HOA approval is separate from permits and is often glossed over by installers. If you have an HOA, you need to know your state's solar access laws. Many states have laws limiting HOA's ability to prohibit solar, but "limit" doesn't mean "eliminate." Some HOAs can still dictate placement or appearance. Get HOA approval in writing before signing anything.
+HOA approval is separate and often glossed over. If you have an HOA, check your state's solar access laws. Many states limit HOA's ability to prohibit solar, but "limit" isn't the same as "eliminate." Some HOAs still control placement or appearance. Get approval in writing before signing.
 
-And look for the interconnection timeline. In some utility territories, especially rural co-ops, getting permission to operate (PTO) can take 6-16 weeks after installation. Your system may be physically installed but sitting dark. That's not the installer's fault necessarily, but a good proposal acknowledges it.
+Check the interconnection timeline too. In some utility territories, especially rural co-ops, getting permission to operate (PTO) after installation can take 6-16 weeks. Your system sits installed but dark. That's not always the installer's fault, but a good proposal acknowledges it.
 
 ## Red Flags I've Seen in Real Proposals
 
-A short list from actual proposals I've reviewed, not hypotheticals:
+Not hypotheticals, actual proposals:
 
-- Production estimates that happen to show exactly 100% offset every single year for 25 years (software doesn't actually output that)
+- Production estimates showing exactly 100% offset every year for 25 years (software doesn't output that)
 - No degradation curve
 - Panel brand listed as "TBD" or "equivalent"
-- Warranty on installation workmanship shorter than 5 years (10 is standard, some go 25)
+- Installation workmanship warranty shorter than 5 years (10 is standard, some offer 25)
 - No mention of monitoring
-- Escalation clauses in PPAs that increase your payment 2.9% per year (buried in the contract, not the proposal)
-- Roof warranty language that says the installer "is not responsible" for leaks that occur around penetrations more than 12 months post-install (that's a huge exposure)
+- Escalation clauses in PPAs raising your payment 2.9% annually (buried in contract text, not the proposal)
+- Roof warranty language saying the installer "is not responsible" for leaks around penetrations more than 12 months post-install (massive exposure)
 
-The monitoring thing especially bothers me. You're making a 25-year investment in a generating asset and some installers still don't include a monitoring platform in the price. Products like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20) whole-home energy monitor (affiliate link, the site may earn a commission) can supplement panel-level monitoring or even serve as a standalone if your system doesn't include it, but that shouldn't be your workaround for an installer cutting corners.
-
----
+The monitoring thing especially irritates me. You're making a 25-year investment in a generating asset and some installers still don't build monitoring into the price. The [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20) whole-home energy monitor can supplement panel-level monitoring or work standalone if your system doesn't include it, but that shouldn't be your backup plan for an installer cutting corners.
 
 ### FAQ
 
 #### What's a good price per watt for residential solar in 2024?
 
-Roughly $2.50 to $3.50 per watt installed is a reasonable range for most U.S. markets, though this varies by region, roof complexity, and equipment tier. If you're getting quotes significantly above $4.00/watt with no clear explanation, shop around.
+$2.50 to $3.50 per watt installed is reasonable for most U.S. markets, though region, roof complexity, and equipment tier affect this. If you're quoted significantly above $4.00/watt with no clear explanation, get more bids.
 
 #### How do I know if a production estimate is realistic?
 
-Run the same system specs through PVWatts (pvwatts.nrel.gov) yourself, it's free and takes five minutes. If the installer's estimate comes back 20% or more higher than what PVWatts shows, ask them to explain the difference in writing.
+Run the same specs through PVWatts (pvwatts.nrel.gov) yourself, it's free and takes five minutes. If the installer's estimate comes back 20% or more higher than PVWatts shows, ask them to explain the difference in writing.
 
 #### Should I get multiple solar proposals?
 
-Yes, always get at least three. Not just to negotiate price, but because reading several proposals side by side makes the differences in assumptions visible. One company modeling 90% offset and another modeling 105% for the same house tells you something about their sales culture.
+Always get at least three. Not just to negotiate, but because reading several side by side makes the assumption differences obvious. One company modeling 90% offset and another modeling 105% for the same house tells you something about their sales approach.
 
 #### Can a solar proposal change after I sign?
 
-The proposal isn't always the contract. Read the actual contract carefully. Equipment substitution clauses are common and can allow installers to swap panels or inverters for "equivalent" products without your explicit approval. Insist on specific make and model numbers locked into the contract language.
+The proposal isn't always the contract. Read the actual contract carefully. Equipment substitution clauses are common and can let installers swap panels or inverters for "equivalent" products without your explicit approval. Lock specific make and model numbers into the contract language.
 
 #### What happens if I sell my house before the loan is paid off?
 
-It depends on your loan type. Most solar loans are unsecured personal loans that stay with you, not the house, meaning you'd need to pay it off at sale. Some are secured and recorded against the property. Leases typically need to be transferred to the buyer or bought out. Ask your installer specifically, and factor it into your decision.
+It depends on your loan type. Most solar loans are unsecured personal loans that stay with you, not the house, so you'd need to pay it off at sale. Some are secured and recorded against the property. Leases typically need to be transferred to the buyer or bought out. Ask your installer specifically and factor it into your decision.
 
 ---
 
-Take the proposal home. Take two days. Run the PVWatts check, look up the panel specs, calculate your price per watt, and read the financial assumptions line by line. A contractor who's confident in their numbers will welcome your questions. The one who pressures you to sign tonight is telling you something important.
+Take the proposal home. Give it two days. Run the PVWatts check, look up the panel specs, calculate your price per watt, and read the financial assumptions line by line. A contractor confident in their numbers welcomes your questions. The one pressuring you to sign tonight is telling you something important.
 
 ## Helpful Resources
 
@@ -141,12 +133,7 @@ Take the proposal home. Take two days. Run the PVWatts check, look up the panel 
 - **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
 - **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
 
-
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
----
-
----
 
 ## Recommended Resources
 
@@ -154,4 +141,3 @@ Take the proposal home. Take two days. Run the PVWatts check, look up the panel 
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

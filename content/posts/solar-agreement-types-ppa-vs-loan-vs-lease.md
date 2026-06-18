@@ -25,12 +25,9 @@ author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
 
 ---
-
 The financing decision you make before a single panel goes on your roof will shape your relationship with solar for the next 10 to 25 years. Most coverage on this topic either oversimplifies ("leases are bad, loans are good!") or buries you in theoretical math without telling you what actually matters in practice. Let me fix both problems.
 
 There are three structures you'll encounter: a Power Purchase Agreement (PPA), a lease, and a loan. A fourth option, cash purchase, is the obvious winner if you have the money sitting around, so this article is about what to do when you don't. The differences between these three structures go well beyond monthly payment size. They affect who owns the equipment, who claims the federal tax credit, what happens when you sell your house, and whether a company's repair crew shows up promptly in year seven or ghosts your service calls.
-
----
 
 ## How Each Structure Actually Works
 
@@ -40,13 +37,9 @@ There are three structures you'll encounter: a Power Purchase Agreement (PPA), a
 
 **Loan:** You own the system outright after the final payment. This means you claim the 30% federal Investment Tax Credit (ITC) yourself, which as of 2024 is still at full strength under the Inflation Reduction Act through 2032. On a $30,000 system, that's $9,000 back. Solar loans come in a few flavors: secured (home equity, HELOC) and unsecured (personal solar loans). Secured loans carry lower interest rates, typically 5% to 8% right now, but put your house on the line. Unsecured loans from installers or third-party lenders like Mosaic or Sunlight Financial run 6% to 12%, sometimes higher for longer terms.
 
----
-
 ## The Tax Credit Is the Whole Ballgame
 
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where most people make a $9,000 mistake.
 
@@ -55,8 +48,6 @@ With a PPA or lease, you do not get the federal ITC. The company that owns the p
 If you can use the tax credit (meaning you owe at least that much in federal taxes, which most homeowners do), a loan is almost always the better financial move. If your tax liability is genuinely low, a PPA or lease starts looking more competitive. This is the single most important variable in the decision and most solar salespeople either explain it badly or skip it entirely.
 
 One thing worth knowing: you can't "roll over" the ITC across multiple years as a refund. If you owe $4,000 in federal taxes this year, you get $4,000. You can carry the remainder forward to subsequent tax years, but you need to plan for that. Talk to your tax preparer before you sign anything.
-
----
 
 ## The Home Sale Problem Nobody Talks About Until They're Selling
 
@@ -67,8 +58,6 @@ If you have a PPA or lease and you sell your house, the agreement has to either 
 Owned systems (loan or cash) don't have this problem. You transfer ownership of the panels with the house, typically increase the home's value (NREL research suggests somewhere around $4 per watt of added value on average, though this varies significantly by region and market), and the buyer knows exactly what they're getting.
 
 Not every lease situation is a disaster at resale. If you have a short remaining term, a competitive rate, and a buyer who's solar-savvy, it can transfer fine. But this is a real risk to price into your decision.
-
----
 
 ## Reading the Contract Before You Sign It
 
@@ -84,22 +73,15 @@ On loans, watch the dealer fee buried in your contract. Installers often take a 
 
 EnergySage's market data consistently shows that quotes through their platform run 20% to 30% lower than going directly to an installer, largely because competitive bidding exposes inflated dealer-fee pricing. If you haven't gotten multiple quotes, you're probably overpaying.
 
----
-
 ## Which Structure Makes Sense for Whom
 
-A PPA or lease can genuinely be the right call if: you have limited tax liability, you plan to stay in the house long-term (15+ years, long enough that the escalator math works out), you want zero maintenance involvement, and you've read the contract thoroughly and understood the buyout schedule.
+A PPA or lease can genuinely be the right call if you have limited tax liability, you plan to stay in the house long-term (15+ years, long enough that the escalator math works out), you want zero maintenance involvement, and you've read the contract thoroughly and understood the buyout schedule.
 
 A loan is the right call for most homeowners who can qualify for decent financing, especially if you owe substantial federal taxes this year. Yes, you're taking on debt. But you own an asset, you capture the full tax credit, and in years 8 through 25 you're generating power essentially for free aside from occasional maintenance.
 
 The worst version of either type is a 25-year lease with a 3% annual escalator from a company that launched four years ago. The best version of a loan is a 10-year term at under 7% with the tax credit fully applied. There's a lot of space in between.
 
 A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor) is genuinely useful once you own a system. It'll show you actual production vs. consumption in real time, which matters when you're trying to confirm your system is performing to spec. (Affiliate link, the site may earn a commission.)
-
----
-
-
----
 
 The decision isn't which structure is universally best. It's which structure fits your tax situation, your time horizon in the house, your tolerance for contract complexity, and your honest assessment of the company you're signing with for the next two decades. Get three quotes. Read the escalator clause. Ask for the cash price. That's most of the battle right there.
 
@@ -111,13 +93,6 @@ The decision isn't which structure is universally best. It's which structure fit
 - **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
 - **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
 
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
----
-
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
@@ -127,3 +102,4 @@ The decision isn't which structure is universally best. It's which structure fit
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

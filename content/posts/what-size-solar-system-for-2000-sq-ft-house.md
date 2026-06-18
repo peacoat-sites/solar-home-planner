@@ -25,26 +25,21 @@ author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
 
 ---
-
-You just got your electric bill, and somewhere between the total due and the fine print about rate increases, you started doing the math on solar. Maybe you Googled "solar for 2,000 square foot house" expecting a clean answer, something like "you need X panels, done." Instead you got a wall of ads and calculator tools asking for your zip code. Here's the truth: square footage is almost the least useful number when sizing a solar system. A 2,000 sq ft home in Phoenix with a pool and two EVs has completely different energy needs than a 2,000 sq ft home in Vermont with gas heat and one efficient tenant. The square footage gets you in the ballpark. Your electric bill gets you to the right seat.
+You just got your electric bill, and somewhere between the total due and the fine print about rate increases, you started doing the math on solar. Maybe you Googled "solar for 2,000 square foot house" expecting a clean answer, something like "you need X panels, done." Instead you got a wall of ads and calculator tools asking for your zip code. Here's the truth: square footage is almost useless when sizing a solar system. A 2,000 sq ft home in Phoenix with a pool and two EVs has completely different energy needs than a 2,000 sq ft home in Vermont with gas heat and one efficient tenant. The square footage gets you in the ballpark. Your electric bill gets you to the right seat.
 
 ## Why Square Footage Is Only the Starting Point
 
 I've had clients walk in convinced they needed a certain system size because a neighbor with "the same size house" had it. Square footage tells you something about the thermal envelope of a home, how much space you're heating and cooling. That matters. But it doesn't tell you whether you have electric or gas appliances, whether your HVAC is a 15-year-old energy hog or a new variable-speed heat pump, or whether anyone is home during the day.
 
-That said, let's use it as a starting point because you're here and you have a 2,000 square foot house.
+That said, let's use it as a starting point.
 
 The average U.S. home uses roughly 10,500 kilowatt-hours (kWh) per year, according to the U.S. Energy Information Administration. A 2,000 sq ft home is close to the national median size, so that number is a reasonable baseline. But your actual usage could range from 6,000 kWh per year if you're energy-efficient and use gas for heating, to over 18,000 kWh per year if you have electric heat, an EV, and a swimming pool.
 
-Get your last 12 months of electric bills. Add up the kWh used each month. That annual total is the number we're actually designing around.
+Get your last 12 months of electric bills. Add up the kWh used each month. That annual total is what we're actually designing around.
 
 ## How to Calculate the System Size You Actually Need
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-Once you have your annual kWh usage, the math is straightforward. Here's the formula I walk every client through.
+Once you have your annual kWh usage, the math is straightforward. Here's the formula.
 
 **Step 1: Find your annual kWh consumption.**
 Let's say your bills show you used 12,000 kWh over the past year.
@@ -63,9 +58,9 @@ The formula is:
 
 Using our example: 12,000 kWh / (365 x 4.5 sun hours x 0.8) = **9.13 kW**
 
-So a homeowner in a mid-sun region using 12,000 kWh per year would need roughly a 9 to 10 kW system.
+A homeowner in a mid-sun region using 12,000 kWh per year would need roughly a 9 to 10 kW system.
 
-For a more energy-efficient 2,000 sq ft home using 8,000 kWh per year in the same region, that drops to about 6 kW. For a home using 16,000 kWh with an EV charger, you're looking at 12 kW or more.
+For a more energy-efficient 2,000 sq ft home using 8,000 kWh per year in the same region, that drops to about 6 kW. Add an EV charger and hit 16,000 kWh annually? You're looking at 12 kW or more.
 
 **Step 5: Convert kW to number of panels.**
 Today's residential solar panels typically produce 370 to 430 watts each. At 400 watts per panel:
@@ -76,9 +71,7 @@ Today's residential solar panels typically produce 370 to 430 watts each. At 400
 
 ## Regional Differences That Change Everything
 
-I can't stress this enough: two identical homes using identical amounts of electricity will need different system sizes depending on where they sit.
-
-Here's a quick comparison to make this concrete.
+Two identical homes using identical amounts of electricity will need different system sizes depending on where they sit. I can't overstate this.
 
 | Location | Peak Sun Hours | System Needed for 10,000 kWh/year |
 |---|---|---|
@@ -89,9 +82,9 @@ Here's a quick comparison to make this concrete.
 | Seattle, WA | 3.5 hrs | ~9.8 kW |
 | Boston, MA | 4.2 hrs | ~8.1 kW |
 
-Notice that a homeowner in Seattle needs nearly 70% more solar capacity than one in Phoenix to produce the same annual energy. That affects cost, roof space requirements, and whether solar even makes financial sense without a battery.
+A homeowner in Seattle needs nearly 70% more solar capacity than one in Phoenix to produce the same annual energy. That affects cost, roof space requirements, and whether solar even makes financial sense without a battery.
 
-The U.S. Department of Energy's homeowner solar guide reinforces this point: local solar resource, utility rates, and available incentives matter more than any single rule of thumb when evaluating a solar investment.
+The U.S. Department of Energy's homeowner solar guide reinforces this: local solar resource, utility rates, and available incentives matter more than any single rule of thumb when evaluating a solar investment.
 
 ## What Your Roof Can Realistically Support
 
@@ -99,9 +92,9 @@ Even if the math says you need a 10 kW system, your roof has to cooperate. This 
 
 A 2,000 sq ft house doesn't have 2,000 sq ft of usable roof. Chimneys, vents, HVAC equipment, and setback requirements (typically 3 feet from all edges per fire code) eat into available space. A standard 400-watt panel runs about 22 square feet. A 10 kW system with 25 panels needs roughly 550 square feet of unshaded, south or west-facing roof area.
 
-Shading is a bigger deal than most people expect. A single tree branch covering one corner of one panel can reduce output across a traditional string inverter system by 10 to 30 percent. If your roof has shade issues, a microinverter system (Enphase is the market leader) or power optimizers (SolarEdge is common) let each panel operate independently and minimize those losses. Yes, they cost more upfront. In a shaded scenario, they pay for themselves.
+Shading matters more than most people expect. A single tree branch covering one corner of one panel can reduce output across a traditional string inverter system by 10 to 30 percent. If your roof has shade issues, a microinverter system (Enphase is the market leader) or power optimizers (SolarEdge is common) let each panel operate independently and minimize those losses. Yes, they cost more upfront. In a shaded scenario, they pay for themselves.
 
-If your roof can't fit the system you need, you have a few options:
+If your roof can't fit the system you need, you have options:
 
 - Offset only a portion of your usage and buy the rest from the grid
 - Use higher-efficiency panels (they cost more but need less square footage)
@@ -113,7 +106,7 @@ Here's where the sizing question gets more nuanced. Whether you want to size you
 
 Net metering lets you export excess solar power back to the grid and receive a credit on your bill. In a strong net metering state, like California (though NEM 3.0 changed the math), New Jersey, or Massachusetts, you can size your system aggressively and let the grid act as your battery. You produce more than you use during sunny months and draw credits down in winter.
 
-In states with weak net metering (some utilities only pay you 2 to 4 cents per kWh exported when you pay 12 to 18 cents to buy it back), oversizing your system is a poor investment. Every kWh you export at 3 cents that you could have self-consumed at 14 cents is money left on the table.
+In states with weak net metering, some utilities only pay you 2 to 4 cents per kWh exported when you pay 12 to 18 cents to buy it back. Oversizing your system is a poor investment. Every kWh you export at 3 cents that you could have self-consumed at 14 cents is money left on the table.
 
 If your utility has poor net metering, or you want backup power, a battery like the Tesla Powerwall or Enphase IQ Battery becomes worth serious consideration. A single 13.5 kWh Powerwall covers most homes for one evening and the following morning, which handles the majority of outage scenarios. Two units give you more buffer.
 
@@ -123,7 +116,7 @@ A [home energy monitor like the Emporia Vue or Sense](https://www.amazon.com/s?k
 
 ## Contractor Red Flags and Getting the Right Quote
 
-I spent years as an electrician before moving into solar installation, and I've seen what a bad install looks like from the inside. Here's what to watch for.
+I spent years as an electrician before moving into solar installation, and I've seen what a bad install looks like from the inside. Watch for these.
 
 **Red flag: The contractor quotes system size based on square footage alone.** A real solar designer asks for your 12-month billing history, does a shading analysis (usually with satellite tools like Aurora Solar or Nearmap), and sizes based on actual consumption and roof conditions.
 
@@ -137,10 +130,7 @@ Get at least three quotes. Compare them on price per watt installed, not just to
 
 ---
 
-
----
-
-The right solar system for your 2,000 sq ft home comes down to three things: how much electricity you actually use, how much sun your location and roof can reliably capture, and how your utility compensates for energy you export. Start with your electric bills, use the formula in this article to get a baseline, and walk into contractor conversations with that number already in hand. You'll get better quotes and ask better questions. That's not a small thing when you're making a $20,000 decision.
+The right solar system for your 2,000 sq ft home comes down to three things: how much electricity you actually use, how much sun your location and roof can capture, and how your utility compensates for energy you export. Start with your electric bills, use the formula in this article to get a baseline, and walk into contractor conversations with that number already in hand. You'll get better quotes and ask better questions. That's not a small thing when you're making a $20,000 decision.
 
 ## Helpful Resources
 
@@ -150,14 +140,9 @@ The right solar system for your 2,000 sq ft home comes down to three things: how
 - **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
 - **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
 
----
-
----
-
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

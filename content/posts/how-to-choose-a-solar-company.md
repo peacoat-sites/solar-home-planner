@@ -25,7 +25,6 @@ author_title: "DIY Researcher"
 author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
 
 ---
-
 A neighbor of mine got a $0-down solar quote that looked great on paper. The installer was in and out in two days, the panels went up fast, and then the problems started: a roof leak that the company blamed on pre-existing damage, a system that was undersized by about 30%, and a financing contract with an escalator clause that raised his payments 2.9% every year for 25 years. The company? Gone six months later. That experience is more common than the industry likes to admit, and it's exactly why choosing the right solar company matters as much as choosing the right system.
 
 ## Why the Solar Market Is a Minefield Right Now
@@ -37,10 +36,6 @@ Here's the reality: solar is a 25-to-30-year investment. The company you hire ma
 The good news is that weeding out the bad actors is not that complicated once you know what to look for.
 
 ## Licensing, Insurance, and Certifications: The Baseline
-
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Before you spend one minute reading reviews or comparing panel brands, verify that any company you're considering meets the legal minimum to operate in your state.
 
@@ -107,12 +102,7 @@ When you have quotes in hand, compare them on a cost-per-watt basis, not just to
 
 Also ask each company for three local references, specifically homeowners whose systems have been running for at least two years. Call them. Ask about the installation process, any problems that came up, and how the company handled them. A company that handles problems well is worth more than one that never has them.
 
-To track your system's performance once it's installed, a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) *(affiliate link, we may earn a commission)* lets you verify that actual production matches the installer's projections and catch underperformance early.
-
----
-
-
----
+To track your system's performance once it's installed, a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) lets you verify that actual production matches the installer's projections and catch underperformance early. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Choosing a solar company isn't glamorous work, but it's the part of going solar that has the biggest impact on whether your system performs and your investment holds up over 25 years. The companies worth hiring are usually happy to answer hard questions, show you their credentials, and put specific numbers in writing. The ones that aren't happy to do that are telling you something important. Trust what they show you more than what they say.
 
@@ -124,12 +114,7 @@ Choosing a solar company isn't glamorous work, but it's the part of going solar 
 - **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
 - **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
 
-
 *Photo: [Nadeem Jafar](https://www.pexels.com/@nadeem-jafar-10715349) via Pexels*
-
----
-
----
 
 ## Recommended Resources
 
@@ -137,4 +122,3 @@ Choosing a solar company isn't glamorous work, but it's the part of going solar 
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

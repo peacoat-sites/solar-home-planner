@@ -25,7 +25,6 @@ author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
 
 ---
-
 Most solar quotes you'll see online toss out "6 to 12 years" like it means something. It doesn't, not without knowing your utility rate, your roof's solar access, your state's net metering policy, and what you actually paid for the system. A homeowner in Massachusetts paying $0.29/kWh who got a $2,000 cash incentive from their utility might break even in 7 years. The same system on a house in Idaho at $0.10/kWh might take 14. Same panels, wildly different math.
 
 The payback period is the single most important number in the solar decision, and it's also the number installers are least likely to give you straight.
@@ -42,11 +41,7 @@ Also missing from the glossy brochure: your utility rate trajectory. If electric
 
 ## The Variables That Move the Number the Most
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-Forget generic averages. These are the factors that actually swing your payback period by years in either direction.
+Forget generic averages. These factors swing your payback period by years in either direction.
 
 **Your electricity rate.** This is the single biggest lever. At $0.12/kWh, a 10 kW system producing 14,000 kWh annually saves you $1,680. At $0.25/kWh, that same production is worth $3,500 per year. High-rate states like California, Massachusetts, Connecticut, and Hawaii have payback periods that can be 40-50% shorter than low-rate states like Louisiana or Washington.
 
@@ -93,8 +88,6 @@ Solar loans with rates below 4% can still make financial sense, especially if yo
 
 If you do finance, look for solar-specific loans from credit unions or green energy lenders. Standard home equity products work too, and the interest may be deductible if the loan is secured by your home.
 
-A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) can be a smart add-on here, letting you track real-time production versus consumption and catch underperformance before it silently eats into your projected savings. *(This site may earn a commission on qualifying Amazon purchases.)*
-
 ## Red Flags That Inflate the Payback Promise
 
 I've reviewed a lot of solar proposals. Some of the numbers installers put in front of homeowners should be embarrassing.
@@ -109,23 +102,9 @@ Watch for companies that refuse to provide an itemized quote. You should know ex
 
 And if an installer tells you permits are optional or suggests you skip them to save money, that's your cue to end the conversation. Unpermitted systems create serious problems when you sell your home and may void your equipment warranties.
 
-
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-
----
-
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169). Complete beginner solar kit with 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99). Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

@@ -25,7 +25,6 @@ author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
 
 ---
-
 The power goes out at 11 PM on a Wednesday. Your sump pump stops. The food in your freezer starts its slow decline. Your kid's CPAP machine goes quiet. You've told yourself for two years that you'd get backup power sorted out before something like this happened, and here you are. If that scenario feels a little too familiar, you're probably already weighing two options: a generator or a solar battery backup system. Here's what I tell people when they come to me in exactly that moment, often on their phones while sitting in the dark.
 
 ## These Are Two Very Different Tools Solving the Same Problem
@@ -34,15 +33,13 @@ People often treat this as an apples-to-apples comparison, but it's really more 
 
 A generator, whether it's a portable gas unit or a permanently installed standby generator, burns fuel to produce electricity on demand. It's loud, it needs ventilation, it requires stored fuel or a natural gas or propane line, and it can power almost anything in your home if you size it correctly. A 22-kilowatt Generac whole-home standby unit running on natural gas will keep your HVAC, refrigerator, lights, and sump pump running indefinitely as long as the gas utility is working.
 
-A solar battery backup system, like a Tesla Powerwall 3 or a Panasonic EverVolt, stores electricity and releases it silently, instantly, and without any fuel. It can recharge from your solar panels during the day. It's indoors-safe, requires almost no maintenance, and in most cases you won't even notice when the grid goes down. The tradeoff: capacity is finite, and if the outage lasts days and the sky stays cloudy, you're managing a limited resource.
+A solar battery backup system, like a Tesla Powerwall 3 or a Panasonic EverVolt, stores electricity and releases it silently, instantly, and without any fuel. It recharges from your solar panels during the day. It's indoors-safe, requires almost no maintenance, and in most cases you won't even notice when the grid goes down. The tradeoff: capacity is finite, and if the outage lasts days and the sky stays cloudy, you're managing a limited resource.
 
 Neither is universally better. The right answer depends on where you live, how long your outages typically last, what you need to power, and honestly, your budget.
 
 ## The Real Cost Breakdown Nobody Talks About Upfront
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where I see people get tripped up most. They look at the purchase price and stop there. You can't do that.
 
@@ -103,11 +100,6 @@ Work through this honestly before you spend anything.
 
 A quality [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=home+energy+monitor) (Amazon link, site may earn a commission) can help you measure your actual loads before you commit to any system size. It's a $50 tool that can save you from dramatically over or under-sizing your backup solution.
 
----
-
-
----
-
 Whatever you decide, the worst outcome is the one you've been living with: putting this off until the next outage reminds you why you care. Both generator and battery systems are legitimate, proven solutions when they're sized correctly and installed by someone who knows what they're doing. Get the quotes. Run the numbers. Pick the one that fits your actual life and your actual outages, not the one that sounds best in a commercial. You've already done the hard part by asking the right questions.
 
 ## Helpful Resources
@@ -120,8 +112,6 @@ Whatever you decide, the worst outcome is the one you've been living with: putti
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
@@ -130,4 +120,3 @@ Whatever you decide, the worst outcome is the one you've been living with: putti
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[EF EcoFlow DELTA 2 Max (2048Wh)](https://www.amazon.com/dp/B0C4DW17PD/?tag=contentportfo-20)** (~$999), 2048Wh LFP battery with 2400W output, ideal for whole-home solar backup or pairing with rooftop solar panels.
-

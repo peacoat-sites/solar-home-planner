@@ -25,7 +25,6 @@ author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
 
 ---
-
 A homeowner in Sacramento called me last spring, three days before her installation was scheduled to start. She'd signed a 25-year solar lease nine months earlier and had just discovered her contract included an automatic annual escalator of 2.9% on her monthly payments. Nobody had explained that to her during the sales pitch. Over 25 years, that clause would cost her roughly $14,000 more than the flat rate she thought she was getting. The installer wasn't breaking any laws. Every word was in the contract. She just hadn't read it.
 
 That situation isn't rare. Solar contracts are long, dense, and written by lawyers whose job is to protect the company, not you. You're making a decision that will be attached to your house for two to three decades, and in many cases you're doing it after a 90-minute sales appointment. Slowing down to actually read the contract is the single best thing you can do before your system goes on your roof.
@@ -46,10 +45,6 @@ Each structure has legitimate use cases. But I've seen clients sign a lease thin
 
 ## Production Guarantees and System Sizing: What the Numbers Actually Mean
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 One of the most important sections in any solar contract is the production estimate. This is usually expressed in kilowatt-hours per year, and it forms the basis of every financial claim the company makes about your savings.
 
 Ask yourself: where did this number come from? Reputable installers use tools like PVWatts (a free NREL calculator) or Aurora Solar to model your specific roof, orientation, shading, and local weather patterns. If your salesperson couldn't explain their modeling methodology, that's a problem.
@@ -58,7 +53,7 @@ Look for a **production guarantee clause.** Some contracts guarantee a minimum a
 
 Read the fine print on how underperformance is defined and measured. Some contracts measure production at the inverter, some at the utility meter. The difference can be 3 to 8% depending on losses in your wiring. That gap matters over 25 years.
 
-Also check whether the production estimate assumes you'll clean the panels. Dirty panels in dusty climates can lose 15 to 25% of output. If you want to stay on top of that yourself, a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) can handle most residential arrays without the cost of a service call (disclosure: this site may earn a commission on purchases).
+Also check whether the production estimate assumes you'll clean the panels. Dirty panels in dusty climates can lose 15 to 25% of output. If you want to handle maintenance yourself, a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) can work for most residential arrays without the cost of a service call. (Disclosure: this site may earn a commission on purchases.)
 
 ## The Financial Terms You Can't Afford to Skim
 
@@ -78,11 +73,11 @@ A solar contract typically bundles three separate types of warranty, and they're
 
 **Equipment warranty:** Covers the panels and inverter against manufacturing defects. Top-tier panels carry 25-year product warranties. Inverters typically carry 10 to 12 years, sometimes extendable for a fee. String inverters from established brands like SMA or Fronius or microinverters from Enphase or APsystems usually have solid warranty backing. Panels from less-established manufacturers may have warranties that sound good on paper but are backed by companies that may not exist in 15 years.
 
-**Workmanship warranty:** Covers the installation itself. Roof penetrations, wiring, racking. A respectable installer offers at least 10 years. Some offer 25. If you see fewer than 5 years on workmanship, walk away.
+**Workmanship warranty:** Covers the installation itself (roof penetrations, wiring, racking). A respectable installer offers at least 10 years. Some offer 25. If you see fewer than 5 years on workmanship, walk away.
 
-**Performance warranty:** This is specific to the panels and covers degradation. Most quality panels guarantee at least 80% of original output after 25 years. Read the degradation curve because some manufacturers guarantee linear degradation while others allow steeper drops in early years.
+**Performance warranty:** This covers panel degradation. Most quality panels guarantee at least 80% of original output after 25 years. Read the degradation curve because some manufacturers guarantee linear degradation while others allow steeper drops in early years.
 
-One practical tip: check whether the warranty is backed by the installer, the manufacturer, or a third-party insurance product. Installer-backed warranties disappear when the installer goes out of business. Manufacturer warranties are only as stable as the manufacturer. Third-party warranted products add a layer of protection, but read the claims process carefully.
+Check whether the warranty is backed by the installer, the manufacturer, or a third-party insurance product. Installer-backed warranties disappear when the installer goes out of business. Manufacturer warranties are only as stable as the manufacturer. Third-party warranted products add a layer of protection, but read the claims process carefully.
 
 ## What Happens When You Sell Your House
 
@@ -124,30 +119,13 @@ Before you sign anything, go through this list. Print it out if you need to.
 
 ---
 
-
----
-
-The goal isn't to make you suspicious of the industry. Most solar companies are operating in good faith, and going solar is still one of the smarter home investments available to most homeowners right now. But the contract is where "good faith" meets legal reality, and those two things aren't always the same. Read it, ask questions about anything you don't understand, and if a company makes you feel like taking time to review the paperwork is an inconvenience, treat that as the answer you need.
+The goal isn't to make you suspicious of the industry. Most solar companies are operating in good faith, and going solar is still one of the smarter home investments available to most homeowners right now. But the contract is where "good faith" meets legal reality, and those two things aren't always aligned. Read it, ask questions about anything you don't understand, and if a company makes you feel like taking time to review the paperwork is an inconvenience, treat that as the answer you need.
 
 ## Helpful Resources
 
 *As an Amazon Associate this site earns from qualifying purchases.*
 
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-
-
-*Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
-
----
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit with 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 
+*Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*

@@ -25,7 +25,6 @@ author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
 
 ---
-
 Most homeowners spend weeks researching solar panels without ever thinking seriously about what's underneath them. Then a contractor shows up, takes one look at the roof, and says something vague like "that might be tricky." Suddenly you're facing unexpected costs, structural questions, or a flat-out "we can't do this job." The roof type you have right now is one of the biggest factors determining how easy, how expensive, and how long-lasting your solar installation will be. Let's get into the specifics.
 
 ## Why Roof Material Matters More Than You'd Think
@@ -37,10 +36,6 @@ Every solar panel needs to be anchored to your roof structure through a mounting
 Beyond installation mechanics, you need to think about longevity. Solar panels are rated for 25 to 30 years. If your roof has 7 years of life left, you're going to be removing and reinstalling that system right in the middle of its productive life. Removing and remounting solar panels costs $1,500 to $6,000 depending on system size and roof complexity. That's real money you'll spend just to replace shingles you should have replaced before the panels went up.
 
 ## Asphalt Shingles: The Easy Install
-
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Asphalt shingles are on roughly 70% of American homes, and there's a reason installers love them. They're the most forgiving material to work with.
 
@@ -54,7 +49,7 @@ If your asphalt shingle roof is within 5 years of needing replacement, re-roof f
 
 Standing seam metal roofs are, genuinely, the best roof type for solar installation. I'll say it plainly because it's true.
 
-The reason is the mounting system. Standing seam metal allows for clamp-based mounts that attach directly to the raised seams without any roof penetrations at all. No holes, no flashing, no leak risk. The clamps are UL-listed and engineered specifically for this, and they don't affect the metal roof's own warranty in most cases. Installation is faster than asphalt in many scenarios, and the roof itself will likely outlast the solar system by decades. Metal roofs routinely last 40 to 70 years.
+The reason is the mounting system. Standing seam metal allows for clamp-based mounts that attach directly to the raised seams without any roof penetrations at all. No holes. No flashing. No leak risk. The clamps are UL-listed and engineered specifically for this, and they don't affect the metal roof's own warranty in most cases. Installation is faster than asphalt in many scenarios, and the roof itself will likely outlast the solar system by decades. Metal roofs routinely last 40 to 70 years.
 
 Corrugated metal roofs (the kind you see on older agricultural buildings or some rural homes) require a different approach: butyl tape and specialty brackets that conform to the corrugation profile. It's workable, but it requires more care and the right hardware. Make sure your installer has experience with this specific profile, not just standing seam.
 
@@ -115,11 +110,6 @@ You can save yourself a lot of wasted time and awkward contractor conversations 
 
 **Step 5: Compare multiple bids with roof complexity in mind.** A low bid on a tile roof from a crew without tile experience is not a bargain. When you're [comparing solar bids](/comparing-solar-bids-what-to-look-for/), roof-specific experience and hardware specifics should factor heavily into your decision.
 
----
-
-
----
-
 The roof under your panels is a long-term partnership with your solar system. Getting it right means honest assessment upfront, not optimism. If your roof is sound, the material is mostly a matter of cost and installer experience. If the roof is questionable, fix that first. The panels will still be there when you're ready, and they'll perform a lot better on a roof that's not failing underneath them.
 
 ## Helpful Resources
@@ -130,17 +120,4 @@ The roof under your panels is a long-term partnership with your solar system. Ge
 - **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
 - **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
 
-
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
-
----
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

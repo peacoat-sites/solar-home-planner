@@ -25,7 +25,6 @@ author_title: "DIY Researcher"
 author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
 
 ---
-
 The federal solar tax credit gets all the headlines, but it's completely useless if you don't owe enough in federal taxes to claim it. I've watched low-income homeowners get pitched a 30% "discount" that they'll never actually see, because nobody bothered to ask about their tax situation first. That single detail, the difference between a refundable and non-refundable credit, disqualifies a huge slice of the people who need solar savings the most.
 
 So let's skip the glossy pitch and talk about what actually works.
@@ -34,9 +33,9 @@ So let's skip the glossy pitch and talk about what actually works.
 
 The 30% federal Investment Tax Credit (ITC), extended through 2032 under the Inflation Reduction Act, is real and it's significant. But if your federal tax liability is $1,200 a year, a 30% credit on a $20,000 system gives you $6,000 you can't use in year one. You can carry it forward, but if your income stays low, you may never collect most of it.
 
-What most people don't realize is that there are programs specifically designed around this problem, ones that provide grants, not credits, or that handle the installation entirely at no cost.
+What most people don't realize is that there are programs specifically designed around this problem. Ones that provide grants instead of credits, or that handle the installation entirely at no cost.
 
-**LIHEAP and WAP are the starting point.** The Low Income Home Energy Assistance Program (LIHEAP) and the Weatherization Assistance Program (WAP) are federally funded but administered at the state level, and in recent years, both have expanded to cover solar under certain circumstances. WAP in particular, which is run through the Department of Energy, has been quietly adding solar to its weatherization work for qualifying households. The income ceiling is 200% of the federal poverty level, which for a family of four in 2024 is roughly $62,400. If you're in that range, WAP is the first call I'd make. Find your local WAP office at energy.gov.
+**LIHEAP and WAP are the starting point.** The Low Income Home Energy Assistance Program (LIHEAP) and the Weatherization Assistance Program (WAP) are federally funded but administered at the state level. In recent years, both have expanded to cover solar under certain circumstances. WAP in particular, which is run through the Department of Energy, has been quietly adding solar to its weatherization work for qualifying households. The income ceiling is 200% of the federal poverty level, which for a family of four in 2024 is roughly $62,400. If you're in that range, WAP is the first call I'd make. Find your local WAP office at energy.gov.
 
 **USDA Section 504.** If you're in a rural area and you own your home, this one is worth knowing about. The USDA's Rural Development program offers grants up to $10,000 and loans up to $40,000 specifically for low-income rural homeowners to make repairs and improvements that remove health and safety hazards. Solar qualifies as an improvement in many cases. The income limit for grants is 50% of area median income. For loans, it's 50% of AMI as well, with repayment over 20 years at 1% interest. I've seen this program fly completely under the radar because "rural development" doesn't scream "solar panels" to most people.
 
@@ -45,10 +44,6 @@ What most people don't realize is that there are programs specifically designed 
 The [National Renewable Energy Laboratory](https://www.nrel.gov/) has published research showing that low-income households spend three times more of their income on energy bills than higher-income households, and that solar could disproportionately benefit them, but only if the programs are structured to reach them. The gap between potential and reality is real, and part of it is just that people don't know these programs exist.
 
 ## How to Find What's Available in Your State
-
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I won't sugarcoat this part: it's annoying. The programs are fragmented, the websites are often outdated, and the income limits and application windows change regularly.
 
@@ -82,7 +77,7 @@ Permits are pulled by the installer. Your utility interconnection paperwork is h
 
 One thing I'd tell anyone in this situation: take photos of your roof and attic before the work begins, and after. Not because these contractors are bad, but because documentation protects everyone. I've seen post-installation disputes about pre-existing damage that would have been resolved instantly if someone had taken 20 photos beforehand.
 
-A [home energy monitor like the Emporia Vue 2](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor) (around $70 on Amazon, and yes, this site may earn a commission on that link) can help you verify that your system is actually producing what it should after installation. It's not required, but for a system you're getting for free or near-free, it's a reasonable investment to make sure the equipment is doing its job.
+A home energy monitor can help you verify that your system is actually producing what it should after installation. It's not required, but for a system you're getting for free or near-free, it's a reasonable investment to make sure the equipment is doing its job.
 
 ## Red Flags to Watch For
 
@@ -96,30 +91,13 @@ If the contract includes a solar loan or a Property Assessed Clean Energy (PACE)
 
 Ask for the specific program name and the government agency or utility administering it. If the salesperson can't tell you, they don't have what they're claiming to have.
 
-
----
-
 There are real dollars available for people who need them most. The programs exist. The barrier is usually awareness, not eligibility. If you've been told solar is only for people who can drop $25,000 on a system, that was true once and it isn't anymore.
 
 ## Helpful Resources
 
 *As an Amazon Associate this site earns from qualifying purchases.*
 
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169). Complete beginner solar kit with 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99). Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 
 *Photo: [Trinh Trần](https://www.pexels.com/@trinh-tr-n-191284110) via Pexels*
-
----
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

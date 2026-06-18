@@ -25,8 +25,7 @@ author_title: "Finance Writer"
 author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
 
 ---
-
-Nobody warns you about this part. You go through the whole process, get the solar panels installed, watch your production numbers climb on the SolarEdge app, and then your first utility bill arrives and you realize: you're getting paid *way* less per kilowatt-hour than you expected. Sometimes embarrassingly less.
+Nobody warns you about this part. You go through the whole process, get the solar panels installed, watch your production numbers climb on the SolarEdge app, and then your first utility bill arrives. You realize you're getting paid *way* less per kilowatt-hour than you expected. Sometimes embarrassingly less.
 
 I've talked to dozens of homeowners who discovered their net metering credit was $0.04/kWh when they were paying $0.14/kWh to buy electricity. That's not a rounding error. That's a structural feature of how utilities treat solar exports, and it catches people off guard more than almost anything else in the residential solar calculus.
 
@@ -50,10 +49,6 @@ California's NEM 3.0, which took effect in April 2023 for new applicants, was a 
 
 ## Why Your State and Utility Choice Matter More Than Your Panel Brand
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 I'll be honest: I spent the early part of my career focused heavily on system efficiency, panel specs, inverter quality. And that stuff matters. But the single biggest variable in your actual financial return isn't a Panasonic HIT panel versus a Qcells Q.PEAK. It's whether you're in Arizona Public Service territory or SRP territory.
 
 Those two utilities serve overlapping Phoenix metro geography and their export compensation programs are genuinely that different. SRP's Customer Generation tariff historically resulted in much lower effective export credits than APS's standard NEM offering. Same rooftop, same system, same city, totally different financial outcome.
@@ -66,7 +61,7 @@ What surprised me when I started digging into utility tariffs specifically was h
 
 ## How to Actually Find Your Buyback Rate Before You Sign Anything
 
-Most solar sales reps will show you a production estimate and a savings estimate, often in a slick proposal from Aurora Solar or Energy Toolbase software. That estimate is only as good as the export rate assumption baked into it. And I've seen proposals that used retail rate assumptions for utilities that had already switched to avoided-cost compensation.
+Most solar sales reps will show you a production estimate and a savings estimate, often in a slick proposal from Aurora Solar or Energy Toolbase software. That estimate is only as good as the export rate assumption baked into it. I've seen proposals that used retail rate assumptions for utilities that had already switched to avoided-cost compensation.
 
 Here's how to check it yourself:
 
@@ -74,7 +69,7 @@ Go to your utility's website and find the tariff schedule for residential interc
 
 Look for: the export compensation rate (could be listed as "energy credit," "avoided cost rate," or a reference to retail rate), any cap on net metering (some programs are capped at a percentage of peak utility demand), standby charges, monthly fixed fees that solar doesn't offset, and what happens to unused credits at year-end (some roll over indefinitely, some expire, some are paid out at wholesale).
 
-If you can't find it, call the utility's interconnection department, not customer service. Customer service often gives wrong answers on this. Ask specifically: "What is the current export compensation rate for new NEM or net billing applicants, and is it changing in the next 12 months?"
+Can't find it? Call the utility's interconnection department, not customer service. Customer service often gives wrong answers on this. Ask specifically: "What is the current export compensation rate for new NEM or net billing applicants, and is it changing in the next 12 months?"
 
 That last part matters. Several states have pending rate cases that could change the export rate between when you sign your solar contract and when you get permission to operate.
 
@@ -84,9 +79,11 @@ Here's the thing about degraded export rates: they make batteries more financial
 
 If you're only getting $0.04/kWh for power you export, but you'd pay $0.14/kWh to buy that same power back at night, a battery that captures that export and feeds it back to your home has an effective return of $0.10/kWh on every kWh it cycles. That math is far more compelling than it was under full retail NEM.
 
-This is exactly the dynamic California's NEM 3.0 was designed to create. It's working. Battery attachment rates in California reportedly jumped significantly after the new rate structure took effect. Whether that's good policy or a utility overreach is a genuinely contested question, but the practical effect for homeowners is clear: in low-export-rate environments, size your system for self-consumption, not maximum production.
+This is exactly the dynamic California's NEM 3.0 was designed to create. It's working. Battery attachment rates in California jumped significantly after the new rate structure took effect. Whether that's good policy or a utility overreach is a genuinely contested question, but the practical effect for homeowners is clear: in low-export-rate environments, size your system for self-consumption, not maximum production.
 
-What does that mean in practice? A home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor&tag=contentportfo-20) (affiliate link, site may earn a commission) is genuinely useful here. Running it for 30-60 days before you design a solar system gives you granular load data by circuit, so you can match system production to actual consumption patterns instead of just sizing for maximum kWh.
+What does that mean in practice? A home energy monitor like the [Emporia Vue 2](https://www.amazon.com/dp/B09ZJ1WVGK/?tag=contentportfo-20) is genuinely useful here. Running it for 30-60 days before you design a solar system gives you granular load data by circuit, so you can match system production to actual consumption patterns instead of just sizing for maximum kWh.
+
+*As an Amazon Associate this site earns from qualifying purchases.*
 
 Solar-plus-storage is increasingly the answer in degraded-NEM states, but it's not for every budget. And I'll note: even in states with strong NEM today, there's no guarantee it stays that way. If you're planning a 25-year system and betting on retail-rate exports for the whole period, you're making a significant policy assumption.
 
@@ -100,11 +97,6 @@ Watch for proposals that assume retail-rate exports without documenting that you
 
 Ask to see the tariff schedule the proposal is based on. If the contractor can't produce it, that's telling.
 
----
-
-
----
-
 The buyback rate question doesn't have a universal answer, and anyone who tells you it's simple is probably selling something. What I'd leave you with is this: before the panels go on your roof, read your utility's actual tariff document. It's dry, it's bureaucratic, and it might be the most financially important hour of research you do on this whole project.
 
 ## Helpful Resources
@@ -115,18 +107,4 @@ The buyback rate question doesn't have a universal answer, and anyone who tells 
 - **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
 - **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
 
-
 *Photo: [Harrison Haines](https://www.pexels.com/@harrisonhaines) via Pexels*
-
----
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-

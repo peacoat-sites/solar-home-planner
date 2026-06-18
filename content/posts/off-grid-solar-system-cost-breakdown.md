@@ -25,7 +25,6 @@ author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
 
 ---
-
 Most solar cost articles will tell you the average American home system runs $25,000–$35,000 and leave it there. That number is for a grid-tied system. If you're pricing an off-grid setup, you're shopping in a completely different store. Off-grid solar costs more, requires more components, and demands more planning precision. Get it wrong and you're not just overpaying, you're sitting in the dark in January. Here's the actual breakdown.
 
 ## Why Off-Grid Costs More Than Grid-Tied (And By How Much)
@@ -40,10 +39,6 @@ EnergySage's market data consistently shows off-grid quotes running 40–60% hig
 
 ## The Six Core Cost Components
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Think of an off-grid system as six distinct line items. Every installer should be able to quote you each one separately. If they can't, find a different installer.
 
 **1. Solar Panels: $0.80–$1.50 per watt**
@@ -56,7 +51,7 @@ This is where off-grid gets expensive fast. Your battery bank is sized in kilowa
 
 Lithium iron phosphate (LiFePO4) batteries run $800–$1,200 per usable kWh installed. A 30 kWh bank lands at roughly $24,000–$36,000. Lead-acid flooded batteries cost less upfront ($300–$500/kWh), but they only use 50% of their rated capacity safely, require maintenance, and last half as long. Over a 10-year period, lithium is usually cheaper. I've had clients start with lead-acid to save money and replace them inside five years, wiping out the initial savings.
 
-The Solar Energy Industries Association tracks battery storage costs, and while prices have dropped substantially, installed LiFePO4 systems have not hit the commodity pricing you might see advertised for the cells alone.
+The Solar Energy Industries Association tracks battery storage costs, and while prices have dropped substantially, installed LiFePO4 systems haven't hit the commodity pricing you might see advertised for the cells alone.
 
 **3. Inverter-Charger: $2,000–$8,000**
 
@@ -68,7 +63,7 @@ MPPT (maximum power point tracking) charge controllers are non-negotiable for a 
 
 **5. Balance of System: $3,000–$12,000**
 
-This covers wiring, conduit, disconnects, overcurrent protection, mounting hardware, grounding, monitoring equipment, and the critical battery enclosure. Skimping here is where fires start. A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) like the Emporia Vue or Sense is worth adding for ongoing load management.
+This covers wiring, conduit, disconnects, overcurrent protection, mounting hardware, grounding, monitoring equipment, and the critical battery enclosure. Skimping here is where fires start. A home energy monitor like the Emporia Vue or Sense is worth adding for ongoing load management.
 
 **6. Installation Labor: $8,000–$20,000**
 
@@ -107,7 +102,7 @@ Bad sizing is the most expensive mistake in off-grid solar. Here's the process I
 | Average full-time home | Standard loads, 3–4 people | 8–15 kW | 30–50 kWh | $65,000–$95,000 |
 | High-consumption home | EV charging, electric heat | 15–20 kW | 50–80 kWh | $95,000–$140,000 |
 
-If you're adding an EV charger to an off-grid system, [Level 2 charging equipment](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=contentportfo-20) is manageable, but plan to charge during peak sun hours only and factor the additional daily kWh into your load calculation.
+If you're adding an EV charger to an off-grid system, Level 2 charging equipment is manageable, but plan to charge during peak sun hours only and factor the additional daily kWh into your load calculation.
 
 ## Contractor Red Flags Specific to Off-Grid Quotes
 
@@ -123,23 +118,9 @@ I've reviewed a lot of off-grid proposals over the years. Here's what should mak
 
 **No mention of the 30% federal tax credit.** The Investment Tax Credit (ITC) applies to off-grid solar systems used for residential purposes. At 30% of total system cost, a $70,000 system yields a $21,000 credit. If your installer isn't factoring this into your financial picture, they're leaving money on the table.
 
-
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
----
-
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

@@ -25,34 +25,25 @@ author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
 
 ---
-
 Net metering was never as simple as "sell your excess solar back to the grid for full retail price." That was the rosy version. The reality in 2026 is messier, more state-dependent, and shifting faster than most solar shoppers realize.
 
 Here's what the coverage gets wrong: most articles still describe net metering like it's a fixed, nationwide policy. It's not. It's a patchwork of state rules, utility-specific riders, and regulatory decisions that have been quietly rewritten over the last three years. If you're sizing a system right now based on 2022 assumptions about bill credits, you may be leaving a significant chunk of your payback calculation on the floor.
 
 Let me walk you through where things actually stand.
 
----
-
 ## How Net Metering Actually Works (And Why the Rate Is the Whole Game)
 
-The basic mechanic: your solar panels overproduce during the day, that surplus goes to the grid, and you get a credit on your bill. At night, you draw power back and those credits offset what you owe. Simple enough.
+Your solar panels overproduce during the day, that surplus goes to the grid, you get a credit. At night, you draw power back and those credits offset what you owe. The mechanic is straightforward.
 
-The rate you earn per kilowatt-hour is everything. If your utility credits you at the full retail rate (say, $0.14/kWh in Ohio or $0.32/kWh in California), the math is favorable. If they credit you at the wholesale or "avoided cost" rate, which might be $0.03 to $0.06/kWh, you've just lost 75-80% of the value of every excess kilowatt you push back. That's the difference between a 7-year payback and a 14-year one on the same hardware.
+The rate you earn per kilowatt-hour is everything. If your utility credits you at the full retail rate (say, $0.14/kWh in Ohio or $0.32/kWh in California), the math works. If they credit you at the wholesale or "avoided cost" rate, which might be $0.03 to $0.06/kWh, you've just lost 75-80% of the value of every excess kilowatt you push back. That's the difference between a 7-year payback and a 14-year one on the same hardware.
 
-Most people don't realize that "net metering" on a utility's website can mean anything from full retail compensation to a severely reduced buyback rate with monthly fees stacked on top. The label is consistent. What it covers isn't.
-
----
+Most people don't realize that "net metering" on a utility's website can mean anything from full retail compensation to a severely reduced buyback rate with monthly fees stacked on top. The label stays consistent. What it covers isn't.
 
 ## The State Landscape in 2026: Winners, Losers, and the Uncertain Middle
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 **States still offering solid retail-rate net metering:**
 
-Illinois, New Jersey, and Massachusetts are still running programs that credit close to full retail. New Jersey's successor tariff structure pays slightly below retail but remains competitive, somewhere in the $0.09-$0.11/kWh range depending on your utility. Massachusetts has its SMART program layered on top, which adds a separate per-kWh incentive. If you're in either state, the economics are still very good.
+Illinois, New Jersey, and Massachusetts are still running programs that credit close to full retail. New Jersey's successor tariff structure pays slightly below retail but remains competitive, somewhere in the $0.09-$0.11/kWh range depending on your utility. Massachusetts has its SMART program layered on top, which adds a separate per-kWh incentive. If you're in either state, the economics still work.
 
 Texas is a useful counterexample. There's no statewide net metering mandate. Oncor, CPS Energy, and Reliant all handle compensation differently. CPS Energy's net metering program, as of early 2026, pays a reduced avoided-cost rate well below retail. Some smaller Texas co-ops are even worse. If a solar salesman in Houston tells you you'll get "full retail credit," get that in writing and verify it with your utility directly.
 
@@ -72,17 +63,13 @@ Arizona, Utah, and Arkansas have all shifted away from full retail credit in the
 
 Florida, interestingly, still has a strong statewide retail-rate net metering law. The legislature tried to pass major rollbacks in 2022 and the governor vetoed it. There was another push in 2023 that partially succeeded, but grandfathering provisions are strong and new installs as of mid-2025 still earn reasonable compensation. Watch this space.
 
----
-
 ## The "Grid Access" Fee Problem Nobody Talks About
 
 Even states with good net metering rates have been allowing utilities to add fixed grid participation fees for solar customers. These are monthly charges (sometimes called "standby fees" or "grid access fees") that show up regardless of your usage or export.
 
-Georgia Power charges solar customers a fixed monthly fee. APS in Arizona has had various forms of a demand charge for solar customers. In some cases these fees are $10-$20/month, which sounds small but represents $120-$240/year shaved off your system's annual savings. Over 25 years that's $3,000-$6,000 in eroded returns.
+Georgia Power charges solar customers a fixed monthly fee. APS in Arizona has had various forms of a demand charge for solar customers. In some cases these fees run $10-$20/month, which sounds small but represents $120-$240/year shaved off your system's annual savings. Over 25 years that's $3,000-$6,000 in eroded returns.
 
 When you're evaluating a quote, the installer's production estimate and the bill savings projection need to account for these fees. Most don't, at least not clearly. I've reviewed proposals from major national installers that listed net bill savings without mentioning a $15/month grid fee anywhere in the assumptions. That's not accidental. Always ask: "Does your savings estimate include any fixed utility fees that will apply to my account post-install?"
-
----
 
 ## How to Look Up What Your State (and Utility) Actually Pays
 
@@ -102,8 +89,6 @@ A few things to verify before signing anything:
 
 That last point catches people off guard. Rural electric cooperatives in many states operate under their own rules and can offer significantly worse compensation than the investor-owned utility next county over.
 
----
-
 ## Sizing Your System for the Rate Structure You Actually Have
 
 This is where net metering rates should directly change your engineering decisions, and most homeowners don't realize it.
@@ -116,11 +101,6 @@ A 7kW system on a house that only needs 6kW of production might have been the ri
 
 For monitoring your production and self-consumption ratio, a good home energy monitor like the Emporia Vue 2 or Sense Energy Monitor (both on Amazon, where this site may earn a small commission) helps you understand when and where you're consuming power. That data is invaluable for tuning battery charge/discharge schedules in a low-export-rate environment.
 
----
-
-
----
-
 The states with strong net metering right now won't all look this way in five years. California was a cautionary tale few saw coming at scale. Florida's situation is still unresolved. If you're seriously evaluating solar in 2026, treat the export rate as a core input in your financial model, not a footnote. A system that makes sense at $0.14/kWh export credit may not make sense at $0.04/kWh, and getting that number wrong before you sign a 25-year loan is an expensive mistake to correct.
 
 ## Helpful Resources
@@ -131,12 +111,7 @@ The states with strong net metering right now won't all look this way in five ye
 - **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
 - **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
 
-
 *Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*
-
----
-
----
 
 ## Recommended Resources
 
@@ -146,4 +121,3 @@ The states with strong net metering right now won't all look this way in five ye
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-

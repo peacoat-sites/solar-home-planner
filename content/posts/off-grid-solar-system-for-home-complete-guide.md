@@ -25,7 +25,6 @@ author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
 
 ---
-
 You found a piece of land. Maybe you inherited it, maybe you've been saving for years, or maybe you just got tired of watching your utility bill climb past $300 a month with no end in sight. Whatever brought you here, you're now staring at the real question: can you actually power a home without being connected to the grid? The answer is yes, and people do it every day. But the path from "I want off-grid solar" to "my lights are on and my freezer is running" involves a lot of decisions that most YouTube videos gloss over. Let's work through this properly.
 
 ---
@@ -34,19 +33,15 @@ You found a piece of land. Maybe you inherited it, maybe you've been saving for 
 
 Off-grid solar isn't just solar panels on a roof. It's a complete, self-contained power system that has to meet 100% of your energy needs, 24 hours a day, including cloudy weeks in January when your panels are producing a fraction of their summer output.
 
-That distinction matters because grid-tied solar, the kind most suburban homeowners install, uses the utility grid as a free battery. You send excess power out during the day, you pull power back at night. Simple. Off-grid can't do that. Every kilowatt-hour you use at 11pm on a rainy Tuesday has to come from batteries you charged earlier, which means your battery bank, your charge controllers, and your panel array all have to be sized to handle your worst-case consumption scenarios, not your average ones.
+That distinction matters because grid-tied solar, the kind most suburban homeowners install, uses the utility grid as a free battery. You send excess power out during the day, you pull power back at night. Off-grid can't do that. Every kilowatt-hour you use at 11pm on a rainy Tuesday has to come from batteries you charged earlier, which means your battery bank, your charge controllers, and your panel array all have to be sized to handle your worst-case consumption scenarios, not your average ones.
 
-You might be wondering: isn't that just a matter of buying more panels? Partly. But it's really a system design challenge, and understanding that early saves you from some expensive mistakes. A 10 kW array with an undersized battery bank will still leave you in the dark. The components have to work together, and they have to be sized around your actual load, not a guess.
+You might think it's just a matter of buying more panels. Partly. But it's really a system design challenge, and getting this right early saves you from expensive mistakes. A 10 kW array with an undersized battery bank will still leave you in the dark. The components have to work together, and they have to be sized around your actual load, not a guess.
 
 ---
 
 ## Sizing Your System: The Math You Can't Skip
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-Here's what I tell people when they first sit down with me: before we talk about any equipment, we need to talk about how much power you use and when you use it.
+Before we talk about any equipment, we need to talk about how much power you use and when you use it.
 
 **Step 1: Calculate your daily load in watt-hours.**
 
@@ -108,12 +103,9 @@ Every experienced off-grid homeowner I know has a backup generator. Not because 
 
 A propane or diesel generator sized at roughly 20 to 30% of your peak inverter capacity is a common pairing. You're not running it constantly. You might run it for a few hours a few times a year during a stretch of bad weather to top off your batteries. A 6 kW to 10 kW generator paired with a 15 to 20 kWh daily load system is a reasonable starting point.
 
-A few honest things about off-grid living worth knowing before you commit:
+A few honest things about off-grid living:
 
-- You will become aware of your power consumption in a way grid-connected people never are.
-- Running high-draw appliances like electric dryers, electric water heaters, and central AC becomes a conversation you'll have with your system regularly.
-- Most off-grid homes shift to propane for cooking, water heating, and space heating because thermal energy from propane is far cheaper than thermal energy from electricity stored in batteries.
-- Solar panel cleaning matters more in off-grid systems because dirty panels mean reduced output, and reduced output has direct consequences on your battery state of charge. A good [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) is a small investment that protects a large one. *(This site may earn a commission on qualifying purchases.)*
+You will become aware of your power consumption in a way grid-connected people never are. Running high-draw appliances like electric dryers, electric water heaters, and central AC becomes something you'll think about deliberately. Most off-grid homes shift to propane for cooking, water heating, and space heating because thermal energy from propane is far cheaper than thermal energy from electricity stored in batteries. Solar panel cleaning matters more in off-grid systems because dirty panels mean reduced output, and reduced output has direct consequences on your battery state of charge. A good [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) is a small investment that protects a large one. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 
@@ -139,9 +131,6 @@ If you're ready to start educating yourself on the installation side, a [DIY sol
 
 ---
 
-
----
-
 Going off-grid isn't for everyone, and there's no shame in deciding that a grid-tied system with battery backup better fits your life and budget. But if independence, rural land, or genuine energy security is what you're after, off-grid solar is a proven path. The technology has matured, the costs have come down substantially, and the community of people doing this well is larger than ever. Do the load math honestly, buy quality components, pull the permits, and you'll be running your home on sunlight for decades.
 
 ## Helpful Resources
@@ -154,12 +143,9 @@ Going off-grid isn't for everyone, and there's no shame in deciding that a grid-
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-
