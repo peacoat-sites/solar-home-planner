@@ -32,9 +32,9 @@ You've found the perfect south-facing roof, gotten three quotes, and you're read
 <div class="value-module">
   <div class="vm-head">State Solar Access Law Comparison</div>
   <div class="vm-body">
-    <p class="vm-intro">These thresholds determine what your HOA can legally require—know your state's specific protections before submitting your approval request.</p>
+    <p class="vm-intro">These thresholds determine what your HOA can legally require-know your state's specific protections before submitting your approval request.</p>
     <table><caption>Solar Access Protections by State (Selected Examples)</caption><thead><tr><th>State</th><th>Can HOA Ban Solar?</th><th>Cost Increase Cap</th><th>Efficiency Loss Cap</th><th>Notable Restrictions HOA May Impose</th></tr></thead><tbody><tr><td>California</td><td>No</td><td>$1,000 or 10% of system cost</td><td>10%</td><td>Roofline height limits; specific mounting aesthetics</td></tr><tr><td>Arizona</td><td>No</td><td>$1,000</td><td>10%</td><td>Location preferences on less-visible roof areas</td></tr><tr><td>Texas</td><td>No</td><td>Not specified</td><td>25%</td><td>Must allow at least one conforming location</td></tr><tr><td>Florida</td><td>No</td><td>Not specified</td><td>10%</td><td>May require specific colors matching roof</td></tr><tr><td>Colorado</td><td>No</td><td>Not specified</td><td>10%</td><td>Limited to adjustments that don't impair function</td></tr><tr><td>New Jersey</td><td>No</td><td>Not specified</td><td>10%</td><td>Reasonable aesthetic requirements only</td></tr><tr><td>No State Law</td><td>Depends on CC&Rs</td><td>None</td><td>None</td><td>HOA has full discretion; negotiate directly</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -146,6 +146,6 @@ The HOA process adds a layer of friction that most homeowners don't anticipate, 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

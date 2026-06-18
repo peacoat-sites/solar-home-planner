@@ -40,7 +40,7 @@ I've seen systems run at 60% capacity for six months before anyone noticed. A lo
   <div class="vm-body">
     <p class="vm-intro">Use this checklist to identify whether low production stems from normal conditions or a system fault requiring action.</p>
     <table><thead><tr><th>Check Item</th><th>Normal Range / Threshold</th><th>Action If Outside Range</th></tr></thead><tbody><tr><td>Daily kWh vs. same month last year</td><td>Within ±15% (weather-adjusted)</td><td>If &gt;15% lower for 3+ consecutive days, investigate further</td></tr><tr><td>Panel-level production variance</td><td>All panels within 5% of each other</td><td>If one panel &gt;10% below peers, check for shading, soiling, or microinverter fault</td></tr><tr><td>Inverter error codes</td><td>Zero active faults</td><td>Any fault code: document and contact installer within 48 hours</td></tr><tr><td>String voltage readings</td><td>Within manufacturer spec (typically 300–500V DC for residential)</td><td>Voltage drop &gt;10% suggests connector issue or panel failure</td></tr><tr><td>Peak production timing</td><td>Should occur within 1 hour of solar noon</td><td>If peak shifts &gt;2 hours, check for new shading obstruction</td></tr><tr><td>Monthly capacity factor</td><td>12–18% winter / 18–25% summer (varies by region)</td><td>Consistently below range suggests system-wide issue</td></tr><tr><td>Inverter clipping frequency</td><td>Occasional on high-production days is normal</td><td>Daily clipping &gt;1 hour may indicate undersized inverter or configuration issue</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -142,6 +142,6 @@ A system you can see is a system you can trust. That's really the whole point. Y
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

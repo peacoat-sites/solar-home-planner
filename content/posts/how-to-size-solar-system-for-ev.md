@@ -36,7 +36,7 @@ Most homeowners I talk to start the solar-plus-EV conversation completely backwa
   <div class="vm-body">
     <p class="vm-intro">Use this worksheet to estimate your total solar system size before talking to installers.</p>
     <table><thead><tr><th>Input</th><th>How to Find It</th><th>Example</th></tr></thead><tbody><tr><td>Annual home usage (kWh)</td><td>Sum 12 months of utility bills</td><td>10,500 kWh</td></tr><tr><td>Annual miles driven</td><td>Odometer ÷ years owned, or estimate daily × 365</td><td>13,500 miles</td></tr><tr><td>EV efficiency (mi/kWh)</td><td>Check EPA rating: sedans 3.5–4, SUVs 2.5–3, trucks 1.8–2.2</td><td>3.0 mi/kWh</td></tr><tr><td>Annual EV demand (kWh)</td><td>Miles ÷ efficiency</td><td>4,500 kWh</td></tr><tr><td>Total annual need (kWh)</td><td>Home + EV demand</td><td>15,000 kWh</td></tr><tr><td>Local sun-hours/day</td><td>NREL PVWatts or installer estimate (US range: 3.5–6.5)</td><td>5.0 hrs</td></tr><tr><td>System size needed (kW)</td><td>Total kWh ÷ 365 ÷ sun-hours ÷ 0.80 (system losses)</td><td>10.3 kW</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -157,6 +157,6 @@ The bottom line is that solar-plus-EV is one of the best financial decisions a h
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

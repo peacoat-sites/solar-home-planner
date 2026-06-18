@@ -36,9 +36,9 @@ Going completely off-grid is one of the most ambitious things you can do as a ho
 <div class="value-module">
   <div class="vm-head">Off-Grid System Sizing Worksheet</div>
   <div class="vm-body">
-    <p class="vm-intro">Use this checklist to calculate your actual requirements before purchasing any equipment—each threshold determines whether your system will succeed or leave you in the dark.</p>
+    <p class="vm-intro">Use this checklist to calculate your actual requirements before purchasing any equipment-each threshold determines whether your system will succeed or leave you in the dark.</p>
     <table><caption>Off-Grid Solar Sizing Checklist with Target Thresholds</caption><thead><tr><th>Sizing Factor</th><th>How to Calculate</th><th>Target Threshold</th><th>Common Mistake</th></tr></thead><tbody><tr><td>Daily energy consumption</td><td>Sum all appliance wattages × hours used per day</td><td>Document actual kWh/day from 12 months of bills; winter months most critical</td><td>Using summer averages instead of peak winter demand</td></tr><tr><td>Peak simultaneous load</td><td>Add wattage of all devices that could run at once (pump + dryer + HVAC startup)</td><td>Inverter capacity ≥ 125% of peak load; account for motor startup surges (3-7× running watts)</td><td>Sizing inverter to average load, not surge demand</td></tr><tr><td>Days of autonomy</td><td>Consecutive cloudy/low-production days in your region</td><td>Minimum 3 days for sunny climates; 5-7 days for northern or cloudy regions</td><td>Assuming 1-2 days is sufficient everywhere</td></tr><tr><td>Battery bank capacity</td><td>Daily kWh × days of autonomy ÷ depth of discharge (0.8 for lithium, 0.5 for lead-acid)</td><td>Usable capacity must cover full autonomy period without exceeding safe discharge</td><td>Counting total battery capacity instead of usable capacity</td></tr><tr><td>Solar array size</td><td>Daily kWh ÷ peak sun hours ÷ 0.75 (system losses)</td><td>Size for worst month's sun hours, not annual average; add 20-30% margin</td><td>Using summer peak sun hours (5-6) instead of winter hours (2-4)</td></tr><tr><td>Generator backup threshold</td><td>Calculate days per year solar + battery falls short</td><td>Generator should cover ≥ 50% of daily load; plan for 100-300 run hours/year in most climates</td><td>Treating generator as emergency-only rather than seasonal necessity</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -160,6 +160,6 @@ The path to complete energy independence is real, achievable, and increasingly a
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

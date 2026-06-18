@@ -36,9 +36,9 @@ What surprised me, though, was something I stumbled onto while sizing a system f
 <div class="value-module">
   <div class="vm-head">Cloudy-Day Output by Cloud Type</div>
   <div class="vm-body">
-    <p class="vm-intro">Solar production varies significantly depending on cloud density—here's what to realistically expect from a typical residential system under different sky conditions.</p>
+    <p class="vm-intro">Solar production varies significantly depending on cloud density-here's what to realistically expect from a typical residential system under different sky conditions.</p>
     <table><thead><tr><th>Sky Condition</th><th>Typical Output (% of Rated Capacity)</th><th>Approximate Irradiance (W/m²)</th><th>What You'll Notice</th></tr></thead><tbody><tr><td>Clear sky, full sun</td><td>90–100%</td><td>900–1000+</td><td>Peak production; inverter near max output</td></tr><tr><td>Light haze or thin cirrus</td><td>70–85%</td><td>700–850</td><td>Slight dip; often unnoticed without monitoring</td></tr><tr><td>Partly cloudy (broken cumulus)</td><td>50–75%*</td><td>500–800*</td><td>Fluctuating output; possible brief spikes from edge-of-cloud effect</td></tr><tr><td>Overcast (uniform stratus)</td><td>25–40%</td><td>250–400</td><td>Steady but reduced; still useful production</td></tr><tr><td>Heavy overcast or rain</td><td>10–25%</td><td>100–250</td><td>Minimal but non-zero; covers standby loads</td></tr><tr><td>Dense storm clouds</td><td>5–15%</td><td>50–150</td><td>Near-baseline; inverter may cycle off briefly</td></tr></tbody><tfoot><tr><td colspan="4">*Partly cloudy conditions can briefly exceed 100% output during edge-of-cloud events, sometimes hitting 1,200+ W/m² for seconds to minutes.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -115,6 +115,6 @@ The biggest takeaway from all of this, if I had to put it plainly: don't let a s
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

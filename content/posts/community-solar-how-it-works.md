@@ -35,8 +35,8 @@ Let me fix that.
   <div class="vm-head">Community Solar Savings Breakdown Example</div>
   <div class="vm-body">
     <p class="vm-intro">Here's how the math typically works for a real subscriber, showing each line item you'll see on your bills.</p>
-    <table><caption>Monthly Bill Comparison: Before vs. After Community Solar</caption><thead><tr><th>Line Item</th><th>Without Community Solar</th><th>With Community Solar</th></tr></thead><tbody><tr><td>Electricity usage (800 kWh)</td><td>$120.00</td><td>$120.00</td></tr><tr><td>Delivery/distribution charges</td><td>$25.00</td><td>$25.00</td></tr><tr><td>Utility bill subtotal</td><td>$145.00</td><td>$145.00</td></tr><tr><td>Community solar bill credit (500 kWh × $0.14)</td><td>—</td><td>−$70.00</td></tr><tr><td>Adjusted utility bill</td><td>$145.00</td><td>$75.00</td></tr><tr><td>Community solar subscription fee (500 kWh × $0.12)</td><td>—</td><td>$60.00</td></tr><tr><td><strong>Total monthly cost</strong></td><td><strong>$145.00</strong></td><td><strong>$135.00</strong></td></tr><tr><td>Monthly savings</td><td>—</td><td>$10.00 (7%)</td></tr><tr><td>Annual savings</td><td>—</td><td>~$120</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <table><caption>Monthly Bill Comparison: Before vs. After Community Solar</caption><thead><tr><th>Line Item</th><th>Without Community Solar</th><th>With Community Solar</th></tr></thead><tbody><tr><td>Electricity usage (800 kWh)</td><td>$120.00</td><td>$120.00</td></tr><tr><td>Delivery/distribution charges</td><td>$25.00</td><td>$25.00</td></tr><tr><td>Utility bill subtotal</td><td>$145.00</td><td>$145.00</td></tr><tr><td>Community solar bill credit (500 kWh × $0.14)</td><td>-</td><td>−$70.00</td></tr><tr><td>Adjusted utility bill</td><td>$145.00</td><td>$75.00</td></tr><tr><td>Community solar subscription fee (500 kWh × $0.12)</td><td>-</td><td>$60.00</td></tr><tr><td><strong>Total monthly cost</strong></td><td><strong>$145.00</strong></td><td><strong>$135.00</strong></td></tr><tr><td>Monthly savings</td><td>-</td><td>$10.00 (7%)</td></tr><tr><td>Annual savings</td><td>-</td><td>~$120</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -120,6 +120,6 @@ The honest truth is that community solar flies under the radar in a lot of energ
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

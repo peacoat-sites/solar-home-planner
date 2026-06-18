@@ -34,7 +34,7 @@ Most homeowners walk into solar quotes with zero leverage. They hand the salespe
   <div class="vm-body">
     <p class="vm-intro">Here's how the math flows from your utility bill to a specific panel count, using realistic numbers you can swap for your own.</p>
     <table><caption>Sizing a 12,000 kWh/year home in a 5-peak-sun-hour location</caption><thead><tr><th>Step</th><th>Calculation</th><th>Result</th></tr></thead><tbody><tr><td>1. Annual consumption</td><td>Sum of 12 monthly bills</td><td>12,000 kWh</td></tr><tr><td>2. Planned load changes</td><td>+3,500 kWh for new EV</td><td>15,500 kWh target</td></tr><tr><td>3. Daily production needed</td><td>15,500 kWh ÷ 365 days</td><td>42.5 kWh/day</td></tr><tr><td>4. DC system size (ideal)</td><td>42.5 kWh ÷ 5 peak sun hours</td><td>8.5 kW DC</td></tr><tr><td>5. Derate for real-world losses</td><td>8.5 kW ÷ 0.80 (inverter, wiring, soiling, temp)</td><td>10.6 kW DC</td></tr><tr><td>6. Panel count (400W panels)</td><td>10,600 W ÷ 400 W</td><td>27 panels</td></tr><tr><td>7. Roof space check</td><td>27 panels × 18 sq ft each</td><td>~486 sq ft needed</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -156,7 +156,7 @@ Do this homework before you request a single quote, and you'll walk into every c
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
-- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199) — 200W panel kit with MPPT charge controller for maximum energy harvest.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199), 200W panel kit with MPPT charge controller for maximum energy harvest.
 

@@ -38,7 +38,7 @@ Let me walk you through what's real, what's misleading, and how to tell the diff
   <div class="vm-body">
     <p class="vm-intro">This comparison uses a typical 8kW residential system to show how 'free' solar options actually compare financially over a standard contract period.</p>
     <table><caption>20-Year Cost Comparison for 8kW Residential Solar System</caption><thead><tr><th>Program Type</th><th>Upfront Cost</th><th>Who Owns Panels</th><th>Estimated 20-Year Total Cost</th><th>Who Gets Tax Credit</th><th>Home Sale Impact</th></tr></thead><tbody><tr><td>Cash Purchase</td><td>$18,000–$24,000</td><td>You</td><td>$13,000–$17,000 (after 30% tax credit)</td><td>You</td><td>Increases home value</td></tr><tr><td>Solar Loan (10-year, 6% APR)</td><td>$0</td><td>You</td><td>$20,000–$27,000 (interest minus tax credit)</td><td>You</td><td>Increases home value</td></tr><tr><td>Solar Lease</td><td>$0</td><td>Company</td><td>$22,000–$35,000 (with 2.9% annual escalator)</td><td>Company</td><td>Lease transfer required; can complicate sale</td></tr><tr><td>PPA ($0.10/kWh start, 2.9% escalator)</td><td>$0</td><td>Company</td><td>$24,000–$38,000</td><td>Company</td><td>Contract transfer required; can complicate sale</td></tr><tr><td>Low-Income Grant Programs (LIHEAP, state programs)</td><td>$0</td><td>You</td><td>$0 (if fully subsidized)</td><td>Not applicable</td><td>Increases home value</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -124,6 +124,6 @@ If you walk away from this with one thing, let it be this: skepticism is not cyn
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

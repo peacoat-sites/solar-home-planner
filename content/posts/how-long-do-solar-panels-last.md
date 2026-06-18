@@ -35,8 +35,8 @@ I got genuinely curious about panel longevity a while back after a reader emaile
   <div class="vm-head">Panel Degradation: Real Output Over Time</div>
   <div class="vm-body">
     <p class="vm-intro">Here's what a typical 10kW residential solar system actually produces as panels age, using the industry-standard 0.5% annual degradation rate versus premium panels at 0.25%.</p>
-    <table><caption>Projected Annual Output (kWh) for 10kW System by Panel Quality</caption><thead><tr><th>Year</th><th>Standard Panel (0.5%/yr)</th><th>Premium Panel (0.25%/yr)</th><th>Cumulative Difference</th></tr></thead><tbody><tr><td>0 (Install)</td><td>14,000 kWh</td><td>14,000 kWh</td><td>—</td></tr><tr><td>10</td><td>13,320 kWh</td><td>13,655 kWh</td><td>+1,675 kWh total</td></tr><tr><td>20</td><td>12,670 kWh</td><td>13,315 kWh</td><td>+4,895 kWh total</td></tr><tr><td>25</td><td>12,355 kWh</td><td>13,150 kWh</td><td>+6,970 kWh total</td></tr><tr><td>30</td><td>12,050 kWh</td><td>12,985 kWh</td><td>+9,350 kWh total</td></tr><tr><td>Year 25 Output %</td><td>88.3% of original</td><td>93.9% of original</td><td>—</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <table><caption>Projected Annual Output (kWh) for 10kW System by Panel Quality</caption><thead><tr><th>Year</th><th>Standard Panel (0.5%/yr)</th><th>Premium Panel (0.25%/yr)</th><th>Cumulative Difference</th></tr></thead><tbody><tr><td>0 (Install)</td><td>14,000 kWh</td><td>14,000 kWh</td><td>-</td></tr><tr><td>10</td><td>13,320 kWh</td><td>13,655 kWh</td><td>+1,675 kWh total</td></tr><tr><td>20</td><td>12,670 kWh</td><td>13,315 kWh</td><td>+4,895 kWh total</td></tr><tr><td>25</td><td>12,355 kWh</td><td>13,150 kWh</td><td>+6,970 kWh total</td></tr><tr><td>30</td><td>12,050 kWh</td><td>12,985 kWh</td><td>+9,350 kWh total</td></tr><tr><td>Year 25 Output %</td><td>88.3% of original</td><td>93.9% of original</td><td>-</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -127,6 +127,6 @@ The case for keeping old panels running is strong as long as the balance of syst
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 
