@@ -97,6 +97,15 @@ Get the fusing right, size your wire honestly, and don't rush the battery select
 
 ## Recommended Resources
 
+## Sources
+
+- [Amazon](https://www.amazon.com/s?k=renogy+200w+solar+panel&tag=contentportfo-20)
+- [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
+- [MC4 crimping tool](https://www.amazon.com/s?k=mc4+connector+crimping+tool&tag=contentportfo-20)
+- [consistently shows](https://news.energysage.com/)
+- [home energy monitor](https://www.amazon.com/s?k=rv+battery+monitor+shunt&tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.

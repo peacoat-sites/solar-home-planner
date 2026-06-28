@@ -95,6 +95,15 @@ The decision isn't which structure is universally best. It's which structure fit
 
 ## Recommended Resources
 
+## Sources
+
+- [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
+- [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor)
+- [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
+- [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
+- [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

@@ -95,6 +95,15 @@ The honest summary of all of this is that critter guard is inexpensive insurance
 
 ## Recommended Resources
 
+## Sources
+
+- [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
+- [IronRidge Critter Guard](https://www.amazon.com/s?k=solar+critter+guard+mesh+kit&tag=contentportfo-20)
+- [This type of mesh roll kit on Amazon](https://www.amazon.com/s?k=solar+panel+critter+guard+mesh+roll&tag=contentportfo-20)
+- [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20)
+- [has noted](https://www.seia.org/)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.

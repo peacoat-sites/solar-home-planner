@@ -115,6 +115,15 @@ One more thing: if your roof needs replacement too (which is common after seriou
 
 ## Recommended Resources
 
+## Sources
+
+- [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
+- [National Oceanic and Atmospheric Administration's storm data](https://www.noaa.gov/)
+- [U.S. Department of Energy's solar homeowner guidance](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
+- [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
+- [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.

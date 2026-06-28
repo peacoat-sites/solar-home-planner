@@ -104,6 +104,14 @@ And if an installer tells you permits are optional or suggests you skip them to 
 
 ## Recommended Resources
 
+## Sources
+
+- [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
+- [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
+- from the National Renewable Energy Laboratory
+- for your location
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169). Complete beginner solar kit with 200W monocrystalline panel, charge controller, and mounting hardware included.

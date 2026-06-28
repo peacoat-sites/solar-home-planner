@@ -149,6 +149,15 @@ The math is solid. The technology is proven. The federal tax credit window is op
 
 ## Recommended Resources
 
+## Sources
+
+- [Emporia Smart Home EV Charger](https://www.amazon.com/s?k=smart+ev+charger+solar+compatible)
+- [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
+- [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
+- [ChargePoint Home Flex](https://www.amazon.com/s?k=chargepoint+home+flex+level+2+charger)
+- [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

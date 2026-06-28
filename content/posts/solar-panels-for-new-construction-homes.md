@@ -109,6 +109,15 @@ Building new with solar is one of the most financially sound energy decisions yo
 
 ## Recommended Resources
 
+## Sources
+
+- [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
+- [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
+- [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
+- [Gustavo Fring](https://www.pexels.com/@gustavo-fring)
+- broken down by climate zone and home type
+
+
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)** is a top-rated option for tracking real-time home energy use.

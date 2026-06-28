@@ -133,6 +133,15 @@ DIY solar is genuinely achievable for a specific type of homeowner: patient, mec
 
 ## Recommended Resources
 
+## Sources
+
+- [U.S. Department of Energy's homeowner guide to going solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
+- [National Renewable Energy Laboratory's PVWatts tool](https://www.nrel.gov/)
+- [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor)
+- [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
+- [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
+
+
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

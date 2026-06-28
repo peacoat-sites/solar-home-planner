@@ -122,6 +122,15 @@ The solar industry has plenty of genuinely good installers who will do right by 
 
 ## Recommended Resources
 
+## Sources
+
+- [Emporia Vue or Sense can be installed at your electrical panel](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)
+- [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
+- [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
+- [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
+- [Los Muertos Crew](https://www.pexels.com/@cristian-rojas)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.

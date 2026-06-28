@@ -115,6 +115,15 @@ Solar on a manufactured home isn't plug-and-play. But it's absolutely achievable
 
 ## Recommended Resources
 
+## Sources
+
+- [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
+- [solar panel cleaning kit with a soft-bristle brush and purified water attachment](https://www.amazon.com/s?k=solar+panel+cleaning+kit)
+- [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
+- [U.S. Department of Energy's homeowner guide to going solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
+- [whole-home energy monitor](https://www.amazon.com/s?k=home+energy+monitor)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

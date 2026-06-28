@@ -91,6 +91,15 @@ A high bill after solar isn't always a tragedy. Sometimes it's just information.
 
 ## Recommended Resources
 
+## Sources
+
+- [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor&tag=contentportfo-20)
+- [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
+- [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20)
+- [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
+- [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

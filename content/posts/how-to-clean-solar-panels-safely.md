@@ -121,6 +121,15 @@ There's something satisfying about checking your monitoring app the day after cl
 
 ## Recommended Resources
 
+## Sources
+
+- [according to the National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
+- [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20)
+- [EnergySage's data](https://news.energysage.com/)
+- [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
+- [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

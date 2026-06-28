@@ -120,6 +120,15 @@ Solar backup power is one of those topics where the gap between what people expe
 
 ## Recommended Resources
 
+## Sources
+
+- [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
+- [Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)
+- [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
+- [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
+- [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

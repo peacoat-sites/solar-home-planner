@@ -114,6 +114,15 @@ Whatever you decide, the worst outcome is the one you've been living with: putti
 
 ## Recommended Resources
 
+## Sources
+
+- [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
+- [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=home+energy+monitor)
+- [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
+- [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
+- [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

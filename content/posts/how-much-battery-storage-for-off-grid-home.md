@@ -142,6 +142,15 @@ Getting off-grid battery sizing right isn't glamorous work, but it's the differe
 
 ## Recommended Resources
 
+## Sources
+
+- [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)
+- [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
+- [solar DIY wiring guide](https://www.amazon.com/s?k=solar+wiring+simplified+book&tag=contentportfo-20)
+- [smart EV charging station](https://www.amazon.com/s?k=smart+ev+charger+home&tag=contentportfo-20)
+- [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

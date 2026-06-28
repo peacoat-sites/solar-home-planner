@@ -120,6 +120,15 @@ The case for keeping old panels running is strong as long as the rest of the sys
 
 ## Recommended Resources
 
+## Sources
+
+- [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
+- [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20)
+- [Sense Energy Monitor](https://www.amazon.com/s?k=sense+energy+monitor&tag=contentportfo-20)
+- [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20)
+- [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

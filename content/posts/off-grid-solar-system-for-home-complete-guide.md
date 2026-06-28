@@ -145,6 +145,15 @@ Going off-grid isn't for everyone, and there's no shame in deciding that a grid-
 
 ## Recommended Resources
 
+## Sources
+
+- [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20)
+- [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20)
+- [DIY solar installation guide](https://www.amazon.com/s?k=diy+solar+installation+guide+book&tag=contentportfo-20)
+- [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
+- [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

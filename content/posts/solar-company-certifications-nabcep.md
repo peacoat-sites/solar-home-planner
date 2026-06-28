@@ -122,6 +122,15 @@ The residential solar industry is growing fast, and that growth attracts contrac
 
 ## Recommended Resources
 
+## Sources
+
+- [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)
+- [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
+- [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
+- [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
+- [Michael Pointner](https://www.pexels.com/@michael-pointner-134459625)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

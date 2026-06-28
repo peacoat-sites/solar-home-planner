@@ -115,6 +115,15 @@ The states with strong net metering right now won't all look this way in five ye
 
 ## Recommended Resources
 
+## Sources
+
+- [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
+- [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
+- [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
+- [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
+- [Robert So](https://www.pexels.com/@robertkso)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

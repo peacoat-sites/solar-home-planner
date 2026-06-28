@@ -115,6 +115,15 @@ The grid isn't getting more reliable. Extreme weather events are longer and more
 
 ## Recommended Resources
 
+## Sources
+
+- [Emporia Vue](https://www.amazon.com/dp/B09ZJ1WVGK/?tag=contentportfo-20)
+- [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
+- [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
+- [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
+- [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
+
+
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you.*
 
 - **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
