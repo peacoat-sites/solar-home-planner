@@ -29,6 +29,9 @@ You own your land, you own your manufactured home, and your electric bill is run
 
 ## Why Solar Companies Hesitate on Manufactured Homes (and Why That's Their Problem)
 
+**"Solar only works in sunny climates"**: Most people think you need Arizona sunshine to make solar worthwhile. But the data shows Germany generates 8% of its electricity from solar despite averaging just 3.5 peak sun hours daily—compared to 5+ hours in most U.S. states. Even cloudy regions like Oregon and Washington have seen residential solar capacity grow 300%+ in the past five years. Modern panels convert diffuse light efficiently; Germany's Fraunhofer Institute found that panels still produce 50-75% of their rated output on overcast days. For mobile home owners in northern climates, this means ROI timelines stretch slightly longer, but the economics remain solid—especially with federal tax credits covering 30% of installation costs regardless of location.
+
+
 Most residential solar installers are optimized for stick-built homes with composition shingle roofs, standard attic access, and 200-amp service panels. The moment you mention a manufactured home, they're suddenly out of their comfort zone. And instead of saying that directly, some will give you vague excuses or inflated quotes to make you go away.
 
 The actual concerns are legitimate but manageable: roof load capacity, wind zone ratings, chassis grounding requirements, and whether your home is on a permanent foundation. None of these are deal-breakers if you understand them.
