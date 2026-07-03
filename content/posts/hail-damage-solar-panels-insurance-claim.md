@@ -13,16 +13,16 @@ author_bio: "Stephanie Walsh spent years as a financial planner before narrowing
 slug: "hail-damage-solar-panels-insurance-claim"
 affiliate_disclosure: true
 faqs:
-  - q: "Does homeowner's insurance automatically cover solar panels from hail damage?"
-    a: "Usually yes, if they're roof-mounted and permanently attached, but coverage varies by policy and insurer. Some policies include panels as part of dwelling coverage, others require a separate endorsement. Confirm before storm season, not after."
-  - q: "How do I know if my solar panels are actually damaged if the glass looks fine?"
-    a: "Internal cell damage doesn't always crack the glass. Compare your current inverter production data to historical output from the same month last year. A drop of 10% or more per panel after a hail event is a red flag worth documenting and reporting."
-  - q: "Will my insurance company replace panels that are still partially working?"
-    a: "It depends on your policy language and the extent of performance loss. If a panel is producing 70% of rated output due to hail damage, an insurer may offer partial compensation rather than full replacement. That's negotiable, especially if you have an independent solar contractor's written assessment."
-  - q: "How soon after a hail storm should I file a claim?"
-    a: "The same day if possible, but no later than 24-48 hours. Many policies have reporting windows, adjusters schedule faster when called early, and timely documentation is far more defensible than documentation gathered weeks later."
-  - q: "Can I get compensated for lost solar production while my system is being repaired?"
-    a: "Only if your policy specifically includes a production loss endorsement, which most standard homeowner's policies don't. It's worth asking your agent whether that rider is available, especially if your system offsets a large portion of your electricity costs."
+ - q: "Does homeowner's insurance automatically cover solar panels from hail damage?"
+ a: "Usually yes, if they're roof-mounted and permanently attached, but coverage varies by policy and insurer. Some policies include panels as part of dwelling coverage, others require a separate endorsement. Confirm before storm season, not after."
+ - q: "How do I know if my solar panels are actually damaged if the glass looks fine?"
+ a: "Internal cell damage doesn't always crack the glass. Compare your current inverter production data to historical output from the same month last year. A drop of 10% or more per panel after a hail event is a red flag worth documenting and reporting."
+ - q: "Will my insurance company replace panels that are still partially working?"
+ a: "It depends on your policy language and the extent of performance loss. If a panel is producing 70% of rated output due to hail damage, an insurer may offer partial compensation rather than full replacement. That's negotiable, especially if you have an independent solar contractor's written assessment."
+ - q: "How soon after a hail storm should I file a claim?"
+ a: "The same day if possible, but no later than 24-48 hours. Many policies have reporting windows, adjusters schedule faster when called early, and timely documentation is far more defensible than documentation gathered weeks later."
+ - q: "Can I get compensated for lost solar production while my system is being repaired?"
+ a: "Only if your policy specifically includes a production loss endorsement, which most standard homeowner's policies don't. It's worth asking your agent whether that rider is available, especially if your system offsets a large portion of your electricity costs."
 ---
 
 A softball-sized hailstone can crack tempered glass. Most homeowners don't realize that until they're standing in their driveway the morning after a storm, squinting up at their roof and wondering if those new dark spots on their panels mean anything. I've been through this twice with clients in Colorado, and the experience taught me more about insurance claims than I ever wanted to know.
@@ -126,8 +126,8 @@ One more thing: if your roof needs replacement too (which is common after seriou
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

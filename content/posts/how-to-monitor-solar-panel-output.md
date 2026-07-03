@@ -9,16 +9,16 @@ tags: ["monitor", "solar", "panel", "output"]
 slug: "how-to-monitor-solar-panel-output"
 affiliate_disclosure: true
 faqs:
-  - q: "How often should I check my solar monitoring app?"
-    a: "Once a week is a reasonable habit for most homeowners. You're looking for trends rather than daily noise, and weekly checks catch problems within a reasonable timeframe without becoming obsessive. Set up automatic alerts for system faults so you don't have to watch it daily."
-  - q: "What's a normal amount of solar production loss on cloudy days?"
-    a: "On a heavily overcast day, you might see 10-25% of your normal clear-sky output, depending on cloud density and your panel technology. Thin-film panels (like some CertainTeed and First Solar products) handle diffuse light better than standard crystalline silicon. A cloudy day isn't a problem; a pattern of underproduction on days that should be clear is."
-  - q: "Can I monitor solar output without an internet connection?"
-    a: "Some inverters store local data on SD cards or internal memory and will backfill data once connectivity is restored. Enphase systems, for example, will cache production data locally for up to a week and sync when the gateway reconnects. For long-term off-grid monitoring, some installations use dedicated data loggers that record to local storage independently."
-  - q: "My production numbers look fine but my electric bill hasn't changed much. What's going on?"
-    a: "This is almost always a consumption issue, not a production issue. Your solar system might be performing exactly as designed, but if your household electricity use has increased (new appliances, electric vehicle, a teenager who discovered gaming rigs), you can produce more and still pay similar bills. A whole-home energy monitor will show you exactly where the power is going."
-  - q: "How do I know if a microinverter has failed?"
-    a: "In Enphase Enlighten, a failed or offline microinverter shows up as a grayed-out or red panel in the system map. You'll also see a corresponding drop in production from that panel compared to its neighbors. If one panel shows zero output on a sunny day while everything else is producing normally, that microinverter is almost certainly the issue and needs to be replaced under warranty."
+ - q: "How often should I check my solar monitoring app?"
+ a: "Once a week is a reasonable habit for most homeowners. You're looking for trends rather than daily noise, and weekly checks catch problems within a reasonable timeframe without becoming obsessive. Set up automatic alerts for system faults so you don't have to watch it daily."
+ - q: "What's a normal amount of solar production loss on cloudy days?"
+ a: "On a heavily overcast day, you might see 10-25% of your normal clear-sky output, depending on cloud density and your panel technology. Thin-film panels (like some CertainTeed and First Solar products) handle diffuse light better than standard crystalline silicon. A cloudy day isn't a problem; a pattern of underproduction on days that should be clear is."
+ - q: "Can I monitor solar output without an internet connection?"
+ a: "Some inverters store local data on SD cards or internal memory and will backfill data once connectivity is restored. Enphase systems, for example, will cache production data locally for up to a week and sync when the gateway reconnects. For long-term off-grid monitoring, some installations use dedicated data loggers that record to local storage independently."
+ - q: "My production numbers look fine but my electric bill hasn't changed much. What's going on?"
+ a: "This is almost always a consumption issue, not a production issue. Your solar system might be performing exactly as designed, but if your household electricity use has increased (new appliances, electric vehicle, a teenager who discovered gaming rigs), you can produce more and still pay similar bills. A whole-home energy monitor will show you exactly where the power is going."
+ - q: "How do I know if a microinverter has failed?"
+ a: "In Enphase Enlighten, a failed or offline microinverter shows up as a grayed-out or red panel in the system map. You'll also see a corresponding drop in production from that panel compared to its neighbors. If one panel shows zero output on a sunny day while everything else is producing normally, that microinverter is almost certainly the issue and needs to be replaced under warranty."
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
@@ -66,12 +66,12 @@ If you're not sure what your system should be producing, the [National Renewable
 ---
 
 <div class="value-module">
-  <div class="vm-head">Monthly Solar Output Diagnostic Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this checklist to identify whether low production stems from normal conditions or a system fault requiring action.</p>
-    <table><thead><tr><th>Check Item</th><th>Normal Range / Threshold</th><th>Action If Outside Range</th></tr></thead><tbody><tr><td>Daily kWh vs. same month last year</td><td>Within ±15% (weather-adjusted)</td><td>If >15% lower for 3+ consecutive days, investigate further</td></tr><tr><td>Panel-level production variance</td><td>All panels within 5% of each other</td><td>If one panel >10% below peers, check for shading, soiling, or microinverter fault</td></tr><tr><td>Inverter error codes</td><td>Zero active faults</td><td>Any fault code: document and contact installer within 48 hours</td></tr><tr><td>String voltage readings</td><td>Within manufacturer spec (typically 300–500V DC for residential)</td><td>Voltage drop >10% suggests connector issue or panel failure</td></tr><tr><td>Peak production timing</td><td>Should occur within 1 hour of solar noon</td><td>If peak shifts >2 hours, check for new shading obstruction</td></tr><tr><td>Monthly capacity factor</td><td>12–18% winter / 18–25% summer (varies by region)</td><td>Consistently below range suggests system-wide issue</td></tr><tr><td>Inverter clipping frequency</td><td>Occasional on high-production days is normal</td><td>Daily clipping >1 hour may indicate undersized inverter or configuration issue</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Monthly Solar Output Diagnostic Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this checklist to identify whether low production stems from normal conditions or a system fault requiring action.</p>
+ <table><thead><tr><th>Check Item</th><th>Normal Range / Threshold</th><th>Action If Outside Range</th></tr></thead><tbody><tr><td>Daily kWh vs. same month last year</td><td>Within ±15% (weather-adjusted)</td><td>If >15% lower for 3+ consecutive days, investigate further</td></tr><tr><td>Panel-level production variance</td><td>All panels within 5% of each other</td><td>If one panel >10% below peers, check for shading, soiling, or microinverter fault</td></tr><tr><td>Inverter error codes</td><td>Zero active faults</td><td>Any fault code: document and contact installer within 48 hours</td></tr><tr><td>String voltage readings</td><td>Within manufacturer spec (typically 300–500V DC for residential)</td><td>Voltage drop >10% suggests connector issue or panel failure</td></tr><tr><td>Peak production timing</td><td>Should occur within 1 hour of solar noon</td><td>If peak shifts >2 hours, check for new shading obstruction</td></tr><tr><td>Monthly capacity factor</td><td>12–18% winter / 18–25% summer (varies by region)</td><td>Consistently below range suggests system-wide issue</td></tr><tr><td>Inverter clipping frequency</td><td>Occasional on high-production days is normal</td><td>Daily clipping >1 hour may indicate undersized inverter or configuration issue</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ---

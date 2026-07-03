@@ -13,16 +13,16 @@ author_bio: "Morgan Johnson is a licensed electrician who specialized in solar i
 slug: "lg-chem-resu-battery-review"
 affiliate_disclosure: true
 faqs:
-  - q: "Is the LG Chem RESU compatible with any solar inverter?"
-    a: "No, and this is a common mistake. The high-voltage RESU units (RESU10H, RESU16H Prime) require a compatible hybrid inverter from LG's approved list, which as of 2026 includes SolarEdge StorEdge, Sungrow SH series, and Solax. If you have an existing grid-tied inverter that isn't on that list, you'll likely need to replace it, which adds to the total project cost."
-  - q: "Can I use an LG Chem RESU without solar panels?"
-    a: "Yes. The RESU can be installed as a standalone storage system that charges from the grid, which still qualifies for the 30% federal ITC as of current tax law when paired with a plan to add solar. That said, without solar the economics are purely about arbitrage or backup, and payback periods stretch significantly in most utility markets."
-  - q: "How does the LG Chem RESU compare to the Tesla Powerwall 3?"
-    a: "The RESU16H Prime is slightly larger capacity (16 kWh vs. 13.5 kWh), generally less expensive installed, and has a more open inverter ecosystem if you're not already in the Tesla/SolarEdge world. The Powerwall 3 has a better integrated app experience and handles higher continuous power (11.5 kW vs. 7 kW for the Prime). For most homeowners prioritizing value per kWh, the RESU wins on paper."
-  - q: "What happens to the RESU in very hot or cold climates?"
-    a: "LG Chem specifies an operating range of 14°F to 113°F. In extreme heat, you need to ensure the battery is installed in a shaded, ventilated location. It also won't charge below 32°F, which matters in cold climates where the battery might be in an unheated space. The RESU does have a self-heating function for discharge in cold temps, but charging stops until the internal temperature rises."
-  - q: "Is the LG Chem RESU still a good buy in 2026?"
-    a: "It's a solid buy, with some caveats. The NMC chemistry is maturing and LFP competitors have closed much of the cost gap. If you're prioritizing raw backup power output, newer LFP options may edge it out. But the RESU's track record, widespread installer familiarity, and current pricing still make it a legitimate choice, particularly the 16H Prime for homes in the 1,500-2,500 sq ft range with modest backup load expectations."
+ - q: "Is the LG Chem RESU compatible with any solar inverter?"
+ a: "No, and this is a common mistake. The high-voltage RESU units (RESU10H, RESU16H Prime) require a compatible hybrid inverter from LG's approved list, which as of 2026 includes SolarEdge StorEdge, Sungrow SH series, and Solax. If you have an existing grid-tied inverter that isn't on that list, you'll likely need to replace it, which adds to the total project cost."
+ - q: "Can I use an LG Chem RESU without solar panels?"
+ a: "Yes. The RESU can be installed as a standalone storage system that charges from the grid, which still qualifies for the 30% federal ITC as of current tax law when paired with a plan to add solar. That said, without solar the economics are purely about arbitrage or backup, and payback periods stretch significantly in most utility markets."
+ - q: "How does the LG Chem RESU compare to the Tesla Powerwall 3?"
+ a: "The RESU16H Prime is slightly larger capacity (16 kWh vs. 13.5 kWh), generally less expensive installed, and has a more open inverter ecosystem if you're not already in the Tesla/SolarEdge world. The Powerwall 3 has a better integrated app experience and handles higher continuous power (11.5 kW vs. 7 kW for the Prime). For most homeowners prioritizing value per kWh, the RESU wins on paper."
+ - q: "What happens to the RESU in very hot or cold climates?"
+ a: "LG Chem specifies an operating range of 14°F to 113°F. In extreme heat, you need to ensure the battery is installed in a shaded, ventilated location. It also won't charge below 32°F, which matters in cold climates where the battery might be in an unheated space. The RESU does have a self-heating function for discharge in cold temps, but charging stops until the internal temperature rises."
+ - q: "Is the LG Chem RESU still a good buy in 2026?"
+ a: "It's a solid buy, with some caveats. The NMC chemistry is maturing and LFP competitors have closed much of the cost gap. If you're prioritizing raw backup power output, newer LFP options may edge it out. But the RESU's track record, widespread installer familiarity, and current pricing still make it a legitimate choice, particularly the 16H Prime for homes in the 1,500-2,500 sq ft range with modest backup load expectations."
 ---
 
 LG Chem makes a genuinely good battery. That's not a popular opener for a review, but after years of watching homeowners get burned by overhyped storage systems that couldn't deliver in a real grid outage, I'll take a reliable workhorse over a flashy underperformer every time.
@@ -125,8 +125,8 @@ Vague answers about commissioning. The RESU requires proper commissioning with t
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[EF EcoFlow DELTA 2 Max (2048Wh)](https://www.amazon.com/dp/B0C4DW17PD/?tag=contentportfo-20)** (~$999) — 2048Wh LFP battery with 2400W output — ideal for whole-home solar backup or pairing with rooftop solar panels.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[EF EcoFlow DELTA 2 Max (2048Wh)](https://www.amazon.com/dp/B0C4DW17PD/?tag=contentportfo-20)** (~$999), 2048Wh LFP battery with 2400W output, ideal for whole-home solar backup or pairing with rooftop solar panels.
 

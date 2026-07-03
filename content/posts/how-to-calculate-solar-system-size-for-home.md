@@ -9,16 +9,16 @@ tags: ["calculate", "solar", "system", "size", "home"]
 slug: "how-to-calculate-solar-system-size-for-home"
 affiliate_disclosure: true
 faqs:
-  - q: "How many solar panels does the average home need?"
-    a: "Most U.S. homes need between 17 and 25 panels to fully offset their electricity usage, assuming standard 380 to 400-watt panels. The exact number depends heavily on your annual kWh consumption, your location's peak sun hours, and how much usable roof space you have. Run your own numbers before accepting a contractor's recommendation at face value."
-  - q: "Can I size a solar system myself without hiring a professional?"
-    a: "You can absolutely do the preliminary sizing yourself using PVWatts and your utility bills, and you should. It won't replace a proper shading analysis and engineering review for permitting, but doing your own math first means you'll walk into contractor conversations knowing whether a proposal makes sense."
-  - q: "Does roof orientation really affect how many panels I need?"
-    a: "Yes, significantly. A south-facing roof at a 30-degree pitch in most of the continental U.S. is close to ideal. A west-facing roof might produce 10 to 20% less annually. A roof with meaningful shading from trees or neighboring structures can lose 30% or more of potential production, which would require a proportionally larger array to hit the same output target."
-  - q: "Should I size my system for my current usage or future usage?"
-    a: "Size for your realistic 5-year expected usage. If you're buying an EV or switching from gas to electric appliances in that window, factor it in now. Adding capacity later is possible but expensive. Most permitting offices treat system expansions as a new permit, which means new fees and inspection costs."
-  - q: "What if my utility has a net metering cap lower than my ideal system size?"
-    a: "This is more common than people realize, especially in states like Nevada and Hawaii where net metering policies have tightened. If your utility caps residential interconnection at 10 kW and your load analysis says you need 11.5 kW, you have two choices: accept the cap and use efficiency upgrades to close the gap, or pair a smaller grid-tied array with battery storage to capture excess production locally rather than exporting it."
+ - q: "How many solar panels does the average home need?"
+ a: "Most U.S. homes need between 17 and 25 panels to fully offset their electricity usage, assuming standard 380 to 400-watt panels. The exact number depends heavily on your annual kWh consumption, your location's peak sun hours, and how much usable roof space you have. Run your own numbers before accepting a contractor's recommendation at face value."
+ - q: "Can I size a solar system myself without hiring a professional?"
+ a: "You can absolutely do the preliminary sizing yourself using PVWatts and your utility bills, and you should. It won't replace a proper shading analysis and engineering review for permitting, but doing your own math first means you'll walk into contractor conversations knowing whether a proposal makes sense."
+ - q: "Does roof orientation really affect how many panels I need?"
+ a: "Yes, significantly. A south-facing roof at a 30-degree pitch in most of the continental U.S. is close to ideal. A west-facing roof might produce 10 to 20% less annually. A roof with meaningful shading from trees or neighboring structures can lose 30% or more of potential production, which would require a proportionally larger array to hit the same output target."
+ - q: "Should I size my system for my current usage or future usage?"
+ a: "Size for your realistic 5-year expected usage. If you're buying an EV or switching from gas to electric appliances in that window, factor it in now. Adding capacity later is possible but expensive. Most permitting offices treat system expansions as a new permit, which means new fees and inspection costs."
+ - q: "What if my utility has a net metering cap lower than my ideal system size?"
+ a: "This is more common than people realize, especially in states like Nevada and Hawaii where net metering policies have tightened. If your utility caps residential interconnection at 10 kW and your load analysis says you need 11.5 kW, you have two choices: accept the cap and use efficiency upgrades to close the gap, or pair a smaller grid-tied array with battery storage to capture excess production locally rather than exporting it."
 author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Finance Writer"
@@ -34,12 +34,12 @@ Here's what I tell people who come to me at this stage: sizing a solar system is
 ---
 
 <div class="value-module">
-  <div class="vm-head">Solar System Sizing Worksheet</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this step-by-step checklist to calculate your target system size in kilowatts (kW), with illustrative thresholds at each stage.</p>
-    <ol><li><strong>Find your annual kWh usage</strong>, Log into your utility account and sum all 12 months. <em>Example: 10,800 kWh/year</em></li><li><strong>Add planned future loads</strong><ul><li>Electric vehicle: add 3,000–5,000 kWh/year (≈12,000 miles driven)</li><li>Heat pump replacing gas furnace: add 2,000–4,000 kWh/year</li><li>Hot tub or pool pump: add 2,500–3,500 kWh/year</li></ul><em>Example: 10,800 + 4,000 (EV) = 14,800 kWh/year target</em></li><li><strong>Look up your location's peak sun hours</strong>, Use NREL's PVWatts or a sun-hours map. Typical ranges:<ul><li>Southwest U.S. (AZ, NV): 5.5–6.5 hours/day</li><li>Southeast U.S. (FL, GA): 4.5–5.5 hours/day</li><li>Midwest/Northeast (OH, NY): 3.5–4.5 hours/day</li><li>Pacific Northwest (OR, WA): 3.0–4.0 hours/day</li></ul><em>Example: Phoenix, AZ → 6.0 peak sun hours</em></li><li><strong>Calculate raw system size</strong>, Formula: (Annual kWh ÷ 365 days ÷ peak sun hours) = kW needed<br><em>Example: 14,800 ÷ 365 ÷ 6.0 = 6.76 kW</em></li><li><strong>Apply a 20–25% efficiency buffer</strong>, Accounts for inverter losses, panel degradation, soiling, and suboptimal roof angles.<br><em>Example: 6.76 kW × 1.22 = 8.25 kW system</em></li><li><strong>Convert to panel count</strong>, Divide system size by panel wattage (common residential panels: 370–420W).<br><em>Example: 8,250W ÷ 400W = 20.6 → 21 panels</em></li><li><strong>Sanity-check against roof space</strong>, Each 400W panel needs roughly 18–22 sq ft installed. Multiply panel count × 20 sq ft for a quick estimate.<br><em>Example: 21 panels × 20 sq ft = 420 sq ft of usable south/west-facing roof</em></li></ol>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Solar System Sizing Worksheet</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this step-by-step checklist to calculate your target system size in kilowatts (kW), with illustrative thresholds at each stage.</p>
+ <ol><li><strong>Find your annual kWh usage</strong>, Log into your utility account and sum all 12 months. <em>Example: 10,800 kWh/year</em></li><li><strong>Add planned future loads</strong><ul><li>Electric vehicle: add 3,000–5,000 kWh/year (≈12,000 miles driven)</li><li>Heat pump replacing gas furnace: add 2,000–4,000 kWh/year</li><li>Hot tub or pool pump: add 2,500–3,500 kWh/year</li></ul><em>Example: 10,800 + 4,000 (EV) = 14,800 kWh/year target</em></li><li><strong>Look up your location's peak sun hours</strong>, Use NREL's PVWatts or a sun-hours map. Typical ranges:<ul><li>Southwest U.S. (AZ, NV): 5.5–6.5 hours/day</li><li>Southeast U.S. (FL, GA): 4.5–5.5 hours/day</li><li>Midwest/Northeast (OH, NY): 3.5–4.5 hours/day</li><li>Pacific Northwest (OR, WA): 3.0–4.0 hours/day</li></ul><em>Example: Phoenix, AZ → 6.0 peak sun hours</em></li><li><strong>Calculate raw system size</strong>, Formula: (Annual kWh ÷ 365 days ÷ peak sun hours) = kW needed<br><em>Example: 14,800 ÷ 365 ÷ 6.0 = 6.76 kW</em></li><li><strong>Apply a 20–25% efficiency buffer</strong>, Accounts for inverter losses, panel degradation, soiling, and suboptimal roof angles.<br><em>Example: 6.76 kW × 1.22 = 8.25 kW system</em></li><li><strong>Convert to panel count</strong>, Divide system size by panel wattage (common residential panels: 370–420W).<br><em>Example: 8,250W ÷ 400W = 20.6 → 21 panels</em></li><li><strong>Sanity-check against roof space</strong>, Each 400W panel needs roughly 18–22 sq ft installed. Multiply panel count × 20 sq ft for a quick estimate.<br><em>Example: 21 panels × 20 sq ft = 420 sq ft of usable south/west-facing roof</em></li></ol>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Start With Your Annual Kilowatt-Hour Usage

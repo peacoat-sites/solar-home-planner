@@ -13,16 +13,16 @@ author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system
 slug: "local-vs-national-solar-company-pros-cons"
 affiliate_disclosure: true
 faqs:
-  - q: "Is a local solar company riskier than a national one if it goes out of business?"
-    a: "Honestly, not by much. National companies restructure, get acquired, or exit markets too, and when they do, local service often disappears anyway. What matters more is verifying the installer carries adequate insurance and that your state requires some form of contractor bonding."
-  - q: "Can a local installer get me the same equipment as a national company?"
-    a: "Yes, usually better. Local installers aren't locked into volume procurement deals, so they can spec Enphase IQ8 microinverters, REC Alpha panels, or whatever makes the most sense for your roof. National companies sometimes push whatever they bought in bulk that quarter."
-  - q: "Do national companies really use subcontractors for installs?"
-    a: "Many do, especially in markets where they're expanding quickly. Ask directly: 'Will your employees or a subcontractor be doing my installation?' Get the answer in writing. This isn't automatically a dealbreaker, but you want to know, and you want the subcontractor to be licensed in your state."
-  - q: "Should the warranty length affect which company I choose?"
-    a: "Focus less on the headline number and more on who's backing it. A 25-year workmanship warranty from a company founded in 2022 with no track record is worth less than a 10-year warranty from a company that's been servicing systems since 2008. Ask for customer references from installs that are at least five years old."
-  - q: "What's the single most important thing to check before signing with any solar company?"
-    a: "Pull their license number from your state contractor licensing board and verify it's current, in good standing, and covers electrical work. Takes five minutes. I'm always surprised how many people skip this step on a five-figure purchase."
+ - q: "Is a local solar company riskier than a national one if it goes out of business?"
+ a: "Honestly, not by much. National companies restructure, get acquired, or exit markets too, and when they do, local service often disappears anyway. What matters more is verifying the installer carries adequate insurance and that your state requires some form of contractor bonding."
+ - q: "Can a local installer get me the same equipment as a national company?"
+ a: "Yes, usually better. Local installers aren't locked into volume procurement deals, so they can spec Enphase IQ8 microinverters, REC Alpha panels, or whatever makes the most sense for your roof. National companies sometimes push whatever they bought in bulk that quarter."
+ - q: "Do national companies really use subcontractors for installs?"
+ a: "Many do, especially in markets where they're expanding quickly. Ask directly: 'Will your employees or a subcontractor be doing my installation?' Get the answer in writing. This isn't automatically a dealbreaker, but you want to know, and you want the subcontractor to be licensed in your state."
+ - q: "Should the warranty length affect which company I choose?"
+ a: "Focus less on the headline number and more on who's backing it. A 25-year workmanship warranty from a company founded in 2022 with no track record is worth less than a 10-year warranty from a company that's been servicing systems since 2008. Ask for customer references from installs that are at least five years old."
+ - q: "What's the single most important thing to check before signing with any solar company?"
+ a: "Pull their license number from your state contractor licensing board and verify it's current, in good standing, and covers electrical work. Takes five minutes. I'm always surprised how many people skip this step on a five-figure purchase."
 ---
 
 You've probably already gotten a few quotes. Maybe one came from a slick national brand you've seen advertised during football games, and another from a local company someone in your neighborhood used last year. The prices are different. The pitches are different. And now you're sitting there wondering which one you can actually trust with a $25,000 decision that's going to live on your roof for the next 25 years.

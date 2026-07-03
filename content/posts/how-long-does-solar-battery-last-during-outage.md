@@ -11,9 +11,7 @@ author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
 slug: "how-long-does-solar-battery-last-during-outage"
-affiliate_disclosure: true
----
-My neighbor lost power for 11 days during a derecho storm last summer. She had solar panels. She still lost everything in her fridge by day two.
+affiliate_disclosure: true, My neighbor lost power for 11 days during a derecho storm last summer. She had solar panels. She still lost everything in her fridge by day two.
 
 Here's why: she had no battery. Her grid-tied system shut off automatically the moment the utility lines went down, which is exactly how it's supposed to work (a safety feature to protect line workers). But she didn't know that. Her installer had mentioned a "solar backup" in a vague, optimistic way, and she'd assumed that meant something it didn't.
 
@@ -23,12 +21,12 @@ The answer ranges from three hours to three weeks. Both are technically correct.
 
 
 <div class="value-module">
-  <div class="vm-head">Battery Runtime by Usage Scenario</div>
-  <div class="vm-body">
-    <p class="vm-intro">This table shows how long common battery systems last under three realistic usage patterns, from emergency-only to near-normal household operation.</p>
-    <table><thead><tr><th>Battery System</th><th>Capacity</th><th>Emergency Mode (fridge, lights, phones: ~0.5 kW avg)</th><th>Essential Mode (+ well pump, fan, router: ~1.2 kW avg)</th><th>Comfort Mode (+ window AC, TV, microwave use: ~3 kW avg)</th></tr></thead><tbody><tr><td>Enphase IQ 5P (single)</td><td>5 kWh</td><td>~10 hours</td><td>~4 hours</td><td>~1.5 hours</td></tr><tr><td>Tesla Powerwall 3 (single)</td><td>13.5 kWh</td><td>~27 hours</td><td>~11 hours</td><td>~4.5 hours</td></tr><tr><td>FranklinWH aPower 2</td><td>15 kWh</td><td>~30 hours</td><td>~12 hours</td><td>~5 hours</td></tr><tr><td>Two Powerwalls stacked</td><td>27 kWh</td><td>~54 hours</td><td>~22 hours</td><td>~9 hours</td></tr><tr><td>Three Powerwalls stacked</td><td>40.5 kWh</td><td>~81 hours (3+ days)</td><td>~34 hours</td><td>~13 hours</td></tr></tbody><tfoot><tr><td colspan="5"><em>Note: Runtimes assume battery-only (no solar recharging) and 90% usable capacity. With daytime solar production, runtimes extend significantly-often indefinitely for Emergency Mode in sunny conditions.</em></td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Battery Runtime by Usage Scenario</div>
+ <div class="vm-body">
+ <p class="vm-intro">This table shows how long common battery systems last under three realistic usage patterns, from emergency-only to near-normal household operation.</p>
+ <table><thead><tr><th>Battery System</th><th>Capacity</th><th>Emergency Mode (fridge, lights, phones: ~0.5 kW avg)</th><th>Essential Mode (+ well pump, fan, router: ~1.2 kW avg)</th><th>Comfort Mode (+ window AC, TV, microwave use: ~3 kW avg)</th></tr></thead><tbody><tr><td>Enphase IQ 5P (single)</td><td>5 kWh</td><td>~10 hours</td><td>~4 hours</td><td>~1.5 hours</td></tr><tr><td>Tesla Powerwall 3 (single)</td><td>13.5 kWh</td><td>~27 hours</td><td>~11 hours</td><td>~4.5 hours</td></tr><tr><td>FranklinWH aPower 2</td><td>15 kWh</td><td>~30 hours</td><td>~12 hours</td><td>~5 hours</td></tr><tr><td>Two Powerwalls stacked</td><td>27 kWh</td><td>~54 hours</td><td>~22 hours</td><td>~9 hours</td></tr><tr><td>Three Powerwalls stacked</td><td>40.5 kWh</td><td>~81 hours (3+ days)</td><td>~34 hours</td><td>~13 hours</td></tr></tbody><tfoot><tr><td colspan="5"><em>Note: Runtimes assume battery-only (no solar recharging) and 90% usable capacity. With daytime solar production, runtimes extend significantly-often indefinitely for Emergency Mode in sunny conditions.</em></td></tr></tfoot></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What "battery capacity" actually means in practice

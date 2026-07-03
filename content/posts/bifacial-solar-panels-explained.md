@@ -13,16 +13,16 @@ author_bio: "Morgan Johnson is a licensed electrician who specialized in solar i
 slug: "bifacial-solar-panels-explained"
 affiliate_disclosure: true
 faqs:
-  - q: "Do bifacial solar panels require special racking or mounting?"
-    a: "Not for basic functionality, but to actually capture rear-side irradiance, you need elevated mounting (at least 12-18 inches of clearance below the panel) and a reflective surface underneath. Standard close-to-roof residential racking won't deliver meaningful bifacial gains regardless of what panel you use."
-  - q: "Are bifacial solar panels worth it for a home with a standard shingle roof?"
-    a: "Usually not for the bifacial benefit specifically. You're unlikely to see meaningful rear-side production gains on a flush-mounted dark shingle roof. That said, many bifacial panels also use superior N-type cell technology with lower degradation rates, which can still justify the cost depending on the price difference."
-  - q: "How much more do bifacial panels cost compared to standard panels?"
-    a: "Expect to pay roughly 8-20% more per watt for bifacial panels, though pricing has compressed as production has scaled. The gap varies considerably by brand and module tier. Always ask installers to separate the panel cost premium from the projected output gain to see if the math actually closes."
-  - q: "Can bifacial panels overheat or produce too much power for the inverter?"
-    a: "Technically, yes, a very-high-performing bifacial ground-mount system could clip production at the inverter if the system is undersized for the array output. Clipping is a real design consideration for ground-mount bifacial builds. For residential roof mounts where rear-side gains are minimal, it's rarely an issue in practice."
-  - q: "What's the lifespan difference between bifacial and standard panels?"
-    a: "Bifacial panels, especially glass-glass construction, often carry lower degradation rates and can realistically hit 30-35 year useful lifespans. Standard P-type monofacial panels typically degrade faster. Most manufacturers warrant both types to 80-85% output at 25-30 years, but the actual degradation curve matters more than the warranty floor."
+ - q: "Do bifacial solar panels require special racking or mounting?"
+ a: "Not for basic functionality, but to actually capture rear-side irradiance, you need elevated mounting (at least 12-18 inches of clearance below the panel) and a reflective surface underneath. Standard close-to-roof residential racking won't deliver meaningful bifacial gains regardless of what panel you use."
+ - q: "Are bifacial solar panels worth it for a home with a standard shingle roof?"
+ a: "Usually not for the bifacial benefit specifically. You're unlikely to see meaningful rear-side production gains on a flush-mounted dark shingle roof. That said, many bifacial panels also use superior N-type cell technology with lower degradation rates, which can still justify the cost depending on the price difference."
+ - q: "How much more do bifacial panels cost compared to standard panels?"
+ a: "Expect to pay roughly 8-20% more per watt for bifacial panels, though pricing has compressed as production has scaled. The gap varies considerably by brand and module tier. Always ask installers to separate the panel cost premium from the projected output gain to see if the math actually closes."
+ - q: "Can bifacial panels overheat or produce too much power for the inverter?"
+ a: "Technically, yes, a very-high-performing bifacial ground-mount system could clip production at the inverter if the system is undersized for the array output. Clipping is a real design consideration for ground-mount bifacial builds. For residential roof mounts where rear-side gains are minimal, it's rarely an issue in practice."
+ - q: "What's the lifespan difference between bifacial and standard panels?"
+ a: "Bifacial panels, especially glass-glass construction, often carry lower degradation rates and can realistically hit 30-35 year useful lifespans. Standard P-type monofacial panels typically degrade faster. Most manufacturers warrant both types to 80-85% output at 25-30 years, but the actual degradation curve matters more than the warranty floor."
 ---
 
 Bifacial panels are probably the most overhyped product in residential solar right now. That's not a knock on the technology itself, which is genuinely good. It's a knock on how they're being sold: as a near-magical upgrade that justifies a 15-20% cost premium for almost every homeowner, regardless of their roof, their shading, or how their system is actually going to be mounted. Most of the marketing skips the part where bifacial gains are almost entirely dependent on installation conditions that the average residential roof doesn't have.

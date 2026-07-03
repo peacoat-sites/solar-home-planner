@@ -11,10 +11,7 @@ author_slug: "tom-bradley"
 author_title: "DIY Researcher"
 author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
 slug: "going-solar-without-the-30-tax-credit-what-it-actually-costs-now"
-affiliate_disclosure: true
----
-
-You pull up a solar quote in June 2026, see a $30,000 system price, and mentally subtract that $9,000 federal tax credit you've been hearing about for years. That's the problem. The credit is gone. It ended December 31, 2025, with no phase-down, no grace period, no grandfather clause for systems in progress. The One Big Beautiful Bill Act, signed July 4, 2025, killed Section 25D outright. What you owe is what you see on the quote.
+affiliate_disclosure: true, You pull up a solar quote in June 2026, see a $30,000 system price, and mentally subtract that $9,000 federal tax credit you've been hearing about for years. That's the problem. The credit is gone. It ended December 31, 2025, with no phase-down, no grace period, no grandfather clause for systems in progress. The One Big Beautiful Bill Act, signed July 4, 2025, killed Section 25D outright. What you owe is what you see on the quote.
 
 I've seen the confusion firsthand in online buyer communities where people are still referencing articles from 2024 and early 2025. Many of the solar cost calculators plastered across company websites still flash the post-credit price as the default. They're not lying, exactly. They just haven't updated, and that's costing homeowners real money when they sit down at a kitchen table with a contract.
 
@@ -67,11 +64,11 @@ Solar still makes sense for a lot of homeowners in 2026. The electricity is stil
 ## Sources
 
 - [US Residential Solar Installations Set to Stall for Years](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
-- [Solar Market Insight Report Q2 2026 – SEIA](https://seia.org/research-resources/solar-market-insight-report-q2-2026/) (June 2026)
-- [Is Solar Worth It in 2026 After the 30% Tax Credit Ends? – SolarReviews](https://www.solarreviews.com/blog/are-solar-panels-worth-it-2026) (2026)
-- [Is There a Solar Tax Credit in 2026? – Solar Permit Solutions](https://www.solarpermitsolutions.com/blog/solar-tax-credits-2026-what-changed-after-obbba) (February 2026)
-- [Solar Cost by State 2026 – NuWatt Energy](https://nuwattenergy.com/en/solar-buyers-guide/cost-by-state-2026) (February 2026)
-- [Trump and the Fate of the 30% Solar Tax Credit – Solar.com](https://www.solar.com/learn/trump-and-the-fate-of-the-30-solar-tax-credit/) (January 2026)
+- [Solar Market Insight Report Q2 2026, SEIA](https://seia.org/research-resources/solar-market-insight-report-q2-2026/) (June 2026)
+- [Is Solar Worth It in 2026 After the 30% Tax Credit Ends?, SolarReviews](https://www.solarreviews.com/blog/are-solar-panels-worth-it-2026) (2026)
+- [Is There a Solar Tax Credit in 2026?, Solar Permit Solutions](https://www.solarpermitsolutions.com/blog/solar-tax-credits-2026-what-changed-after-obbba) (February 2026)
+- [Solar Cost by State 2026, NuWatt Energy](https://nuwattenergy.com/en/solar-buyers-guide/cost-by-state-2026) (February 2026)
+- [Trump and the Fate of the 30% Solar Tax Credit, Solar.com](https://www.solar.com/learn/trump-and-the-fate-of-the-30-solar-tax-credit/) (January 2026)
 
 ## Helpful Resources
 
@@ -90,8 +87,8 @@ Solar still makes sense for a lot of homeowners in 2026. The electricity is stil
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 

@@ -13,16 +13,16 @@ author_bio: "Morgan Johnson is a licensed electrician who specialized in solar i
 slug: "diy-solar-with-battery-storage"
 affiliate_disclosure: true
 faqs:
-  - q: "How much does a DIY solar system with battery storage actually cost?"
-    a: "A realistic, permit-ready system sized for critical loads with 8 to 10 kWh of LFP storage and 4 to 6 kW of solar runs $8,000 to $15,000 in materials today, assuming you're doing the labor yourself. That's before the 30% federal Investment Tax Credit, which currently applies to equipment and installation costs."
-  - q: "Can I legally do my own solar installation?"
-    a: "In most U.S. states, homeowners can pull their own permits and do their own installation on their primary residence, but many states require a licensed electrician or solar contractor to sign off on the electrical work. Check your specific state's contractor licensing board and your local AHJ before buying anything."
-  - q: "Will my battery system work during a power outage if I'm grid-tied?"
-    a: "Only if it's specifically configured for backup operation. Standard grid-tied inverters without battery storage shut down during outages for safety reasons (anti-islanding protection). A hybrid inverter connected to a battery and a properly configured transfer switch or critical loads panel is what gives you outage coverage."
-  - q: "What's the difference between a hybrid inverter and a regular solar inverter?"
-    a: "A standard grid-tie inverter only pushes solar power to the grid or your home loads. A hybrid inverter does that plus manages battery charging and discharging, and provides backup power output when the grid is down. If battery storage is in your plans at all, start with a hybrid inverter, not a plain grid-tie unit you'll have to replace later."
-  - q: "Is DIY solar with battery storage worth it compared to hiring a contractor?"
-    a: "If you're comfortable with the permitting process and have some electrical knowledge (or access to a licensed electrician for the sign-off), you can realistically save 30 to 50% on labor costs. The research here is mixed on whether the time investment is worth it for everyone, but for the homeowner who's going to learn the system anyway and wants to understand exactly what's running their house, it's hard to argue against it."
+ - q: "How much does a DIY solar system with battery storage actually cost?"
+ a: "A realistic, permit-ready system sized for critical loads with 8 to 10 kWh of LFP storage and 4 to 6 kW of solar runs $8,000 to $15,000 in materials today, assuming you're doing the labor yourself. That's before the 30% federal Investment Tax Credit, which currently applies to equipment and installation costs."
+ - q: "Can I legally do my own solar installation?"
+ a: "In most U.S. states, homeowners can pull their own permits and do their own installation on their primary residence, but many states require a licensed electrician or solar contractor to sign off on the electrical work. Check your specific state's contractor licensing board and your local AHJ before buying anything."
+ - q: "Will my battery system work during a power outage if I'm grid-tied?"
+ a: "Only if it's specifically configured for backup operation. Standard grid-tied inverters without battery storage shut down during outages for safety reasons (anti-islanding protection). A hybrid inverter connected to a battery and a properly configured transfer switch or critical loads panel is what gives you outage coverage."
+ - q: "What's the difference between a hybrid inverter and a regular solar inverter?"
+ a: "A standard grid-tie inverter only pushes solar power to the grid or your home loads. A hybrid inverter does that plus manages battery charging and discharging, and provides backup power output when the grid is down. If battery storage is in your plans at all, start with a hybrid inverter, not a plain grid-tie unit you'll have to replace later."
+ - q: "Is DIY solar with battery storage worth it compared to hiring a contractor?"
+ a: "If you're comfortable with the permitting process and have some electrical knowledge (or access to a licensed electrician for the sign-off), you can realistically save 30 to 50% on labor costs. The research here is mixed on whether the time investment is worth it for everyone, but for the homeowner who's going to learn the system anyway and wants to understand exactly what's running their house, it's hard to argue against it."
 ---
 
 Most people who ask me about DIY solar want to know one thing: how fast will it pay off? I get it. But I'll be honest, that's almost always the wrong first question. The better question is whether a battery-backed DIY system actually does what you think it's going to do, because what surprised me most when I went deep on this was how often homeowners end up with exactly the wrong setup for their actual situation.
@@ -116,8 +116,8 @@ Don't skip step 7. Without it, you're not legally exporting power, and depending
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[EF EcoFlow DELTA 2 Max (2048Wh)](https://www.amazon.com/dp/B0C4DW17PD/?tag=contentportfo-20)** (~$999) — 2048Wh LFP battery with 2400W output — ideal for whole-home solar backup or pairing with rooftop solar panels.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[EF EcoFlow DELTA 2 Max (2048Wh)](https://www.amazon.com/dp/B0C4DW17PD/?tag=contentportfo-20)** (~$999), 2048Wh LFP battery with 2400W output, ideal for whole-home solar backup or pairing with rooftop solar panels.
 

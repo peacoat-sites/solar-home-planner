@@ -13,16 +13,16 @@ author_bio: "Morgan Johnson is a licensed electrician who specialized in solar i
 slug: "do-solar-panels-need-maintenance"
 affiliate_disclosure: true
 faqs:
-  - q: "How often should I clean my solar panels?"
-    a: "In most climates, once or twice a year is plenty, and where rainfall is fairly consistent, you might get away with less. In dry, dusty climates like the desert Southwest, cleaning two to three times per year during the dry season will protect more output. Do it in the morning before the glass heats up."
-  - q: "Do solar panels need professional maintenance?"
-    a: "For most homeowners, no. Keep your monitoring app current, check for obvious physical issues annually, and schedule an inspection if something looks wrong or your production drops unexpectedly. Professional maintenance contracts are rarely cost-justified unless you have a large commercial-scale system or you simply want someone else handling it."
-  - q: "How long do solar panels actually last?"
-    a: "Most tier-one manufacturers (LG before they exited the market, Panasonic, REC, Qcells, Jinko) warranty panels to produce at least 80-87% of rated output after 25 years. In practice, well-installed panels often keep going well beyond that, just at somewhat reduced efficiency. The panels themselves are rarely the failure point."
-  - q: "What happens if a panel gets damaged?"
-    a: "Individual panels can be replaced without replacing your whole system. Make sure you work with your original installer or someone who knows your racking system, because panel dimensions vary. Keep the original spec sheet and installation documentation, since matching a new panel's electrical characteristics matters more than matching its brand name."
-  - q: "Should I get solar panels inspected before buying a house with them?"
-    a: "Yes, 100%. Have a licensed solar contractor pull the monitoring history if the seller can provide account access, look at the inverter, check the age of the system against the warranty status, and visually inspect the racking and roof penetrations. It's a couple hundred dollars well spent, because you're inheriting whatever problems exist and potentially any remaining warranty complications."
+ - q: "How often should I clean my solar panels?"
+ a: "In most climates, once or twice a year is plenty, and where rainfall is fairly consistent, you might get away with less. In dry, dusty climates like the desert Southwest, cleaning two to three times per year during the dry season will protect more output. Do it in the morning before the glass heats up."
+ - q: "Do solar panels need professional maintenance?"
+ a: "For most homeowners, no. Keep your monitoring app current, check for obvious physical issues annually, and schedule an inspection if something looks wrong or your production drops unexpectedly. Professional maintenance contracts are rarely cost-justified unless you have a large commercial-scale system or you simply want someone else handling it."
+ - q: "How long do solar panels actually last?"
+ a: "Most tier-one manufacturers (LG before they exited the market, Panasonic, REC, Qcells, Jinko) warranty panels to produce at least 80-87% of rated output after 25 years. In practice, well-installed panels often keep going well beyond that, just at somewhat reduced efficiency. The panels themselves are rarely the failure point."
+ - q: "What happens if a panel gets damaged?"
+ a: "Individual panels can be replaced without replacing your whole system. Make sure you work with your original installer or someone who knows your racking system, because panel dimensions vary. Keep the original spec sheet and installation documentation, since matching a new panel's electrical characteristics matters more than matching its brand name."
+ - q: "Should I get solar panels inspected before buying a house with them?"
+ a: "Yes, 100%. Have a licensed solar contractor pull the monitoring history if the seller can provide account access, look at the inverter, check the age of the system against the warranty status, and visually inspect the racking and roof penetrations. It's a couple hundred dollars well spent, because you're inheriting whatever problems exist and potentially any remaining warranty complications."
 ---
 
 Most solar panels sit up there on your roof for years without any problems, and that's exactly what leads a lot of homeowners to assume they need nothing at all. That assumption is mostly right. But "mostly" is doing some work in that sentence, and if you want your system to perform close to what you were promised on the sales sheet, there are a few things worth actually paying attention to.
@@ -120,6 +120,6 @@ Keep an eye on your numbers. Clean it occasionally. Budget for an inverter. That
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

@@ -9,16 +9,16 @@ tags: ["long", "solar", "panels", "last"]
 slug: "how-long-do-solar-panels-last"
 affiliate_disclosure: true
 faqs:
-  - q: "How long do solar panels realistically last?"
-    a: "Most modern crystalline silicon panels will produce meaningful power for 30-35 years, and sometimes longer. The 25-year warranty is a performance floor, not an expiration date. NREL field data shows median degradation around 0.5% per year, which means a 30-year-old panel is still operating at roughly 85-86% of its original output."
-  - q: "Do solar panels degrade faster in hot climates?"
-    a: "Yes, heat is one of the main accelerants of panel degradation. Panels in Phoenix or Las Vegas face more thermal stress than panels in Seattle. That said, the effect is gradual and the data suggests well-installed tier-one panels in hot climates still fall within the 0.5-0.7% annual degradation range, not dramatically worse."
-  - q: "What happens to solar panels after 25 years?"
-    a: "Nothing dramatic. The warranty period ends, but the panels keep producing. Output will be somewhat lower than day one (typically 80-90% depending on the brand and conditions), but there's no cliff. Many utilities in Europe and the US are actively studying 'second life' uses for panels that come off replaced systems."
-  - q: "Can hail destroy solar panels?"
-    a: "It can, but most panels are tested to withstand 1-inch hail at 50 mph (IEC 61646 standard). Larger, faster hail, like the golf-ball-sized stones that hit parts of Texas in spring 2023, can and does crack panels. If you're in a high-hail region, look specifically for Class 4 impact-rated panels and check your homeowner's insurance policy for solar-specific coverage language before you're surprised."
-  - q: "Is it worth cleaning solar panels?"
-    a: "In most of the US, rain does an adequate job and cleaning provides marginal gains. In dry, dusty regions (California's Central Valley, Arizona, New Mexico) or if you have significant bird traffic overhead, regular cleaning can recover a meaningful 5-15% in lost output. Twice a year is usually enough, and a soft brush with deionized water is all you need."
+ - q: "How long do solar panels realistically last?"
+ a: "Most modern crystalline silicon panels will produce meaningful power for 30-35 years, and sometimes longer. The 25-year warranty is a performance floor, not an expiration date. NREL field data shows median degradation around 0.5% per year, which means a 30-year-old panel is still operating at roughly 85-86% of its original output."
+ - q: "Do solar panels degrade faster in hot climates?"
+ a: "Yes, heat is one of the main accelerants of panel degradation. Panels in Phoenix or Las Vegas face more thermal stress than panels in Seattle. That said, the effect is gradual and the data suggests well-installed tier-one panels in hot climates still fall within the 0.5-0.7% annual degradation range, not dramatically worse."
+ - q: "What happens to solar panels after 25 years?"
+ a: "Nothing dramatic. The warranty period ends, but the panels keep producing. Output will be somewhat lower than day one (typically 80-90% depending on the brand and conditions), but there's no cliff. Many utilities in Europe and the US are actively studying 'second life' uses for panels that come off replaced systems."
+ - q: "Can hail destroy solar panels?"
+ a: "It can, but most panels are tested to withstand 1-inch hail at 50 mph (IEC 61646 standard). Larger, faster hail, like the golf-ball-sized stones that hit parts of Texas in spring 2023, can and does crack panels. If you're in a high-hail region, look specifically for Class 4 impact-rated panels and check your homeowner's insurance policy for solar-specific coverage language before you're surprised."
+ - q: "Is it worth cleaning solar panels?"
+ a: "In most of the US, rain does an adequate job and cleaning provides marginal gains. In dry, dusty regions (California's Central Valley, Arizona, New Mexico) or if you have significant bird traffic overhead, regular cleaning can recover a meaningful 5-15% in lost output. Twice a year is usually enough, and a soft brush with deionized water is all you need."
 author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Researcher"
@@ -31,12 +31,12 @@ A reader emailed me a few years back asking if it was worth replacing a 22-year-
 
 
 <div class="value-module">
-  <div class="vm-head">Panel Degradation: Real Output Over Time</div>
-  <div class="vm-body">
-    <p class="vm-intro">Here's what a typical 10kW residential solar system actually produces as panels age, using the industry-standard 0.5% annual degradation rate versus premium panels at 0.25%.</p>
-    <table><caption>Projected Annual Output (kWh) for 10kW System by Panel Quality</caption><thead><tr><th>Year</th><th>Standard Panel (0.5%/yr)</th><th>Premium Panel (0.25%/yr)</th><th>Cumulative Difference</th></tr></thead><tbody><tr><td>0 (Install)</td><td>14,000 kWh</td><td>14,000 kWh</td><td>-</td></tr><tr><td>10</td><td>13,320 kWh</td><td>13,655 kWh</td><td>+1,675 kWh total</td></tr><tr><td>20</td><td>12,670 kWh</td><td>13,315 kWh</td><td>+4,895 kWh total</td></tr><tr><td>25</td><td>12,355 kWh</td><td>13,150 kWh</td><td>+6,970 kWh total</td></tr><tr><td>30</td><td>12,050 kWh</td><td>12,985 kWh</td><td>+9,350 kWh total</td></tr><tr><td>Year 25 Output %</td><td>88.3% of original</td><td>93.9% of original</td><td>-</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Panel Degradation: Real Output Over Time</div>
+ <div class="vm-body">
+ <p class="vm-intro">Here's what a typical 10kW residential solar system actually produces as panels age, using the industry-standard 0.5% annual degradation rate versus premium panels at 0.25%.</p>
+ <table><caption>Projected Annual Output (kWh) for 10kW System by Panel Quality</caption><thead><tr><th>Year</th><th>Standard Panel (0.5%/yr)</th><th>Premium Panel (0.25%/yr)</th><th>Cumulative Difference</th></tr></thead><tbody><tr><td>0 (Install)</td><td>14,000 kWh</td><td>14,000 kWh</td><td>-</td></tr><tr><td>10</td><td>13,320 kWh</td><td>13,655 kWh</td><td>+1,675 kWh total</td></tr><tr><td>20</td><td>12,670 kWh</td><td>13,315 kWh</td><td>+4,895 kWh total</td></tr><tr><td>25</td><td>12,355 kWh</td><td>13,150 kWh</td><td>+6,970 kWh total</td></tr><tr><td>30</td><td>12,050 kWh</td><td>12,985 kWh</td><td>+9,350 kWh total</td></tr><tr><td>Year 25 Output %</td><td>88.3% of original</td><td>93.9% of original</td><td>-</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The "25-Year Warranty" Doesn't Mean What You Think

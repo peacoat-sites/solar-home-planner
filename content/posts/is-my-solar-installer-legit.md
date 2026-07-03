@@ -9,16 +9,16 @@ tags: ["solar", "installer", "legit"]
 slug: "is-my-solar-installer-legit"
 affiliate_disclosure: true
 faqs:
-  - q: "How do I know if my solar installer is licensed in my state?"
-    a: "Go to your state's contractor licensing board website and search by the company name or license number they've provided. Every state has an online lookup tool. Confirm the license is active, covers electrical or solar work specifically, and has no disciplinary actions. If you're unsure which board to contact, search '[your state] contractor licensing board' and the official government site will come up."
-  - q: "Is a company being SEIA-certified the same as being NABCEP-certified?"
-    a: "No, these are different things. SEIA is a trade association, and membership is open to companies who pay dues. It signals industry involvement, not a specific competency standard. NABCEP is an independent credentialing body that certifies individual installers and companies based on documented experience and examination. NABCEP is the higher bar."
-  - q: "Should I be worried if my installer uses subcontractors?"
-    a: "Not automatically. Many legitimate solar companies use subcontractors for roofing, electrical, or the installation crew. What matters is that the primary contractor holds the license and is responsible for the work, that the subs are insured, and that this arrangement is disclosed to you upfront. Ask who will physically be on your roof and whether they're employees or subs."
-  - q: "What if my installer says I don't need a permit?"
-    a: "Walk away, or at minimum get it in writing with a clear legal justification. There is essentially no residential solar installation in the U.S. that doesn't require a permit. An installer telling you otherwise is either misinformed or deliberately cutting corners to speed up their schedule. The permit protects you legally and financially."
-  - q: "Can I check if my solar system was actually inspected and approved?"
-    a: "Yes. Contact your local building or electrical department and ask for the permit record associated with your property address. This is a public record. You can confirm whether a permit was issued, whether inspections were scheduled, and whether the final inspection was approved. If you can't find a permit associated with your installation, that's a serious problem you need to address immediately."
+ - q: "How do I know if my solar installer is licensed in my state?"
+ a: "Go to your state's contractor licensing board website and search by the company name or license number they've provided. Every state has an online lookup tool. Confirm the license is active, covers electrical or solar work specifically, and has no disciplinary actions. If you're unsure which board to contact, search '[your state] contractor licensing board' and the official government site will come up."
+ - q: "Is a company being SEIA-certified the same as being NABCEP-certified?"
+ a: "No, these are different things. SEIA is a trade association, and membership is open to companies who pay dues. It signals industry involvement, not a specific competency standard. NABCEP is an independent credentialing body that certifies individual installers and companies based on documented experience and examination. NABCEP is the higher bar."
+ - q: "Should I be worried if my installer uses subcontractors?"
+ a: "Not automatically. Many legitimate solar companies use subcontractors for roofing, electrical, or the installation crew. What matters is that the primary contractor holds the license and is responsible for the work, that the subs are insured, and that this arrangement is disclosed to you upfront. Ask who will physically be on your roof and whether they're employees or subs."
+ - q: "What if my installer says I don't need a permit?"
+ a: "Walk away, or at minimum get it in writing with a clear legal justification. There is essentially no residential solar installation in the U.S. that doesn't require a permit. An installer telling you otherwise is either misinformed or deliberately cutting corners to speed up their schedule. The permit protects you legally and financially."
+ - q: "Can I check if my solar system was actually inspected and approved?"
+ a: "Yes. Contact your local building or electrical department and ask for the permit record associated with your property address. This is a public record. You can confirm whether a permit was issued, whether inspections were scheduled, and whether the final inspection was approved. If you can't find a permit associated with your installation, that's a serious problem you need to address immediately."
 author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
@@ -133,6 +133,6 @@ The solar industry has plenty of genuinely good installers who will do right by 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

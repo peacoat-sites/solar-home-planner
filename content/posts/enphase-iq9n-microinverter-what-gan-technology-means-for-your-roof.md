@@ -11,10 +11,7 @@ author_slug: "stephanie-walsh"
 author_title: "Finance Writer"
 author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
 slug: "enphase-iq9n-microinverter-what-gan-technology-means-for-your-roof"
-affiliate_disclosure: true
----
-
-Most homeowners shopping for solar right now assume the inverter is the boring part of the decision. Pick a brand, check the warranty, move on. I'll be honest: I thought the same thing for years as an electrician. Then Enphase dropped the IQ9N on June 23, 2026, and the technology inside it forced me to actually pay attention.
+affiliate_disclosure: true, Most homeowners shopping for solar right now assume the inverter is the boring part of the decision. Pick a brand, check the warranty, move on. I'll be honest: I thought the same thing for years as an electrician. Then Enphase dropped the IQ9N on June 23, 2026, and the technology inside it forced me to actually pay attention.
 
 This isn't a minor spec bump. Enphase built the IQ9N around gallium nitride semiconductors, and if you've been following what GaN has done to laptop chargers and EV power systems over the last few years, you already know why that matters. For everyone else, let's dig into what this actually means for a system on your roof, in your specific financial situation, right now in mid-2026.
 
@@ -89,7 +86,7 @@ The IQ9N is a genuinely better microinverter than what came before it, and the G
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

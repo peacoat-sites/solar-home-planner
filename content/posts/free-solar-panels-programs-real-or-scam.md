@@ -9,16 +9,16 @@ tags: ["free", "solar", "panels", "programs", "real"]
 slug: "free-solar-panels-programs-real-or-scam"
 affiliate_disclosure: true
 faqs:
-  - q: "Are there any truly free solar panel programs for homeowners?"
-    a: "Genuinely free solar, with no lease payments, no loan, and no PPA, exists primarily for income-qualified households through state utility programs and the federal Weatherization Assistance Program. If you meet income requirements, check your state's energy office website and look up programs through dsireusa.org. For most middle-income homeowners, 'free' programs are actually leases or PPAs."
-  - q: "Is the '30% government solar rebate' advertised online a scam?"
-    a: "The 30 percent federal Investment Tax Credit is real, but it's a tax credit, not a rebate or check in the mail. You claim it when you file your federal taxes, and it only helps you if you have enough federal tax liability to offset. Ads that call it a 'rebate' or suggest you'll receive a cash payment are misleading, though the underlying credit is legitimate."
-  - q: "Can a solar lease hurt me when I sell my home?"
-    a: "It can complicate things. Lease agreements typically have to be transferred to the new buyer or paid off at closing. Some buyers are reluctant to assume a 15-year lease obligation. It's not necessarily a dealbreaker, but it's a real consideration, and any installer who waves this off during the sales conversation is not being straight with you."
-  - q: "How do I check if a solar contractor is licensed?"
-    a: "Every state has a contractor license lookup tool through the state licensing board, usually the Department of Consumer Affairs or the equivalent. Search '[your state] contractor license lookup' and you'll find it. In California that's the CSLB, in Florida it's the DBPR. Enter the company name or license number and verify it's active and has no serious complaints."
-  - q: "What's the difference between a solar lease and a PPA?"
-    a: "With a lease, you pay a fixed monthly fee to rent the panels, regardless of how much electricity they produce. With a PPA, you pay for the actual electricity generated, at a set per-kilowatt-hour rate. PPAs can be a better deal in high-production months and worse in low-production months. Both leave the company owning the equipment and claiming the federal tax credit."
+ - q: "Are there any truly free solar panel programs for homeowners?"
+ a: "Genuinely free solar, with no lease payments, no loan, and no PPA, exists primarily for income-qualified households through state utility programs and the federal Weatherization Assistance Program. If you meet income requirements, check your state's energy office website and look up programs through dsireusa.org. For most middle-income homeowners, 'free' programs are actually leases or PPAs."
+ - q: "Is the '30% government solar rebate' advertised online a scam?"
+ a: "The 30 percent federal Investment Tax Credit is real, but it's a tax credit, not a rebate or check in the mail. You claim it when you file your federal taxes, and it only helps you if you have enough federal tax liability to offset. Ads that call it a 'rebate' or suggest you'll receive a cash payment are misleading, though the underlying credit is legitimate."
+ - q: "Can a solar lease hurt me when I sell my home?"
+ a: "It can complicate things. Lease agreements typically have to be transferred to the new buyer or paid off at closing. Some buyers are reluctant to assume a 15-year lease obligation. It's not necessarily a dealbreaker, but it's a real consideration, and any installer who waves this off during the sales conversation is not being straight with you."
+ - q: "How do I check if a solar contractor is licensed?"
+ a: "Every state has a contractor license lookup tool through the state licensing board, usually the Department of Consumer Affairs or the equivalent. Search '[your state] contractor license lookup' and you'll find it. In California that's the CSLB, in Florida it's the DBPR. Enter the company name or license number and verify it's active and has no serious complaints."
+ - q: "What's the difference between a solar lease and a PPA?"
+ a: "With a lease, you pay a fixed monthly fee to rent the panels, regardless of how much electricity they produce. With a PPA, you pay for the actual electricity generated, at a set per-kilowatt-hour rate. PPAs can be a better deal in high-production months and worse in low-production months. Both leave the company owning the equipment and claiming the federal tax credit."
 author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
@@ -33,12 +33,12 @@ Let me walk you through what's real, what's misleading, and how to tell the diff
 
 
 <div class="value-module">
-  <div class="vm-head">Solar Program Comparison: True Costs Over 20 Years</div>
-  <div class="vm-body">
-    <p class="vm-intro">This comparison uses a typical 8kW residential system to show how 'free' solar options actually compare financially over a standard contract period.</p>
-    <table><caption>20-Year Cost Comparison for 8kW Residential Solar System</caption><thead><tr><th>Program Type</th><th>Upfront Cost</th><th>Who Owns Panels</th><th>Estimated 20-Year Total Cost</th><th>Who Gets Tax Credit</th><th>Home Sale Impact</th></tr></thead><tbody><tr><td>Cash Purchase</td><td>$18,000–$24,000</td><td>You</td><td>$13,000–$17,000 (after 30% tax credit)</td><td>You</td><td>Increases home value</td></tr><tr><td>Solar Loan (10-year, 6% APR)</td><td>$0</td><td>You</td><td>$20,000–$27,000 (interest minus tax credit)</td><td>You</td><td>Increases home value</td></tr><tr><td>Solar Lease</td><td>$0</td><td>Company</td><td>$22,000–$35,000 (with 2.9% annual escalator)</td><td>Company</td><td>Lease transfer required; can complicate sale</td></tr><tr><td>PPA ($0.10/kWh start, 2.9% escalator)</td><td>$0</td><td>Company</td><td>$24,000–$38,000</td><td>Company</td><td>Contract transfer required; can complicate sale</td></tr><tr><td>Low-Income Grant Programs (LIHEAP, state programs)</td><td>$0</td><td>You</td><td>$0 (if fully subsidized)</td><td>Not applicable</td><td>Increases home value</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Solar Program Comparison: True Costs Over 20 Years</div>
+ <div class="vm-body">
+ <p class="vm-intro">This comparison uses a typical 8kW residential system to show how 'free' solar options actually compare financially over a standard contract period.</p>
+ <table><caption>20-Year Cost Comparison for 8kW Residential Solar System</caption><thead><tr><th>Program Type</th><th>Upfront Cost</th><th>Who Owns Panels</th><th>Estimated 20-Year Total Cost</th><th>Who Gets Tax Credit</th><th>Home Sale Impact</th></tr></thead><tbody><tr><td>Cash Purchase</td><td>$18,000–$24,000</td><td>You</td><td>$13,000–$17,000 (after 30% tax credit)</td><td>You</td><td>Increases home value</td></tr><tr><td>Solar Loan (10-year, 6% APR)</td><td>$0</td><td>You</td><td>$20,000–$27,000 (interest minus tax credit)</td><td>You</td><td>Increases home value</td></tr><tr><td>Solar Lease</td><td>$0</td><td>Company</td><td>$22,000–$35,000 (with 2.9% annual escalator)</td><td>Company</td><td>Lease transfer required; can complicate sale</td></tr><tr><td>PPA ($0.10/kWh start, 2.9% escalator)</td><td>$0</td><td>Company</td><td>$24,000–$38,000</td><td>Company</td><td>Contract transfer required; can complicate sale</td></tr><tr><td>Low-Income Grant Programs (LIHEAP, state programs)</td><td>$0</td><td>You</td><td>$0 (if fully subsidized)</td><td>Not applicable</td><td>Increases home value</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What "Free Solar" Actually Means (Usually)
