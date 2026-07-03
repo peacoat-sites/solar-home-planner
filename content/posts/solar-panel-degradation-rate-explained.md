@@ -13,16 +13,16 @@ author_bio: "Stephanie Walsh spent years as a financial planner before narrowing
 slug: "solar-panel-degradation-rate-explained"
 affiliate_disclosure: true
 faqs:
-  - q: "Do solar panels ever completely stop working?"
-    a: "Rarely from degradation alone. Most panels will still produce meaningful power after 30 or even 40 years, just at significantly reduced output. True failure is usually from physical damage, like hail or a manufacturing defect, not gradual cell degradation."
-  - q: "Is a higher degradation rate always a dealbreaker?"
-    a: "Not automatically. A panel with a 0.7% annual rate might still be the right choice if the total system cost is significantly lower and you plan to move in 10 years. Run the 25-year math on both options at their actual degradation rates and compare total lifetime production."
-  - q: "Does hot climate mean faster degradation?"
-    a: "Yes, generally. Heat stresses both the encapsulant and the cells. Desert Southwest installations tend to show higher degradation rates in field studies than installations in mild coastal or northern climates. This is one reason temperature coefficient ratings matter when you're shopping panels in a hot area."
-  - q: "How do I know if my panels are degrading faster than normal?"
-    a: "Compare your annual production totals year over year using your inverter monitoring data. A drop of more than 1.5% per year, after accounting for weather variation, is worth flagging with your installer or a third-party inspector."
-  - q: "Can I slow degradation with any maintenance steps?"
-    a: "You can't change the physics, but keeping panels clean, ensuring good airflow underneath, and trimming any trees causing new shade will all help you stay closer to the manufacturer's rated performance curve. The rest is panel quality and climate."
+ - q: "Do solar panels ever completely stop working?"
+ a: "Rarely from degradation alone. Most panels will still produce meaningful power after 30 or even 40 years, just at significantly reduced output. True failure is usually from physical damage, like hail or a manufacturing defect, not gradual cell degradation."
+ - q: "Is a higher degradation rate always a dealbreaker?"
+ a: "Not automatically. A panel with a 0.7% annual rate might still be the right choice if the total system cost is significantly lower and you plan to move in 10 years. Run the 25-year math on both options at their actual degradation rates and compare total lifetime production."
+ - q: "Does hot climate mean faster degradation?"
+ a: "Yes, generally. Heat stresses both the encapsulant and the cells. Desert Southwest installations tend to show higher degradation rates in field studies than installations in mild coastal or northern climates. This is one reason temperature coefficient ratings matter when you're shopping panels in a hot area."
+ - q: "How do I know if my panels are degrading faster than normal?"
+ a: "Compare your annual production totals year over year using your inverter monitoring data. A drop of more than 1.5% per year, after accounting for weather variation, is worth flagging with your installer or a third-party inspector."
+ - q: "Can I slow degradation with any maintenance steps?"
+ a: "You can't change the physics, but keeping panels clean, ensuring good airflow underneath, and trimming any trees causing new shade will all help you stay closer to the manufacturer's rated performance curve. The rest is panel quality and climate."
 ---
 
 Most homeowners buying solar get handed a production estimate built around a 0.5% annual degradation rate and told not to worry about it. I used to repeat that number myself. What I found when I actually went looking at real field data is that the story is a fair bit messier than that, and the difference between a good panel and a mediocre one over 25 years is worth understanding before you sign anything.
@@ -104,7 +104,7 @@ Then apply a degradation factor for how old the system is. After 10 years at 0.5
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 

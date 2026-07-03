@@ -13,16 +13,16 @@ author_bio: "David Torres has spent 12 years in the residential solar industry, 
 slug: "string-inverter-sizing-guide"
 affiliate_disclosure: true
 faqs:
-  - q: "How close should my inverter's AC rating be to my total panel wattage?"
-    a: "Aim for a DC/AC ratio between 1.1 and 1.25 for most U.S. climates. That means a 7,000W panel array pairs well with a 6,000W inverter. Going higher than 1.3 starts producing meaningful clipping losses, particularly in high-sun regions."
-  - q: "Can I add panels later without replacing my inverter?"
-    a: "Sometimes. If your inverter has unused MPPT inputs and enough DC current headroom, you may be able to add a string. But you'll need to recalculate the DC/AC ratio and verify the new string voltage and current stay within spec. Don't assume headroom exists without checking the datasheet."
-  - q: "What's the difference between a single-MPPT and dual-MPPT inverter?"
-    a: "A single-MPPT inverter optimizes one string or set of parallel strings simultaneously. A dual-MPPT inverter can independently optimize two separate string configurations, which is valuable if your roof has panels facing different directions or with different shading patterns. For most complex rooflines, dual-MPPT is worth the slight cost premium."
-  - q: "Does the inverter brand matter as much as the sizing?"
-    a: "Sizing matters more for system safety and production. But brand affects reliability, warranty support, and monitoring quality. SMA, Fronius, and SolarEdge have strong long-term track records in the U.S. residential market. Be cautious with lesser-known brands that can't demonstrate installed base and service infrastructure."
-  - q: "Why does my installer's proposal show a different panel count than I calculated?"
-    a: "String sizing constraints often dictate the final panel count more than your energy goals do. If you need exactly 10 panels per string to hit the voltage window on a specific inverter, you might end up with 20 panels instead of 19, or 18 instead of 19. The inverter's MPPT operating range and max input specs are frequently the binding constraint."
+ - q: "How close should my inverter's AC rating be to my total panel wattage?"
+ a: "Aim for a DC/AC ratio between 1.1 and 1.25 for most U.S. climates. That means a 7,000W panel array pairs well with a 6,000W inverter. Going higher than 1.3 starts producing meaningful clipping losses, particularly in high-sun regions."
+ - q: "Can I add panels later without replacing my inverter?"
+ a: "Sometimes. If your inverter has unused MPPT inputs and enough DC current headroom, you may be able to add a string. But you'll need to recalculate the DC/AC ratio and verify the new string voltage and current stay within spec. Don't assume headroom exists without checking the datasheet."
+ - q: "What's the difference between a single-MPPT and dual-MPPT inverter?"
+ a: "A single-MPPT inverter optimizes one string or set of parallel strings simultaneously. A dual-MPPT inverter can independently optimize two separate string configurations, which is valuable if your roof has panels facing different directions or with different shading patterns. For most complex rooflines, dual-MPPT is worth the slight cost premium."
+ - q: "Does the inverter brand matter as much as the sizing?"
+ a: "Sizing matters more for system safety and production. But brand affects reliability, warranty support, and monitoring quality. SMA, Fronius, and SolarEdge have strong long-term track records in the U.S. residential market. Be cautious with lesser-known brands that can't demonstrate installed base and service infrastructure."
+ - q: "Why does my installer's proposal show a different panel count than I calculated?"
+ a: "String sizing constraints often dictate the final panel count more than your energy goals do. If you need exactly 10 panels per string to hit the voltage window on a specific inverter, you might end up with 20 panels instead of 19, or 18 instead of 19. The inverter's MPPT operating range and max input specs are frequently the binding constraint."
 ---
 
 Most homeowners spend weeks comparing solar panels and almost no time thinking about the inverter. That's backwards. The inverter is where your system can quietly bleed efficiency for years, and string inverter sizing is the piece that trips up even experienced installers.
@@ -140,6 +140,6 @@ The inverter spec sheet isn't the most exciting document you'll read during your
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

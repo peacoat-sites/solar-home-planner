@@ -13,16 +13,16 @@ author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system
 slug: "solar-garden-subscription-what-is-it"
 affiliate_disclosure: true
 faqs:
-  - q: "Do you need to own your home to get a solar garden subscription?"
-    a: "No, and this is one of the biggest advantages over rooftop solar. Renters, condo owners, and anyone with a lease can typically subscribe as long as they receive electric service from a utility that has an approved community solar program. Your landlord's permission isn't required."
-  - q: "What happens to my subscription if I move?"
-    a: "It depends entirely on your contract. Some programs allow transfers to a new address within the same utility service area; others require you to find a new subscriber to take over your agreement or pay an exit fee. Moving out of the utility's territory is the tricky situation, so always ask about portability and early termination terms before signing."
-  - q: "Is a solar garden subscription the same as buying solar RECs?"
-    a: "No. When you subscribe to a community solar garden, you're receiving actual bill credits tied to real kilowatt-hour production from a specific array. Buying renewable energy certificates (RECs) is a separate, more abstract transaction where you're purchasing the environmental attribute of a unit of generation without a direct tie to your utility bill."
-  - q: "Can I subscribe to more capacity than I currently use?"
-    a: "Most programs cap your subscription at 100% to 120% of your average annual consumption, and some states set the cap at exactly your 12-month average. Subscribing beyond your usage doesn't generally result in a cash payment; unused credits may roll over monthly but often expire annually, so over-subscribing can mean paying for production you never benefit from."
-  - q: "Are solar garden subscription credits taxable income?"
-    a: "The IRS hasn't issued a definitive ruling specifically on community solar bill credits as of June 2026, and this is an area where the research is genuinely mixed. Most tax practitioners treat bill credits as a reduction in an expense rather than income, meaning they're generally not taxable. But I'd confirm with a CPA if your subscription generates more than a few hundred dollars annually in credits."
+ - q: "Do you need to own your home to get a solar garden subscription?"
+ a: "No, and this is one of the biggest advantages over rooftop solar. Renters, condo owners, and anyone with a lease can typically subscribe as long as they receive electric service from a utility that has an approved community solar program. Your landlord's permission isn't required."
+ - q: "What happens to my subscription if I move?"
+ a: "It depends entirely on your contract. Some programs allow transfers to a new address within the same utility service area; others require you to find a new subscriber to take over your agreement or pay an exit fee. Moving out of the utility's territory is the tricky situation, so always ask about portability and early termination terms before signing."
+ - q: "Is a solar garden subscription the same as buying solar RECs?"
+ a: "No. When you subscribe to a community solar garden, you're receiving actual bill credits tied to real kilowatt-hour production from a specific array. Buying renewable energy certificates (RECs) is a separate, more abstract transaction where you're purchasing the environmental attribute of a unit of generation without a direct tie to your utility bill."
+ - q: "Can I subscribe to more capacity than I currently use?"
+ a: "Most programs cap your subscription at 100% to 120% of your average annual consumption, and some states set the cap at exactly your 12-month average. Subscribing beyond your usage doesn't generally result in a cash payment; unused credits may roll over monthly but often expire annually, so over-subscribing can mean paying for production you never benefit from."
+ - q: "Are solar garden subscription credits taxable income?"
+ a: "The IRS hasn't issued a definitive ruling specifically on community solar bill credits as of June 2026, and this is an area where the research is genuinely mixed. Most tax practitioners treat bill credits as a reduction in an expense rather than income, meaning they're generally not taxable. But I'd confirm with a CPA if your subscription generates more than a few hundred dollars annually in credits."
 ---
 
 Most people hear "community solar" and picture a shared rooftop somewhere. What they don't realize is that the actual mechanism behind it, the thing you're signing up for, is a garden subscription. And those two words do a lot of heavy lifting.
@@ -126,6 +126,6 @@ If you want to track your actual savings precisely after enrolling, a home energ
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

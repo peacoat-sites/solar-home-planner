@@ -13,16 +13,16 @@ author_bio: "David Torres has spent 12 years in the residential solar industry, 
 slug: "solar-panel-warranty-claim-process"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does a solar panel warranty claim typically take?"
-    a: "Simple product defect claims with clear documentation often resolve in 4 to 8 weeks. Performance warranty claims, which require multiple data collection periods and sometimes independent testing, can run 3 to 6 months. If a claim is disputed, add more time."
-  - q: "What happens to my warranty if my installer goes out of business?"
-    a: "Your product warranty is with the manufacturer, not the installer, so it remains valid. You'll need to contact the manufacturer directly and may need to hire a licensed electrician to perform the diagnostic inspection that your installer would have done."
-  - q: "Can I void my warranty by cleaning my panels?"
-    a: "Yes, if you do it wrong. Pressure washing or using abrasive materials can cause micro-cracks and back sheet damage that manufacturers classify as physical damage, not a defect. Stick with a soft brush cleaning kit (the site may earn a commission) and low-pressure water. The U.S. Department of Energy's guidance for homeowners also recommends cleaning methods that follow the manufacturer's specifications."
-  - q: "Does the performance warranty cover weather-related production loss?"
-    a: "No. Performance warranties cover panel degradation relative to their rated output under standard test conditions, not actual production losses due to cloud cover, shade, or seasonal sun angle changes. You'd need to commission an independent performance test that isolates panel-level degradation."
-  - q: "My panels are underperforming but I'm not sure if it's a warranty issue. What should I do first?"
-    a: "Download 12 months of production data from your monitoring system and compare it to the system's original production estimate (this should be in your installation contract as a first-year kWh projection). Also check for shading changes, soiling, and inverter error codes before calling the manufacturer. A lot of 'underperformance' turns out to be a dirty panel or a tripped breaker."
+ - q: "How long does a solar panel warranty claim typically take?"
+ a: "Simple product defect claims with clear documentation often resolve in 4 to 8 weeks. Performance warranty claims, which require multiple data collection periods and sometimes independent testing, can run 3 to 6 months. If a claim is disputed, add more time."
+ - q: "What happens to my warranty if my installer goes out of business?"
+ a: "Your product warranty is with the manufacturer, not the installer, so it remains valid. You'll need to contact the manufacturer directly and may need to hire a licensed electrician to perform the diagnostic inspection that your installer would have done."
+ - q: "Can I void my warranty by cleaning my panels?"
+ a: "Yes, if you do it wrong. Pressure washing or using abrasive materials can cause micro-cracks and back sheet damage that manufacturers classify as physical damage, not a defect. Stick with a soft brush cleaning kit (the site may earn a commission) and low-pressure water. The U.S. Department of Energy's guidance for homeowners also recommends cleaning methods that follow the manufacturer's specifications."
+ - q: "Does the performance warranty cover weather-related production loss?"
+ a: "No. Performance warranties cover panel degradation relative to their rated output under standard test conditions, not actual production losses due to cloud cover, shade, or seasonal sun angle changes. You'd need to commission an independent performance test that isolates panel-level degradation."
+ - q: "My panels are underperforming but I'm not sure if it's a warranty issue. What should I do first?"
+ a: "Download 12 months of production data from your monitoring system and compare it to the system's original production estimate (this should be in your installation contract as a first-year kWh projection). Also check for shading changes, soiling, and inverter error codes before calling the manufacturer. A lot of 'underperformance' turns out to be a dirty panel or a tripped breaker."
 ---
 
 A homeowner I worked with last year had a Hanwha Q CELLS panel that cracked along the back sheet, no storm, no impact, just a hot Arizona summer doing what Arizona summers do. The panel was four years old, well within the 12-year product warranty. She had her original purchase invoice, her installation records, a timestamped photo from the day she noticed it, and the installer's business card. Should have been a clean claim. Instead she spent six weeks trading emails with a warranty department that kept asking for documents she'd already sent, then tried to tell her the crack was "physical damage" (excluded) rather than a manufacturing defect. She got it resolved, but only because she knew what she was entitled to and pushed back with specific language from the warranty document itself.
@@ -114,6 +114,6 @@ The warranty paperwork you shove in a drawer when the installers leave is only a
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

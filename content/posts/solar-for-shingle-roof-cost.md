@@ -13,16 +13,16 @@ author_bio: "David Torres has spent 12 years in the residential solar industry, 
 slug: "solar-for-shingle-roof-cost"
 affiliate_disclosure: true
 faqs:
-  - q: "How much does solar cost per watt on a shingle roof in 2026?"
-    a: "Current installed costs (July 2026) run between $2.80 and $3.50 per watt before incentives. After the 30% federal tax credit, effective cost drops to roughly $1.96 to $2.45 per watt for most residential systems."
-  - q: "Does roof age affect solar installation cost?"
-    a: "Yes, in two ways: installers may charge more to work carefully around older shingles, and if your roof is near end-of-life, you'll likely need to re-roof before or shortly after installation, which is a separate expense. Get a roofing assessment before finalizing your solar contract."
-  - q: "Are microinverters worth the extra cost on a shingle roof?"
-    a: "For most homeowners with any shading or a roof with multiple orientations, yes. Enphase IQ8 microinverters add roughly $800-$1,500 to a typical system but provide panel-level monitoring and mean one shaded or underperforming panel doesn't drag down your whole system's output."
-  - q: "Will solar panels void my roof warranty?"
-    a: "Not automatically, but this requires attention. Many shingle manufacturers (GAF, Owens Corning, CertainTeed) have conditional language around third-party penetrations. Some installers are certified by shingle manufacturers specifically to preserve warranty coverage. Ask before you sign."
-  - q: "How long does a shingle roof solar installation take?"
-    a: "Physical installation on a standard shingle roof typically takes one to two days for a crew of three or four. The longer timeline is permitting and utility interconnection, which can add four to ten weeks depending on your jurisdiction and utility."
+ - q: "How much does solar cost per watt on a shingle roof in 2026?"
+ a: "Current installed costs (July 2026) run between $2.80 and $3.50 per watt before incentives. After the 30% federal tax credit, effective cost drops to roughly $1.96 to $2.45 per watt for most residential systems."
+ - q: "Does roof age affect solar installation cost?"
+ a: "Yes, in two ways: installers may charge more to work carefully around older shingles, and if your roof is near end-of-life, you'll likely need to re-roof before or shortly after installation, which is a separate expense. Get a roofing assessment before finalizing your solar contract."
+ - q: "Are microinverters worth the extra cost on a shingle roof?"
+ a: "For most homeowners with any shading or a roof with multiple orientations, yes. Enphase IQ8 microinverters add roughly $800-$1,500 to a typical system but provide panel-level monitoring and mean one shaded or underperforming panel doesn't drag down your whole system's output."
+ - q: "Will solar panels void my roof warranty?"
+ a: "Not automatically, but this requires attention. Many shingle manufacturers (GAF, Owens Corning, CertainTeed) have conditional language around third-party penetrations. Some installers are certified by shingle manufacturers specifically to preserve warranty coverage. Ask before you sign."
+ - q: "How long does a shingle roof solar installation take?"
+ a: "Physical installation on a standard shingle roof typically takes one to two days for a crew of three or four. The longer timeline is permitting and utility interconnection, which can add four to ten weeks depending on your jurisdiction and utility."
 ---
 
 Most people come to me after they've already gotten one quote. Sometimes two. They've got a number in their head, they're not sure if it's fair, and they're trying to figure out if they're about to get taken. If that's where you are right now, good. That's exactly the right moment to slow down and understand what you're actually buying.
@@ -138,6 +138,6 @@ If you're still in the quote-gathering phase, the [EnergySage marketplace](https
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

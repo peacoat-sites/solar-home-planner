@@ -11,10 +11,7 @@ author_slug: "stephanie-walsh"
 author_title: "Finance Writer"
 author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
 slug: "solar-lease-and-ppa-surge-what-the-new-math-means-for-you"
-affiliate_disclosure: true
----
-
-Most coverage of the post-January 2026 solar market is treating the death of the 30% residential tax credit like a eulogy. Here's the more useful angle: leasing companies still have access to a commercial version of that same credit, they're racing a hard deadline to lock it in, and some of that money can flow to you. The window closes July 4, 2026. Not metaphorically. That's the actual construction safe harbor deadline.
+affiliate_disclosure: true, Most coverage of the post-January 2026 solar market is treating the death of the 30% residential tax credit like a eulogy. Here's the more useful angle: leasing companies still have access to a commercial version of that same credit, they're racing a hard deadline to lock it in, and some of that money can flow to you. The window closes July 4, 2026. Not metaphorically. That's the actual construction safe harbor deadline.
 
 ## What the Safe Harbor Deadline Actually Means
 

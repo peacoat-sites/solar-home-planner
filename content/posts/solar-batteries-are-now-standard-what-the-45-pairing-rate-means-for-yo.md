@@ -11,10 +11,7 @@ author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
 slug: "solar-batteries-are-now-standard-what-the-45-pairing-rate-means-for-yo"
-affiliate_disclosure: true
----
-
-If you've been putting off the solar decision, or you got a quote last year and set it aside, you might be wondering whether the math still works without that 30% federal tax credit. That's a fair question, and it's where a lot of homeowners are sitting right now. Here's what I tell people: the game has genuinely changed, but not necessarily in the way you'd expect.
+affiliate_disclosure: true, If you've been putting off the solar decision, or you got a quote last year and set it aside, you might be wondering whether the math still works without that 30% federal tax credit. That's a fair question, and it's where a lot of homeowners are sitting right now. Here's what I tell people: the game has genuinely changed, but not necessarily in the way you'd expect.
 
 For the first time, nearly half of all new residential solar systems installed in the first quarter of 2026 came paired with a battery. Forty-five percent, up from an average of 35% through 2025, according to data from SEIA and BloombergNEF. That's not a trend anymore. That's a structural shift in how Americans are buying solar, and it affects every conversation you're about to have with an installer.
 
@@ -82,7 +79,7 @@ The 45% pairing rate isn't just a data point. It's a signal that the market has 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 

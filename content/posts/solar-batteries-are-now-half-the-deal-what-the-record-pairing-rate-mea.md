@@ -11,9 +11,7 @@ author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
 slug: "solar-batteries-are-now-half-the-deal-what-the-record-pairing-rate-mea"
-affiliate_disclosure: true
----
-A homeowner called me last month genuinely confused. She had three solar quotes. Two installers were pushing hard for a lease package that bundled in a battery. The third quoted panels only, straight cash purchase, and it was actually cheaper upfront. Which was the better deal? The honest answer in mid-2026 is: it depends entirely on a tax credit change that most installers aren't explaining clearly.
+affiliate_disclosure: true, A homeowner called me last month genuinely confused. She had three solar quotes. Two installers were pushing hard for a lease package that bundled in a battery. The third quoted panels only, straight cash purchase, and it was actually cheaper upfront. Which was the better deal? The honest answer in mid-2026 is: it depends entirely on a tax credit change that most installers aren't explaining clearly.
 
 Here's what shifted. According to the [SEIA Solar Market Insight Report Q2 2026](https://seia.org/research-resources/solar-market-insight-report-q2-2026/), a record 45% of new residential solar installations in Q1 2026 included a battery storage system. Nearly half. That's a sharp jump from prior years, and it's not because homeowners suddenly fell in love with backup power. It's because the financial math on residential solar changed dramatically when the calendar flipped to January 1, 2026.
 
@@ -63,7 +61,7 @@ If you're in a state with strong rebates, buying outright with cash or a loan ca
 - [SEIA: Solar and Storage Provide Over 90% of New Power in Q1](https://seia.org/news/solar-and-storage-provide-over-90-of-new-power-in-q1/) (June 10, 2026)
 - [Bloomberg: US Residential Solar Installations Set to Stall for Years](https://www.bloomberg.com/news/articles/2026-06-15/us-residential-solar-installations-set-to-stall-for-years) (June 15, 2026)
 - [Solar Battery Tax Credit 2026: What Changed After the OBBBA](https://www.solarpermitsolutions.com/blog/solar-battery-tax-credit-2026) (April 16, 2026)
-- [Solar Lease vs. PPA in 2026 ,  Solar.com](https://www.solar.com/learn/solar-lease-vs-ppa/) (January 22, 2026)
+- [Solar Lease vs. PPA in 2026 , Solar.com](https://www.solar.com/learn/solar-lease-vs-ppa/) (January 22, 2026)
 - [EnergySage: Solar Battery Incentives and Rebates in 2026](https://www.energysage.com/energy-storage/benefits-of-storage/energy-storage-incentives/) (February 12, 2026)
 
 ## Helpful Resources

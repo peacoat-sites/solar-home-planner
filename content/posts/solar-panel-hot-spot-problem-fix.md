@@ -13,16 +13,16 @@ author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system
 slug: "solar-panel-hot-spot-problem-fix"
 affiliate_disclosure: true
 faqs:
-  - q: "How do I know if my solar panel has a hot spot?"
-    a: "The most reliable sign is a production drop in one panel or string while others hold normal output. Visually, look for discoloration, yellowing, or backsheet blistering. A thermal camera is the definitive diagnostic tool; a handheld FLIR imager will show a hot spot as a bright point running 10°C or more above neighboring panels."
-  - q: "Can hot spots be repaired, or does the panel need replacing?"
-    a: "Depends on the cause. If it's a dirty cell triggering the issue, cleaning fixes it. A failed bypass diode can be replaced for $5-80 in parts. Actual cell cracking or backsheet burn is permanent damage. At that point you're filing a warranty claim or replacing the panel. Don't try to 'repair' a burned cell."
-  - q: "Are hot spots covered under solar panel warranties?"
-    a: "Most product warranties (typically 10-12 years) cover defects that cause hot spots from manufacturing issues. Damage from physical causes (bird droppings, someone walking on the panel) is grayer territory, though a case can be made if the resulting damage is a proven defect. Document everything with dated photos before you clean anything."
-  - q: "Do microinverters or power optimizers prevent hot spots?"
-    a: "They don't prevent the underlying thermal event, but they dramatically reduce the string-level production loss from a partially shaded or failing panel. They also give you panel-level monitoring, which means you catch hot spots faster. Earlier detection means less thermal cycling and less cumulative cell damage."
-  - q: "How often should I check my panels for hot spots?"
-    a: "A visual inspection once or twice a year is reasonable for most climates. If you're in a high-dust or high-bird-activity area, every few months. If your system has monitoring, set a monthly alert for any panel running more than 10% below its string average. Catching it in June rather than October can mean the difference between a $15 diode fix and a panel replacement."
+ - q: "How do I know if my solar panel has a hot spot?"
+ a: "The most reliable sign is a production drop in one panel or string while others hold normal output. Visually, look for discoloration, yellowing, or backsheet blistering. A thermal camera is the definitive diagnostic tool; a handheld FLIR imager will show a hot spot as a bright point running 10°C or more above neighboring panels."
+ - q: "Can hot spots be repaired, or does the panel need replacing?"
+ a: "Depends on the cause. If it's a dirty cell triggering the issue, cleaning fixes it. A failed bypass diode can be replaced for $5-80 in parts. Actual cell cracking or backsheet burn is permanent damage. At that point you're filing a warranty claim or replacing the panel. Don't try to 'repair' a burned cell."
+ - q: "Are hot spots covered under solar panel warranties?"
+ a: "Most product warranties (typically 10-12 years) cover defects that cause hot spots from manufacturing issues. Damage from physical causes (bird droppings, someone walking on the panel) is grayer territory, though a case can be made if the resulting damage is a proven defect. Document everything with dated photos before you clean anything."
+ - q: "Do microinverters or power optimizers prevent hot spots?"
+ a: "They don't prevent the underlying thermal event, but they dramatically reduce the string-level production loss from a partially shaded or failing panel. They also give you panel-level monitoring, which means you catch hot spots faster. Earlier detection means less thermal cycling and less cumulative cell damage."
+ - q: "How often should I check my panels for hot spots?"
+ a: "A visual inspection once or twice a year is reasonable for most climates. If you're in a high-dust or high-bird-activity area, every few months. If your system has monitoring, set a monthly alert for any panel running more than 10% below its string average. Catching it in June rather than October can mean the difference between a $15 diode fix and a panel replacement."
 ---
 
 Hot spots kill solar panels quietly. No alarm goes off, no warning light blinks, you just watch your production numbers slowly bleed out while a cell or two on one panel bake themselves into permanent failure. I've seen homeowners lose 15-20% of a panel's output to a hot spot that nobody caught for two years.
@@ -111,6 +111,6 @@ As of July 2026, panel-level monitoring has gotten cheap enough that there's no 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

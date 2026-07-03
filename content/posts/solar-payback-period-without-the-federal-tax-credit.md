@@ -11,10 +11,7 @@ author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
 slug: "solar-payback-period-without-the-federal-tax-credit"
-affiliate_disclosure: true
----
-
-The 30% federal residential solar tax credit is gone. No phase-down, no grace period. The One Big Beautiful Bill Act, signed July 4, 2025, eliminated Section 25D for any system installed after December 31, 2025, and if you're shopping for solar right now, you're doing the math in a fundamentally different environment than your neighbor who signed a contract two years ago. BloombergNEF's June 15, 2026 report projects only 4.1 GW of new residential solar additions this year, down 15% from 2025 and the lowest figure in five years. The market isn't expected to recover to 2023 record levels within the next decade. So the question sitting in front of you isn't "should I go solar" in some abstract sense. It's whether solar pencils out *for your specific address* when you can no longer subtract $9,000+ off your federal tax bill.
+affiliate_disclosure: true, The 30% federal residential solar tax credit is gone. No phase-down, no grace period. The One Big Beautiful Bill Act, signed July 4, 2025, eliminated Section 25D for any system installed after December 31, 2025, and if you're shopping for solar right now, you're doing the math in a fundamentally different environment than your neighbor who signed a contract two years ago. BloombergNEF's June 15, 2026 report projects only 4.1 GW of new residential solar additions this year, down 15% from 2025 and the lowest figure in five years. The market isn't expected to recover to 2023 record levels within the next decade. So the question sitting in front of you isn't "should I go solar" in some abstract sense. It's whether solar pencils out *for your specific address* when you can no longer subtract $9,000+ off your federal tax bill.
 
 I'll be honest: the answer is messier than either the solar salespeople or the skeptics want to admit.
 
@@ -86,8 +83,8 @@ The honest version of the solar pitch in mid-2026 is this: if you live somewhere
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 

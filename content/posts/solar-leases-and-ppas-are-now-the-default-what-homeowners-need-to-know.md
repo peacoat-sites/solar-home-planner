@@ -11,10 +11,7 @@ author_slug: "tom-bradley"
 author_title: "DIY Researcher"
 author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
 slug: "solar-leases-and-ppas-are-now-the-default-what-homeowners-need-to-know"
-affiliate_disclosure: true
----
-
-Most homeowners shopping for solar right now are working off assumptions that expired six months ago. The 30% federal tax credit, the one every installer used to anchor their pitch, is gone. The One Big Beautiful Bill Act killed Section 25D for residential systems installed after December 31, 2025, and that's not a rumor or a political talking point. It's the law. The average homeowner lost roughly $7,500 in savings overnight, and the entire industry has been reorganizing around that reality ever since.
+affiliate_disclosure: true, Most homeowners shopping for solar right now are working off assumptions that expired six months ago. The 30% federal tax credit, the one every installer used to anchor their pitch, is gone. The One Big Beautiful Bill Act killed Section 25D for residential systems installed after December 31, 2025, and that's not a rumor or a political talking point. It's the law. The average homeowner lost roughly $7,500 in savings overnight, and the entire industry has been reorganizing around that reality ever since.
 
 What's replacing cash and loan purchases isn't nothing. It's leases and power purchase agreements, and they're coming back fast and in a form that actually makes sense for a lot of people. If you've dismissed third-party ownership before because someone told you "you always want to own your panels," it's worth revisiting that take.
 
@@ -66,12 +63,12 @@ The bottom line is that the solar market in mid-2026 looks nothing like it did 1
 
 ## Sources
 
-- [US Residential Solar Installations Set to Stall for Years – Bloomberg](https://www.bloomberg.com/news/articles/2026-06-15/us-residential-solar-installations-set-to-stall-for-years) (June 15, 2026)
-- [Solar and Storage Provide Over 90% of New Power in Q1 – SEIA](https://seia.org/news/solar-and-storage-provide-over-90-of-new-power-in-q1/) (June 12, 2026)
-- [Solar's Next Chapter: Beyond Incentives – Yahoo Finance / POWER Magazine](https://finance.yahoo.com/news/solar-next-chapter-beyond-incentives-232221142.html) (June 2026)
-- [Prepaid Solar Leases & PPAs: A New Path for Going Solar in 2026 – Solar.com](https://www.solar.com/learn/prepaid-solar-leases-ppas/) (June 2026)
-- [Solar Leasing and PPAs: How Third-Party Ownership Works in 2026 – SunWise USA](https://sunwiseusa.com/blog/solar-leasing-and-ppas/) (February 2026)
-- [Pre-Paid Solar Leases and PPAs: Are They Worth It in 2026? – EnergySage](https://www.energysage.com/solar/pre-paid-solar-leases-and-ppas/) (January 2026)
+- [US Residential Solar Installations Set to Stall for Years, Bloomberg](https://www.bloomberg.com/news/articles/2026-06-15/us-residential-solar-installations-set-to-stall-for-years) (June 15, 2026)
+- [Solar and Storage Provide Over 90% of New Power in Q1, SEIA](https://seia.org/news/solar-and-storage-provide-over-90-of-new-power-in-q1/) (June 12, 2026)
+- [Solar's Next Chapter: Beyond Incentives, Yahoo Finance / POWER Magazine](https://finance.yahoo.com/news/solar-next-chapter-beyond-incentives-232221142.html) (June 2026)
+- [Prepaid Solar Leases & PPAs: A New Path for Going Solar in 2026, Solar.com](https://www.solar.com/learn/prepaid-solar-leases-ppas/) (June 2026)
+- [Solar Leasing and PPAs: How Third-Party Ownership Works in 2026, SunWise USA](https://sunwiseusa.com/blog/solar-leasing-and-ppas/) (February 2026)
+- [Pre-Paid Solar Leases and PPAs: Are They Worth It in 2026?, EnergySage](https://www.energysage.com/solar/pre-paid-solar-leases-and-ppas/) (January 2026)
 
 ## Helpful Resources
 
@@ -90,6 +87,6 @@ The bottom line is that the solar market in mid-2026 looks nothing like it did 1
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 
