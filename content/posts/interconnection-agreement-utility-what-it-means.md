@@ -14,15 +14,15 @@ slug: "interconnection-agreement-utility-what-it-means"
 affiliate_disclosure: true
 faqs:
  - q: "Can I energize my solar system before receiving Permission to Operate?"
- a: "No. Operating your system before PTO violates your interconnection agreement and likely voids your installer's workmanship warranty. You'll also be exporting power without a net metering arrangement in place, which means you'd be giving the utility free electricity. Wait for the letter."
+   a: "No. Operating your system before PTO violates your interconnection agreement and likely voids your installer's workmanship warranty. You'll also be exporting power without a net metering arrangement in place, which means you'd be giving the utility free electricity. Wait for the letter."
  - q: "Does the interconnection agreement lock in my net metering rate?"
- a: "Not directly. The interconnection agreement governs the physical connection; net metering rates are set by a separate tariff. Some states explicitly protect grandfathered net metering rates for customers who interconnect before a policy change, but the protection period varies and should be confirmed with your utility before you assume anything."
+   a: "Not directly. The interconnection agreement governs the physical connection; net metering rates are set by a separate tariff. Some states explicitly protect grandfathered net metering rates for customers who interconnect before a policy change, but the protection period varies and should be confirmed with your utility before you assume anything."
  - q: "What happens if I add more panels after the agreement is signed?"
- a: "You generally need to submit a revised or new interconnection application. Modifying your system without notifying the utility is a violation of the agreement. Most small additions go through a simplified re-review, but some utilities treat any capacity increase as a new application, which can restart the clock on approval timelines."
+   a: "You generally need to submit a revised or new interconnection application. Modifying your system without notifying the utility is a violation of the agreement. Most small additions go through a simplified re-review, but some utilities treat any capacity increase as a new application, which can restart the clock on approval timelines."
  - q: "Who actually submits the interconnection application?"
- a: "Your solar installer handles this in the vast majority of residential cases. It's part of the permitting and utility coordination process they're supposed to manage. If a contractor tells you to submit it yourself, that's unusual and worth asking about."
+   a: "Your solar installer handles this in the vast majority of residential cases. It's part of the permitting and utility coordination process they're supposed to manage. If a contractor tells you to submit it yourself, that's unusual and worth asking about."
  - q: "What if the utility denies my interconnection application?"
- a: "Denials happen, usually for one of three reasons: the local grid circuit is at capacity for distributed generation, the application had errors, or the system doesn't meet technical requirements. Capacity-based denials are harder to fight, though an appeal process exists in most states. Technical or paperwork denials are usually fixable with a resubmission."
+   a: "Denials happen, usually for one of three reasons: the local grid circuit is at capacity for distributed generation, the application had errors, or the system doesn't meet technical requirements. Capacity-based denials are harder to fight, though an appeal process exists in most states. Technical or paperwork denials are usually fixable with a resubmission."
 ---
 
 Most solar articles spend three paragraphs explaining net metering and skip the document that actually controls whether you can use it. The interconnection agreement is that document, and most homeowners sign it without reading a word.

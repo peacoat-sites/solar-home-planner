@@ -14,15 +14,15 @@ slug: "hail-damage-solar-panels-insurance-claim"
 affiliate_disclosure: true
 faqs:
  - q: "Does homeowner's insurance automatically cover solar panels from hail damage?"
- a: "Usually yes, if they're roof-mounted and permanently attached, but coverage varies by policy and insurer. Some policies include panels as part of dwelling coverage, others require a separate endorsement. Confirm before storm season, not after."
+   a: "Usually yes, if they're roof-mounted and permanently attached, but coverage varies by policy and insurer. Some policies include panels as part of dwelling coverage, others require a separate endorsement. Confirm before storm season, not after."
  - q: "How do I know if my solar panels are actually damaged if the glass looks fine?"
- a: "Internal cell damage doesn't always crack the glass. Compare your current inverter production data to historical output from the same month last year. A drop of 10% or more per panel after a hail event is a red flag worth documenting and reporting."
+   a: "Internal cell damage doesn't always crack the glass. Compare your current inverter production data to historical output from the same month last year. A drop of 10% or more per panel after a hail event is a red flag worth documenting and reporting."
  - q: "Will my insurance company replace panels that are still partially working?"
- a: "It depends on your policy language and the extent of performance loss. If a panel is producing 70% of rated output due to hail damage, an insurer may offer partial compensation rather than full replacement. That's negotiable, especially if you have an independent solar contractor's written assessment."
+   a: "It depends on your policy language and the extent of performance loss. If a panel is producing 70% of rated output due to hail damage, an insurer may offer partial compensation rather than full replacement. That's negotiable, especially if you have an independent solar contractor's written assessment."
  - q: "How soon after a hail storm should I file a claim?"
- a: "The same day if possible, but no later than 24-48 hours. Many policies have reporting windows, adjusters schedule faster when called early, and timely documentation is far more defensible than documentation gathered weeks later."
+   a: "The same day if possible, but no later than 24-48 hours. Many policies have reporting windows, adjusters schedule faster when called early, and timely documentation is far more defensible than documentation gathered weeks later."
  - q: "Can I get compensated for lost solar production while my system is being repaired?"
- a: "Only if your policy specifically includes a production loss endorsement, which most standard homeowner's policies don't. It's worth asking your agent whether that rider is available, especially if your system offsets a large portion of your electricity costs."
+   a: "Only if your policy specifically includes a production loss endorsement, which most standard homeowner's policies don't. It's worth asking your agent whether that rider is available, especially if your system offsets a large portion of your electricity costs."
 ---
 
 A softball-sized hailstone can crack tempered glass. Most homeowners don't realize that until they're standing in their driveway the morning after a storm, squinting up at their roof and wondering if those new dark spots on their panels mean anything. I've been through this twice with clients in Colorado, and the experience taught me more about insurance claims than I ever wanted to know.

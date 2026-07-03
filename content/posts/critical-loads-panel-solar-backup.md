@@ -14,15 +14,15 @@ slug: "critical-loads-panel-solar-backup"
 affiliate_disclosure: true
 faqs:
  - q: "Can I add a critical loads panel to an existing solar system without batteries?"
- a: "No. The critical loads panel only powers circuits when there's a battery (or generator) to supply the backup power. Solar panels alone don't work during grid outages because grid-tied inverters shut down for safety. You need storage."
+   a: "No. The critical loads panel only powers circuits when there's a battery (or generator) to supply the backup power. Solar panels alone don't work during grid outages because grid-tied inverters shut down for safety. You need storage."
  - q: "How many circuits can I put on a critical loads panel?"
- a: "It depends on your inverter's output capacity and your subpanel's amperage rating, but practically speaking, most homeowners fit 6-12 circuits on a 100A critical loads subpanel. The real constraint is total wattage draw, not circuit count."
+   a: "It depends on your inverter's output capacity and your subpanel's amperage rating, but practically speaking, most homeowners fit 6-12 circuits on a 100A critical loads subpanel. The real constraint is total wattage draw, not circuit count."
  - q: "Does a critical loads panel affect my solar production or net metering?"
- a: "No. During normal grid-connected operation, everything works exactly as it would without the backup subpanel. The transfer switch only activates during an outage, routing your battery output to the critical circuits instead of the grid."
+   a: "No. During normal grid-connected operation, everything works exactly as it would without the backup subpanel. The transfer switch only activates during an outage, routing your battery output to the critical circuits instead of the grid."
  - q: "What happens if my critical loads panel gets overloaded during an outage?"
- a: "The battery inverter will either throttle output or trip an overcurrent protection device on the critical loads panel, depending on the inverter model. You won't damage the battery, but you might trip a breaker and lose power to those circuits until you reset it and reduce the load."
+   a: "The battery inverter will either throttle output or trip an overcurrent protection device on the critical loads panel, depending on the inverter model. You won't damage the battery, but you might trip a breaker and lose power to those circuits until you reset it and reduce the load."
  - q: "Do I need a separate permit for the critical loads panel versus the solar and battery permit?"
- a: "Usually it's covered under a single permit application for the entire solar-plus-storage system, but this varies by jurisdiction. Some municipalities issue separate electrical permits for the subpanel work. Ask your installer to confirm what permits they're pulling before work starts, and verify with your local building department if they can't give you a straight answer."
+   a: "Usually it's covered under a single permit application for the entire solar-plus-storage system, but this varies by jurisdiction. Some municipalities issue separate electrical permits for the subpanel work. Ask your installer to confirm what permits they're pulling before work starts, and verify with your local building department if they can't give you a straight answer."
 ---
 
 Most homeowners shopping for solar-plus-storage think "backup" means the whole house stays on. It doesn't. What you actually get with a standard battery install, unless someone specifically sets up a critical loads panel, is a dead house during an outage even if you have a fully charged battery sitting right there in your garage. I've watched this happen to a reader named Marcus from Sacramento who installed a 10 kWh system in 2024, lost power in a grid outage, and his battery did absolutely nothing for him. His installer never explained the difference.

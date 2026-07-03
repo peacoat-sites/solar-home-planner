@@ -14,15 +14,15 @@ slug: "solar-bird-proofing-and-critter-guard"
 affiliate_disclosure: true
 faqs:
  - q: "How much does solar critter guard cost?"
- a: "For most residential systems in the 20 to 30 panel range, professional installation of perimeter mesh runs between $300 and $700. DIY kits with mesh and clips typically run $80 to $200 depending on system size. The retrofit cost is higher than having it done during original installation."
+   a: "For most residential systems in the 20 to 30 panel range, professional installation of perimeter mesh runs between $300 and $700. DIY kits with mesh and clips typically run $80 to $200 depending on system size. The retrofit cost is higher than having it done during original installation."
  - q: "Will critter guard void my solar warranty?"
- a: "Standard galvanized mesh critter guard that clips onto the panel frame without any roof penetrations or modifications to the panel itself doesn't void warranties from mainstream panel manufacturers. Check your specific panel warranty language if you're uncertain, and avoid any installation method that punctures the panel frame."
+   a: "Standard galvanized mesh critter guard that clips onto the panel frame without any roof penetrations or modifications to the panel itself doesn't void warranties from mainstream panel manufacturers. Check your specific panel warranty language if you're uncertain, and avoid any installation method that punctures the panel frame."
  - q: "Can birds still land on top of the panels?"
- a: "Yes, and that's fine. Droppings on the glass surface are a nuisance and do reduce output slightly, but the real damage comes from nesting under the panels. Critter guard addresses the nesting problem. For surface soiling, occasional cleaning with a solar panel cleaning kit handles the rest (the site may earn a commission)."
+   a: "Yes, and that's fine. Droppings on the glass surface are a nuisance and do reduce output slightly, but the real damage comes from nesting under the panels. Critter guard addresses the nesting problem. For surface soiling, occasional cleaning with a solar panel cleaning kit handles the rest (the site may earn a commission)."
  - q: "Is foam backer rod a good alternative to metal mesh?"
- a: "No. Foam degrades from UV exposure and physical pressure over one to two years and stops being an effective barrier. Metal mesh is the right material for this application. The cost difference doesn't justify the failure rate."
+   a: "No. Foam degrades from UV exposure and physical pressure over one to two years and stops being an effective barrier. Metal mesh is the right material for this application. The cost difference doesn't justify the failure rate."
  - q: "How do I know if animals have already damaged my system?"
- a: "Start with your monitoring app or inverter display. Unexplained production drops that don't correlate with weather are a flag. Physically, look for debris accumulation at the panel edges, visible nesting material, or droppings concentrated under one section of the array. If you suspect wiring damage, have a licensed electrician inspect the DC wiring before touching anything yourself."
+   a: "Start with your monitoring app or inverter display. Unexplained production drops that don't correlate with weather are a flag. Physically, look for debris accumulation at the panel edges, visible nesting material, or droppings concentrated under one section of the array. If you suspect wiring damage, have a licensed electrician inspect the DC wiring before touching anything yourself."
 ---
 
 Something got under your panels. Maybe you heard scratching in the early morning and traced it back to the roof. Maybe a neighbor warned you about pigeons nesting under their array. Maybe you're not even sure there's a problem yet, but you're about to get solar installed and you want to do this right the first time. Whatever brought you here, you're asking the right question before things get expensive.
