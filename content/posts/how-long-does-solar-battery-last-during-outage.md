@@ -11,7 +11,9 @@ author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
 slug: "how-long-does-solar-battery-last-during-outage"
-affiliate_disclosure: true, My neighbor lost power for 11 days during a derecho storm last summer. She had solar panels. She still lost everything in her fridge by day two.
+affiliate_disclosure: true
+---
+My neighbor lost power for 11 days during a derecho storm last summer. She had solar panels. She still lost everything in her fridge by day two.
 
 Here's why: she had no battery. Her grid-tied system shut off automatically the moment the utility lines went down, which is exactly how it's supposed to work (a safety feature to protect line workers). But she didn't know that. Her installer had mentioned a "solar backup" in a vague, optimistic way, and she'd assumed that meant something it didn't.
 

@@ -11,7 +11,9 @@ author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
 slug: "solar-batteries-hit-record-attach-rates-as-federal-credit-disappears"
-affiliate_disclosure: true, Most solar coverage right now is running the obvious story: federal tax credit gone, market down 21%, rough year for the industry. That's true, but it misses what's actually interesting. Homeowners are adding batteries to new solar systems at the highest rate ever recorded, and the credit's disappearance is part of why.
+affiliate_disclosure: true
+---
+Most solar coverage right now is running the obvious story: federal tax credit gone, market down 21%, rough year for the industry. That's true, but it misses what's actually interesting. Homeowners are adding batteries to new solar systems at the highest rate ever recorded, and the credit's disappearance is part of why.
 
 SEIA and BloombergNEF data released this June show that 45% of new residential solar installations in Q1 2026 included a battery. That's up from a 35% average across all of 2025. The overall market is contracting hard, but the battery attach rate is breaking records. Those two facts aren't in conflict. They explain each other.
 

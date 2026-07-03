@@ -11,7 +11,9 @@ author_slug: "stephanie-walsh"
 author_title: "Finance Writer"
 author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
 slug: "solar-panel-cracked-what-to-do"
-affiliate_disclosure: true, A cracked solar panel is one of those things that looks worse than it sometimes is, and also sometimes way worse than it looks. I've seen both.
+affiliate_disclosure: true
+---
+A cracked solar panel is one of those things that looks worse than it sometimes is, and also sometimes way worse than it looks. I've seen both.
 
 The call I get most often goes something like this: homeowner goes up on the roof to clean their panels (or, more often, their kid throws a baseball, a hailstorm rolls through, or a roofer drops something), and now there's a visible crack running across one of the cells. The immediate panic is understandable. These things cost money. But before you call your installer in a spiral, there are a few things you need to check first, because the right response depends entirely on what kind of crack you're dealing with.
 

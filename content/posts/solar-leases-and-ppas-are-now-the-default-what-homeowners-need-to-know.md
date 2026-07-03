@@ -11,7 +11,9 @@ author_slug: "tom-bradley"
 author_title: "DIY Researcher"
 author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
 slug: "solar-leases-and-ppas-are-now-the-default-what-homeowners-need-to-know"
-affiliate_disclosure: true, Most homeowners shopping for solar right now are working off assumptions that expired six months ago. The 30% federal tax credit, the one every installer used to anchor their pitch, is gone. The One Big Beautiful Bill Act killed Section 25D for residential systems installed after December 31, 2025, and that's not a rumor or a political talking point. It's the law. The average homeowner lost roughly $7,500 in savings overnight, and the entire industry has been reorganizing around that reality ever since.
+affiliate_disclosure: true
+---
+Most homeowners shopping for solar right now are working off assumptions that expired six months ago. The 30% federal tax credit, the one every installer used to anchor their pitch, is gone. The One Big Beautiful Bill Act killed Section 25D for residential systems installed after December 31, 2025, and that's not a rumor or a political talking point. It's the law. The average homeowner lost roughly $7,500 in savings overnight, and the entire industry has been reorganizing around that reality ever since.
 
 What's replacing cash and loan purchases isn't nothing. It's leases and power purchase agreements, and they're coming back fast and in a form that actually makes sense for a lot of people. If you've dismissed third-party ownership before because someone told you "you always want to own your panels," it's worth revisiting that take.
 

@@ -11,7 +11,9 @@ author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
 slug: "solar-batteries-are-now-half-the-deal-what-the-record-pairing-rate-mea"
-affiliate_disclosure: true, A homeowner called me last month genuinely confused. She had three solar quotes. Two installers were pushing hard for a lease package that bundled in a battery. The third quoted panels only, straight cash purchase, and it was actually cheaper upfront. Which was the better deal? The honest answer in mid-2026 is: it depends entirely on a tax credit change that most installers aren't explaining clearly.
+affiliate_disclosure: true
+---
+A homeowner called me last month genuinely confused. She had three solar quotes. Two installers were pushing hard for a lease package that bundled in a battery. The third quoted panels only, straight cash purchase, and it was actually cheaper upfront. Which was the better deal? The honest answer in mid-2026 is: it depends entirely on a tax credit change that most installers aren't explaining clearly.
 
 Here's what shifted. According to the [SEIA Solar Market Insight Report Q2 2026](https://seia.org/research-resources/solar-market-insight-report-q2-2026/), a record 45% of new residential solar installations in Q1 2026 included a battery storage system. Nearly half. That's a sharp jump from prior years, and it's not because homeowners suddenly fell in love with backup power. It's because the financial math on residential solar changed dramatically when the calendar flipped to January 1, 2026.
 

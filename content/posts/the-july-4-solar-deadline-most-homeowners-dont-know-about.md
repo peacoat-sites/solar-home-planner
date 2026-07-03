@@ -11,7 +11,9 @@ author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
 slug: "the-july-4-solar-deadline-most-homeowners-dont-know-about"
-affiliate_disclosure: true, If you've been putting off the solar decision, maybe waiting to see what happens with prices or legislation, you're probably feeling the ground shift under you right now. The residential tax credit is gone. The installer quotes look different than they did two years ago. And somewhere in the back of your mind, you might be wondering whether you missed the window entirely. You haven't. But there is one window left, and it closes on July 4, 2026.
+affiliate_disclosure: true
+---
+If you've been putting off the solar decision, maybe waiting to see what happens with prices or legislation, you're probably feeling the ground shift under you right now. The residential tax credit is gone. The installer quotes look different than they did two years ago. And somewhere in the back of your mind, you might be wondering whether you missed the window entirely. You haven't. But there is one window left, and it closes on July 4, 2026.
 
 Here's what most homeowners shopping solar right now don't know: a little-known federal deadline is creating a genuine, time-limited opportunity for people who finance solar through a lease or power purchase agreement. If your installer can demonstrate that construction begins before July 4, the solar company can still lock in a 30% commercial tax credit under Section 48E. That credit gets passed to you in the form of lower payments or a meaningful upfront discount. Miss the date, and the math changes significantly.
 

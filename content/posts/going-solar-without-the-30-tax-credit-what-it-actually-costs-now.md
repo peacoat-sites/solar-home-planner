@@ -11,7 +11,9 @@ author_slug: "tom-bradley"
 author_title: "DIY Researcher"
 author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
 slug: "going-solar-without-the-30-tax-credit-what-it-actually-costs-now"
-affiliate_disclosure: true, You pull up a solar quote in June 2026, see a $30,000 system price, and mentally subtract that $9,000 federal tax credit you've been hearing about for years. That's the problem. The credit is gone. It ended December 31, 2025, with no phase-down, no grace period, no grandfather clause for systems in progress. The One Big Beautiful Bill Act, signed July 4, 2025, killed Section 25D outright. What you owe is what you see on the quote.
+affiliate_disclosure: true
+---
+You pull up a solar quote in June 2026, see a $30,000 system price, and mentally subtract that $9,000 federal tax credit you've been hearing about for years. That's the problem. The credit is gone. It ended December 31, 2025, with no phase-down, no grace period, no grandfather clause for systems in progress. The One Big Beautiful Bill Act, signed July 4, 2025, killed Section 25D outright. What you owe is what you see on the quote.
 
 I've seen the confusion firsthand in online buyer communities where people are still referencing articles from 2024 and early 2025. Many of the solar cost calculators plastered across company websites still flash the post-credit price as the default. They're not lying, exactly. They just haven't updated, and that's costing homeowners real money when they sit down at a kitchen table with a contract.
 

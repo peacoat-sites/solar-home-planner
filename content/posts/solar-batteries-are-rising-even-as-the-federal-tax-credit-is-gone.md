@@ -11,7 +11,9 @@ author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
 slug: "solar-batteries-are-rising-even-as-the-federal-tax-credit-is-gone"
-affiliate_disclosure: true, Most solar coverage in 2026 reads like a eulogy. The federal tax credit is dead, new installations are falling, the party is over. What that framing misses entirely: the homeowners actually adding batteries right now are making a smarter financial decision than most of the people who went solar during the credit's peak years.
+affiliate_disclosure: true
+---
+Most solar coverage in 2026 reads like a eulogy. The federal tax credit is dead, new installations are falling, the party is over. What that framing misses entirely: the homeowners actually adding batteries right now are making a smarter financial decision than most of the people who went solar during the credit's peak years.
 
 That's the counterintuitive story of this spring.
 

@@ -11,7 +11,9 @@ author_slug: "stephanie-walsh"
 author_title: "Finance Writer"
 author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
 slug: "enphase-iq9n-microinverter-what-gan-technology-means-for-your-roof"
-affiliate_disclosure: true, Most homeowners shopping for solar right now assume the inverter is the boring part of the decision. Pick a brand, check the warranty, move on. I'll be honest: I thought the same thing for years as an electrician. Then Enphase dropped the IQ9N on June 23, 2026, and the technology inside it forced me to actually pay attention.
+affiliate_disclosure: true
+---
+Most homeowners shopping for solar right now assume the inverter is the boring part of the decision. Pick a brand, check the warranty, move on. I'll be honest: I thought the same thing for years as an electrician. Then Enphase dropped the IQ9N on June 23, 2026, and the technology inside it forced me to actually pay attention.
 
 This isn't a minor spec bump. Enphase built the IQ9N around gallium nitride semiconductors, and if you've been following what GaN has done to laptop chargers and EV power systems over the last few years, you already know why that matters. For everyone else, let's dig into what this actually means for a system on your roof, in your specific financial situation, right now in mid-2026.
 

@@ -11,7 +11,9 @@ author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
 slug: "how-to-add-a-battery-to-your-existing-solar-system"
-affiliate_disclosure: true, You bought your solar system in 2019, your installer promised you'd "basically eliminate your electric bill," and for a while that was true. Then your utility quietly revised its net metering policy, cut the export rate from retail to something closer to wholesale, and now you're watching your annual bill creep back up while your panels sit there doing exactly what they were designed to do. You're not imagining it. This is happening to solar owners all over the country, and it's exactly why battery retrofits have become the loudest conversation in residential solar right now.
+affiliate_disclosure: true
+---
+You bought your solar system in 2019, your installer promised you'd "basically eliminate your electric bill," and for a while that was true. Then your utility quietly revised its net metering policy, cut the export rate from retail to something closer to wholesale, and now you're watching your annual bill creep back up while your panels sit there doing exactly what they were designed to do. You're not imagining it. This is happening to solar owners all over the country, and it's exactly why battery retrofits have become the loudest conversation in residential solar right now.
 
 ## Why 2026 Is the Year This Actually Matters
 
