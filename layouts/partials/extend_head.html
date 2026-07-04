@@ -97,3 +97,9 @@
 }
 </script>
 {{- end }}
+
+{{/* title-font */}}
+{{- if eq .Section "posts" }}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&display=swap">
+<style>.post-title{font-family:'Syne', system-ui, sans-serif;letter-spacing:-.03em}</style>
+{{- end }}
