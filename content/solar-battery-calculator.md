@@ -1,5 +1,6 @@
 ---
 title: "Solar Battery Sizing Calculator: How Many Batteries Do You Need?"
+hide_title: true
 date: 2026-06-10
 draft: false
 description: "Calculate exactly how many solar batteries you need to power your home during an outage. Enter your critical loads, days of backup, and battery specs to get an instant estimate."
