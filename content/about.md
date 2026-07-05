@@ -1,5 +1,6 @@
 ---
 title: "About Solar Home Planner"
+hide_title: true
 date: 2026-01-01
 draft: false
 description: "About Solar Home Planner,  meet Liz and Tom Greer, homeowners who installed solar and now help others plan their projects."
