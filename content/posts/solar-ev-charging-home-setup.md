@@ -1,5 +1,5 @@
 ---
-title: "Solar + Ev Charging Home Setup"
+title: "Solar + EV Charging Home Setup"
 date: 2026-05-28T16:01:26.792155+00:00
 draft: false
 description: "Discover how to set up solar panels with EV charging at home, reduce energy costs, and drive on clean power with our complete step-by-step guide."
