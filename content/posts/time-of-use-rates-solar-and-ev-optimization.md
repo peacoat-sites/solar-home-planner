@@ -1,5 +1,5 @@
 ---
-title: "Time Of Use Rates Solar And Ev Optimization"
+title: "Time Of Use Rates Solar And EV Optimization"
 date: 2026-06-22T23:49:44.608893+00:00
 draft: false
 description: "Learn how time of use rates work with solar panels and EVs to slash your electricity bill by charging and exporting power at the right hours."
