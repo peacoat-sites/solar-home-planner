@@ -11,6 +11,9 @@ tags: ["solar calculator", "solar savings", "payback period", "federal tax credi
 image: "https://images.pexels.com/photos/159397/solar-panel-array-power-sun-electricity-159397.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
+{{< solar-calc >}}
+
+
 One of the first questions every homeowner asks when exploring solar is: **how long until I break even?** The answer depends on where you live, how much electricity you use, what installers quote you, and what incentives you qualify for. This calculator brings all those variables together in one place so you can run real scenarios before you talk to a single salesperson.
 
 ## How the Solar Savings Calculator Works
@@ -31,7 +34,6 @@ The calculator applies the ITC to your gross system cost before calculating payb
 
 Many states also offer additional incentives: property tax exemptions, sales tax exemptions on solar equipment, and utility rebates. Enter any state or utility rebate in the rebate field to see how it affects your numbers.
 
-{{< solar-calc >}}
 
 ## Understanding Your Results
 
