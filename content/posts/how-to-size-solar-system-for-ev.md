@@ -1,5 +1,5 @@
 ---
-title: "How To Size Solar System For Ev"
+title: "How To Size Solar System For EV"
 date: 2026-05-20T09:03:17.151120+00:00
 draft: false
 description: "Learn how to properly size a solar system for your EV with our step-by-step guide covering energy needs, panel calculations, battery storage, and charging optio"
