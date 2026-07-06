@@ -1,5 +1,5 @@
 ---
-title: "Solar Ev Charging Cost Savings"
+title: "Solar EV Charging Cost Savings"
 date: 2026-05-20T22:07:16.529365+00:00
 draft: false
 description: "Save money charging your EV with solar power. Discover how combining solar panels with electric vehicle charging can slash energy bills and reduce your carbon f"
