@@ -1,5 +1,5 @@
 ---
-title: "Lg Chem Resu Battery Review"
+title: "LG Chem RESU Battery Review"
 date: 2026-07-01T23:51:35.311723+00:00
 draft: false
 description: "Discover how the LG Chem RESU battery performs for home energy storage. We review capacity, efficiency, cost, and compatibility with solar systems."
