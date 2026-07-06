@@ -4,7 +4,9 @@ hide_title: true
 date: 2026-01-01
 draft: false
 description: "About Solar Home Planner,  meet Liz and Tom Greer, homeowners who installed solar and now help others plan their projects."
----
+layout: "about-page"
+author_slug: "solar-home-planner"
+author_name: "Solar Home Planner"---
 
 ## About Solar Home Planner
 
