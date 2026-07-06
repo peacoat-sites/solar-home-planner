@@ -1,5 +1,5 @@
 ---
-title: "How Many Solar Panels To Charge Ev"
+title: "How Many Solar Panels To Charge EV"
 date: 2026-05-26T09:44:19.406178+00:00
 draft: false
 description: "Discover how many solar panels you need to charge your electric vehicle at home. We cover daily mileage, panel output, and setup tips to maximize savings."
