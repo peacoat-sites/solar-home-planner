@@ -7,6 +7,7 @@ description: "About Solar Home Planner,  meet Liz and Tom Greer, homeowners who 
 layout: "about-page"
 author_slug: "david-torres"
 author_name: "Solar Home Planner"
+person_name: "Liz and Tom Greer"
 ---
 
 ## About Solar Home Planner
