@@ -1,5 +1,5 @@
 ---
-title: "Solar + Ev Tax Credits Combined"
+title: "Solar + EV Tax Credits Combined"
 date: 2026-05-21T14:57:09.597450+00:00
 draft: false
 description: "Maximize savings by combining federal solar panel and EV tax credits. Learn how homeowners can claim both incentives to slash energy costs and reduce their tax "
