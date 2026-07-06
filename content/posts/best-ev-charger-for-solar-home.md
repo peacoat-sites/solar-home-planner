@@ -1,5 +1,5 @@
 ---
-title: "Best Ev Charger For Solar Home"
+title: "Best EV Charger For Solar Home"
 date: 2026-05-18T15:13:38.333380+00:00
 draft: false
 description: "Discover the best EV charger for your solar home. Compare top-rated options, key features, and compatibility tips to maximize clean energy savings for your elec"
