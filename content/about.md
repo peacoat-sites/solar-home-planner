@@ -30,7 +30,7 @@ Personal experience first. We tell you what we did, what worked, what we’d do 
 
 ## Disclaimer
 
-Solar Home Planner shares the personal experience of two homeowners and general research. We are not licensed solar installers or electrical contractors. Solar system performance, costs, and incentives vary by location, home, and utility. Consult a licensed installer for a design and quote specific to your property.
+Solar Home Planner draws on hands-on solar industry experience and general research. We are not licensed solar installers or electrical contractors. Solar system performance, costs, and incentives vary by location, home, and utility. Consult a licensed installer for a design and quote specific to your property.
 
 ## Affiliate Disclosure
 
