@@ -21,8 +21,8 @@ faqs:
     a: "Ask each installer to provide the system's projected Year 1 production in kWh (not just wattage), the temperature coefficient, the degradation rate, and the specific warranty terms. Then calculate cost per kWh of projected lifetime production, not cost per watt. That's the number that actually tells you which quote is the better deal."
 author: "Tom Bradley"
 author_slug: "tom-bradley"
-author_title: "DIY Researcher"
-author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+author_title: "DIY Solar Specialist"
+author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
 
 ---
 Most people shopping for solar panels in 2026 spend way too much time comparing efficiency ratings and nowhere near enough time asking who's actually going to be around to honor that 25-year warranty. That's the thing nobody puts in the comparison chart.

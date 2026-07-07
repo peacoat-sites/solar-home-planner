@@ -21,8 +21,8 @@ faqs:
    a: "Payback periods vary significantly by location, electricity rates, and how much you drive. In high-electricity-cost states like California, Hawaii, or Massachusetts, payback periods of 6 to 9 years are realistic. In lower-rate states, expect 10 to 14 years. The EV charging savings are additive on top of your household solar savings, which is why the combination often has a better payback than solar alone."
 author: "Tom Bradley"
 author_slug: "tom-bradley"
-author_title: "DIY Researcher"
-author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+author_title: "DIY Solar Specialist"
+author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
 
 ---
 You bought the EV first. Or maybe you're about to. And now someone, a neighbor, a coworker, a YouTube rabbit hole at midnight, has convinced you that free solar charging is possible. It is. But it's not as simple as bolting panels to your roof and plugging in the car.

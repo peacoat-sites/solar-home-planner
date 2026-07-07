@@ -21,8 +21,8 @@ faqs:
    a: "Yes, as of the Inflation Reduction Act changes that took effect in 2023, standalone battery storage qualifies for the 30% Investment Tax Credit even when retrofitted to an existing solar system, as long as the battery has a minimum capacity of 3 kWh. This is a significant change from prior rules that required batteries to be installed simultaneously with solar to qualify. Consult a tax professional for your specific situation."
 author: "Tom Bradley"
 author_slug: "tom-bradley"
-author_title: "DIY Researcher"
-author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+author_title: "DIY Solar Specialist"
+author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
 
 ---
 Picture this: it's July, a heat wave is rolling through, and a transformer two blocks over just blew. Your neighbor with solar panels is watching TV and running their AC while you're sweating in the dark wondering why your solar-powered house is also completely dead. This happens every single summer, and the confusion it causes is completely understandable. Most homeowners assume solar equals backup power. It almost never does, at least not without a specific additional component that most installers don't emphasize nearly enough during the sales process.

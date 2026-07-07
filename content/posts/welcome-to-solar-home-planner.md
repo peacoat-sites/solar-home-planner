@@ -9,8 +9,8 @@ tags: ["solar", "home solar", "solar planning", "solar guide"]
 slug: "welcome-to-solar-home-planner"
 author: "Tom Bradley"
 author_slug: "tom-bradley"
-author_title: "DIY Researcher"
-author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+author_title: "DIY Solar Specialist"
+author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
 
 ---
 Planning to go solar is one of the best decisions a homeowner can make. Whether you're looking to cut electricity bills, add backup power during outages, charge your EV for free, or take your home completely off-grid, this site is your comprehensive planning resource.

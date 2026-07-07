@@ -21,8 +21,8 @@ faqs:
     a: "Quality panels carry IEC 61215 certification, which includes a hail impact test using 1-inch ice balls at 51 mph. Most panels from reputable manufacturers handle typical hail without damage. The bigger risk in storms is wind uplift on your mounting hardware. Use properly rated racking systems and follow manufacturer torque specifications. Ground mounts in hurricane-prone areas should be engineered for local wind loads. Document your installation with photos for insurance purposes."
 author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
-author_title: "Finance Writer"
-author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+author_title: "Solar Finance Analyst"
+author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 
 ---
 You're sitting at a kitchen table in a cabin 40 miles from the nearest utility pole, watching your generator burn through $8 worth of fuel every hour just to power a few lights and a laptop. That scenario plays out for thousands of homeowners every year, and it's exactly why off-grid solar has gone from a fringe experiment to a legitimate, cost-effective power strategy. The equipment's gotten better, the prices have dropped sharply, and a motivated homeowner with solid electrical fundamentals can absolutely pull this off. But I want to be honest with you upfront: this is not a weekend project you wing from YouTube alone. Done right, it's deeply satisfying and genuinely liberating. Done wrong, it's a fire hazard with a very expensive battery bank attached.

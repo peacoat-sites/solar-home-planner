@@ -21,8 +21,8 @@ faqs:
     a: "Your main service panel needs available breaker space and sufficient bus bar rating. A 200-amp panel is almost always adequate. The NEC 120 percent rule means your main breaker plus your solar backfeed breaker can't exceed 120 percent of the bus bar rating. On a 200-amp panel with a 200-amp main breaker, your solar backfeed breaker is capped at 40 amps (200A x 1.2 = 240A, minus 200A main = 40A solar). This limits string inverter connection to roughly 9.6 kW at 240V. If you need more, a panel upgrade or a load-side connection may be required."
 author: "Tom Bradley"
 author_slug: "tom-bradley"
-author_title: "DIY Researcher"
-author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+author_title: "DIY Solar Specialist"
+author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
 
 ---
 Most homeowners walk into solar quotes with zero leverage. They hand the salesperson a utility bill, nod along while someone explains "peak sun hours," and end up with a system somebody else sized for them. I've watched this happen dozens of times. The salesperson isn't necessarily lying, but they have every incentive to round up. A bigger system means a bigger commission. What I want to show you is that sizing a solar system yourself isn't that complicated, and doing it before you ever talk to a contractor changes the entire conversation.

@@ -21,8 +21,8 @@ faqs:
     a: "Quality monocrystalline panels are warrantied to produce at least 80% of rated output after 25 years and often keep going well beyond that. LiFePO4 batteries are typically rated for 2,000 to 3,500 charge cycles, which at daily cycling translates to 8 to 10 years or more. Your charge controller and inverter are consumables by comparison; plan to replace those within 10 to 15 years."
 author: "Tom Bradley"
 author_slug: "tom-bradley"
-author_title: "DIY Researcher"
-author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+author_title: "DIY Solar Specialist"
+author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
 
 ---
 If you've ever stood inside a dark cabin at dusk, watching the propane lanterns hiss while your phone battery dies and the nearest hardware store is forty-five minutes of dirt road away, you already understand the problem better than any spec sheet can explain it.

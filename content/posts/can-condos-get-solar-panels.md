@@ -21,8 +21,8 @@ faqs:
    a: "Contractors who've never done a multi-family or condo installation are a real liability here. Ask specifically: have they pulled permits in your municipality for a condo unit installation? Do they have experience with your utility's interconnection application process for multi-tenant buildings? Can they provide a roof penetration warranty? A contractor who hesitates on those questions, or gives you vague answers, is probably learning on your dime. Get at least three quotes and ask each one to walk you through the interconnection plan specifically."
 author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
-author_title: "Finance Writer"
-author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+author_title: "Solar Finance Analyst"
+author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 
 ---
 You bought your condo with solar in mind. The roof exposure is perfect, your utility bills are painful, and you've watched your neighbor in the single-family house next door cut their electric bill by 80 percent. Then you ask your HOA about installing panels, and suddenly you're in a committee meeting being told it's "not that simple." They're right, honestly. But that doesn't mean it's impossible.

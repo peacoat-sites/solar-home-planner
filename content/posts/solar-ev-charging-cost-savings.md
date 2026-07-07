@@ -21,8 +21,8 @@ faqs:
    a: "Almost always, yes. Adding panels to an existing system is often cheaper per watt than the original installation if your inverter has spare capacity or if you're switching to microinverters. The EV creates a large new load that changes your system's economics entirely. Get at least two quotes from installers who will do a real production analysis, not just a satellite estimate, before deciding."
 author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
-author_title: "Finance Writer"
-author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+author_title: "Solar Finance Analyst"
+author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 
 ---
 Picture this: your neighbor just got an EV and won't shut up about never stopping at a gas station. Then their first electric bill arrives and suddenly they go quiet. Charging a vehicle at home sounds like pure savings until you realize you've basically installed a small appliance that runs for hours every night. For most people, that's an extra $80 to $150 a month on the utility bill, sometimes way more if you're in California or Massachusetts where rates can hit $0.25/kWh. I've watched that sticker shock turn EV enthusiasm into genuine regret in about two weeks. The fix, and it's genuinely solid, is pairing your home EV charger with rooftop solar. Done right, you're not just avoiding the gas pump. You're driving on sunlight you generated yourself, at a cost that can drop below $0.03 per mile.

@@ -21,8 +21,8 @@ faqs:
    a: "Marginally, yes. Monocrystalline panels tend to have slightly better low-light performance, which is reflected in their spectral response curves. In practical terms for a homeowner, the difference on an overcast January day in Seattle is real but not dramatic. If you're in a persistently cloudy climate, your bigger lever is system sizing and getting good south or southwest orientation, not panel type."
 author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
-author_title: "Finance Writer"
-author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+author_title: "Solar Finance Analyst"
+author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 
 ---
 If you've spent more than twenty minutes researching solar panels, you've already encountered this argument. Monocrystalline or polycrystalline? Black or blue? And you're probably thinking it doesn't matter, that this is one of those distinctions that sounds technical but makes zero practical difference.

@@ -21,8 +21,8 @@ faqs:
    a: "This is a legitimate legal argument in states like California and Arizona. If the HOA's required placement reduces your system's annual output by a significant amount compared to your proposed design, that restriction may be unenforceable. Get a shading analysis from your installer that quantifies the output difference between your proposed placement and the HOA's required placement. That data is your evidence."
 author: "Tom Bradley"
 author_slug: "tom-bradley"
-author_title: "DIY Researcher"
-author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+author_title: "DIY Solar Specialist"
+author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
 
 ---
 Your HOA just sent you a letter denying your solar panel application. Maybe they cited "aesthetic guidelines" or said panels aren't allowed on street-facing roof sections. You're frustrated. And you might be thinking the HOA has the final word here.

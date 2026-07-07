@@ -21,8 +21,8 @@ faqs:
    a: "Most programs require proof of income (recent tax return or pay stubs), proof of homeownership (deed or mortgage statement), a recent utility bill, and a government-issued ID. Some also ask for Social Security numbers for all household members. Getting these organized before you apply will speed up a process that can otherwise take weeks just on paperwork."
 author: "Tom Bradley"
 author_slug: "tom-bradley"
-author_title: "DIY Researcher"
-author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+author_title: "DIY Solar Specialist"
+author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
 
 ---
 The federal solar tax credit gets all the headlines, but it's completely useless if you don't owe enough in federal taxes to claim it. I've watched low-income homeowners get pitched a 30% "discount" that they'll never actually see, because nobody bothered to ask about their tax situation first. That single detail, the difference between a refundable and non-refundable credit, disqualifies a huge slice of the people who need solar savings the most.

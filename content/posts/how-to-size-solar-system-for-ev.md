@@ -21,8 +21,8 @@ faqs:
     a: "This varies widely by location, electricity rates, and incentives, but the 26 to 30 percent federal Investment Tax Credit (currently running at 30 percent under the Inflation Reduction Act through 2032) significantly improves the math. In high-rate states like California, Hawaii, or Massachusetts, combined solar-plus-EV payback periods of 6 to 9 years are realistic. In lower-rate states, it stretches to 10 to 13 years. The EV piece generally strengthens the case for solar because it increases the amount of expensive grid electricity you're displacing."
 author: "Tom Bradley"
 author_slug: "tom-bradley"
-author_title: "DIY Researcher"
-author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+author_title: "DIY Solar Specialist"
+author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
 
 ---
 Most homeowners I talk to start the solar-plus-EV conversation completely backwards. They buy the car first, get the charging equipment installed, then call a solar installer and say something like "I want to offset my electricity bill." The installer quotes them a system based on their current usage, and six months later they're wondering why their net metering credit disappeared and their bill is climbing again. The EV wasn't in the equation. That one oversight can mean undersizing your system by 30 to 50 percent, and I've seen it happen more times than I can count.

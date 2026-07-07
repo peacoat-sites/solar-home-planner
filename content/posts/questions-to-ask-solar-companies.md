@@ -21,8 +21,8 @@ faqs:
    a: "It can matter significantly. Ask who specifically will be on your roof and doing the electrical work, and confirm those individuals carry the appropriate licenses and are covered under the company's insurance policy. If the contractor can't tell you who the subcontractor is before you sign, that's a problem."
 author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
-author_title: "Finance Writer"
-author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+author_title: "Solar Finance Analyst"
+author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 
 ---
 A salesperson sits across your kitchen table, tablet in hand, promising you'll eliminate your electric bill and pay for the whole system in seven years. The numbers look great. The rep is friendly. And you're about to sign a contract worth $25,000 or more without asking a single hard question. I've watched this happen to neighbors, clients, and friends. The solar industry has real, reputable contractors in it, but it also has high-pressure closers who disappear after installation day. Knowing which questions to ask, and when to ask them, is the only thing standing between you and a decision you'll regret for the next 20 years.

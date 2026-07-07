@@ -5,8 +5,8 @@ layout: "author-page"
 hide_title: true
 author_name: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
-author_title: "Finance Writer"
+author_title: "Solar Finance Analyst"
 author_specialty: "Solar Financing, ROI & Incentives"
 ---
 
-Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote.
+Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives.

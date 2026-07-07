@@ -21,8 +21,8 @@ faqs:
    a: "Get a full 12 months of utility bills and 12 months of production data from your monitoring platform, and put them side by side. Calculate your actual offset percentage. If it's under 80 percent of what was promised, start with your installer's customer service line and ask for an explanation in writing. If you don't get a satisfying answer, hire an independent solar inspector (expect to pay $150 to $300) to audit the system independently."
 author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
-author_title: "Finance Writer"
-author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+author_title: "Solar Finance Analyst"
+author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 
 ---
 You went solar to cut your electric bill. Your bill is still embarrassing. Here's what's actually going on.

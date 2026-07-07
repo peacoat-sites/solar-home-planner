@@ -21,8 +21,8 @@ faqs:
    a: "This is more common than people realize, especially in states like Nevada and Hawaii where net metering policies have tightened. If your utility caps residential interconnection at 10 kW and your load analysis says you need 11.5 kW, you have two choices: accept the cap and use efficiency upgrades to close the gap, or pair a smaller grid-tied array with battery storage to capture excess production locally rather than exporting it."
 author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
-author_title: "Finance Writer"
-author_bio: "Stephanie Walsh spent years as a financial planner before narrowing her focus to renewable energy economics. She helps homeowners cut through solar loan pitches, understand true payback periods, and make sense of federal tax credits and state incentives. At Solar Home Planner, she covers financing options, incentive stacking, and how to evaluate a solar quote."
+author_title: "Solar Finance Analyst"
+author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 
 ---
 Your electricity bill is the single most important document in your whole solar project, and most people barely glance at it before calling a contractor.

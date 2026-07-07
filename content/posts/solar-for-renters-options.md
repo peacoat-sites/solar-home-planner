@@ -21,8 +21,8 @@ faqs:
     a: "A window AC unit drawing 500 to 1,000 watts will drain a standard 500Wh portable station in under an hour, so it's not practical for regular use. High-capacity units like the EcoFlow Delta Pro (3,600Wh) can run a small window unit for a few hours, but that's a $3,000+ system. For AC loads, community solar offsetting your bill is a much better approach than trying to power the unit directly."
 author: "Tom Bradley"
 author_slug: "tom-bradley"
-author_title: "DIY Researcher"
-author_bio: "Tom Bradley is a homeowner who installed a partial DIY solar system on his property and spent two years documenting every step, mistake, and lesson learned. He approaches solar from the consumer perspective, translating contractor jargon and helping other homeowners ask the right questions before signing anything. At Solar Home Planner, he covers the DIY angle and homeowner-first guidance."
+author_title: "DIY Solar Specialist"
+author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
 
 ---
 Most solar coverage assumes you own the roof. Full stop. The articles about tax credits, panel brands, and payback periods are written for homeowners, and if you're renting, you're supposed to feel vaguely left out and wait until you buy a house someday.
