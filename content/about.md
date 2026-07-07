@@ -3,24 +3,22 @@ title: "About Solar Home Planner"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About Solar Home Planner,  meet Liz and Tom Greer, homeowners who installed solar and now help others plan their projects."
+description: "About Solar Home Planner,  meet David Torres, homeowners who installed solar and now help others plan their projects."
 layout: "about-page"
 author_slug: "david-torres"
 author_name: "Solar Home Planner"
-person_name: "Liz and Tom Greer"
+person_name: "David Torres"
 ---
 
 ## About Solar Home Planner
 
 Solar Home Planner is a resource for homeowners in the process of evaluating, planning, or completing a residential solar installation. We write from the experience of having done it ourselves.
 
-## Meet the Writers
+## Meet the Editor
 
-**Liz and Tom Greer** are the writers behind Solar Home Planner.
+**David Torres** is the editor behind Solar Home Planner.
 
-In 2021, Liz and Tom installed a 9.2kW rooftop solar system on their home in the Southeast. They went through the full process,  gathering quotes from five installers, reviewing contracts, obtaining permits, surviving the installation week, waiting through utility interconnection, and then monitoring production data for the first year.
-
-It was more complicated than they expected, and the information available online either oversimplified the process or came from solar companies with a financial interest in the outcome. They started Solar Home Planner to share what they learned,  practically, honestly, and from an actual homeowner’s perspective.
+David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system.
 
 ## What We Cover
 
