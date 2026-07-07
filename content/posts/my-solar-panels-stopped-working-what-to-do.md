@@ -13,8 +13,6 @@ author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
 
 ---
-# My Solar Panels Stopped Working: A Complete Troubleshooting Guide
-
 You're checking your solar app on a sunny Tuesday morning when you notice something wrong: zero production. Or maybe your electricity bill has climbed back to pre-solar levels for no obvious reason. Whatever tipped you off, discovering your solar panels have stopped working hits different. You're counting on that clean energy to offset your utility costs. Here's the relief: a lot of solar system failures are either minor fixes you can handle yourself or problems easily diagnosed before you even call a technician.
 
 This guide takes you through every likely cause of a solar system outage, from the ridiculously simple to the genuinely serious, so you can stop guessing and start getting your system back online.
