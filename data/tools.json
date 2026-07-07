@@ -1,0 +1,12 @@
+[
+  {
+    "label": "Battery Calc",
+    "url": "/solar-battery-calculator/",
+    "icon": "\u2600\ufe0f"
+  },
+  {
+    "label": "Savings Calc",
+    "url": "/solar-savings-calculator/",
+    "icon": "\u2600\ufe0f"
+  }
+]
