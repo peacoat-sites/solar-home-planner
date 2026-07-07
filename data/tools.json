@@ -2,11 +2,17 @@
   {
     "label": "Battery Calc",
     "url": "/solar-battery-calculator/",
-    "icon": "\u2600\ufe0f"
+    "icon": "\u2600\ufe0f",
+    "match": [
+      "battery"
+    ]
   },
   {
     "label": "Savings Calc",
     "url": "/solar-savings-calculator/",
-    "icon": "\u2600\ufe0f"
+    "icon": "\u2600\ufe0f",
+    "match": [
+      "savings"
+    ]
   }
 ]
