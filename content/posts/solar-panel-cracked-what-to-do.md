@@ -3,7 +3,7 @@ title: "Solar Panel Cracked What To Do"
 date: 2026-06-29T23:33:36.154149+00:00
 draft: false
 description: "Discovered a cracked solar panel? Learn what steps to take immediately, whether to repair or replace it, and how to stay safe and protect your investment."
-image: "https://images.pexels.com/photos/9229395/pexels-photo-9229395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9229395.jpg"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "panel", "cracked", "what"]
 author: "Stephanie Walsh"

@@ -3,7 +3,7 @@ title: "How to Add a Battery to Your Existing Solar System"
 date: 2026-06-21T23:51:18.925104+00:00
 draft: false
 description: "Discover how to add a battery to your existing solar system with our step-by-step guide. Store excess energy, reduce bills, and boost your energy independence t"
-image: "https://images.pexels.com/photos/19980221/pexels-photo-19980221.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19980221.jpg"
 categories: ["trending"]
 tags: ["battery", "your", "existing", "solar", "system"]
 author: "Morgan Johnson"

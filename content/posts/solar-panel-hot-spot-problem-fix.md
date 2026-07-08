@@ -3,7 +3,7 @@ title: "Solar Panel Hot Spot Problem Fix"
 date: 2026-07-02T23:35:40.529571+00:00
 draft: false
 description: "Learn how to identify and fix solar panel hot spots to prevent damage, improve efficiency, and extend the lifespan of your solar energy system."
-image: "https://images.pexels.com/photos/4254161/pexels-photo-4254161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4254161.jpg"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "panel", "spot", "problem"]
 author: "Tom Bradley"

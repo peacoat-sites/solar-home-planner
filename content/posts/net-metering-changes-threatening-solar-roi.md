@@ -3,7 +3,7 @@ title: "Net Metering Changes Threatening Solar ROI"
 date: 2026-07-05T23:37:22.085196+00:00
 draft: false
 description: "Discover how recent net metering policy changes are reducing solar panel returns and what homeowners can do to protect their solar investment."
-image: "https://images.pexels.com/photos/30440512/pexels-photo-30440512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30440512.jpg"
 categories: ["Solar Policy & Utility Issues"]
 tags: ["metering", "changes", "threatening", "solar"]
 author: "Rachel Kim"

@@ -1,7 +1,7 @@
 ---
 title: "Right To Solar Law Explained"
 date: 2026-05-27T12:00:11.578181+00:00
-image: "https://images.pexels.com/photos/32266781/pexels-photo-32266781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32266781.jpg"
 draft: false
 description: "Right to solar law explained: Learn about renewable energy rights, property laws, and how these regulations protect your ability to install solar panels."
 categories: ["Solar Permits & HOA"]

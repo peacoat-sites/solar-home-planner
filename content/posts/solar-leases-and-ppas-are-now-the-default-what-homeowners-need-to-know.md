@@ -3,7 +3,7 @@ title: "Solar Leases and PPAs Are Now the Default: What Homeowners Need to Know"
 date: 2026-06-19T23:37:18.838988+00:00
 draft: false
 description: "Thinking about going solar? Leases and PPAs are now the most common option. Learn what homeowners need to know before signing any solar agreement."
-image: "https://images.pexels.com/photos/22032343/pexels-photo-22032343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/22032343.jpg"
 categories: ["trending"]
 tags: ["solar", "leases", "ppas", "default:", "what"]
 author: "Tom Bradley"

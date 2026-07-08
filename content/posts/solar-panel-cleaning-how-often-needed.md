@@ -3,7 +3,7 @@ title: "Solar Panel Cleaning How Often Needed"
 date: 2026-06-14T23:45:03.261540+00:00
 draft: false
 description: "Learn how often solar panels need cleaning to maintain peak efficiency. Discover the best cleaning schedule based on location, weather, and panel type."
-image: "https://images.pexels.com/photos/8312917/pexels-photo-8312917.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8312917.jpg"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "panel", "cleaning", "often", "needed"]
 author: "Stephanie Walsh"

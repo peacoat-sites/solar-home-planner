@@ -3,7 +3,7 @@ title: "Solar Bird Proofing And Critter Guard"
 date: 2026-06-26T23:44:43.002444+00:00
 draft: false
 description: "Protect your solar panels from birds and critters with professional proofing solutions. Learn about mesh guards, clips, and installation options."
-image: "https://images.pexels.com/photos/10954905/pexels-photo-10954905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10954905.jpg"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "bird", "proofing", "critter", "guard"]
 author: "Stephanie Walsh"

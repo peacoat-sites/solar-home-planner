@@ -3,7 +3,7 @@ title: "Solar Batteries Are Rising Even as the Federal Tax Credit Is Gone"
 date: 2026-06-30T23:44:15.371988+00:00
 draft: false
 description: "Discover how solar batteries are gaining popularity despite the expiration of the federal tax credit, and what it means for homeowners considering energy storag"
-image: "https://images.pexels.com/photos/35237908/pexels-photo-35237908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35237908.jpg"
 categories: ["trending"]
 tags: ["solar", "batteries", "rising", "even", "federal"]
 author: "David Torres"

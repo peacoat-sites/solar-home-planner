@@ -3,7 +3,7 @@ title: "Low Income Solar Programs By State"
 date: 2026-06-07T23:36:06.127235+00:00
 draft: false
 description: "Discover low income solar programs available in your state, including grants, subsidies, and incentives that help qualifying households access affordable clean "
-image: "https://images.pexels.com/photos/32270936/pexels-photo-32270936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32270936.jpg"
 categories: ["Solar Access & Community"]
 tags: ["income", "solar", "programs", "state"]
 slug: "low-income-solar-programs-by-state"

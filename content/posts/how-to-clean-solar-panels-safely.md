@@ -3,7 +3,7 @@ title: "How To Clean Solar Panels Safely"
 date: 2026-06-14T23:46:55.369831+00:00
 draft: false
 description: "Learn how to clean solar panels safely with simple tools and steps. Keep your panels efficient and avoid damage with our easy-to-follow cleaning guide."
-image: "https://images.pexels.com/photos/29206499/pexels-photo-29206499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29206499.jpg"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["clean", "solar", "panels", "safely"]
 author: "Tom Bradley"

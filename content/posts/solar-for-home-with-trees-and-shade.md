@@ -3,7 +3,7 @@ title: "Solar For Home With Trees And Shade"
 date: 2026-05-24T14:44:49.832495+00:00
 draft: false
 description: "Solar panels for homes with trees and shade: Learn how to maximize energy production, assess tree coverage, and optimize placement for shaded properties."
-image: https://images.pexels.com/photos/7693231/pexels-photo-7693231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/7693231.jpg"
 categories: ["Solar for Home Types"]
 tags: ["solar", "home", "with", "trees", "shade"]
 slug: "solar-for-home-with-trees-and-shade"

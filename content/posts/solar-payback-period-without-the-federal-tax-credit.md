@@ -3,7 +3,7 @@ title: "Solar Payback Period Without the Federal Tax Credit"
 date: 2026-06-25T23:53:46.568208+00:00
 draft: false
 description: "Discover how long it takes to recoup your solar investment without the federal tax credit and explore strategies to maximize savings and shorten your payback pe"
-image: "https://images.pexels.com/photos/20013170/pexels-photo-20013170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/20013170.jpg"
 categories: ["trending"]
 tags: ["solar", "payback", "period", "without", "federal"]
 author: "Rachel Kim"

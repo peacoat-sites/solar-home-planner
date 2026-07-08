@@ -3,7 +3,7 @@ title: "Your Solar Installer Went Bankrupt: What to Do Right Now"
 date: 2026-07-07T23:31:27.910367+00:00
 draft: false
 description: "Find out exactly what steps to take if your solar installer has gone bankrupt, from protecting your warranty to completing your installation and securing your i"
-image: "https://images.pexels.com/photos/8782730/pexels-photo-8782730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8782730.jpg"
 categories: ["trending"]
 tags: ["your", "solar", "installer", "went", "bankrupt:"]
 author: "David Torres"

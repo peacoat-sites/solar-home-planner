@@ -3,7 +3,7 @@ title: "Solar Panel Efficiency Ratings Explained"
 date: 2026-06-04T12:23:21.349774+00:00
 draft: false
 description: "Discover what solar panel efficiency ratings mean, how they're measured, and why they matter when choosing the best panels for your home or business."
-image: "https://images.pexels.com/photos/6961122/pexels-photo-6961122.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6961122.jpg"
 categories: ["Solar Equipment Deep Dives"]
 tags: ["solar", "panel", "efficiency", "ratings", "explained"]
 slug: "solar-panel-efficiency-ratings-explained"

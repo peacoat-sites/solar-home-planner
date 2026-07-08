@@ -3,7 +3,7 @@ title: "DIY Solar Kit Recommendations"
 date: 2026-05-20T03:35:03.011784+00:00
 draft: false
 description: "DIY solar kit recommendations for off-grid living and home energy. Compare top-rated kits, installation tips, and cost savings for renewable power solutions."
-image: "https://images.pexels.com/photos/35673090/pexels-photo-35673090.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35673090.jpg"
 categories: ["DIY Solar"]
 tags: ["solar", "recommendations"]
 slug: "diy-solar-kit-recommendations"

@@ -3,7 +3,7 @@ title: "DIY Solar Panel System Sizing"
 date: 2026-05-29T00:51:20.921747+00:00
 draft: false
 description: "Learn how to size a DIY solar panel system correctly. Calculate your energy needs, choose the right panels, batteries, and inverter for a reliable off-grid or g"
-image: "https://images.pexels.com/photos/35425767/pexels-photo-35425767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35425767.jpg"
 categories: ["DIY Solar"]
 tags: ["solar", "panel", "system", "sizing"]
 slug: "diy-solar-panel-system-sizing"

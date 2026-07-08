@@ -3,7 +3,7 @@ title: "Solar Panels For Low Income Homeowners Programs"
 date: 2026-06-05T23:45:39.422037+00:00
 draft: false
 description: "Discover solar panel programs designed for low income homeowners. Learn how to access grants, incentives, and subsidies to reduce energy costs and install solar"
-image: "https://images.pexels.com/photos/14614021/pexels-photo-14614021.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14614021.jpg"
 categories: ["Solar Access & Community"]
 tags: ["solar", "panels", "income", "homeowners", "programs"]
 slug: "solar-panels-for-low-income-homeowners-programs"

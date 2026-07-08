@@ -3,7 +3,7 @@ title: "Solar Panel Degradation Rate Explained"
 date: 2026-06-21T23:53:18.936851+00:00
 draft: false
 description: "Learn how solar panel degradation rate affects long-term energy output, what causes efficiency loss, and how to maximize your panels lifespan."
-image: "https://images.pexels.com/photos/9799764/pexels-photo-9799764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9799764.jpg"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "panel", "degradation", "rate", "explained"]
 author: "Stephanie Walsh"

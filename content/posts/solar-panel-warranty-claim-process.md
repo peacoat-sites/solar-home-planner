@@ -3,7 +3,7 @@ title: "Solar Panel Warranty Claim Process"
 date: 2026-06-25T23:51:10.294082+00:00
 draft: false
 description: "Learn how to file a solar panel warranty claim step by step. Discover what voids coverage, required documents, and how to get repairs or replacements fast."
-image: "https://images.pexels.com/photos/19895880/pexels-photo-19895880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19895880.jpg"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "panel", "warranty", "claim", "process"]
 author: "David Torres"

@@ -3,7 +3,7 @@ title: "Solar Lease and PPA Surge: What the New Math Means for You"
 date: 2026-06-24T23:40:47.602588+00:00
 draft: false
 description: "Discover how the solar lease and PPA surge affects your wallet. Learn the new math behind costs, savings, and whether buying or leasing solar panels is right fo"
-image: "https://images.pexels.com/photos/9875442/pexels-photo-9875442.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875442.jpg"
 categories: ["trending"]
 tags: ["solar", "lease", "surge:", "what", "math"]
 author: "Stephanie Walsh"

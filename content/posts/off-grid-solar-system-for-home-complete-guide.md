@@ -3,7 +3,7 @@ title: "Off Grid Solar System For Home Complete Guide"
 date: 2026-05-29T11:49:21.680083+00:00
 draft: false
 description: "Discover how to design and install an off grid solar system for your home. Learn about components, sizing, costs, and tips to achieve energy independence today."
-image: "https://images.pexels.com/photos/6233727/pexels-photo-6233727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6233727.jpg"
 categories: ["Off-Grid & Backup Power"]
 tags: ["grid", "solar", "system", "home", "complete"]
 slug: "off-grid-solar-system-for-home-complete-guide"

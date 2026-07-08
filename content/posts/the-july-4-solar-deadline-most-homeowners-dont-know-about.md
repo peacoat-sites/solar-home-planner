@@ -3,7 +3,7 @@ title: "The July 4 Solar Deadline Most Homeowners Don't Know About"
 date: 2026-06-22T23:51:58.341520+00:00
 draft: false
 description: "Beat the July 4 solar deadline most homeowners miss. Learn how this cutoff affects your savings, incentives, and installation timeline before it's too late."
-image: "https://images.pexels.com/photos/29923348/pexels-photo-29923348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29923348.jpg"
 categories: ["trending"]
 tags: ["july", "solar", "deadline", "most", "homeowners"]
 author: "David Torres"

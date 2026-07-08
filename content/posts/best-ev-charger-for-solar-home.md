@@ -3,7 +3,7 @@ title: "Best EV Charger For Solar Home"
 date: 2026-05-18T15:13:38.333380+00:00
 draft: false
 description: "Discover the best EV charger for your solar home. Compare top-rated options, key features, and compatibility tips to maximize clean energy savings for your elec"
-image: "https://images.pexels.com/photos/27355827/pexels-photo-27355827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/27355827.jpg"
 categories: ["Solar and EV Charging"]
 tags: ["best", "charger", "solar", "home"]
 slug: "best-ev-charger-for-solar-home"

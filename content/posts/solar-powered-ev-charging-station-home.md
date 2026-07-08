@@ -3,7 +3,7 @@ title: "Solar Powered EV Charging Station Home"
 date: 2026-05-21T09:57:34.814832+00:00
 draft: false
 description: "Discover how to set up a solar powered EV charging station at home. Save money, reduce emissions, and charge your electric vehicle with clean, renewable energy."
-image: "https://images.pexels.com/photos/34800670/pexels-photo-34800670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34800670.jpg"
 categories: ["Solar and EV Charging"]
 tags: ["solar", "powered", "charging", "station", "home"]
 slug: "solar-powered-ev-charging-station-home"

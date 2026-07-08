@@ -3,7 +3,7 @@ title: "Interconnection Agreement Utility What It Means"
 date: 2026-06-20T23:43:03.538925+00:00
 draft: false
 description: "Learn what an interconnection agreement with a utility means, how it works, and why it matters for connecting solar or other energy systems to the grid."
-image: "https://images.pexels.com/photos/12174436/pexels-photo-12174436.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12174436.jpg"
 categories: ["Solar Permits & HOA"]
 tags: ["interconnection", "agreement", "utility", "what", "means"]
 author: "David Torres"

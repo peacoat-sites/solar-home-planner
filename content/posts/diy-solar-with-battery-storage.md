@@ -3,7 +3,7 @@ title: "DIY Solar With Battery Storage"
 date: 2026-06-23T23:38:00.076609+00:00
 draft: false
 description: "Learn how to build a DIY solar system with battery storage, cut electricity bills, and gain energy independence with step-by-step setup advice."
-image: "https://images.pexels.com/photos/30440447/pexels-photo-30440447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30440447.jpg"
 categories: ["DIY Solar"]
 tags: ["solar", "with", "battery", "storage"]
 author: "Morgan Johnson"

@@ -3,7 +3,7 @@ title: "Off Grid Solar Vs Grid Tied Comparison"
 date: 2026-05-19T22:49:19.796999+00:00
 draft: false
 description: "Compare off grid solar vs grid tied systems to find the best fit for your home. Explore costs, reliability, energy independence, and key pros and cons."
-image: "https://images.pexels.com/photos/10957000/pexels-photo-10957000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10957000.jpg"
 categories: ["Off-Grid & Backup Power"]
 tags: ["grid", "solar", "grid", "tied", "comparison"]
 slug: "off-grid-solar-vs-grid-tied-comparison"

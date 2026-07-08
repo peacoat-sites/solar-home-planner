@@ -3,7 +3,7 @@ title: "Local Vs National Solar Company Pros Cons"
 date: 2026-06-24T23:43:02.219430+00:00
 draft: false
 description: "Compare local vs national solar companies to find the best fit. Explore pricing, service, warranties, and support before signing any solar contract."
-image: "https://images.pexels.com/photos/4254159/pexels-photo-4254159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4254159.jpg"
 categories: ["Solar Contractor Selection"]
 tags: ["local", "national", "solar", "company", "pros"]
 author: "Tom Bradley"

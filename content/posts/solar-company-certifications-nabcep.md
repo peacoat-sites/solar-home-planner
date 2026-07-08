@@ -3,7 +3,7 @@ title: "Solar Company Certifications Nabcep"
 date: 2026-05-26T03:22:51.981353+00:00
 draft: false
 description: "Learn why NABCEP certifications matter when choosing a solar company. Discover how certified installers ensure quality, safety, and reliable solar energy system"
-image: https://images.pexels.com/photos/7679565/pexels-photo-7679565.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/7679565.jpg"
 categories: ["Solar Contractor Selection"]
 tags: ["solar", "company", "certifications", "NABCEP"]
 slug: "solar-company-certifications-nabcep"

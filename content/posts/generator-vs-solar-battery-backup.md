@@ -3,7 +3,7 @@ title: "Generator Vs Solar Battery Backup"
 date: 2026-05-27T06:23:45.043020+00:00
 draft: false
 description: "Compare generator vs solar battery backup to find the best power solution for your home. Explore cost, reliability, noise, and efficiency to make the right choi"
-image: "https://images.pexels.com/photos/9875421/pexels-photo-9875421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875421.jpg"
 categories: ["Off-Grid & Backup Power"]
 tags: ["generator", "solar", "battery", "backup"]
 slug: "generator-vs-solar-battery-backup"

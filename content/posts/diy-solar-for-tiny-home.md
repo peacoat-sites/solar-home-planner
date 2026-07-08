@@ -3,7 +3,7 @@ title: "DIY Solar For Tiny Home"
 date: 2026-05-19T23:03:46.193905+00:00
 draft: false
 description: "DIY solar for tiny homes: Learn how to install affordable solar panels, reduce energy costs, and achieve energy independence in your small space today."
-image: "https://images.pexels.com/photos/18306343/pexels-photo-18306343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18306343.jpg"
 categories: ["DIY Solar"]
 tags: ["solar", "tiny", "home"]
 slug: "diy-solar-for-tiny-home"

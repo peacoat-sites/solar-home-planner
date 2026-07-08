@@ -3,7 +3,7 @@ title: "Why Is My Solar Production Low Today"
 date: 2026-06-09T23:50:35.319633+00:00
 draft: false
 description: "Discover the top reasons your solar panels are producing less energy today, from cloud cover and shading to dirty panels and seasonal changes, plus easy fixes."
-image: "https://images.pexels.com/photos/9799762/pexels-photo-9799762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9799762.jpg"
 categories: ["Solar Monitoring & Apps"]
 tags: ["solar", "production", "today"]
 slug: "why-is-my-solar-production-low-today"

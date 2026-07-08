@@ -3,7 +3,7 @@ title: "Solar Panel Permit Process Explained"
 date: 2026-05-26T05:37:34.319690+00:00
 draft: false
 description: "Get a complete guide to the solar panel permit process. Learn requirements, timelines, and steps needed to install solar panels at your home or business."
-image: "https://images.pexels.com/photos/9229392/pexels-photo-9229392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9229392.jpg"
 categories: ["Solar Permits & HOA"]
 tags: ["solar", "panel", "permit", "process", "explained"]
 slug: "solar-panel-permit-process-explained"

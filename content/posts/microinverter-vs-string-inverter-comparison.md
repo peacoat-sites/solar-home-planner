@@ -3,7 +3,7 @@ title: "Microinverter Vs String Inverter Comparison"
 date: 2026-06-12T00:00:21.172413+00:00
 draft: false
 description: "Compare microinverters vs string inverters on cost, efficiency, shading performance, and reliability to find the best solar inverter for your home or business."
-image: "https://images.pexels.com/photos/37860727/pexels-photo-37860727.png?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37860727.jpg"
 categories: ["Solar Equipment Deep Dives"]
 tags: ["microinverter", "string", "inverter", "comparison"]
 slug: "microinverter-vs-string-inverter-comparison"

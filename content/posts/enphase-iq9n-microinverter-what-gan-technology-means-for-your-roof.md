@@ -3,7 +3,7 @@ title: "Enphase IQ9N Microinverter: What GaN Technology Means for Your Roof"
 date: 2026-07-01T23:54:10.458866+00:00
 draft: false
 description: "Discover how Enphase IQ9N microinverter uses GaN technology to boost solar efficiency, reduce heat, and deliver more power from every panel on your roof."
-image: "https://images.pexels.com/photos/35454188/pexels-photo-35454188.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35454188.jpg"
 categories: ["trending"]
 tags: ["enphase", "iq9n", "microinverter:", "what", "technology"]
 author: "Stephanie Walsh"

@@ -3,7 +3,7 @@ title: "LG Chem RESU Battery Review"
 date: 2026-07-01T23:51:35.311723+00:00
 draft: false
 description: "Discover how the LG Chem RESU battery performs for home energy storage. We review capacity, efficiency, cost, and compatibility with solar systems."
-image: "https://images.pexels.com/photos/9875423/pexels-photo-9875423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875423.jpg"
 categories: ["Off-Grid & Backup Power"]
 tags: ["chem", "resu", "battery", "review"]
 author: "Morgan Johnson"

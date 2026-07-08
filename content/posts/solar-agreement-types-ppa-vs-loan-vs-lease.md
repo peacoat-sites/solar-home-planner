@@ -3,7 +3,7 @@ title: "Solar Agreement Types Ppa Vs Loan Vs Lease"
 date: 2026-06-05T12:21:46.323411+00:00
 draft: false
 description: "Compare solar agreement types including PPAs, loans, and leases to find the best option for your home or business. Learn costs, benefits, and ownership details."
-image: "https://images.pexels.com/photos/7821937/pexels-photo-7821937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7821937.jpg"
 categories: ["Solar Planning Tools"]
 tags: ["solar", "agreement", "types", "loan", "lease"]
 slug: "solar-agreement-types-ppa-vs-loan-vs-lease"

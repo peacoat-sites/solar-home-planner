@@ -3,7 +3,7 @@ title: "Balcony Solar Laws Are Going Live: What Your State Allows Now"
 date: 2026-07-03T23:34:10.931794+00:00
 draft: false
 description: "Discover what balcony solar laws allow in your state right now. Learn the latest rules, restrictions, and opportunities for installing plug-in solar panels wher"
-image: "https://images.pexels.com/photos/34147750/pexels-photo-34147750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34147750.jpg"
 categories: ["trending"]
 tags: ["balcony", "solar", "laws", "going", "live:"]
 author: "Rachel Kim"

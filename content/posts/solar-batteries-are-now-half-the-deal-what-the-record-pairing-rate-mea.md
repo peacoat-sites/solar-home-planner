@@ -3,7 +3,7 @@ title: "Solar Batteries Are Now Half the Deal: What the Record Pairing Rate Mean
 date: 2026-06-16T00:09:46.304125+00:00
 draft: false
 description: "Solar battery pairing rates have hit a record high. Find out what this means for your energy bills, home independence, and whether now is the right time to inve"
-image: "https://images.pexels.com/photos/33438126/pexels-photo-33438126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33438126.jpg"
 categories: ["trending"]
 tags: ["solar", "batteries", "half", "deal:", "what"]
 author: "David Torres"

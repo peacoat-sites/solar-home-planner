@@ -3,7 +3,7 @@ title: "Solar Inverter Display Readings Explained"
 date: 2026-07-04T23:30:16.562518+00:00
 draft: false
 description: "Learn what every number and symbol on your solar inverter display means, from voltage and watts to error codes and grid status indicators."
-image: "https://images.pexels.com/photos/371900/pexels-photo-371900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/371900.jpg"
 categories: ["Solar Monitoring & Apps"]
 tags: ["solar", "inverter", "display", "readings", "explained"]
 author: "Stephanie Walsh"

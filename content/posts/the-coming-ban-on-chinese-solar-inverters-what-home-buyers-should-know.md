@@ -3,7 +3,7 @@ title: "The Coming Ban on Chinese Solar Inverters: What Home Buyers Should Know"
 date: 2026-07-04T23:32:27.670768+00:00
 draft: false
 description: "Discover how a potential ban on Chinese solar inverters could impact home buyers, property values, and solar investments before you purchase your next home."
-image: "https://images.pexels.com/photos/33751679/pexels-photo-33751679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33751679.jpg"
 categories: ["trending"]
 tags: ["coming", "chinese", "solar", "inverters:", "what"]
 author: "Tom Bradley"

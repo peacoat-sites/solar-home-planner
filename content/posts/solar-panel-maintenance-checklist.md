@@ -3,7 +3,7 @@ title: "Solar Panel Maintenance Checklist"
 date: 2026-06-13T23:39:23.608094+00:00
 draft: false
 description: "Keep your solar panels performing at peak efficiency with our complete maintenance checklist covering cleaning, inspections, wiring checks, and seasonal care ti"
-image: "https://images.pexels.com/photos/14613940/pexels-photo-14613940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14613940.jpg"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "panel", "maintenance", "checklist"]
 slug: "solar-panel-maintenance-checklist"

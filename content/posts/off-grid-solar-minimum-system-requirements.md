@@ -3,7 +3,7 @@ title: "Off Grid Solar Minimum System Requirements"
 date: 2026-06-30T23:46:49.190129+00:00
 draft: false
 description: "Learn the minimum components needed for an off grid solar system including panel size, battery capacity, inverter specs, and charge controller ratings."
-image: "https://images.pexels.com/photos/5322775/pexels-photo-5322775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5322775.jpg"
 categories: ["Off-Grid & Backup Power"]
 tags: ["grid", "solar", "minimum", "system", "requirements"]
 author: "Rachel Kim"

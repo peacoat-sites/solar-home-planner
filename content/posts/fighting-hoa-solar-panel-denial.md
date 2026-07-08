@@ -3,7 +3,7 @@ title: "Fighting HOA Solar Panel Denial"
 date: 2026-06-20T23:44:50.025461+00:00
 draft: false
 description: "Learn how to fight HOA solar panel denial using state laws, appeals, and legal rights to get your renewable energy system approved."
-image: "https://images.pexels.com/photos/18000225/pexels-photo-18000225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18000225.jpg"
 categories: ["Solar Permits & HOA"]
 tags: ["fighting", "solar", "panel", "denial"]
 author: "Rachel Kim"

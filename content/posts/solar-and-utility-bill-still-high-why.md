@@ -3,7 +3,7 @@ title: "Solar And Utility Bill Still High Why"
 date: 2026-06-03T14:10:52.322577+00:00
 draft: false
 description: "Find out why your solar panels aren't lowering your utility bill as expected. Discover common reasons and practical fixes to finally reduce your energy costs."
-image: "https://images.pexels.com/photos/7434654/pexels-photo-7434654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7434654.jpg"
 categories: ["Solar Policy & Utility Issues"]
 tags: ["solar", "utility", "bill", "still", "high"]
 slug: "solar-and-utility-bill-still-high-why"

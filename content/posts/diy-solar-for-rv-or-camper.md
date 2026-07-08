@@ -3,7 +3,7 @@ title: "DIY Solar For RV Or Camper"
 date: 2026-06-23T23:35:46.020444+00:00
 draft: false
 description: "Install solar panels on your RV or camper with this step-by-step DIY guide. Save money and camp off-grid with reliable solar power anywhere."
-image: "https://images.pexels.com/photos/9875408/pexels-photo-9875408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875408.jpg"
 categories: ["DIY Solar"]
 tags: ["solar", "camper"]
 author: "Rachel Kim"

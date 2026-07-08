@@ -3,7 +3,7 @@ title: "Community Solar Vs Rooftop Solar"
 date: 2026-06-17T23:58:43.711020+00:00
 draft: false
 description: "Compare community solar vs rooftop solar to find the best option for your home. Learn about costs, savings, installation, and which fits your lifestyle."
-image: "https://images.pexels.com/photos/18012555/pexels-photo-18012555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18012555.jpg"
 categories: ["Solar Access & Community"]
 tags: ["community", "solar", "rooftop", "solar"]
 author: "David Torres"

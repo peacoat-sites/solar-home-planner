@@ -3,7 +3,7 @@ title: "How To Calculate Solar System Size For Home"
 date: 2026-06-05T12:24:02.022486+00:00
 draft: false
 description: "Learn how to calculate the right solar system size for your home. Discover key factors like energy usage, roof space, and panel efficiency to make the best choi"
-image: "https://images.pexels.com/photos/9875445/pexels-photo-9875445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875445.jpg"
 categories: ["Solar Planning Tools"]
 tags: ["calculate", "solar", "system", "size", "home"]
 slug: "how-to-calculate-solar-system-size-for-home"

@@ -3,7 +3,7 @@ title: "Is My Solar Installer Legit"
 date: 2026-05-28T16:19:39.506577+00:00
 draft: false
 description: "Check if your solar installer is legitimate before signing anything. Learn the red flags, license checks, and verification steps to avoid costly scams and fraud"
-image: https://images.pexels.com/photos/7562475/pexels-photo-7562475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/7562475.jpg"
 categories: ["Solar Contractor Selection"]
 tags: ["solar", "installer", "legit"]
 slug: "is-my-solar-installer-legit"

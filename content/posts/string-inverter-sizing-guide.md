@@ -3,7 +3,7 @@ title: "String Inverter Sizing Guide"
 date: 2026-06-27T23:36:52.343858+00:00
 draft: false
 description: "Learn how to properly size a string inverter for your solar array with our step-by-step guide covering voltage, current, and efficiency calculations."
-image: "https://images.pexels.com/photos/38171111/pexels-photo-38171111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/38171111.jpg"
 categories: ["Solar Equipment Deep Dives"]
 tags: ["string", "inverter", "sizing", "guide"]
 author: "David Torres"

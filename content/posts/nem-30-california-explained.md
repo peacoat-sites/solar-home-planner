@@ -3,7 +3,7 @@ title: "Nem 3.0 California Explained"
 date: 2026-06-02T12:54:29.245787+00:00
 draft: false
 description: "Learn how NEM 3.0 changes solar billing in California, how it affects your savings, and what homeowners need to know before going solar under the new rules."
-image: "https://images.pexels.com/photos/11658940/pexels-photo-11658940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11658940.jpg"
 categories: ["Solar Policy & Utility Issues"]
 tags: ["California", "explained"]
 slug: "nem-30-california-explained"

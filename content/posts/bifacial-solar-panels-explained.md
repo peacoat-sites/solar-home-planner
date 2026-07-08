@@ -3,7 +3,7 @@ title: "Bifacial Solar Panels Explained"
 date: 2026-06-26T23:42:15.645323+00:00
 draft: false
 description: "Bifacial solar panels capture sunlight on both sides to boost energy output. Learn how they work, their benefits, and if they suit your home or business."
-image: "https://images.pexels.com/photos/11644973/pexels-photo-11644973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11644973.jpg"
 categories: ["Solar Equipment Deep Dives"]
 tags: ["bifacial", "solar", "panels", "explained"]
 author: "Morgan Johnson"

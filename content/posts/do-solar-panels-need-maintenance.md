@@ -3,7 +3,7 @@ title: "Do Solar Panels Need Maintenance"
 date: 2026-06-19T00:11:43.243550+00:00
 draft: false
 description: "Solar panels require minimal but essential maintenance. Learn what to clean, inspect, and monitor to keep your system running at peak efficiency."
-image: "https://images.pexels.com/photos/9875415/pexels-photo-9875415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875415.jpg"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "panels", "need", "maintenance"]
 author: "Morgan Johnson"

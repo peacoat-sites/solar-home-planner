@@ -3,7 +3,7 @@ title: "North Facing Solar Panels: How Much Power Do They Generate?"
 date: 2026-07-07T23:28:55.761428+00:00
 draft: false
 description: "North facing solar panels can still generate usable electricity. Learn how much output to expect, when it makes sense, and how to maximise your return."
-image: "https://images.pexels.com/photos/9638475/pexels-photo-9638475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9638475.jpg"
 categories: ["Will Solar Work"]
 tags: ["solar", "panels", "work", "north", "facing"]
 author: "Tom Bradley"

@@ -3,7 +3,7 @@ title: "Solar Batteries Hit Record Attach Rates as Federal Credit Disappears"
 date: 2026-06-19T00:09:07.269180+00:00
 draft: false
 description: "Discover why solar battery attach rates are surging to record highs as the federal tax credit expires and homeowners rush to maximize savings before the deadlin"
-image: "https://images.pexels.com/photos/9875439/pexels-photo-9875439.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875439.jpg"
 categories: ["trending"]
 tags: ["solar", "batteries", "record", "attach", "rates"]
 author: "Rachel Kim"

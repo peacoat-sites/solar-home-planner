@@ -3,7 +3,7 @@ title: "Best Solar Panels For DIY Installation"
 date: 2026-07-06T23:37:53.793314+00:00
 draft: false
 description: "Discover the top solar panels for DIY installation in 2024. Compare efficiency, cost, and ease of setup to power your home with confidence and savings."
-image: "https://images.pexels.com/photos/12243093/pexels-photo-12243093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12243093.jpg"
 categories: ["DIY Solar"]
 tags: ["best", "solar", "panels", "installation"]
 author: "Morgan Johnson"

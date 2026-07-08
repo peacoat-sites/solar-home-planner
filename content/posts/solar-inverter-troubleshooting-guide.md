@@ -3,7 +3,7 @@ title: "Solar Inverter Troubleshooting Guide"
 date: 2026-06-09T23:52:50.537147+00:00
 draft: false
 description: "Diagnose and fix common solar inverter problems with our expert troubleshooting guide covering error codes, fault lights, connectivity issues, and performance d"
-image: "https://images.pexels.com/photos/8853536/pexels-photo-8853536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8853536.jpg"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "inverter", "troubleshooting", "guide"]
 slug: "solar-inverter-troubleshooting-guide"

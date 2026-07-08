@@ -3,7 +3,7 @@ title: "Red Flags When Hiring Solar Installer"
 date: 2026-05-24T15:32:09.833671+00:00
 draft: false
 description: "Avoid costly mistakes with your solar investment. Discover the top red flags when hiring a solar installer to protect your home and ensure a quality installatio"
-image: https://images.pexels.com/photos/7654405/pexels-photo-7654405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/7654405.jpg"
 categories: ["Solar Contractor Selection"]
 tags: ["flags", "when", "hiring", "solar", "installer"]
 slug: "red-flags-when-hiring-solar-installer"

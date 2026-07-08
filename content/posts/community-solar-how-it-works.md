@@ -3,7 +3,7 @@ title: "Community Solar How It Works"
 date: 2026-06-13T00:01:39.760677+00:00
 draft: false
 description: "Discover how community solar works, letting renters and homeowners access clean, affordable solar energy without rooftop panels and save money on electricity bi"
-image: "https://images.pexels.com/photos/35425765/pexels-photo-35425765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35425765.jpg"
 categories: ["Solar Access & Community"]
 tags: ["community", "solar", "works"]
 slug: "community-solar-how-it-works"

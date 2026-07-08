@@ -3,7 +3,7 @@ title: "Solar Batteries Are Now Standard: What the 45% Pairing Rate Means for Yo
 date: 2026-06-29T00:38:58.408779+00:00
 draft: false
 description: "Discover why 45% of new solar installations now include batteries, what's driving the surge, and how this trend could save you money on energy bills."
-image: "https://images.pexels.com/photos/9875681/pexels-photo-9875681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875681.jpg"
 categories: ["trending"]
 tags: ["solar", "batteries", "standard:", "what", "pairing"]
 author: "Morgan Johnson"

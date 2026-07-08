@@ -3,7 +3,7 @@ title: "Solar Battery Size Calculator"
 date: 2026-06-16T23:55:16.417773+00:00
 draft: false
 description: "Calculate the right solar battery size for your home with our easy tool. Find out how many kWh you need based on usage, panels, and backup hours."
-image: "https://images.pexels.com/photos/9875422/pexels-photo-9875422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875422.jpg"
 categories: ["Off-Grid & Backup Power"]
 tags: ["solar", "battery", "size", "calculator"]
 author: "Morgan Johnson"

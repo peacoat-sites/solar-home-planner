@@ -3,7 +3,7 @@ title: "Welcome to Solar Home Planner"
 date: 2026-05-28T02:01:18.273375+00:00
 draft: false
 description: "Your complete guide to planning a home solar installation,  from contractor selection to permits, EV charging, and off-grid systems."
-image: https://images.pexels.com/photos/7693743/pexels-photo-7693743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/7693743.jpg"
 categories: ["Solar Planning Tools"]
 tags: ["solar", "home solar", "solar planning", "solar guide"]
 slug: "welcome-to-solar-home-planner"

@@ -3,7 +3,7 @@ title: "Solaredge Monitoring Platform Review"
 date: 2026-07-03T23:36:36.414260+00:00
 draft: false
 description: "Discover how the SolarEdge monitoring platform tracks energy production, detects faults, and optimizes your solar system performance in this detailed review."
-image: "https://images.pexels.com/photos/25819964/pexels-photo-25819964.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/25819964.jpg"
 categories: ["Solar Monitoring & Apps"]
 tags: ["solaredge", "monitoring", "platform", "review"]
 author: "Morgan Johnson"

@@ -3,7 +3,7 @@ title: "How To Monitor Solar Panel Output"
 date: 2026-06-10T23:58:11.129203+00:00
 draft: false
 description: "Learn how to monitor solar panel output with simple tools and techniques. Track energy production, spot issues early, and maximize your solar system's efficienc"
-image: "https://images.pexels.com/photos/8783541/pexels-photo-8783541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8783541.jpg"
 categories: ["Solar Monitoring & Apps"]
 tags: ["monitor", "solar", "panel", "output"]
 slug: "how-to-monitor-solar-panel-output"

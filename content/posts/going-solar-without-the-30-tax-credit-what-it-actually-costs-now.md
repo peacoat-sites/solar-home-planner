@@ -3,7 +3,7 @@ title: "Going Solar Without the 30% Tax Credit: What It Actually Costs Now"
 date: 2026-06-27T23:34:26.983709+00:00
 draft: false
 description: "Thinking about solar but worried about losing the 30% tax credit? Discover the real costs of going solar today and whether it still makes financial sense."
-image: "https://images.pexels.com/photos/6628274/pexels-photo-6628274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6628274.jpg"
 categories: ["trending"]
 tags: ["going", "solar", "without", "credit:", "what"]
 author: "Tom Bradley"

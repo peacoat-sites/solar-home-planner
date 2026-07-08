@@ -3,7 +3,7 @@ title: "Critical Loads Panel Solar Backup"
 date: 2026-06-29T00:36:30.546320+00:00
 draft: false
 description: "Learn how a critical loads panel works with solar backup systems to keep essential home circuits powered during outages and reduce energy costs."
-image: "https://images.pexels.com/photos/8853509/pexels-photo-8853509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8853509.jpg"
 categories: ["Off-Grid & Backup Power"]
 tags: ["critical", "loads", "panel", "solar", "backup"]
 author: "Rachel Kim"

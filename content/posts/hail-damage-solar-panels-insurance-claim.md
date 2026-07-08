@@ -3,7 +3,7 @@ title: "Hail Damage Solar Panels Insurance Claim"
 date: 2026-06-19T23:35:18.545246+00:00
 draft: false
 description: "Learn how to file a hail damage solar panel insurance claim, document evidence, work with adjusters, and maximize your payout for repairs or replacement."
-image: "https://images.pexels.com/photos/27873610/pexels-photo-27873610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/27873610.jpg"
 categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["hail", "damage", "solar", "panels", "insurance"]
 author: "Stephanie Walsh"

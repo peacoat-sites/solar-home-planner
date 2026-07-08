@@ -3,7 +3,7 @@ title: "Utility Buyback Rate For Solar"
 date: 2026-06-05T23:47:39.987357+00:00
 draft: false
 description: "Discover how utility buyback rates for solar work, what affects your compensation, and how to maximize earnings when selling excess solar energy back to the gri"
-image: "https://images.pexels.com/photos/10885832/pexels-photo-10885832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10885832.jpg"
 categories: ["Solar Policy & Utility Issues"]
 tags: ["utility", "buyback", "rate", "solar"]
 slug: "utility-buyback-rate-for-solar"

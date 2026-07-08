@@ -3,7 +3,7 @@ title: "Net Metering Rates By State"
 date: 2026-06-06T23:35:32.649478+00:00
 draft: false
 description: "Discover net metering rates by state in 2026. Compare policies, compensation rates, and solar buyback programs to maximize your home solar energy savings."
-image: "https://images.pexels.com/photos/35790060/pexels-photo-35790060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35790060.jpg"
 categories: ["Solar Policy & Utility Issues"]
 tags: ["metering", "rates", "state", "2026"]
 slug: "net-metering-rates-by-state"

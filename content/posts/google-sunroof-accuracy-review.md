@@ -3,7 +3,7 @@ title: "Google Sunroof Accuracy Review"
 date: 2026-07-05T23:35:06.541291+00:00
 draft: false
 description: "We tested Google Project Sunroof against real solar quotes and satellite data to see how accurate its roof solar estimates really are in 2024."
-image: "https://images.pexels.com/photos/9875447/pexels-photo-9875447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875447.jpg"
 categories: ["Solar Planning Tools"]
 tags: ["google", "sunroof", "accuracy", "review"]
 author: "David Torres"

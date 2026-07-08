@@ -3,7 +3,7 @@ title: "Why 45% of New Solar Buyers Are Now Adding a Battery"
 date: 2026-06-16T23:57:34.317765+00:00
 draft: false
 description: "Discover why nearly half of new solar buyers are choosing to add a battery. Learn the key benefits, cost savings, and energy independence driving this growing t"
-image: "https://images.pexels.com/photos/8853500/pexels-photo-8853500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8853500.jpg"
 categories: ["trending"]
 tags: ["solar", "buyers", "adding", "battery"]
 author: "Stephanie Walsh"

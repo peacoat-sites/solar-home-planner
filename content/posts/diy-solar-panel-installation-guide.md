@@ -3,7 +3,7 @@ title: "DIY Solar Panel Installation Guide"
 date: 2026-05-24T20:48:30.434146+00:00
 draft: false
 description: "Install solar panels yourself with our comprehensive DIY guide. Learn step-by-step instructions, safety tips, tools needed, and cost savings. Start today!"
-image: "https://images.pexels.com/photos/14384695/pexels-photo-14384695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14384695.jpg"
 categories: ["DIY Solar"]
 tags: ["solar", "panel", "installation", "guide"]
 slug: "diy-solar-panel-installation-guide"

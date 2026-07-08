@@ -3,7 +3,7 @@ title: "Solar For Shingle Roof Cost"
 date: 2026-07-02T23:37:37.874269+00:00
 draft: false
 description: "Discover the average solar panel installation costs for shingle roofs, what affects pricing, and how to save money with tax credits and incentives."
-image: "https://images.pexels.com/photos/27863809/pexels-photo-27863809.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/27863809.jpg"
 categories: ["Solar for Home Types"]
 tags: ["solar", "shingle", "roof", "cost"]
 author: "David Torres"

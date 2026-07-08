@@ -3,7 +3,7 @@ title: "Solar Garden Subscription What Is It"
 date: 2026-06-29T23:36:13.993531+00:00
 draft: false
 description: "A solar garden subscription lets you buy into a shared solar farm and get credits on your electric bill without installing panels on your home."
-image: "https://images.pexels.com/photos/32016334/pexels-photo-32016334.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32016334.jpg"
 categories: ["Solar Access & Community"]
 tags: ["solar", "garden", "subscription", "what"]
 author: "Tom Bradley"
