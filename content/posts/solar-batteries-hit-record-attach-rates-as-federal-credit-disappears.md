@@ -12,6 +12,7 @@ author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
 slug: "solar-batteries-hit-record-attach-rates-as-federal-credit-disappears"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most solar coverage right now is running the obvious story: federal tax credit gone, market down 21%, rough year for the industry. That's true, but it misses what's actually interesting. Homeowners are adding batteries to new solar systems at the highest rate ever recorded, and the credit's disappearance is part of why.
 
@@ -26,6 +27,13 @@ When the total cost goes up and the payback period stretches, buyers get more se
 Without a battery, a grid-tied solar system in a time-of-use rate territory mostly exports your cheapest midday power to the utility and pulls expensive evening power back. That arbitrage has always been the argument for storage. Now that the sticker price is higher and the credit is gone, the "just get panels, deal with storage later" logic holds up less well.
 
 ## The Tax Credit Loophole Worth Knowing
+
+| Financing Path | Federal Tax Credit (25D/48E) | State Incentives | VPP Potential | Best For |
+| --- | --- | --- | --- | --- |
+| Cash/Loan Purchase | None (2026+) | State-dependent (CA, NY highest) | Yes, if utility offers | Owners with capital; higher upfront cost |
+| Solar Lease | None direct | Passed through via lower rates | Yes, if utility allows | Lower monthly payments; developer claims 48E |
+| Power Purchase Agreement (PPA) | None direct | Passed through via pricing | Yes, if utility allows | Minimal upfront cost; developer claims 48E |
+| Retrofit Battery Only | None | State-dependent | Yes, if utility offers | Adding storage to existing solar; higher labor cost |
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

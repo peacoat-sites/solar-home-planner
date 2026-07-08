@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-
+lastmod: 2026-07-07
 ---
 Most people think solar panels degrade like a car battery: slow fade, then sudden collapse. They're wrong. And that misconception quietly kills a lot of purchasing decisions.
 
@@ -47,7 +47,7 @@ What they're really promising is a floor on output. A standard tier-one warranty
 
 Here's the part people miss: the warranty doesn't expire at 25 years and turn your panels into paperweights. Panels don't have an off switch. They just produce less, slowly. A panel degraded to 80% of original output is still producing power. It's still feeding your inverter on sunny days.
 
-The honest part: warranty claims are notoriously painful. You need original documentation, often a certified professional assessment, and the manufacturer has to still exist. SolarWorld, once one of the biggest panel makers in the US, went bankrupt in 2017. Those warranty documents? Worth almost nothing now.
+The honest part: [warranty claims are notoriously painful](/solar-panel-warranty-claim-process/). You need original documentation, often a certified professional assessment, and the manufacturer has to still exist. SolarWorld, once one of the biggest panel makers in the US, went bankrupt in 2017. Those warranty documents? Worth almost nothing now.
 
 ## What "Degradation Rate" Actually Means in Practice
 
@@ -72,7 +72,7 @@ What stuck with me was how consistent the data is on premium monocrystalline PER
 
 Degradation is the boring story. Actual failure comes from more specific, preventable things.
 
-**Potential Induced Degradation (PID).** Voltage leaks from the cells through the frame to the mounting system, slowly destroying cell efficiency. It's a bigger risk with certain string inverter setups and in humid climates. Good quality panels carry PID resistance certification. Ask your installer or check the spec sheet on your existing panels. Don't assume it's not there.
+**[Potential Induced Degradation (PID)](/solar-panel-degradation-rate-explained/).** Voltage leaks from the cells through the frame to the mounting system, slowly destroying cell efficiency. It's a bigger risk with certain string inverter setups and in humid climates. Good quality panels carry PID resistance certification. Ask your installer or check the spec sheet on your existing panels. Don't assume it's not there.
 
 **Delamination.** The layers inside a panel (glass, encapsulant, cells, back sheet) are glued together. When that bond fails, moisture creeps in, cells corrode, and output tanks. Delamination shows up as cloudiness or bubbling under the glass. It was a major problem with some panel makers in the early 2010s, particularly certain Chinese brands that skimped on encapsulant quality. That era's failures are well documented and mostly behind us for tier-one manufacturers, but it's reason to distrust no-name panels from unknown supply chains.
 

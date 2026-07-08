@@ -23,11 +23,17 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-
+lastmod: 2026-07-07
 ---
 A Colorado homeowner saved about $8,000 by pulling his own permit, sourcing his own panels, and installing everything himself. He's also a licensed electrician with 15 years of experience who spent four weekends on the roof and another two weeks wrestling with utility paperwork. That's the actual DIY solar story, not the highlight reel. It can work. It's not straightforward, and the distance between "I watched some YouTube videos" and "I successfully connected a grid-tied solar system" is much larger than most people think.
 
 ## What "DIY Solar" Actually Means
+
+| DIY Approach | Who Does Design | Who Does Physical Work | Who Does Electrical/Inspection | Typical Savings | Best For |
+| --- | --- | --- | --- | --- | --- |
+| Full DIY | You | You | You | Highest | Experienced electricians with roofing skills |
+| Hybrid DIY | You | You | Licensed electrician | Moderate-High | Homeowners comfortable on roof, without electrical license |
+| Owner-Supplied Equipment | You | Contractor | Contractor | Low-Moderate | Budget-conscious with complex roof situations |
 
 Let's be concrete about what you're signing up for, because DIY solar isn't one thing. There are at least three distinct versions:
 
@@ -73,7 +79,7 @@ Being handy isn't enough. Let me be straight about what this requires.
 
 If you've assessed your skills honestly and want to move forward, here's the sequence that works:
 
-1. **Audit your consumption first.** Pull 12 months of utility bills and find your average monthly kWh usage. Don't size based on a single summer month.
+1. **Audit [your consumption first](/cheapest-way-to-go-solar-diy/).** Pull 12 months of utility bills and find your average monthly kWh usage. Don't size based on a single summer month.
 
 2. **Run PVWatts.** Enter your address, roof tilt, and azimuth. This gives you an estimated production number for different system sizes. Use it to figure out how many panels you need.
 

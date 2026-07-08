@@ -23,13 +23,22 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-
+lastmod: 2026-07-07
 ---
 The federal solar tax credit gets all the headlines, but it's completely useless if you don't owe enough in federal taxes to claim it. I've watched low-income homeowners get pitched a 30% "discount" that they'll never actually see, because nobody bothered to ask about their tax situation first. That single detail, the difference between a refundable and non-refundable credit, disqualifies a huge slice of the people who need solar savings the most.
 
 So let's skip the glossy pitch and talk about what actually works.
 
 ## The Programs Most Installers Won't Mention
+
+| Program | Type | Income Limit | Max Benefit | Key Feature |
+| --- | --- | --- | --- | --- |
+| WAP (Weatherization Assistance Program) | Grant | 200% of federal poverty level (~$62,400 for family of 4) | Varies by state | Covers solar under certain circumstances |
+| USDA Section 504 (Rural) | Grant/Loan | 50% of area median income | $10,000 grant / $40,000 loan | 1% interest, 20-year repayment on loans |
+| Illinois Shines | Grant | Income-qualified | Up to 100% of system costs | Low-income equity provision |
+| Con Edison / NYSERDA (NY) | Community Solar | Income-qualified | 10% bill discount | Available to renters |
+| SASH (California) | Grant | Income-qualified | Free system | Covers PG&E, SCE, SDG&E customers |
+| SMART (Massachusetts) | Incentive | Low-income adders | Varies | Additional adders for low-income participants |
 
 The 30% federal Investment Tax Credit (ITC), extended through 2032 under the Inflation Reduction Act, is real and it's significant. But if your federal tax liability is $1,200 a year, a 30% credit on a $20,000 system gives you $6,000 you can't use in year one. You can carry it forward, but if your income stays low, you may never collect most of it.
 
@@ -39,7 +48,7 @@ What most people don't realize is that there are programs specifically designed 
 
 **USDA Section 504.** If you're in a rural area and you own your home, this one is worth knowing about. The USDA's Rural Development program offers grants up to $10,000 and loans up to $40,000 specifically for low-income rural homeowners to make repairs and improvements that remove health and safety hazards. Solar qualifies as an improvement in many cases. The income limit for grants is 50% of area median income. For loans, it's 50% of AMI as well, with repayment over 20 years at 1% interest. I've seen this program fly completely under the radar because "rural development" doesn't scream "solar panels" to most people.
 
-**State and utility programs.** This is where things get complicated and where you can find the most money. Some states have built serious low-income solar carve-outs into their broader incentive programs. Illinois has the Illinois Shines program, which includes an equity provision for low-income households that can cover 100% of system costs in some cases. New York's Con Edison and NYSERDA both run community solar programs specifically targeted at income-qualified customers, with a 10% bill discount even if you're a renter. California's SASH (Single-family Affordable Solar Homes) program has provided free systems to qualifying Pacific Gas & Electric, Southern California Edison, and San Diego Gas & Electric customers. Massachusetts has the Solar Massachusetts Renewable Target (SMART) program, with adders for low-income participants.
+**State and utility programs.** This is where things get complicated and where you can find the most money. Some states have built serious low-income solar carve-outs into their broader incentive programs. Illinois has the Illinois Shines program, which includes an equity provision for low-income households that can cover 100% of system costs in some cases. New York's Con Edison and NYSERDA both run [community solar programs](/community-solar-how-it-works/) specifically targeted at income-qualified customers, with a 10% bill discount even if you're a renter. California's SASH (Single-family Affordable Solar Homes) program has provided free systems to qualifying Pacific Gas & Electric, Southern California Edison, and San Diego Gas & Electric customers. Massachusetts has the Solar Massachusetts Renewable Target (SMART) program, with adders for low-income participants.
 
 The [National Renewable Energy Laboratory](https://www.nrel.gov/) has published research showing that low-income households spend three times more of their income on energy bills than higher-income households, and that solar could disproportionately benefit them, but only if the programs are structured to reach them. The gap between potential and reality is real, and part of it is just that people don't know these programs exist.
 

@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-
+lastmod: 2026-07-07
 ---
 You get three quotes for a rooftop solar system. Two companies seem nearly identical on paper: same panel brand, similar system size, prices within $800 of each other. Then you dig into their online reviews and realize one installer has a pattern of complaints about permits being pulled six months late and customer service that vanishes after the contract is signed. That $800 difference suddenly looks like a bargain for the other guy. Reading solar installer reviews isn't like reading Yelp reviews for a pizza place. The stakes are higher, the projects are more complex, and the red flags are buried in language most homeowners don't know to look for.
 
@@ -41,7 +41,7 @@ Some of the most damning review content isn't dramatic. It's quiet. Watch for th
 
 **Permit and interconnection delays.** If more than two or three reviewers mention waiting four, five, or six months to get their system turned on, that's not bad luck. That's a process problem. A competent installer handles utility interconnection paperwork constantly and knows exactly what each local utility requires. In my experience, systems that stall in the permit phase are almost always stalled because the installer submitted incomplete paperwork or handed the filing off to someone inexperienced.
 
-**Subcontractor surprises.** Some installers sell the job and then hand it off to a subcontractor you've never met. Reviewers who mention "a different crew than who we met with" or "nobody from the company was on-site" are often describing this situation. Subcontracting isn't automatically bad, but if the company never disclosed it and reviews show this happening repeatedly, ask directly before you sign anything.
+**Subcontractor surprises.** Some installers sell the job and then hand it off to a subcontractor you've never met. Reviewers who mention "a different crew than who we met with" or "nobody from the company was on-site" are often describing this situation. Subcontracting isn't automatically bad, but if the company never disclosed it and reviews show this happening repeatedly, ask directly [before you sign anything](/solar-contract-what-to-review-before-signing/).
 
 **Production shortfalls without explanation.** A reviewer who says "my system produces about 30% less than they promised and nobody will return my calls" is describing a nightmare scenario you want to avoid. Look for whether the company offered any explanation or recalculation based on actual roof shading, panel orientation, or weather data.
 
@@ -61,6 +61,15 @@ Here's what I tell homeowners to look for in credible positive reviews:
 [EnergySage's market data](https://news.energysage.com/) consistently shows that installer quality, not panel brand, is the single biggest predictor of customer satisfaction. An average panel installed by a meticulous crew will outperform a premium panel installed carelessly every single time. The reviews that reflect genuine craftsmanship tend to read differently than scripted five-star blurbs.
 
 ## Where to Actually Read the Reviews
+
+| Platform | What it's good for | What to watch for |
+|---|---|---|
+| Google Reviews | Volume, general sentiment, company responses | Recency bias, solicited reviews |
+| EnergySage | Verified quotes, real project data | Only shows installers in their network |
+| BBB (Better Business Bureau) | Complaint history, resolution patterns | Low complaint volume can mean low market share, not quality |
+| NABCEP Directory | Credential verification | Doesn't show reviews, but confirms certifications |
+| Yelp | Older reviews, negative feedback | Aggressive filtering can bury legitimate complaints |
+| Nextdoor / neighborhood Facebook groups | Hyperlocal, neighbor-verified | Small sample size |
 
 Don't stop at Google. Here's a practical cross-reference checklist:
 

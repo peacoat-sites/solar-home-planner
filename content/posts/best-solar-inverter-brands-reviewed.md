@@ -23,6 +23,7 @@ faqs:
     a: "SolarEdge optimizers do per-panel DC power optimization but still feed a single central inverter. Microinverters convert DC to AC at each panel individually. Both handle shading better than a basic string inverter, but microinverters eliminate a single point of failure for the whole array. Optimizers cost less and are easier to service; microinverters offer slightly more redundancy."
   - q: "Can I install a solar inverter myself?"
     a: "In most jurisdictions, connecting a grid-tied inverter requires a licensed electrician and a utility interconnection permit. The installation itself isn't technically exotic for someone with electrical background, but skipping the permit means your system won't qualify for net metering or tax incentives, and your homeowner's insurance likely won't cover it. Some hybrid and off-grid inverters in a battery-only configuration have more flexibility, but anything grid-tied: get the permit."
+lastmod: 2026-07-07
 ---
 Your inverter will outlast most of the other decisions you make on your solar project, and most people spend about four minutes researching it. I've watched homeowners spend weeks agonizing over which panel brand to choose, then rubber-stamp whatever inverter the installer threw on the quote sheet. That's backwards. Panels are commodities at this point. Inverters are where the real differences live.
 
@@ -32,9 +33,9 @@ So let's talk about the brands that consistently hold up, and a few that I'd app
 
 ## String Inverters: Where Most Homes Still Land
 
-The majority of residential systems in the U.S. still use a single string inverter, and there's nothing wrong with that on the right roof. Clean south-facing exposure, minimal shading, simple layout. A string inverter converts your panels' combined DC output to AC at one central point. Fewer components, lower cost, easier to service.
+The majority of residential systems in the U.S. still use a [single string inverter](/string-inverter-sizing-guide/), and there's nothing wrong with that on the right roof. Clean south-facing exposure, minimal shading, simple layout. A string inverter converts your panels' combined DC output to AC at one central point. Fewer components, lower cost, easier to service.
 
-**SolarEdge** is the dominant player here, and mostly for good reason. Their HD-Wave series, particularly the SE7600H and SE10000H, are workhorses. What separates SolarEdge from a basic string inverter is their DC power optimizer system, a small device mounted behind each panel that does per-panel MPPT (maximum power point tracking). So you get string inverter economics with something close to microinverter-level shade tolerance. Monitoring is genuinely excellent. Their monitoring portal shows panel-level production, which is the kind of data that helps you actually diagnose problems. Warranty is 12 years, extendable to 25.
+**SolarEdge** is the dominant player here, and mostly for good reason. Their HD-Wave series, particularly the SE7600H and SE10000H, are workhorses. What separates SolarEdge from a basic string inverter is their [DC power optimizer system](/microinverter-vs-string-inverter-comparison/), a small device mounted behind each panel that does per-panel MPPT (maximum power point tracking). So you get string inverter economics with something close to microinverter-level shade tolerance. Monitoring is genuinely excellent. Their monitoring portal shows panel-level production, which is the kind of data that helps you actually diagnose problems. Warranty is 12 years, extendable to 25.
 
 The catch with SolarEdge: they've had some quality control issues in their US-market units over the past few years, specifically around capacitor failures in hotter climates. I've heard this from multiple installers in Arizona and Texas, not just internet forums. Their customer support has also gotten slower as they've scaled. Still a top recommendation, but go in with eyes open.
 
@@ -47,6 +48,13 @@ Their monitoring platform, Fronius Solar.web, is functional but less visually po
 SMA's monitoring lagged behind SolarEdge historically, but their newer units with the SMA Energy app have closed some of that gap.
 
 ## Microinverters: Pay More, Worry Less (Usually)
+
+| Inverter Brand | Type | Key Strength | Warranty | Notable Consideration |
+| --- | --- | --- | --- | --- |
+| SolarEdge | String + Optimizers | Panel-level monitoring, shade tolerance | 12 years (extendable to 25) | Capacitor failures reported in hot climates |
+| Fronius | String | Engineering quality, reliable support | 5 years standard (10 years extended) | Monitoring less polished than competitors |
+| SMA | String | Grid compliance, long-term reliability | Varies by model | Monitoring recently improved |
+| Enphase | Microinverter | Best-in-class monitoring, Sunlight Backup | Varies by model | $1,500-$2,500 premium over string systems |
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

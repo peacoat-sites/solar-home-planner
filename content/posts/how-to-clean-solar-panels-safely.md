@@ -23,8 +23,9 @@ faqs:
    a: "In rainy climates with moderate tilt, rain handles a lot of the routine dust. But rain doesn't do much for bird droppings, pollen, or heavy soiling, and flat-mount panels don't self-clean well at all. Think of rain as maintenance between cleanings, not a substitute."
  - q: "What's the best time of day to clean solar panels?"
    a: "Early morning, before the panels heat up in direct sun. Cleaning hot glass with cool water creates thermal stress and can cause micro-cracking over time. Early morning also means dew has been softening surface dirt, and you'll be done before the day heats up."
+lastmod: 2026-07-07
 ---
-Most people wait too long to clean their solar panels. Then they finally do it wrong, scratching the glass or voiding a warranty they didn't even know existed.
+Most people wait too long to clean their solar panels. Then they finally do it wrong, scratching the glass or [voiding a warranty](/solar-panel-warranty-claim-process/) they didn't even know existed.
 
 You're probably here because your electric bill crept back up, or you noticed the panels look grimy, or someone told you cleaning them would bump up production. Maybe you're just being thorough. All solid reasons. Dirty panels aren't just ugly, they're a real performance drain. Depending on where you live, soiling losses can hit anywhere from 1.5% to over 25% of annual production, [according to the National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). In dusty parts of California or the Southwest, that's not rounding error. That's actual money sitting on your roof.
 
@@ -47,7 +48,7 @@ The single most important thing isn't which soap to use. It's when you get up th
 
 Never clean panels in the middle of a hot day. Glass sitting in direct sun for hours can run 90°F hotter than the air around it. Cold water on hot glass creates thermal stress, the kind that cracks things. I've never personally seen a panel split, but I've talked to installers who have, and panel makers specifically warn against it. Early morning wins: panels are cool, dew's already loosening dirt for you, and you're not fighting sun glare. Late afternoon after the sun drops works too.
 
-Turn off your solar system before you start. Non-negotiable. Most modern inverters have a DC isolator or solar supply main switch right at the inverter box. Some systems need a shutdown procedure. Check your manual. You're protecting yourself from electrical current on the roof, but also preventing a ground fault if water seeps into any cracked conduit or junction box. Enphase microinverter systems? Use the Rapid Shutdown switch if you've got one.
+Turn off your solar system before you start. Non-negotiable. Most modern inverters have a DC isolator or solar supply main switch right at the inverter box. Some systems need a shutdown procedure. [Check your manual](/solar-inverter-troubleshooting-guide/). You're protecting yourself from electrical current on the roof, but also preventing a ground fault if water seeps into any cracked conduit or junction box. Enphase microinverter systems? Use the Rapid Shutdown switch if you've got one.
 
 Roof safety matters more than clean panels. If your system's on a steep roof, a second story, or you're generally uncomfortable on ladders, hire someone. I'll tell you what to look for when you do. But don't talk yourself into being more sure-footed than you actually are. Roof falls aren't a learning experience.
 

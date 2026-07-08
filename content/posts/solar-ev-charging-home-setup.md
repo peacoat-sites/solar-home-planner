@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-
+lastmod: 2026-07-07
 ---
 You bought the EV first. Or maybe you're about to. And now someone, a neighbor, a coworker, a YouTube rabbit hole at midnight, has convinced you that free solar charging is possible. It is. But it's not as simple as bolting panels to your roof and plugging in the car.
 
@@ -33,7 +33,7 @@ Get the sizing wrong, and you'll spend real money while your utility bill stays 
 
 The math first, because this is where homeowners get surprised in both directions.
 
-The average American home uses roughly 10,500 kilowatt-hours (kWh) of electricity per year. That's your baseline. Now add an electric vehicle. The most common EVs on the road, Tesla Model 3, Chevy Bolt, Ford Mustang Mach-E, consume somewhere between 3 and 4 miles per kWh. Drive an average of 12,000 to 15,000 miles per year, and you're adding roughly 3,000 to 5,000 kWh of annual electricity demand to your home.
+The average American home uses roughly 10,500 kilowatt-hours (kWh) of electricity per year. That's your baseline. Now [add an electric vehicle](/can-solar-power-charge-an-electric-car/). The most common EVs on the road, Tesla Model 3, Chevy Bolt, Ford Mustang Mach-E, consume somewhere between 3 and 4 miles per kWh. Drive an average of 12,000 to 15,000 miles per year, and you're adding roughly 3,000 to 5,000 kWh of annual electricity demand to your home.
 
 That's a 30-50% increase in consumption.
 
@@ -54,6 +54,12 @@ For our 14,000 kWh example in a mid-sun location with 4.5 peak hours: 14,000 div
 That's meaningful. Not huge, but solidly above the national average install size of around 6 kW. Get quotes for the right size upfront rather than trying to expand later, because adding panels to an existing system often costs more per watt than doing it correctly the first time.
 
 ## The EV Charger Decision: Level 1, Level 2, or Smart Charger
+
+| Charger Type | Voltage | Range Added Per Hour | Best For | Installation Cost |
+| --- | --- | --- | --- | --- |
+| Level 1 | 120V | 3-5 miles | Low daily mileage (30-40 miles) | Minimal (existing outlet) |
+| Level 2 | 240V | 20-30 miles | Most EV owners; solar optimization with smart scheduling | $800-$2,100 (charger + electrical work) |
+| Smart Level 2 | 240V | 20-30 miles | Solar homes; time-of-use rate optimization | $800-$2,100 (charger + electrical work) |
 
 Your existing outlet probably isn't good enough, but let me explain what you're actually choosing between.
 

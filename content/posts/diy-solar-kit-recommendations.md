@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-
+lastmod: 2026-07-07
 ---
 A homeowner in Phoenix told me last year he saved $14,000 by installing a 6kW solar kit himself over two weekends. His neighbor across the street, same neighborhood, same roof type, paid a contractor $28,000 for the equivalent system. The difference wasn't luck or skill level. It was research, the right kit, and knowing exactly what he was getting into before he bought anything.
 
@@ -61,6 +61,15 @@ Also factor in whether you're planning to add an EV or go fully electric with ap
 
 ## The Best DIY Solar Kits Available Right Now
 
+| Kit Brand | Per-Watt Cost | Best For | Key Strength | Limitation |
+| --- | --- | --- | --- | --- |
+| Renogy (4-8kW) | $1.20-$1.60 | Straightforward roofs, full grid-tied | Tier 1 panels, clear manuals, good support | String inverter less ideal for shading |
+| Grape Solar | Comparable to Renogy | Budget-conscious buyers | Local Home Depot returns | Sparse racking documentation |
+| EcoFlow PowerStream | Higher per-watt | Offset/balcony systems | Plug-in simplicity | Not a full grid-tied solution |
+| Goal Zero / Bluetti | Higher per-watt | Portable or supplemental storage | Portability and flexibility | Not a full home solar solution |
+| CivicSolar / Wholesale Solar | Variable (component-based) | Experienced DIYers, custom builds | Professional-grade equipment, better selection | Requires system design knowledge |
+| Contractor Install (reference) | $2.50-$3.50 | Turn-key installation | No design work required | Higher cost than DIY |
+
 These are real products, not hypotheticals. I'm comparing them on what actually matters for DIY success: component quality, documentation clarity, customer support, and how well the included racking handles field conditions.
 
 **Renogy Solar Kit (4kW-8kW range)**
@@ -73,7 +82,7 @@ Sold through Home Depot, which matters for some buyers because you can return co
 
 **EcoFlow PowerStream + Panel Bundles**
 
-These are oriented toward smaller off-grid or balcony systems rather than full grid-tied residential. If you're trying to offset a portion of usage without a full interconnection, EcoFlow's plug-in systems are legitimate. Just understand they're not a replacement for a full grid-tied system.
+These are oriented toward smaller off-grid or balcony systems rather than full grid-tied residential. If you're trying to offset a portion of usage without a full interconnection, EcoFlow's plug-in systems are legitimate. Just understand they're not a replacement for a [full grid-tied system](/can-i-install-solar-panels-myself/).
 
 **Goal Zero and Bluetti bundles**
 

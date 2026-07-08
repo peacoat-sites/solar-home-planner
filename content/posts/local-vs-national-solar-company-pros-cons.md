@@ -23,6 +23,7 @@ faqs:
    a: "Focus less on the headline number and more on who's backing it. A 25-year workmanship warranty from a company founded in 2022 with no track record is worth less than a 10-year warranty from a company that's been servicing systems since 2008. Ask for customer references from installs that are at least five years old."
  - q: "What's the single most important thing to check before signing with any solar company?"
    a: "Pull their license number from your state contractor licensing board and verify it's current, in good standing, and covers electrical work. Takes five minutes. I'm always surprised how many people skip this step on a five-figure purchase."
+lastmod: 2026-07-07
 ---
 
 You've probably already gotten a few quotes. Maybe one came from a slick national brand you've seen advertised during football games, and another from a local company someone in your neighborhood used last year. The prices are different. The pitches are different. And now you're sitting there wondering which one you can actually trust with a $25,000 decision that's going to live on your roof for the next 25 years.
@@ -42,6 +43,18 @@ And financing options are genuinely broader. National companies have their own l
 Here's where I push back on what most people assume, though: the fact that a national company is "established" doesn't mean they'll be around to honor your workmanship warranty in year 12. Sungevity was one of the biggest names in residential solar. It went bankrupt in 2017. Vivint Solar got absorbed. The solar industry consolidates constantly. A national brand on the quote doesn't guarantee long-term accountability any more than a local name does.
 
 ## Where Local Installers Win, Often by a Lot
+
+| Aspect | National Companies | Local Installers |
+| --- | --- | --- |
+| Training & Standardization | Standardized programs, consistent procedures | Owner-operated, reputation-driven quality |
+| Permitting Speed | 10 days (example: Phoenix, 500+ prior submissions) | 3 weeks (example: 40th install in jurisdiction) |
+| Financing Options | Own loan products, leases, PPAs | Typically rely on third-party lenders |
+| Installation Team | Subcontracted crews, sales/install separation | Direct owner involvement, same team |
+| Equipment Selection | Preferred vendor relationships | Flexibility to choose best equipment per job |
+| Customer Service | 24/7 staffing available | Direct access to owner/office |
+| Workmanship Warranty Risk | Company acquisition/restructuring possible | Business closure risk, but longevity cases exist |
+| Local Knowledge | Depends on market penetration | Deep utility and roof-type expertise |
+| Long-term Accountability | Scale advantage but consolidation risk | Direct reputation stake, walkable presence |
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

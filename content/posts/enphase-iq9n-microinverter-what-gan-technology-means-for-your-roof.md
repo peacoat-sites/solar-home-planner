@@ -12,12 +12,21 @@ author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 slug: "enphase-iq9n-microinverter-what-gan-technology-means-for-your-roof"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most homeowners shopping for solar right now assume the inverter is the boring part of the decision. Pick a brand, check the warranty, move on. I'll be honest: I thought the same thing for years as an electrician. Then Enphase dropped the IQ9N on June 23, 2026, and the technology inside it forced me to actually pay attention.
 
 This isn't a minor spec bump. Enphase built the IQ9N around gallium nitride semiconductors, and if you've been following what GaN has done to laptop chargers and EV power systems over the last few years, you already know why that matters. For everyone else, let's dig into what this actually means for a system on your roof, in your specific financial situation, right now in mid-2026.
 
 ## Why GaN Matters in a Microinverter (Beyond the Marketing)
+
+| Metric | IQ9N | IQ8 | IQ7 |
+| --- | --- | --- | --- |
+| CEC Weighted Efficiency | 97.5% | Not specified | Not specified |
+| Continuous Output Power | 427 VA | Lower | Lower |
+| GaN Technology | Yes | No | No |
+| Backward Compatible | N/A | Yes | Yes |
+| Battery Compatibility | IQ Battery | IQ Battery | IQ Battery |
 
 Silicon has been the backbone of power electronics for decades. It works, but it has real physical limits around switching speed and heat. Gallium nitride operates at higher frequencies with less energy lost to heat, which is why GaN chargers can be so much smaller and more efficient than their silicon equivalents.
 
@@ -49,7 +58,7 @@ The practical caveat: backward compatibility doesn't mean plug-and-play without 
 
 Nearly 50% of new U.S. residential solar systems were paired with batteries in Q1 2026, according to Utility Dive's coverage of record-breaking storage installations. Aurora Solar's 2026 storage overview puts it even more bluntly: only 3% of solar-engaged homeowners say they don't want storage. The era of solar-only residential systems is essentially over as a mainstream purchase pattern.
 
-The IQ9N's compatibility with IQ Batteries matters here because Enphase's ecosystem lock-in is real. If you're buying into or expanding an Enphase microinverter system, you're most likely going to be pairing it with Enphase storage. The IQ9N's higher output per panel means you're sending more power to the battery per installation dollar, which improves the economics of the storage side of the equation too.
+The IQ9N's compatibility with IQ Batteries matters here because Enphase's ecosystem lock-in is real. If you're buying into or expanding an Enphase microinverter system, you're most likely going to be [pairing it with Enphase storage](/why-45-of-new-solar-buyers-are-now-adding-a-battery/). The IQ9N's higher output per panel means you're sending more power to the battery per installation dollar, which improves the economics of the storage side of the equation too.
 
 What I'd watch for: Enphase hasn't published IQ9N-specific round-trip efficiency numbers when paired with IQ Battery storage as of this writing. The inverter efficiency and the battery round-trip efficiency are separate calculations, and a highly efficient microinverter paired with a mediocre battery charge controller still loses energy on the battery side. Ask your installer for system-level efficiency numbers, not just inverter specs in isolation.
 

@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-
+lastmod: 2026-07-07
 ---
 Sixty percent of the homeowners I talk to have the same misconception locked in their heads: higher efficiency equals better panels. Full stop. And I get it, that's how most appliances work. A more efficient refrigerator uses less electricity. A more efficient furnace wastes less gas. So it feels logical that a 22% efficient solar panel is just... better than a 19% one. But that framing causes real problems when you're spending $15,000 to $30,000 on a system, and I've watched people pay thousands extra for efficiency they didn't actually need.
 
@@ -35,15 +35,22 @@ A solar panel's efficiency rating tells you how much of the sunlight hitting the
 
 That sounds straightforward. Here's what the number doesn't tell you: it's measured under something called Standard Test Conditions, or STC. That means 77°F (25°C), 1000 watts of solar irradiance per square meter, and essentially no wind. Your actual roof in Phoenix in July hits nothing close to those conditions. Neither does a rooftop in Portland in November.
 
-The National Renewable Energy Laboratory (NREL) has done extensive work on the gap between STC ratings and real-world production, and it's not small. Depending on your climate, a panel might produce anywhere from 10% to 25% less energy than its rated specs suggest. Which means two panels with different efficiency ratings but similar temperature coefficients and real-world derating factors can end up producing nearly identical amounts of electricity on your actual roof.
+The National Renewable Energy Laboratory (NREL) has done extensive work on the gap between STC ratings and real-world production, and it's not small. Depending on your climate, a panel might produce anywhere from 10% to 25% less energy than its rated specs suggest. Which means two panels with different efficiency ratings but similar [temperature coefficient](/solar-panel-brands-comparison-2026/)s and real-world derating factors can end up producing nearly identical amounts of electricity on your actual roof.
 
 Efficiency is a useful shorthand, not a verdict.
 
 ## What Actually Drives the Efficiency Number
 
+| Cell Technology | Typical Efficiency Range | Market Position | Notes |
+| --- | --- | --- | --- |
+| Monocrystalline | 19-23% | Premium residential | Single crystal, fewer impurities, examples: SunPower Maxeon ~22.8%, Panasonic EverVolt ~22.2%, REC Alpha Pure-R ~22.3% |
+| Polycrystalline | 15-17% | Declining/budget installs | Multiple crystals fused together, price gap to mono has narrowed |
+| TOPCon | 22%+ | Emerging residential standard | Improved temperature performance, examples: LONGi Hi-MO 6, Jinko Tiger Neo |
+| HJT (Heterojunction) | 22%+ | Emerging residential standard | Newer manufacturing approach, better temperature coefficient |
+
 Three main cell technologies dominate the residential market right now, and understanding them explains most of what you'll see on spec sheets.
 
-Monocrystalline panels are made from a single silicon crystal. The manufacturing process is more controlled, which means fewer impurities and more paths for electrons to move freely. Most monocrystalline panels on the market today run between 19% and 23% efficiency. SunPower's Maxeon line sits at the top around 22.8%. Panasonic's EverVolt HK series hits around 22.2%. REC's Alpha Pure-R panels come in around 22.3%. These are genuinely premium products.
+[Monocrystalline panels](/monocrystalline-vs-polycrystalline-panels/) are made from a single silicon crystal. The manufacturing process is more controlled, which means fewer impurities and more paths for electrons to move freely. Most monocrystalline panels on the market today run between 19% and 23% efficiency. SunPower's Maxeon line sits at the top around 22.8%. Panasonic's EverVolt HK series hits around 22.2%. REC's Alpha Pure-R panels come in around 22.3%. These are genuinely premium products.
 
 Polycrystalline panels, made from multiple silicon crystals fused together, used to be the workhorse of the residential market. Efficiencies typically ranged from 15% to 17%. They've fallen out of favor mostly because the price gap between poly and mono has narrowed enough that the extra efficiency of mono makes sense for most installs. You'll still see poly on low-budget installs or rural agricultural applications.
 

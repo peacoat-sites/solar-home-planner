@@ -23,6 +23,7 @@ faqs:
    a: "Most modern inverters with integrated battery management (Enphase, SolarEdge, Tesla) have TOU programming options, but they require manual setup. You have to input your utility's schedule, and you should check it every time your utility revises its tariff, which happens more often than you'd think."
  - q: "Is it worth switching to TOU if I have solar but no battery storage?"
    a: "Possibly, but it's not automatic. If your peak window overlaps with your midday solar production window, you can offset peak imports naturally. If the peak window is evening-only and your export rate is low, TOU could actually cost you more. Model it first with your actual usage data."
+lastmod: 2026-07-07
 ---
 
 Most articles about time-of-use rates spend three paragraphs explaining what a rate schedule is, then tell you to "shift your loads to off-peak hours." Thanks. Very helpful. What they skip is the actual math, the tricky interactions between solar production and TOU windows, and why an EV charger can either be your best weapon or quietly wreck your bill if you're not paying attention.
@@ -40,6 +41,13 @@ This is exactly the scenario that makes battery storage go from "nice to have" t
 If you don't have storage yet, the first move is to understand your specific utility's TOU structure cold. Not just "peak vs. off-peak." Know the exact hours, know the rate differential, and know what your net metering compensation rate is for exports. That number is often buried in a tariff sheet, not on the marketing page.
 
 ## Building the EV Charging Strategy Around Your Rate Schedule
+
+| Scenario | Rate | Annual Cost (60 kWh fill-up) | Notes |
+| --- | --- | --- | --- |
+| Peak-hour charging (4-9 p.m.) | $0.50/kWh | $30 per fill-up (~$800-$1,100/year) | Single fill-up cost; repeated daily across commuting |
+| Off-peak charging (overnight) | $0.13/kWh | $7.80 per fill-up | Recommended strategy for most TOU plans |
+| Solar export credit (typical) | $0.08/kWh | N/A | Used for net metering compensation |
+| Daytime grid import (comparison) | $0.13/kWh | N/A | Off-peak rate; often cheaper than solar export value |
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -68,7 +76,7 @@ Most modern inverter/battery systems (the SolarEdge Energy Hub, the Enphase IQ S
 
 A [home energy monitor like the Emporia Vue 3](https://www.amazon.com/s?k=emporia+vue+3+energy+monitor&tag=contentportfo-20) (around $90) is worth every cent here. It gives you real-time circuit-level visibility so you can see exactly when and where your household is drawing power. Without it, you're guessing. With it, you can confirm that your battery is actually holding charge through peak hours, that your EV charger kicked on at 9:05 p.m. like scheduled, and that your HVAC isn't spiking during the expensive window.
 
-EnergySage's market data shows the average solar-plus-storage system in 2026 runs between $25,000 and $40,000 installed before incentives. The federal Investment Tax Credit (currently 30%) makes a significant dent, and several states stack additional credits on top. If you're in that system, TOU optimization is one of the few ways to actively improve your return on investment post-install, rather than just waiting for the payback clock to tick down.
+EnergySage's market data shows the average [solar-plus-storage system](/solar-ev-charging-home-setup/) in 2026 runs between $25,000 and $40,000 installed before incentives. The federal Investment Tax Credit (currently 30%) makes a significant dent, and several states stack additional credits on top. If you're in that system, TOU optimization is one of the few ways to actively improve your return on investment post-install, rather than just waiting for the payback clock to tick down.
 
 ## The Rate Schedule Trap Nobody Warns You About
 

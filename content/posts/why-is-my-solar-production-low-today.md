@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-
+lastmod: 2026-07-07
 ---
 You checked your monitoring app this morning and your system produced 4.2 kWh yesterday when it normally does 28. Now you're second-guessing every decision you made signing those installation contracts. I've been there, and I've gotten this panicked message from readers more times than I can count. The good news: low production is almost never the disaster it feels like in the moment. The bad news: finding the root cause requires actually looking at a few different things, not just refreshing the app and hoping the number changes.
 
@@ -31,11 +31,20 @@ Let me walk you through how I actually think about this problem.
 
 ## Start With the Obvious: What Did the Sky Look Like?
 
+| Issue | Production Impact | Detection Method |
+| --- | --- | --- |
+| Full overcast sky | 70-90% reduction | Check weather app; production graph appears flat |
+| Partial cloud cover | Variable; inconsistent spikes/drops | Production graph appears jagged |
+| Haze/smoke/humidity | 20-40% reduction | Visual observation; mostly clear appearance |
+| Soiling (dust/pollen) | 1.5-6.2% per month; up to 18% during pollen season | Visual inspection of panel surface |
+| Bird droppings | Disproportionately high; can affect entire string | Visual inspection; hard shadow on panels |
+| Seasonal shade shift | Varies by obstruction | Compare panel shadows across seasons; check roof vents, chimneys, neighboring structures |
+
 This sounds condescending, but stick with me, because I've seen homeowners call their installers in a panic over a cloudy Tuesday. Weather is the single biggest driver of day-to-day production swings, and most monitoring apps don't give you great context for it.
 
 A fully overcast sky can cut your production by 70 to 90 percent compared to a clear day. Partial cloud cover is trickier because it's inconsistent and can produce weird spikes and drops throughout the day that look alarming on a graph. A hazy summer day, think wildfire smoke or heavy humidity, can chop 20 to 40 percent off your output without a single cloud in sight.
 
-Here's what I actually do: I pull up Weather Underground's historical data for my zip code and look at solar irradiance or cloud cover hour by hour for the day in question. You can also cross-reference against your monitoring app's production curve. On a good clear day, your production graph should look like a smooth bell curve peaking around solar noon. If it looks jagged or flat, weather is almost certainly involved.
+Here's what I actually do: I pull up Weather Underground's historical data for my zip code and look at solar irradiance or cloud cover hour by hour for the day in question. You can also cross-reference against your [monitoring app's production curve](/solar-monitoring-apps-best-reviewed/). On a good clear day, your production graph should look like a smooth bell curve peaking around solar noon. If it looks jagged or flat, weather is almost certainly involved.
 
 One specific thing most people don't realize: a light dusting of snow that's mostly melted by 10 a.m. can still kill your morning production, which gets stripped from the daily total. Spring days where clouds move in and out can produce numbers that look broken but are completely normal.
 
@@ -65,7 +74,7 @@ The fix here isn't always obvious. If it's a tree you own, trimming is straightf
 
 So the weather was fine, your panels look clean, there's no new shade. Now we get into equipment.
 
-Your inverter is the most common hardware failure point. Most modern inverters have some form of error reporting, either through a display on the unit itself or through a connected monitoring portal. SolarEdge, Enphase, Fronius, and SMA all have app-based monitoring that shows you fault codes. Before you call your installer, check those.
+Your inverter is the most common hardware failure point. Most modern inverters have some form of error reporting, either through a display on the unit itself or through a connected monitoring portal. SolarEdge, Enphase, Fronius, and SMA all have app-based monitoring that shows you [fault codes](/solar-inverter-display-readings-explained/). Before you call your installer, check those.
 
 A few specific things to look for:
 

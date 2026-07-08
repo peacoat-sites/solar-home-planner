@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-
+lastmod: 2026-07-07
 ---
 Your electricity bill is the single most important document in your whole solar project, and most people barely glance at it before calling a contractor.
 
@@ -56,9 +56,16 @@ Now think about what's coming. Planning to buy an EV in the next couple of years
 
 ## The Peak Sun Hours Factor Is Where People Get Confused
 
+| Region | Peak Sun Hours/Day | Example Locations |
+| --- | --- | --- |
+| Southwest U.S. | 5.5-6.5 | Arizona, Nevada |
+| Southeast U.S. | 4.5-5.5 | Florida, Georgia |
+| Midwest/Northeast | 3.5-4.5 | Ohio, New York |
+| Pacific Northwest | 3.0-4.0 | Oregon, Washington |
+
 This tripped me up the first time I designed a system. Peak sun hours aren't how much daylight you get. They're a measure of solar irradiance: the number of hours per day when your location receives 1,000 watts of solar energy per square meter. It's just a standardized way to compare regions.
 
-San Diego gets roughly 5.5 peak sun hours daily. Seattle gets about 3.5. Massachusetts is looking at 4.0 to 4.2. These numbers come from the National Renewable Energy Laboratory's solar data, and you can find your exact location on their PVWatts Calculator at pvwatts.nrel.gov. It's free, accurate, and I'd trust it way more than any solar salesperson.
+San Diego gets roughly 5.5 peak sun hours daily. Seattle gets about 3.5. Massachusetts is looking at 4.0 to 4.2. These numbers come from the National Renewable Energy Laboratory's solar data, and you can find your exact location on their [PVWatts Calculator at pvwatts.nrel.gov](/google-sunroof-accuracy-review/). It's free, accurate, and I'd trust it way more than any solar salesperson.
 
 This number directly controls how much work your panels do each day, which directly determines how many you need.
 

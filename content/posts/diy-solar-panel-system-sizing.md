@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-
+lastmod: 2026-07-07
 ---
 Most homeowners walk into solar quotes with zero leverage. They hand the salesperson a utility bill, nod along while someone explains "peak sun hours," and end up with a system somebody else sized for them. I've watched this happen dozens of times. The salesperson isn't necessarily lying, but they have every incentive to round up. A bigger system means a bigger commission. What I want to show you is that sizing a solar system yourself isn't that complicated, and doing it before you ever talk to a contractor changes the entire conversation.
 
@@ -50,6 +50,12 @@ I've seen clients size their system against a utility bill that reflected a wint
 Get the 12-month number, then adjust it intentionally. If you're planning an EV charge at home, add roughly 3,000 to 4,000 kWh annually for an average 12,000-mile-a-year driver. If you're switching from gas to electric heat, that number can jump significantly depending on your climate and home size.
 
 ## Peak Sun Hours: The Number That Actually Drives System Size
+
+| Location | Peak Sun Hours | Annual Production (1 kW system) | Panels Needed (400W) for 12,000 kWh |
+| --- | --- | --- | --- |
+| Phoenix, Arizona | 6.5 | ~910 kWh | ~13 panels |
+| Mid-Atlantic (South-facing, 30°) | ~5.0 | ~700 kWh | ~17 panels |
+| Seattle, Washington | 3.5 | ~490 kWh | ~24 panels |
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

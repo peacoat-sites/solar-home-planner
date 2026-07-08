@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-
+lastmod: 2026-07-07
 ---
 You just got your electric bill, and somewhere between the total due and the fine print about rate increases, you started doing the math on solar. Maybe you Googled "solar for 2,000 square foot house" expecting a clean answer, something like "you need X panels, done." Instead you got a wall of ads and calculator tools asking for your zip code. Here's the truth: square footage is almost useless when sizing a solar system. A 2,000 sq ft home in Phoenix with a pool and two EVs has completely different energy needs than a 2,000 sq ft home in Vermont with gas heat and one efficient tenant. The square footage gets you in the ballpark. Your electric bill gets you to the right seat.
 
@@ -88,7 +88,7 @@ The U.S. Department of Energy's homeowner solar guide reinforces this: local sol
 
 ## What Your Roof Can Realistically Support
 
-Even if the math says you need a 10 kW system, your roof has to cooperate. This is where I see a lot of homeowners get surprised.
+Even if the math says you need a 10 kW system, [your roof has to cooperate](/best-roof-type-for-solar-panels/). This is where I see a lot of homeowners get surprised.
 
 A 2,000 sq ft house doesn't have 2,000 sq ft of usable roof. Chimneys, vents, HVAC equipment, and setback requirements (typically 3 feet from all edges per fire code) eat into available space. A standard 400-watt panel runs about 22 square feet. A 10 kW system with 25 panels needs roughly 550 square feet of unshaded, south or west-facing roof area.
 

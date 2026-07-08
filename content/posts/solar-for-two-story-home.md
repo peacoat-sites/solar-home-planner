@@ -11,7 +11,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-
+lastmod: 2026-07-07
 ---
 There's something satisfying about looking up at a two-story home and knowing those rooftop panels are quietly powering the dishwasher, the air conditioner, the kids' gaming setups, everything. Two-story homes are actually some of the best candidates for solar, and if you've been hesitant, this guide walks you through roof suitability, system sizing, installation realities, and what you'll realistically save.
 
@@ -73,7 +73,7 @@ This assumes roughly 4–5 peak sun hours daily in most of the continental U.S. 
 
 Planning an **EV charger** soon? Size up now. An electric vehicle adds roughly 3,000–4,500 kWh annually. Installing a Level 2 EV charger with your solar system is one of the smartest financial moves you can make, your panels essentially fuel your car for free.
 
-[RELATED: home EV charger installation guide]
+[RELATED: home [EV charger installation guide](/solar-panels-for-new-construction-homes/)]
 
 ---
 
@@ -82,6 +82,14 @@ Planning an **EV charger** soon? Size up now. An electric vehicle adds roughly 3
 Not all panels are equal. The type you choose matters for performance on a two-story home's potentially limited or shaded roof space.
 
 ### Comparison Table: Solar Panel Types for Two-Story Homes
+
+| Panel Type | Efficiency | Cost per Watt | Best For | Shade Tolerance |
+|---|---|---|---|---|
+| **Monocrystalline** | 19-23% | $0.70-$1.00 | Limited roof space, max output | Good (especially with microinverters) |
+| **Polycrystalline** | 15-17% | $0.50-$0.75 | Budget installs, ample space | Moderate |
+| **Bifacial Monocrystalline** | 20-24% | $0.90-$1.20 | Optimal roof angles, high output | Good |
+| **Thin-Film** | 10-13% | $0.40-$0.65 | Flat or low-pitch roofs | Excellent |
+| **High-Efficiency Premium (e.g., SunPower)** | 22-24% | $1.00-$1.50 | Space-constrained roofs | Excellent |
 
 | Panel Type | Efficiency | Cost per Watt | Best For | Shade Tolerance |
 |---|---|---|---|---|

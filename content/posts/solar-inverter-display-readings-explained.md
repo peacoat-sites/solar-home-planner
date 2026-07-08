@@ -23,6 +23,7 @@ faqs:
     a: "Your inverter's model-specific fault code list is in the installation manual, which you can find as a PDF on the manufacturer's website. Search '[your inverter brand] [model] fault code [the number you're seeing]' and you'll usually find the official documentation plus forum threads from installers who've seen it before. Don't just clear the fault without logging what it was. Repeated fault codes of the same type tell a story."
   - q: "Does lower inverter efficiency at partial load actually matter for my bill?"
     a: "Yes, more than most people expect. Most string inverters operate at peak efficiency (97 to 98.5 percent) only within a specific output range, typically 20 to 80 percent of rated capacity. In shoulder seasons, when your panels produce less and your loads are lower, your effective efficiency can drop to 94 to 95 percent. Over a year, that gap adds up to maybe 1 to 2 percent of total production, which on a 7 kW system translates to roughly 100 to 200 kWh annually. Not catastrophic, but worth knowing when comparing inverter specs during a system purchase."
+lastmod: 2026-07-07
 ---
 
 Most homeowners glance at their inverter display once after installation, see green lights and some numbers, and never look again. That's a mistake. Your inverter screen is the closest thing solar has to an engine diagnostic panel, and if you can read it fluently, you'll catch problems months before they cost you real money.
@@ -61,15 +62,21 @@ The AC wattage and daily kWh get all the attention. The numbers that actually ca
 
 **Operating Temperature.** Many inverters display their own internal temperature. The Fronius Primo, for instance, shows this on its LCD when you scroll through the status screens. If it's regularly exceeding 75 to 80°C, your inverter is thermally derated, which means it's voluntarily reducing output to protect itself. Check the mounting location: direct afternoon sun on an inverter will cost you production every hot summer day. I moved one inverter to a shadier wall position and gained back roughly 4 percent annual yield on that system.
 
-**Event Logs and Fault Codes.** This is the real diagnostic goldmine. Most homeowners never find the event log because it's buried three menu levels deep. On a SolarEdge inverter: press the LCD button to scroll through displays until you see the log option. On a Fronius: the touch screen has an event history under the "Info" menu. These logs timestamp every grid disconnect, every fault code, every protection trip. If your inverter is logging grid overvoltage events at 2 a.m. three times a week, that's an actionable data point you'd otherwise never know about.
+**Event Logs and Fault Codes.** This is the real diagnostic goldmine. Most homeowners never find the [event log](/how-to-monitor-solar-panel-output/) because it's buried three menu levels deep. On a SolarEdge inverter: press the LCD button to scroll through displays until you see the log option. On a Fronius: the touch screen has an event history under the "Info" menu. These logs timestamp every grid disconnect, every fault code, every protection trip. If your inverter is logging grid overvoltage events at 2 a.m. three times a week, that's an actionable data point you'd otherwise never know about.
 
 ---
 
 ## String Inverters vs. Microinverters: The Display Difference That Matters
 
+| Inverter Type | Display Location | Panel-Level Data | Diagnostic Depth |
+| --- | --- | --- | --- |
+| String Inverter | Physical LCD/screen | Aggregate only | Limited without logs |
+| Microinverter (Enphase) | Cloud app/portal | Per-unit performance | High-individual unit status |
+| String + Optimizer (SolarEdge) | Cloud app/portal | Per-unit performance | High-individual optimizer data |
+
 With a standard string inverter, everything you see on the display is aggregate. The whole array, averaged together. One bad panel in a 12-panel string might only pull down your total DC voltage by 5 to 8 percent, which looks like noise on the display.
 
-Microinverter systems (Enphase, primarily) and string inverters with optimizers (SolarEdge) move the panel-level data to cloud monitoring, not the physical display. Your inverter display will show normal-looking aggregate numbers even while one microinverter has been offline for a week. The app or web portal is where you diagnose individual panel performance on those systems.
+Microinverter systems (Enphase, primarily) and string inverters with optimizers (SolarEdge) move the panel-level data to [cloud monitoring](/solar-monitoring-apps-best-reviewed/), not the physical display. Your inverter display will show normal-looking aggregate numbers even while one microinverter has been offline for a week. The app or web portal is where you diagnose individual panel performance on those systems.
 
 Here's a scenario I walked a reader through last spring:
 

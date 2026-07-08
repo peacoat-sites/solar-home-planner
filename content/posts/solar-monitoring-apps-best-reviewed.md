@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-
+lastmod: 2026-07-07
 ---
 Most solar monitoring app reviews are glorified spec sheets written by people who've never actually watched their system underperform on a cloudy February morning and tried to figure out why. They compare logos and screenshot counts. That's not useful.
 
@@ -38,6 +38,14 @@ String inverters (the older, single-box type) give you system-level data. One nu
 This matters because the "best" app depends entirely on what's feeding it. An Enphase owner and a Growatt owner aren't shopping in the same category.
 
 ## The Apps Worth Knowing, Honest Assessments
+
+| App | Best For | Key Strength | Limitation |
+| --- | --- | --- | --- |
+| Enphase Enlighten | Microinverter systems | Per-panel data (15-min updates), performance ratio metric | Alert system requires manual configuration |
+| SolarEdge Monitoring | Optimized string setups | Panel-level data, fast alert emails | Production graphs less readable, energy flow visualization lags on older phones |
+| Fronius Solar.web | Data-focused users, mixed equipment | Technical detail, third-party meter integration, consumption monitoring | Requires more user engagement |
+| Growatt ShinePhone | Budget/DIY systems | Basic production tracking, monthly trends | 2014-era interface, cloud latency, limited diagnostics |
+| Tesla Powerwall app | Battery system management | Energy flow visualization, time-of-use controls | Not a detailed inverter diagnostics tool |
 
 **Enphase Enlighten** is, in my experience, the gold standard for residential panel-level monitoring. It's not the prettiest interface, but it's the most informative if you have microinverters. You get per-panel production data updated every 15 minutes, lifetime energy charts, a system status feed that tells you if an individual microinverter has gone offline, and a reasonably accurate weather overlay so you can cross-check underperformance against cloud cover. The app (iOS and Android, free with Enphase hardware) also gives you a performance ratio metric, which is genuinely useful and underused by homeowners. If yours drops below about 75%, start asking questions.
 

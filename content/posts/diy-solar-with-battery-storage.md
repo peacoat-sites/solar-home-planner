@@ -23,6 +23,7 @@ faqs:
    a: "A standard grid-tie inverter only pushes solar power to the grid or your home loads. A hybrid inverter does that plus manages battery charging and discharging, and provides backup power output when the grid is down. If battery storage is in your plans at all, start with a hybrid inverter, not a plain grid-tie unit you'll have to replace later."
  - q: "Is DIY solar with battery storage worth it compared to hiring a contractor?"
    a: "If you're comfortable with the permitting process and have some electrical knowledge (or access to a licensed electrician for the sign-off), you can realistically save 30 to 50% on labor costs. The research here is mixed on whether the time investment is worth it for everyone, but for the homeowner who's going to learn the system anyway and wants to understand exactly what's running their house, it's hard to argue against it."
+lastmod: 2026-07-07
 ---
 
 Most people who ask me about DIY solar want to know one thing: how fast will it pay off? I get it. But I'll be honest, that's almost always the wrong first question. The better question is whether a battery-backed DIY system actually does what you think it's going to do, because what surprised me most when I went deep on this was how often homeowners end up with exactly the wrong setup for their actual situation.
@@ -33,11 +34,18 @@ Let me back up.
 
 There's a spectrum here, and where you land on it determines everything about cost, complexity, and what permits you'll need.
 
-On one end: a simple plug-and-play kit like a Jackery or EcoFlow system sitting in your garage, powering a few things during outages. Zero permits, no utility involvement, honestly closer to a fancy extension cord than a solar installation. On the other end: a fully permitted, grid-tied system with a whole-home battery backup, proper transfer switch, interconnection agreement with your utility, and your name on the building permit. That second one is what I'm mostly talking about here, because that's the version that actually moves the needle on your electric bill and gives you meaningful outage protection.
+On one end: [a simple plug-and-play kit](/diy-solar-kit-recommendations/) like a Jackery or EcoFlow system sitting in your garage, powering a few things during outages. Zero permits, no utility involvement, honestly closer to a fancy extension cord than a solar installation. On the other end: a fully permitted, grid-tied system with a whole-home battery backup, proper transfer switch, interconnection agreement with your utility, and your name on the building permit. That second one is what I'm mostly talking about here, because that's the version that actually moves the needle on your electric bill and gives you meaningful outage protection.
 
 The middle ground is a "hybrid" approach: a modest roof array (say, 6 to 10 panels) feeding a battery like the EG4 18kPWR or a Signature Solar setup, with a sub-panel carved out for critical loads. This is where a lot of DIYers land, and honestly, it's often the smartest call. You're not trying to run the whole house. You're keeping the fridge, the internet, maybe the well pump, and a few circuits alive when the grid goes down. That's achievable, and the permitting is sometimes simpler than a full system.
 
 ## The Permit and Utility Reality Nobody Wants to Talk About
+
+| System Type | Permits Required | Utility Involvement | Best For | Complexity |
+| --- | --- | --- | --- | --- |
+| Portable Kit (Jackery/EcoFlow) | None | None | Outage backup, camping | Very Low |
+| Hybrid with Sub-Panel | Yes, local | Yes, interconnection | Critical loads, modest backup | Medium |
+| Full Grid-Tied with Battery | Yes, local | Yes, interconnection | Whole-home backup, bill reduction | High |
+| Off-Grid System | Varies by jurisdiction | No | Remote properties, complete independence | High |
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

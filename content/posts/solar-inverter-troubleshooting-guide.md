@@ -23,13 +23,21 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-
+lastmod: 2026-07-07
 ---
 Most solar inverter problems aren't actually inverter problems. That's the thing nobody tells you upfront, and I learned it the hard way after spending three hours on a roof in July convinced I had a failed SMA Sunny Boy, only to trace the fault back to a loose MC4 connector that cost about forty cents to fix.
 
 Inverters get blamed for everything. They're the most visible, most diagnostic-heavy component in your system, so when production drops or an error code flashes, it's natural to point the finger there. But before you call a tech or start shopping for a $1,200 replacement, it's worth understanding what your inverter is actually telling you. Most of the time it's pointing somewhere else entirely.
 
 ## What Your Error Codes Are Actually Saying
+
+| Error Code Category | Typical Cause | Action Required |
+| --- | --- | --- |
+| Grid-related (frequency, voltage, disturbance) | Utility grid fluctuation or local voltage creep | Monitor for reconnection; contact utility if persistent |
+| IGBT fault | Failing power stage inside inverter | Contact technician; likely requires replacement |
+| DC bus overvoltage | Excessive DC input voltage | Check string configuration and panel connections |
+| Internal temperature critical | Inverter overheating | Improve ventilation or relocate unit |
+| Isolation fault (persistent) | Wiring issues or degrading DC cable insulation | Inspect array wiring and cable condition |
 
 Modern string inverters, whether you're running a Fronius Primo, an SMA Sunny Boy, or a SolarEdge HD-Wave, monitor voltage, frequency, temperature, isolation resistance, and grid conditions continuously. When something goes outside spec, they throw a code and sometimes shut down. The interface varies, but the logic is identical.
 

@@ -12,6 +12,7 @@ author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
 slug: "solar-batteries-are-rising-even-as-the-federal-tax-credit-is-gone"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most solar coverage in 2026 reads like a eulogy. The federal tax credit is dead, new installations are falling, the party is over. What that framing misses entirely: the homeowners actually adding batteries right now are making a smarter financial decision than most of the people who went solar during the credit's peak years.
 
@@ -26,6 +27,14 @@ And yet: 40 to 45 percent of new residential solar systems installed in Q1 2026 
 The reason is straightforward once you stop staring at the missing credit and look at what's changed on the other side of the ledger. The national average residential electricity rate hit 18.05 cents per kWh in early 2026, a 5.4 percent jump from 2025. That rate makes every kilowatt-hour your battery stores and discharges at peak time worth more than it was a year ago. Payback periods shorten as utility bills climb. The credit's absence hurts the upfront number; rising rates improve the long-term return. Those two forces are partially canceling each other out.
 
 ## State Rebates Are Doing Heavy Lifting
+
+| State Program | Incentive Range | Key Eligibility | Application Deadline |
+| --- | --- | --- | --- |
+| California SGIP | $5,000-$16,000 | System size & tier | Ongoing |
+| New York NYSERDA | $5,000-$16,000 | System size & tier | Ongoing |
+| Colorado Battery Rebate | $5,000-$16,000 | System size & tier | Ongoing |
+| Maryland RCES Grant | Up to $5,000 | Residential eligibility | Mid-2026 |
+| Utility-Specific Programs | Varies | Demand-response or VPP enrollment | Varies by utility |
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -57,7 +66,7 @@ Net metering is eroding. California's NEM 3.0 already slashed export compensatio
 
 A 10 kWh battery paired with a 6 kW system in a time-of-use rate territory can realistically displace 80 to 90 percent of your peak-rate grid consumption. At 18 cents per kWh blended average, and higher in California or New York, that's real annual savings that compound year over year as rates keep climbing. The battery isn't a luxury add-on anymore. In markets with degraded net metering, it's what makes the solar investment work as modeled.
 
-The specific products worth knowing in mid-2026: the Tesla Powerwall 3 integrates the inverter into the unit, which simplifies installation and reduces labor cost. Enphase IQ Battery 5P is well-suited to existing Enphase microinverter systems. Franklin Electric's apower unit gets less press but has strong performance in high-cycle applications. Get quotes on at least two of these. Installer markup on batteries varies significantly.
+The specific products worth knowing in mid-2026: the Tesla Powerwall 3 integrates the inverter into the unit, which simplifies installation and reduces labor cost. [Enphase IQ Battery 5P](/enphase-iq9n-microinverter-what-gan-technology-means-for-your-roof/) is well-suited to existing Enphase microinverter systems. Franklin Electric's apower unit gets less press but has strong performance in high-cycle applications. Get quotes on at least two of these. Installer markup on batteries varies significantly.
 
 ## Red Flags to Watch Right Now
 

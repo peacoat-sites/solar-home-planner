@@ -23,6 +23,7 @@ faqs:
    a: "LG Chem specifies an operating range of 14°F to 113°F. In extreme heat, you need to ensure the battery is installed in a shaded, ventilated location. It also won't charge below 32°F, which matters in cold climates where the battery might be in an unheated space. The RESU does have a self-heating function for discharge in cold temps, but charging stops until the internal temperature rises."
  - q: "Is the LG Chem RESU still a good buy in 2026?"
    a: "It's a solid buy, with some caveats. The NMC chemistry is maturing and LFP competitors have closed much of the cost gap. If you're prioritizing raw backup power output, newer LFP options may edge it out. But the RESU's track record, widespread installer familiarity, and current pricing still make it a legitimate choice, particularly the 16H Prime for homes in the 1,500-2,500 sq ft range with modest backup load expectations."
+lastmod: 2026-07-07
 ---
 
 LG Chem makes a genuinely good battery. That's not a popular opener for a review, but after years of watching homeowners get burned by overhyped storage systems that couldn't deliver in a real grid outage, I'll take a reliable workhorse over a flashy underperformer every time.
@@ -32,6 +33,14 @@ The RESU (Residential Energy Storage Unit) line has been around long enough that
 ---
 
 ## What You're Actually Getting With the RESU
+
+| Model | Usable Capacity | Continuous Power | Peak Power | Weight | Best For |
+| --- | --- | --- | --- | --- | --- |
+| RESU10H | 9.3 kWh | 5 kW | 7 kW (3s) | 75 kg (165 lbs) | Single-unit self-consumption; backup with load management |
+| RESU16H Prime | 16 kWh | 7 kW | 11 kW | Not specified | Medium homes; whole-home backup without load shedding |
+| Dual RESU10H (stacked) | 18.6 kWh | 10 kW | 14 kW (estimated) | 150 kg (330 lbs) | Whole-home backup with AC and critical loads |
+| RESU6.5 (low-voltage) | 6.5 kWh | Not specified | Not specified | Not specified | String inverter compatibility; smaller systems |
+| RESU13 (low-voltage) | 13 kWh | Not specified | Not specified | Not specified | String inverter compatibility; medium systems |
 
 LG Chem offers the RESU in several configurations, but the two most common residential options are the RESU10H (9.3 kWh usable) and the RESU16H Prime (16 kWh usable). The "H" designates high-voltage compatibility, meaning these units pair with hybrid inverters from brands like SolarEdge and Solaredge-compatible systems. There's also a low-voltage RESU6.5 and RESU13 that work with standard string inverter setups, but honestly, most installers are steering homeowners toward the high-voltage units now because the efficiency numbers are better.
 
@@ -49,7 +58,7 @@ The warranty itself is 10 years with a 60% capacity guarantee. Standard for the 
 
 
 
-Here's where I'll be direct: the RESU's Achilles heel is whole-home backup, specifically the continuous power output.
+Here's where I'll be direct: the RESU's Achilles heel is [whole-home backup](/whole-home-solar-backup-system/), specifically the continuous power output.
 
 The RESU10H delivers 5 kW continuous power output. That sounds fine until you start adding up what's actually running in your house during an outage. A central air conditioner alone pulls 3-5 kW depending on tonnage. Add a refrigerator (150-400W), a few lights, phone chargers, and maybe a medical device, and you're right at the edge of what a single RESU10H can deliver. The startup (surge) demand is even higher. LG Chem rates the peak power at 7 kW for 3 seconds, which handles most motor startups, but just barely.
 

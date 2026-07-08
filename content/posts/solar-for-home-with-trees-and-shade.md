@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-
+lastmod: 2026-07-07
 ---
 You've got a beautiful mature oak in the backyard, maybe a row of pines along the property line, and a south-facing roof that looks promising from the street. The solar salesperson who knocked on your door last Tuesday said shade "isn't really a problem anymore." That's half true, and the half they left out matters a lot. Shade is still the single biggest variable that separates a solar system that pays for itself in eight years from one that takes fourteen. Getting this right before you sign anything could be worth thousands of dollars.
 
@@ -54,6 +54,11 @@ Here's a practical approach:
 Any competent installer will do a shade analysis with professional tools before designing your system. If they skip this step, that's a red flag. You can read more about warning signs in this guide to [red flags when hiring a solar installer](/red-flags-when-hiring-solar-installer/).
 
 ## Tree Trimming vs. Tree Removal: Running the Numbers
+
+| Scenario | Annual Production Loss | 25-Year Lost Value | Tree Service Cost | Payback Period |
+| --- | --- | --- | --- | --- |
+| 30% shade on 10 kW system @ $0.14/kWh | 30% | $3,750-$4,500 | $800-$2,500 (removal) | 4.4-6.3 years |
+| Crown-opening trim (medium hardwood) | Temporary reduction | Variable | $300-$800 | 2-5 years (until regrowth) |
 
 People get emotionally attached to mature trees, and reasonably so. But this is also a financial decision, and you need to look at it clearly.
 

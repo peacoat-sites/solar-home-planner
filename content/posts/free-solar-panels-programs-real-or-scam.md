@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-
+lastmod: 2026-07-07
 ---
 You've seen the ads. "Get solar panels installed on your home for FREE." Maybe it was a Facebook post, a mailer with a suspiciously professional logo, or a neighbor who swears she's getting solar at zero cost. And now you're sitting here wondering if you missed something, or if the whole thing is a trap.
 
@@ -57,7 +57,7 @@ Solar leases and PPAs aren't automatically bad deals. If your credit's not stron
 
 Legitimate assistance programs exist that get closer to truly free solar for qualifying households. Most people have no idea they're out there.
 
-The federal Weatherization Assistance Program (WAP), run by the Department of Energy, provides energy efficiency upgrades to low-income households. Solar installations sometimes get included. California, Colorado, and Massachusetts all run Income-Qualified Solar programs that can install panels at zero cost if you hit the income threshold. If you're in New York, NYSERDA has offered discounted solar for low-to-moderate income households worth checking out.
+The federal Weatherization Assistance Program (WAP), run by the Department of Energy, provides energy efficiency upgrades to [low-income households](/solar-panels-for-low-income-homeowners-programs/). Solar installations sometimes get included. California, Colorado, and Massachusetts all run Income-Qualified Solar programs that can install panels at zero cost if you hit the income threshold. If you're in New York, NYSERDA has offered discounted solar for low-to-moderate income households worth checking out.
 
 The 30 percent federal Investment Tax Credit (ITC) isn't "free" either, but it's the most powerful solar incentive in the country right now through 2032. Install a $20,000 system and get $6,000 knocked off your federal tax bill. The catch: you have to owe that much in taxes. A retiree on a fixed income might get almost nothing from this credit, which is why leases get pushed hard to that demographic.
 
@@ -67,7 +67,7 @@ Some electric cooperatives and municipal utilities offer rebates covering $3,000
 
 A reader emailed me last spring. She'd signed what she thought was an enrollment form for a "federal solar grant program." It wasn't. It was a $28,000 home improvement loan, 9.9 percent interest, secured against her house. The installer had lied about what the paperwork was.
 
-That scheme, attaching high-interest solar loans to your house through PACE financing (Property Assessed Clean Energy), has triggered regulatory action in multiple states. PACE isn't inherently bad, but bad actors have weaponized it systematically against elderly homeowners and Spanish-speaking communities in particular. The Consumer Financial Protection Bureau has documented this extensively.
+That scheme, attaching high-interest solar loans to your house through [PACE financing](/community-solar-how-it-works/) (Property Assessed Clean Energy), has triggered regulatory action in multiple states. PACE isn't inherently bad, but bad actors have weaponized it systematically against elderly homeowners and Spanish-speaking communities in particular. The Consumer Financial Protection Bureau has documented this extensively.
 
 Red flags:
 

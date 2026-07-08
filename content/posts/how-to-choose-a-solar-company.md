@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-
+lastmod: 2026-07-07
 ---
 A neighbor of mine got a $0-down solar quote that looked great on paper. The installer was in and out in two days, the panels went up fast, and then the problems started: a roof leak that the company blamed on pre-existing damage, a system that was undersized by about 30%, and a financing contract with an escalator clause that raised his payments 2.9% every year for 25 years. The company? Gone six months later. That experience is more common than the industry likes to admit, and it's exactly why choosing the right solar company matters as much as choosing the right system.
 
@@ -31,7 +31,7 @@ A neighbor of mine got a $0-down solar quote that looked great on paper. The ins
 
 The residential solar industry has exploded. That's mostly good news for homeowners, but it also means the market is flooded with installers who have no business being on your roof. According to [EnergySage's market data](https://news.energysage.com/), the average homeowner gets quotes from three or more installers, yet most people don't know what they're actually comparing. They look at the monthly payment and the system size and call it a day.
 
-Here's the reality: solar is a 25-to-30-year investment. The company you hire may not be around in five years. The equipment they install will outlast two or three rounds of installer turnover. And the contract you sign on day one could lock you into terms that hurt your home's resale value or your monthly cash flow for decades. You need to vet these companies like you're hiring a contractor for a $30,000 renovation, because you are.
+Here's the reality: solar is a 25-to-30-year investment. The company you hire may not be around in five years. The equipment they install will outlast two or three rounds of installer turnover. And the contract you sign on day one could lock you into terms that hurt your home's resale value or your monthly cash flow for decades. You need to [vet these companies](/is-my-solar-installer-legit/) like you're hiring a contractor for a $30,000 renovation, because you are.
 
 The good news is that weeding out the bad actors is not that complicated once you know what to look for.
 
@@ -64,6 +64,13 @@ Most homeowners get a quote that says something like "6.4 kW system, 16 panels, 
 If a company can't or won't provide this level of detail, move on.
 
 ## Comparing Financing Options Without Getting Burned
+
+| Financing Option | You Own the System | Eligible for Tax Credit | Key Risk |
+|---|---|---|---|
+| Cash purchase | Yes | Yes | Upfront cost |
+| Solar loan | Yes | Yes | Interest rate, loan term |
+| Solar lease | No | No | Escalator clauses, home sale complications |
+| Power Purchase Agreement (PPA) | No | No | Long contract term, rate escalators |
 
 The financing piece is where a lot of homeowners get hurt. Here's a quick breakdown of the main options:
 

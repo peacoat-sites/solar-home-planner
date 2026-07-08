@@ -23,6 +23,7 @@ faqs:
    a: "The battery inverter will either throttle output or trip an overcurrent protection device on the critical loads panel, depending on the inverter model. You won't damage the battery, but you might trip a breaker and lose power to those circuits until you reset it and reduce the load."
  - q: "Do I need a separate permit for the critical loads panel versus the solar and battery permit?"
    a: "Usually it's covered under a single permit application for the entire solar-plus-storage system, but this varies by jurisdiction. Some municipalities issue separate electrical permits for the subpanel work. Ask your installer to confirm what permits they're pulling before work starts, and verify with your local building department if they can't give you a straight answer."
+lastmod: 2026-07-07
 ---
 
 Most homeowners shopping for solar-plus-storage think "backup" means the whole house stays on. It doesn't. What you actually get with a standard battery install, unless someone specifically sets up a critical loads panel, is a dead house during an outage even if you have a fully charged battery sitting right there in your garage. I've watched this happen to a reader named Marcus from Sacramento who installed a 10 kWh system in 2024, lost power in a grid outage, and his battery did absolutely nothing for him. His installer never explained the difference.
@@ -33,11 +34,19 @@ That's the gap this article closes.
 
 A critical loads panel (sometimes called a backup subpanel or essential loads panel) is a secondary electrical panel that gets fed by your battery inverter during a grid outage. You move specific circuits off your main panel onto this subpanel: the refrigerator, a few lights, the internet router, maybe a well pump or medical equipment. When the grid goes down, the inverter disconnects from the grid and powers only those circuits. Everything still on the main panel goes dark.
 
-This is distinct from "whole-home backup," which requires either a large battery system (usually 20+ kWh, sometimes multiple batteries) or a properly sized generator with an automatic transfer switch. A critical loads panel is the practical middle ground: real backup power for the things that matter, at a cost that doesn't require refinancing your house.
+This is distinct from "[whole-home backup](/whole-home-solar-backup-system/)," which requires either a large battery system (usually 20+ kWh, sometimes multiple batteries) or a properly sized generator with an automatic transfer switch. A critical loads panel is the practical middle ground: real backup power for the things that matter, at a cost that doesn't require refinancing your house.
 
 The hardware itself isn't exotic. You're typically looking at a 100A or 125A subpanel (Square D, Leviton, and Siemens all make suitable units for $80-$200 at any big-box store), plus the wiring and labor to move circuits. The inverter, not the panel itself, is what controls the switchover. Enphase's IQ Battery system, SolarEdge with its Energy Bank, and Tesla Powerwall 3 all handle this automatically through their inverter software.
 
 ## Sizing It Right: Don't Guess at This
+
+| System | Battery Size | Continuous Load | Estimated Duration | Coverage | Location |
+| --- | --- | --- | --- | --- | --- |
+| Single Powerwall 3 | 13.5 kWh | 900W | 10-11 hours | Monsoon outages | Phoenix |
+| Dual Powerwall 3 | 27 kWh | 1,800W | 15 hours (winter night) | Winter storm backup | Austin |
+| Single Powerwall 3 | 13.5 kWh | 1,500W | 7.5 hours | General backup | Unspecified |
+| Dual Powerwall 3 | 27 kWh | 1,500W | 22+ hours | General backup | Unspecified |
+| Powerwall 3 or Enphase IQ 5P | 13.5 kWh | 3,500W startup surge | Continuous | Well pump operation | Rural Vermont |
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

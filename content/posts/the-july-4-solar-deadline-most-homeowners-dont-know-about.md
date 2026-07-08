@@ -12,12 +12,19 @@ author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
 slug: "the-july-4-solar-deadline-most-homeowners-dont-know-about"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been putting off the solar decision, maybe waiting to see what happens with prices or legislation, you're probably feeling the ground shift under you right now. The residential tax credit is gone. The installer quotes look different than they did two years ago. And somewhere in the back of your mind, you might be wondering whether you missed the window entirely. You haven't. But there is one window left, and it closes on July 4, 2026.
 
 Here's what most homeowners shopping solar right now don't know: a little-known federal deadline is creating a genuine, time-limited opportunity for people who finance solar through a lease or power purchase agreement. If your installer can demonstrate that construction begins before July 4, the solar company can still lock in a 30% commercial tax credit under Section 48E. That credit gets passed to you in the form of lower payments or a meaningful upfront discount. Miss the date, and the math changes significantly.
 
 ## What Actually Happened to the Solar Tax Credit
+
+| Financing Option | Tax Credit Available | Who Claims Credit | Customer Benefit | Key Deadline |
+| --- | --- | --- | --- | --- |
+| Outright purchase or solar loan | None (eliminated 12/31/2025) | N/A | No federal credit | N/A |
+| Solar lease or PPA (third-party owned) | 30% Section 48E commercial credit | Financing company | Lower payments or upfront discount | Construction start by 7/4/2026 |
+| Prepaid PPA | 30% Section 48E commercial credit | Financing company | 20-30% upfront discount; ownership transfer after ~6 years | Construction start by 7/4/2026 |
 
 The One Big Beautiful Bill Act, signed on July 4, 2025, eliminated the 30% Section 25D residential solar tax credit for any homeowner-owned system installed after December 31, 2025. Gone. If you bought and own your system outright, or financed it with a solar loan, there's no federal credit to claim on your 2026 taxes.
 
@@ -49,7 +56,7 @@ This isn't a perfect product. You need to understand the transfer terms, what ha
 
 One number from Q1 2026 that I think is genuinely telling: 45% of new residential solar installations now include a battery, up from 35% in 2025. That's a significant jump in one year.
 
-Part of that is grid reliability. But a big part is that installers and homeowners alike are rethinking the value proposition of solar without the residential tax credit. A battery changes the economics. It captures more of the solar energy you generate, reduces your grid dependence during peak rate hours, and in many cases qualifies for its own incentives. If you're going into a lease or PPA, ask whether storage is bundled and how the battery is handled under the third-party ownership structure.
+Part of that is grid reliability. But a big part is that installers and homeowners alike are rethinking the value proposition of solar [without the residential tax credit](/going-solar-without-the-30-tax-credit-what-it-actually-costs-now/). A battery changes the economics. It captures more of the solar energy you generate, reduces your grid dependence during peak rate hours, and in many cases qualifies for its own incentives. If you're going into a lease or PPA, ask whether storage is bundled and how the battery is handled under the third-party ownership structure.
 
 ## The Three Weeks You Have Left
 

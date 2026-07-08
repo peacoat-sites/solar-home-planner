@@ -12,6 +12,7 @@ author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 slug: "solar-lease-and-ppa-surge-what-the-new-math-means-for-you"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most coverage of the post-January 2026 solar market is treating the death of the 30% residential tax credit like a eulogy. Here's the more useful angle: leasing companies still have access to a commercial version of that same credit, they're racing a hard deadline to lock it in, and some of that money can flow to you. The window closes July 4, 2026. Not metaphorically. That's the actual construction safe harbor deadline.
 
@@ -29,7 +30,7 @@ As Electrek reported on June 4, 2026, this deadline is the one date worth circli
 
 
 
-A standard lease means you pay monthly for power your panels produce. A prepaid PPA, sometimes marketed as "lease-to-own solar," works differently and is currently the more interesting deal for homeowners who have some cash to deploy.
+A standard lease means you pay monthly for power your panels produce. A [prepaid PPA](/solar-leases-and-ppas-are-now-the-default-what-homeowners-need-to-know/), sometimes marketed as "lease-to-own solar," works differently and is currently the more interesting deal for homeowners who have some cash to deploy.
 
 Here's the structure: a third-party company owns the system, claims the 48E commercial ITC, then passes 20 to 30 percent of the system cost back to you as an upfront discount. You pay a lump sum at signing rather than monthly. After roughly six years, ownership transfers to you. The company captured the tax credit. You got discounted hardware and a clear path to ownership.
 
@@ -38,6 +39,14 @@ Solar.com's June 2026 analysis lays out why this is gaining traction fast: it th
 The catch: not every company offering this structure is running it cleanly. Ask for the exact credit pass-through amount in writing before you sign. Ask how the six-year transfer is triggered. Ask what liens appear on your title. If a sales rep can't answer those three questions without checking with someone else, walk.
 
 ## The Loan vs. Lease Recalculation
+
+| Financing Option | Federal Credit Available | Typical Equity Build | Best For | Key Consideration |
+| --- | --- | --- | --- | --- |
+| Direct Purchase (Loan) | None (post-Jan 2026) | Yes, immediate | Long-term homeowners with solid credit | Payback period extends without $7,500 credit |
+| Standard Lease | None | No | Renters, short-term residents | Monthly payments; no ownership |
+| Prepaid PPA | 20-30% upfront discount | Yes, after ~6 years | Homeowners with lump-sum cash | Exact credit pass-through must be documented |
+| Solar Lease with Battery | 20-30% upfront discount | Partial (battery ownership varies) | High time-of-use or low net metering areas | Storage attachment increases effective savings |
+| Commercial Section 48E | 30% (company-claimed) | No (company owns system) | Leasing/PPA companies only | Safe harbor deadline: July 4, 2026 |
 
 In Q4 2025, loans dominated residential solar at 63% of installs. Leases and PPAs sat at 15%. Those numbers made sense when direct ownership came with a $7,500 federal credit. They'll shift.
 

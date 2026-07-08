@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-
+lastmod: 2026-07-07
 ---
 You found a piece of land. Maybe you inherited it, maybe you've been saving for years, or maybe you just got tired of watching your utility bill climb past $300 a month with no end in sight. Whatever brought you here, you're now staring at the real question: can you actually power a home without being connected to the grid? The answer is yes, and people do it every day. But the path from "I want off-grid solar" to "my lights are on and my freezer is running" involves a lot of decisions that most YouTube videos gloss over. Let's work through this properly.
 
@@ -59,11 +59,19 @@ Divide your daily load by your peak sun hours, then multiply by 1.25 to account 
 
 Most off-grid designers aim for 3 to 5 days of autonomy, meaning the battery bank can carry the household through several cloudy days without the panels contributing much. At 30 kWh/day with 3 days of backup, that's 90 kWh of storage. But lithium iron phosphate (LiFePO4) batteries can be discharged to about 20% safely, so you divide by 0.8 to get the rated capacity you need: roughly 112 kWh. That's a significant investment. At current prices, a quality LiFePO4 bank of that size runs $20,000 to $35,000 for the battery equipment alone.
 
-This is also where load reduction pays off more than anywhere else. Replacing a 5,000-watt central air system with a 1,500-watt mini-split doesn't just save money on electricity. It potentially cuts your battery bank size by 30%, which saves you far more in upfront equipment costs.
+This is also where load reduction pays off more than anywhere else. Replacing a 5,000-watt central air system with a 1,500-watt mini-split doesn't just save money on electricity. It potentially cuts your [battery bank size by 30%](/how-much-battery-storage-for-off-grid-home/), which saves you far more in upfront equipment costs.
 
 ---
 
 ## The Core Components and What to Actually Buy
+
+| Component | Type/Standard | Efficiency Gain | Cost Range | Key Benefit |
+| --- | --- | --- | --- | --- |
+| Solar Panels | Monocrystalline | - | $0.70-$1.10/watt | Best efficiency per sq ft |
+| Charge Controller | MPPT | 20-30% vs PWM | Higher upfront | Captures more daily energy |
+| Battery Bank | LiFePO4 | - | $20,000-$35,000 (112 kWh example) | 3,000-6,000 cycles; deeper discharge |
+| Battery Bank | Lead-acid | - | Lower upfront | 300-1,000 cycles; higher long-term cost |
+| Inverter/Charger | Victron/Schneider | - | Varies | Handles AC conversion + generator charging |
 
 Every off-grid system has four main parts. Understanding each one helps you evaluate quotes and avoid getting sold equipment that doesn't fit your situation.
 

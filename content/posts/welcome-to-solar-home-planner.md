@@ -11,7 +11,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-
+lastmod: 2026-07-07
 ---
 Planning to go solar is one of the best decisions a homeowner can make. Whether you're looking to cut electricity bills, add backup power during outages, charge your EV for free, or take your home completely off-grid, this site is your comprehensive planning resource.
 
@@ -27,7 +27,7 @@ Planning to go solar is one of the best decisions a homeowner can make. Whether 
 
 **Solar + EV Charging**. How many panels to charge your electric vehicle, bidirectional charging explained, and how to optimize your combined solar + EV setup.
 
-**Off-Grid & Backup Power**. Everything from Powerwall sizing to full off-grid system design, generator alternatives, and preparing for extended outages.
+**Off-Grid & Backup Power**. Everything from Powerwall sizing to [full off-grid system design](/how-to-calculate-solar-system-size-for-home/), generator alternatives, and preparing for extended outages.
 
 **Monitoring & Maintenance**. Track your system's performance, troubleshoot issues, and know when (and how) to clean your panels.
 

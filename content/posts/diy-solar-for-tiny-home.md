@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-
+lastmod: 2026-07-07
 ---
 I parked a 200-square-foot tiny home on rural Tennessee land once (well, helped a friend do it), and the power company quoted $18,000 to run a line to the property. A generator would've burned through $200 a month in fuel alone. That's when solar stopped being optional and became the only math that worked. I've talked to a dozen tiny home owners in exactly that spot. They went solar, recouped their install costs in under three years, and never looked back. If you're building or already living in a tiny home, DIY solar isn't just a fun weekend project. It might be the smartest financial decision you make about your entire build.
 
@@ -31,7 +31,7 @@ I parked a 200-square-foot tiny home on rural Tennessee land once (well, helped 
 
 Here's the thing most solar salespeople won't tell you: the smaller your load, the easier and cheaper it is to go solar. A conventional 2,000-square-foot house might consume 10,000 to 14,000 kWh per year. A well-built tiny home? Often under 2,000 kWh annually. Sometimes as low as 1,200 if you've swapped out energy hogs for efficient alternatives.
 
-That smaller load translates directly to a smaller, cheaper system. You're not looking at a 20-panel, 8 kW rooftop array with a $30,000 price tag. A typical off-grid tiny home setup runs somewhere between 800W and 2,400W of solar panels paired with 100 to 300 amp-hours of lithium battery storage. DIY, the whole thing costs $3,000 to $7,000 depending on battery chemistry and panel brand.
+That smaller load translates directly to a smaller, cheaper system. You're not looking at a 20-panel, 8 kW rooftop array with a $30,000 price tag. A typical off-grid tiny home setup runs somewhere between 800W and 2,400W of solar panels paired with 100 to 300 amp-hours of lithium battery storage. [DIY, the whole thing costs](/cheapest-way-to-go-solar-diy/) $3,000 to $7,000 depending on battery chemistry and panel brand.
 
 The National Renewable Energy Laboratory has published extensive data showing that small-load off-grid systems have some of the fastest payback periods in residential solar, especially when you factor in avoided grid connection costs. For rural tiny home owners, that math is almost always a slam dunk.
 
@@ -64,6 +64,15 @@ For battery sizing, the standard off-grid recommendation is 2 to 3 days of auton
 A home energy monitor like the Emporia Vue or Sense will give you real consumption data from day one. If you're already living in the space with grid or generator power, [monitoring your actual usage](https://amzn.to/emporia-vue) for two to four weeks before buying anything will save you from oversizing or undersizing. It's the difference between buying components based on guesses versus buying based on real numbers.
 
 ## Choosing Your Components: Panels, Batteries, and Inverters
+
+| Component Type | Typical Watts/Capacity | Cost Range | Notes |
+|---|---|---|---|
+| Solar Panels | 1,300-1,500W total | $800-$1,500 | Monocrystalline, 200-400W per panel |
+| MPPT Charge Controller | 40-60A | $400-$700 | Victron SmartSolar recommended |
+| LiFePO4 Battery Bank | 12.5-19 kWh rated | $1,200-$3,500 | Battle Born, Renogy, EG4 brands |
+| Pure Sine Wave Inverter | 2,000-3,000W | $600-$1,500 | Non-negotiable for standard appliances |
+| **Complete System** | **800W-2,400W solar** | **$3,000-$7,000** | DIY install, off-grid tiny home |
+| Grid Connection Alternative | N/A | **$18,000+** | Utility line extension (rural areas) |
 
 You've got four main pieces to select: solar panels, a charge controller, a battery bank, and an inverter.
 

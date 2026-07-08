@@ -23,6 +23,7 @@ faqs:
     a: "They should, and a good one will show you production estimates that reflect it. But not all will, especially if they're compensating for poor orientation by upsizing the system. Always ask for a PVWatts or Aurora Solar report showing projected annual kWh before signing anything."
   - q: "Is a ground-mount solar system a good alternative to a north-facing roof install?"
     a: "Often, yes. Ground mounts add $0.25 to $0.75 per watt to installation costs, but you get full orientation control, easier cleaning access, and no roof penetrations. If you have even a modest open area in your yard with southern exposure, it's worth pricing out before committing to a compromised rooftop install."
+lastmod: 2026-07-07
 ---
 
 Three years ago, a homeowner in Asheville, North Carolina called me in a panic. She'd already signed a contract with a solar installer who'd told her, flat out, that her north-facing roof was "fine." I pulled up her address on Google Maps satellite view before she even finished the sentence. The main roof slope faced almost due north. I told her to pause the contract. She was about 10 days away from a $28,000 mistake.
@@ -35,7 +36,7 @@ In the Northern Hemisphere, the sun tracks from east to west across the southern
 
 A properly oriented south-facing system in a mid-latitude U.S. location (think Tennessee, Colorado, North Carolina) will typically produce somewhere between 4.0 and 5.5 peak sun hours per day over the course of a year. A north-facing roof at the same pitch? You're looking at roughly 2.0 to 2.8 peak sun hours. Depending on your exact latitude and local shading, that can mean 40 to 60 percent less annual energy production compared to the ideal.
 
-What most people don't realize is that this isn't just a "you'll produce less power" situation. It changes your entire system economics. Your payback period, your net metering surplus (if you have one), your eligibility for certain incentives tied to production minimums. Everything shifts.
+What most people don't realize is that this isn't just a "you'll produce less power" situation. It changes your entire system economics. Your payback period, your [net metering](/community-solar-how-it-works/) surplus (if you have one), your eligibility for certain incentives tied to production minimums. Everything shifts.
 
 I thought for years that east and north were roughly equivalent. They're not. East is genuinely usable. North is a last resort.
 
@@ -56,6 +57,14 @@ Here's where I'll push back on the instinct to say "never."
 **Hawaii and other low-latitude locations.** The closer you are to the equator, the less severe the north vs. south penalty. In Hawaii, north-facing panels still produce meaningfully because the sun angle is much more overhead. If you're in Minnesota, the math is brutal. If you're in Honolulu, it's uncomfortable but not disqualifying.
 
 ## Running the Real Numbers
+
+| Condition | Annual Production (10 kW system) | vs. South-Facing | Notes |
+|---|---|---|---|
+| South-facing, 30° tilt, no shade | ~14,000-16,000 kWh | Baseline | Optimal install |
+| East or West-facing, 30° tilt | ~10,500-12,500 kWh | -15% to -25% | Still viable |
+| North-facing, 30° tilt | ~6,500-9,000 kWh | -35% to -55% | Marginal; location-dependent |
+| North-facing, 10° tilt (nearly flat) | ~9,000-11,000 kWh | -20% to -30% | Shallower pitch recovers production |
+| North-facing, heavily shaded | ~4,000-6,000 kWh | -60% to -70% | Usually not worth it |
 
 Let me put some actual figures on this so you can pressure-test any quote you receive.
 

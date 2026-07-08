@@ -23,11 +23,11 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-
+lastmod: 2026-07-07
 ---
 Picture this: the power goes out at 11 PM during an ice storm, and your neighbor's house goes dark while yours stays lit, your heat keeps running, and you're watching TV with a hot cup of coffee. That's not a fantasy. That's what a properly designed off-grid solar system looks like in practice. I've helped homeowners get there, and I've also watched people spend $40,000 on systems that couldn't power their electric dryer. The difference almost always comes down to planning, not products.
 
-Going completely off-grid is one of the most ambitious things you can do as a homeowner. It's also one of the most misunderstood. What most people don't realize is that off-grid solar isn't just "more solar panels." It's an entirely different engineering challenge from a grid-tied system, with its own sizing rules, battery requirements, backup strategies, and permit complexity. Let me walk you through what actually goes into making it work.
+Going completely off-grid is one of the most ambitious things you can do as a homeowner. It's also one of the most misunderstood. What most people don't realize is that off-grid solar isn't just "more solar panels." It's an entirely different engineering challenge from a grid-tied system, with its own sizing rules, [battery requirements](/best-batteries-for-off-grid-solar/), backup strategies, and permit complexity. Let me walk you through what actually goes into making it work.
 
 ---
 
@@ -46,7 +46,7 @@ Off-grid means your home has zero connection to the utility grid. No net meterin
 
 When you're grid-tied, the grid is infinite storage. You push excess solar production out and pull power back when the sun sets or clouds roll in. Off-grid removes that entirely. Your system has to produce, store, and deliver every watt-hour your household uses, including those grey January days when your panels are limping along at 20% capacity.
 
-This is why off-grid systems get sized around worst-case scenarios, not average days. A grid-tied homeowner might install 8 kW of panels to offset 90% of annual usage. That same house off-grid? You're looking at 12 to 16 kW of panels, plus 30 to 50 kWh of battery storage, plus a backup generator, just to handle a string of overcast winter days.
+This is why off-grid systems get sized around worst-case scenarios, not average days. A grid-tied homeowner might install 8 kW of panels to offset 90% of annual usage. That same house off-grid? You're looking at 12 to 16 kW of panels, plus 30 to 50 kWh of battery storage, plus a [backup generator](/generator-vs-solar-battery-backup/), just to handle a string of overcast winter days.
 
 The U.S. Department of Energy's homeowner solar guide spells it out: off-grid requires careful load analysis and autonomy planning that grid-tied systems don't. That planning is where most DIY projects succeed or crash.
 
@@ -62,7 +62,7 @@ Before you look at a single panel or battery, get an honest picture of what your
 
 **Step-by-Step Load Audit Process:**
 
-1. **Pull your last 12 months of electric bills.** Find your monthly kWh usage. Circle the highest month (summer AC or winter heat, usually). That peak month drives your battery and panel sizing.
+1. **Pull your last 12 months of electric bills.** Find your monthly kWh usage. Circle the highest month (summer AC or winter heat, usually). That peak month drives your [battery and panel sizing](/how-much-battery-storage-for-off-grid-home/).
 
 2. **List every appliance and its wattage.** Your bills show total consumption, but you need per-appliance data to understand surge loads. Check the nameplate on each appliance or search the model online.
 

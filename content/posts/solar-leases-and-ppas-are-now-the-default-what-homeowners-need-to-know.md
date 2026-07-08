@@ -12,6 +12,7 @@ author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
 slug: "solar-leases-and-ppas-are-now-the-default-what-homeowners-need-to-know"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most homeowners shopping for solar right now are working off assumptions that expired six months ago. The 30% federal tax credit, the one every installer used to anchor their pitch, is gone. The One Big Beautiful Bill Act killed Section 25D for residential systems installed after December 31, 2025, and that's not a rumor or a political talking point. It's the law. The average homeowner lost roughly $7,500 in savings overnight, and the entire industry has been reorganizing around that reality ever since.
 
@@ -39,13 +40,21 @@ This isn't charity. The company is still making money. But the structure allows 
 
 ## The July 4 Deadline You Haven't Heard About
 
-There's a timing pressure here that most of the coverage has missed, or at least buried. The Section 48E commercial credit has a construction-start deadline. Projects need to break ground by July 4, 2026 to potentially qualify for placement in service as late as December 31, 2029. That window matters because it affects which systems get built this year and at what cost.
+There's a timing pressure here that most of the coverage has missed, or at least buried. [The Section 48E commercial credit](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) has a construction-start deadline. Projects need to break ground by July 4, 2026 to potentially qualify for placement in service as late as December 31, 2029. That window matters because it affects which systems get built this year and at what cost.
 
 For you as a homeowner, this creates a near-term urgency that's real, not manufactured by a sales rep. TPO companies that lock in the credit now can price future contracts aggressively. Companies that miss the window will be working with thinner margins or passing higher costs downstream. If you're considering a lease or PPA and you've been sitting on quotes, the next few weeks are not a neutral period.
 
 I'm not saying panic and sign anything. I'm saying the deadline is real and worth factoring into your timeline honestly.
 
 ## What to Actually Watch Out For in a 2026 Lease or PPA
+
+| Aspect | Fixed Rate | Annual Escalator (1-3%) | Impact Over 25 Years |
+| --- | --- | --- | --- |
+| Year 1 Monthly Payment | $X | $X | Same starting point |
+| Year 10 Monthly Payment | $X | $X + 25-30% | Cumulative increase |
+| Year 25 Monthly Payment | $X | $X + 60-100% | Significant difference |
+| Total Cost (25 years) | Lower | Higher | Can add thousands |
+| Predictability | High | Low | Budget certainty varies |
 
 The red flags in TPO agreements haven't changed much, even if the market context has. What surprised me when I went back through current contracts is how much variation still exists in escalator clauses. Some agreements lock in a fixed monthly rate for the full term. Others include annual rate escalators of 1 to 3 percent, which sounds modest until you do the math across 20 or 25 years. Always ask for the escalator rate in writing and model it out against your utility's historical rate increases before you sign.
 
@@ -55,7 +64,7 @@ Monitoring access, performance guarantees, and who handles maintenance calls als
 
 ## The Prepaid Lease: A Model Worth Understanding
 
-One newer option is gaining traction and it deserves attention: the prepaid solar lease. The structure works roughly like this: you pay approximately 70% of the system's cost upfront as a lump sum, a third-party company owns the system and claims the 48E tax credit, and you avoid 25 years of monthly payments. Many of these agreements include a path to full ownership at the end of the term for a nominal amount.
+One newer option is gaining traction and it deserves attention: the [prepaid solar lease](/solar-lease-and-ppa-surge-what-the-new-math-means-for-you/). The structure works roughly like this: you pay approximately 70% of the system's cost upfront as a lump sum, a third-party company owns the system and claims the 48E tax credit, and you avoid 25 years of monthly payments. Many of these agreements include a path to full ownership at the end of the term for a nominal amount.
 
 [Solar.com's June 2026 breakdown](https://www.solar.com/learn/prepaid-solar-leases-ppas/) describes this as a middle path between full ownership and traditional leasing, and that framing is accurate. You're giving up the ability to claim any tax credit yourself, and you're paying a meaningful upfront cost, but you're getting the economics of TPO pricing without the ongoing payment obligation. For homeowners who have the cash and want to avoid a long-term monthly commitment, the prepaid structure can outperform a traditional loan on total cost over the contract period in certain markets.
 

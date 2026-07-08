@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-
+lastmod: 2026-07-07
 ---
 Picture this: your neighbor just got an EV and won't shut up about never stopping at a gas station. Then their first electric bill arrives and suddenly they go quiet. Charging a vehicle at home sounds like pure savings until you realize you've basically installed a small appliance that runs for hours every night. For most people, that's an extra $80 to $150 a month on the utility bill, sometimes way more if you're in California or Massachusetts where rates can hit $0.25/kWh. I've watched that sticker shock turn EV enthusiasm into genuine regret in about two weeks. The fix, and it's genuinely solid, is pairing your home EV charger with rooftop solar. Done right, you're not just avoiding the gas pump. You're driving on sunlight you generated yourself, at a cost that can drop below $0.03 per mile.
 
@@ -32,6 +32,14 @@ Here's what the actual math looks like, which hardware decisions matter, and how
 ---
 
 ## What Solar-Powered EV Charging Actually Costs Per Mile
+
+| Scenario | Cost Per Mile | Monthly Cost (320 kWh) | Notes |
+| --- | --- | --- | --- |
+| Grid charging (U.S. average $0.17/kWh) | $0.049 | $54.40 | Baseline EV charging |
+| Gasoline car (30 MPG @ $3.50/gal) | $0.117 | N/A | Comparable vehicle |
+| Solar EV (after payoff, maintenance included) | $0.02-$0.03 | $6.40-$9.60 | 25-year system life |
+| Solar EV (first 20 years, amortized cost) | Below $0.01 | Below $3.20 | Pure generation cost |
+| Grid charging with TOU peak rates ($0.35-$0.55/kWh) | $0.122-$0.192 | $112-$176 | Evening charging in high-rate areas |
 
 Let's start with real numbers. The marketing around solar EVs is vague as hell.
 
@@ -68,7 +76,7 @@ Take a home using 900 kWh/month, add an EV, and sit in Atlanta with 4.5 peak sun
 
 You can charge an EV on a standard 120V outlet (Level 1), but you're getting only 3 to 5 miles of range per hour. Overnight? Maybe enough for light commuting. But Level 1 is a terrible match for solar because panels produce during the day, not night.
 
-Level 2 uses 240V and a dedicated EVSE (Electric Vehicle Supply Equipment). A 7.2 kW Level 2 charger adds 20 to 30 miles per hour, so you can fully charge most EVs in 6 to 8 hours during daylight. That's the sweet spot.
+Level 2 uses 240V and a dedicated EVSE (Electric Vehicle Supply Equipment). A 7.2 kW [Level 2 charger](/best-ev-charger-for-solar-home/) adds 20 to 30 miles per hour, so you can fully charge most EVs in 6 to 8 hours during daylight. That's the sweet spot.
 
 If you run charging between 10 a.m. and 4 p.m. when solar output peaks, you can cover most of that load directly from your panels. This is called "solar self-consumption," and it's the cheapest way to operate because power never hits the grid. Pure efficiency.
 
@@ -80,7 +88,7 @@ The [ChargePoint Home Flex](https://www.amazon.com/s?k=ChargePoint+Home+Flex+Lev
 
 Yes. If you can afford it.
 
-Storage isn't cheap, but it fixes two real problems. First, you store solar excess from peak midday and discharge it during morning or evening sessions when panels aren't at full power. Second, it shields you from time-of-use (TOU) rates that many utilities now offer, where evening grid power (typically 4 to 9 p.m.) costs $0.35 to $0.55/kWh in some markets.
+Storage isn't cheap, but it fixes two real problems. First, you store solar excess from peak midday and discharge it during morning or evening sessions when panels aren't at full power. Second, it shields you from [time-of-use (TOU) rates](/time-of-use-rates-solar-and-ev-optimization/) that many utilities now offer, where evening grid power (typically 4 to 9 p.m.) costs $0.35 to $0.55/kWh in some markets.
 
 A 10 kWh battery like the [Tesla Powerwall 3](https://www.amazon.com/s?k=home+solar+battery+storage+10kwh&tag=contentportfo-20) (affiliate link, commission possible) or Enphase IQ Battery can store enough to run your Level 2 charger for roughly 1.5 to 2 hours at full power. That's 25 to 40 miles of range from stored solar. If your utility charges aggressive TOU rates and you have a long commute, battery payback happens in reasonable time.
 

@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-
+lastmod: 2026-07-07
 ---
 Most people ask their solar installer how many panels they need to run their house. Almost nobody asks how many panels they need to run their *car*. That's a mistake. I've worked with homeowners who added an EV to a fully sized solar system and immediately found themselves buying grid power again, confused about why their electric bill came back. The car wasn't in the plan. Adding an EV to your energy load isn't a footnote, it's often a 30 to 50 percent increase in your household electricity consumption. Get the math right before you sign anything.
 
@@ -72,6 +72,14 @@ Round up. That's the number of additional panels your system needs specifically 
 
 ## Location Changes Everything, and Most Calculators Ignore This
 
+| Region | Peak Sun Hours (avg) | Panels Needed |
+|---|---|---|
+| Southwest (AZ, NV, NM) | 5.5 to 6.5 | 5 to 6 |
+| Southeast (FL, GA, TX) | 4.5 to 5.5 | 6 to 8 |
+| Midwest (IL, OH, MI) | 3.8 to 4.5 | 8 to 10 |
+| Pacific Northwest (OR, WA) | 3.0 to 3.8 | 10 to 13 |
+| Northeast (NY, MA, ME) | 3.5 to 4.2 | 8 to 11 |
+
 I'll be honest: the geographic variation here is bigger than most people expect. The difference between charging an EV in Miami versus Portland isn't 10 or 20 percent. We're talking nearly double the panel count for the same miles driven.
 
 Use the [U.S. Department of Energy's resources for homeowners](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) to look up your area's solar resource data, or use the National Renewable Energy Laboratory's PVWatts calculator, which is free and surprisingly accurate. Plug in your ZIP code, panel wattage, and system tilt. It'll spit out estimated annual production per kilowatt of installed capacity. That number is your ground truth for local planning.
@@ -92,7 +100,7 @@ These are ballpark figures assuming standard roof pitch and no major shading iss
 
 The number of panels is only half the equation. When you charge matters almost as much. Solar production peaks between 10 a.m. and 3 p.m. Most people plug in their EV when they get home at 6 p.m., which is exactly when solar output has dropped off and grid demand (and often grid pricing) is highest.
 
-If you have time-of-use billing from your utility, you're probably paying peak rates from 4 to 9 p.m. Charging during that window using grid power gets expensive fast. The smarter play: schedule your charging to start in the late morning if you have a flexible schedule, or charge overnight during off-peak hours (usually 11 p.m. to 7 a.m.) and let your solar production offset the daytime home loads.
+If you have [time-of-use billing from your utility](/time-of-use-rates-solar-and-ev-optimization/), you're probably paying peak rates from 4 to 9 p.m. Charging during that window using grid power gets expensive fast. The smarter play: schedule your charging to start in the late morning if you have a flexible schedule, or charge overnight during off-peak hours (usually 11 p.m. to 7 a.m.) and let your solar production offset the daytime home loads.
 
 Better yet, add a home energy monitor. A device like the [Emporia Vue or Sense Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) (the site may earn a commission) lets you see real-time solar production versus consumption, so you can actually verify whether your solar panels are covering your car's energy use or whether you're just fooling yourself with net metering math.
 

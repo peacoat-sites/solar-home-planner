@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-
+lastmod: 2026-07-07
 ---
 Your HOA just sent you a letter denying your solar panel application. Maybe they cited "aesthetic guidelines" or said panels aren't allowed on street-facing roof sections. You're frustrated. And you might be thinking the HOA has the final word here.
 
@@ -42,7 +42,7 @@ Solar access rights have quietly become one of the most consumer-friendly areas 
 
 ## What Solar Access Laws Actually Say
 
-Forty-plus states have passed solar access laws or solar easement statutes. The strength varies enormously, but the direction is unmistakable: state legislatures have been systematically stripping HOAs of the power to flatly prohibit solar installations.
+Forty-plus states have passed [solar access laws](/right-to-solar-law-explained/) or solar easement statutes. The strength varies enormously, but the direction is unmistakable: state legislatures have been systematically stripping HOAs of the power to flatly prohibit solar installations.
 
 California's Solar Rights Act is probably the gold standard. It makes any HOA provision that effectively prohibits solar panels unenforceable. Florida, Texas, Colorado, New Jersey, and Arizona have similar protections, just with slightly different language. Arizona's law, for instance, prohibits deed restrictions that "unreasonably restrict" solar panels. That word "unreasonably" does a lot of work, and courts have consistently interpreted it in the homeowner's favor.
 
@@ -70,7 +70,7 @@ Here's a practical path forward if your HOA has denied your application. Don't s
 
 **Step 2: Pull your state's solar access statute.** Search "[your state] solar access law" or "[your state] solar rights act." Read the actual text. Look for language about HOA restrictions specifically.
 
-**Step 3: Review your CC&Rs and HOA architectural guidelines.** Compare the HOA's stated reason for denial against what their own documents actually say. Sometimes boards are enforcing policies that aren't even in writing.
+**Step 3: Review your CC&Rs and [HOA architectural guidelines](/hoa-solar-panel-rules/).** Compare the HOA's stated reason for denial against what their own documents actually say. Sometimes boards are enforcing policies that aren't even in writing.
 
 **Step 4: Submit a formal written appeal.** Cite the state statute by name and section number. State clearly that you believe the denial conflicts with state law. Keep it professional. You want them to reverse course, not dig in.
 

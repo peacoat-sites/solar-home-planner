@@ -23,9 +23,9 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-
+lastmod: 2026-07-07
 ---
-Maybe you've already looked at the price of grid-tied solar and walked away. Maybe you're 800 feet from the nearest utility pole building a cabin, or you've been through three multi-day outages this year and you're done. Whatever landed you here, you're asking the hardest question in residential solar: which battery actually works for me? The answer isn't straightforward, and anyone claiming it is has something to sell you.
+Maybe you've already looked at the price of [grid-tied solar](/off-grid-solar-vs-grid-tied-comparison/) and walked away. Maybe you're 800 feet from the nearest utility pole building a cabin, or you've been through three multi-day outages this year and you're done. Whatever landed you here, you're asking the hardest question in residential solar: which battery actually works for me? The answer isn't straightforward, and anyone claiming it is has something to sell you.
 
 ## Why the Battery Is the Most Important Decision You'll Make
 

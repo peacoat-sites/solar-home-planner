@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-
+lastmod: 2026-07-07
 ---
 Here's something most solar installers won't tell you upfront: the best solar programs in the country aren't the ones advertised on late-night TV. They're the ones buried in state utility commission filings and county housing authority websites that most homeowners never find.
 
@@ -43,6 +43,16 @@ What most people don't realize: if you have no federal tax liability because you
 
 ## State-by-State: Where the Real Money Is
 
+| State | Program Name | Income Threshold | Key Benefit | Admin Contact |
+| --- | --- | --- | --- | --- |
+| California | SASH / DAC-SASH | ~80% AMI | Free fully installed system | GRID Alternatives |
+| New York | Affordable Solar Program (NY-Sun) | ≤80% AMI | Enhanced stacked incentives | NYSERDA portal |
+| New Mexico | Income-Qualified Solar Incentive (HB 6) | ≤150% federal poverty level | Up to $10,000 rebate | NM Energy, Minerals & Natural Resources Dept |
+| Illinois | Illinois Shines (Low-Income Block) | Income-qualified | SREC payments over time | Illinois Power Agency |
+| Massachusetts | SMART Program | MassHealth/utility discount eligible | Nearly doubled incentive rate | MassEnergy portal |
+| Colorado | Solar*Rewards + RENU Loan | Income-qualified | Up to 100% financing at ~3% | Colorado Energy Office |
+| Texas | CPS Energy / Austin Energy programs | Income-qualified (local) | Rebates & bill credits (utility-specific) | Local utility contact |
+
 I'm not going to give you a listicle of every state with a checkbox. Half those lists are outdated or describe programs that ran out of funding in 2021. Instead, I'll cover the states with the strongest, most accessible programs and tell you what to actually do.
 
 **California** has the most layered solar assistance structure in the country. The SASH program (Single-family Affordable Solar Homes) is run through GRID Alternatives and provides solar at no cost to income-qualified homeowners who participate in the CARE or FERA utility discount programs. Pacific Gas & Electric, Southern California Edison, and SDG&E all participate. The income threshold is roughly 80% of area median income. If you qualify for SASH, you're not getting a discount. You're getting a fully installed system for free. I've seen neighbors get 6kW systems with zero out-of-pocket. The waitlist can be long in some regions, so apply before you think you need to.
@@ -59,7 +69,7 @@ There's also DAC-SASH specifically for disadvantaged communities, which has expa
 
 **Colorado** has Xcel Energy's Solar*Rewards program for low-income customers, plus the statewide RENU loan program through the Colorado Energy Office. The RENU loan can cover 100% of system costs at below-market interest rates. If you can't get a free system, a 3% loan is a lot better than the 6-8% solar loans most installers push.
 
-**Texas** is complicated. There's no statewide low-income solar program, but CPS Energy in San Antonio and Austin Energy both have meaningful rebates and bill credit programs for income-qualified customers. In areas served by investor-owned utilities, you're largely on your own unless a nonprofit like GRID Alternatives has local programs running. If you're in Texas, start by calling your specific utility and asking directly about low-income solar or energy efficiency programs. Don't assume the answer is no.
+**Texas** is complicated. There's no statewide low-income solar program, but CPS Energy in San Antonio and Austin Energy both have meaningful rebates and bill credit programs for income-qualified customers. In areas served by investor-owned utilities, you're largely on your own unless a [nonprofit like GRID Alternatives](/solar-panels-for-low-income-homeowners-programs/) has local programs running. If you're in Texas, start by calling your specific utility and asking directly about low-income solar or energy efficiency programs. Don't assume the answer is no.
 
 **Michigan, Ohio, Georgia, and most of the Southeast** are genuinely hard. Utility deregulation history and state politics have kept meaningful low-income solar programs from taking hold. The federal Weatherization Assistance Program (WAP) is sometimes a bridge here: it can fund energy efficiency upgrades that reduce how much solar you'd even need. Check with your local Community Action Agency.
 

@@ -12,12 +12,25 @@ author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
 slug: "solar-payback-period-without-the-federal-tax-credit"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 The 30% federal residential solar tax credit is gone. No phase-down, no grace period. The One Big Beautiful Bill Act, signed July 4, 2025, eliminated Section 25D for any system installed after December 31, 2025, and if you're shopping for solar right now, you're doing the math in a fundamentally different environment than your neighbor who signed a contract two years ago. BloombergNEF's June 15, 2026 report projects only 4.1 GW of new residential solar additions this year, down 15% from 2025 and the lowest figure in five years. The market isn't expected to recover to 2023 record levels within the next decade. So the question sitting in front of you isn't "should I go solar" in some abstract sense. It's whether solar pencils out *for your specific address* when you can no longer subtract $9,000+ off your federal tax bill.
 
 I'll be honest: the answer is messier than either the solar salespeople or the skeptics want to admit.
 
 ## What the Payback Numbers Actually Look Like Now
+
+| State/Region | Electricity Rates | Net Metering | State Incentives | Payback Period |
+| --- | --- | --- | --- | --- |
+| California | High | Favorable (NEM 3.0) | State rebates | 7-9 years |
+| Massachusetts | High | Favorable | Solar Massachusetts Renewable Target | 7-9 years |
+| South Carolina | Medium | Moderate | 25% credit (capped $35,000) | 9-11 years |
+| Georgia | Low | Limited | Minimal | 15-21 years |
+| Tennessee | Low | Limited | Minimal | 15-21 years |
+| Arkansas | Low | Limited | Minimal | 15-21 years |
+| New York | Medium | Moderate | 25% state tax credit (capped $5,000) | 10-14 years* |
+
+*Estimated based on regional patterns; consult local utility rates.
 
 What surprised me when I started running the real numbers was how dramatically geography dominates this calculation. We're not talking about a 20% swing. We're talking about payback periods that range from roughly 7 years to over 20 years depending entirely on where you live.
 
@@ -35,7 +48,7 @@ The average 12 kW system costs around $30,500 installed in 2026, near historic l
 
 
 
-Here's the one federal pathway that survived: third-party ownership. Installers who own the system themselves can still claim the Section 48E commercial investment tax credit, which runs through end of 2027. They pass some of that value to you through a lease or power purchase agreement. EnergySage has been tracking this shift closely, and the share of homeowners going the lease or PPA route has climbed noticeably in early 2026 as cash-purchase economics softened.
+Here's the one federal pathway that survived: third-party ownership. Installers who own the system themselves can still claim the Section 48E commercial investment tax credit, which runs through end of 2027. They pass some of that value to you through a [lease or power purchase agreement](/solar-lease-and-ppa-surge-what-the-new-math-means-for-you/). EnergySage has been tracking this shift closely, and the share of homeowners going the lease or PPA route has climbed noticeably in early 2026 as cash-purchase economics softened.
 
 The tradeoff is real, though, and I've seen installers gloss over it. You don't own the equipment. That matters when you sell your house, because the lease transfers with the sale and some buyers don't want the obligation. It matters for maintenance decisions. And it matters for the economics: you're locking in a rate, not banking the long-term upside. If your utility rates spike in year 8, the installer captures much of that windfall, not you.
 

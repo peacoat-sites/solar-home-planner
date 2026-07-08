@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-
+lastmod: 2026-07-07
 ---
 Picture this: you've got a workshop shed at the back of your property, and every time you want to run your table saw or charge your cordless tools, you're dragging a 100-foot extension cord across the yard, tripping over it in the dark, and wondering why you haven't fixed this already. Running a dedicated circuit from your main panel costs between $1,500 and $4,000 depending on distance and local labor rates. A small solar setup on that shed roof might solve the problem for less money. No trenching required.
 
@@ -33,7 +33,7 @@ Shed solar is genuinely one of the best entry points for DIY solar. The systems 
 
 Most people get this part wrong. They see a 200-watt panel kit on Amazon, assume it'll run everything, and end up disappointed when the lights dim every time they plug in a shop vac.
 
-Start with a real load calculation. Write down every device you want to run and look up its wattage. A few common ones:
+Start with a real [load calculation](/diy-solar-panel-system-sizing/). Write down every device you want to run and look up its wattage. A few common ones:
 
 - LED shop lights (two 4-foot fixtures): about 40W
 - Phone/tablet charger: 5 to 18W
@@ -47,6 +47,14 @@ LED lighting, a fan, and phone charging? A 200W panel with a 100Ah lithium batte
 For most workshop sheds, aim for a 400 to 600W solar array, a 200Ah lithium iron phosphate (LiFePO4) battery bank, a 30A PWM or MPPT charge controller, and a 1,000 to 2,000W pure sine wave inverter. That system runs lighting, battery-charged tools, small power tools, and a fan reliably. Total cost: roughly $800 to $1,800. Compare that to trenching a line from the house.
 
 ## Choosing Your Components: What Actually Matters
+
+| Component | Typical Specs | Cost Range | Notes |
+| --- | --- | --- | --- |
+| Solar Panels | 400-600W array (100-200W panels) | $200-$400 | Monocrystalline preferred for sheds |
+| Battery Bank | 200Ah LiFePO4 | $400-$900 | 3-4× lifespan vs. AGM; handle cold better |
+| Charge Controller | 30A PWM or MPPT | $100-$300 | MPPT captures 15-30% more energy |
+| Inverter | 1,000-2,000W pure sine wave | $200-$400 | Never use modified sine wave |
+| **Total System** | **Small workshop shed setup** | **$800-$1,800** | Compare to $1,500-$4,000 for grid extension |
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

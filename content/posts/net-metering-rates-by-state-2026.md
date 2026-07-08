@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-
+lastmod: 2026-07-07
 ---
 Net metering was never as simple as "sell your excess solar back to the grid for full retail price." That was the rosy version. The reality in 2026 is messier, more state-dependent, and shifting faster than most solar shoppers realize.
 
@@ -40,6 +40,18 @@ The rate you earn per kilowatt-hour is everything. If your utility credits you a
 Most people don't realize that "net metering" on a utility's website can mean anything from full retail compensation to a severely reduced buyback rate with monthly fees stacked on top. The label stays consistent. What it covers isn't.
 
 ## The State Landscape in 2026: Winners, Losers, and the Uncertain Middle
+
+| State | Net Metering Type | Compensation Rate | Status |
+| --- | --- | --- | --- |
+| Illinois | Retail Rate | ~$0.14/kWh (varies) | Strong |
+| New Jersey | Successor Tariff | $0.09-$0.11/kWh | Competitive |
+| Massachusetts | Retail Rate + SMART | Full retail + incentive | Strong |
+| California | Net Billing Tariff (NEM 3.0) | ~$0.04/kWh | Reduced (75% decline) |
+| Texas | Varies by utility | Avoided cost (reduced) | Weak/inconsistent |
+| Nevada | Tiered/Degressive | Tiered by capacity | Functional |
+| Arizona | Resource Comparison Proxy | Avoided cost | Reduced |
+| Utah | Value of Solar | Avoided cost | Reduced |
+| Florida | Retail Rate | Full retail | Strong (grandfathered) |
 
 **States still offering solid retail-rate net metering:**
 
@@ -65,7 +77,7 @@ Florida, interestingly, still has a strong statewide retail-rate net metering la
 
 ## The "Grid Access" Fee Problem Nobody Talks About
 
-Even states with good net metering rates have been allowing utilities to add fixed grid participation fees for solar customers. These are monthly charges (sometimes called "standby fees" or "grid access fees") that show up regardless of your usage or export.
+Even states with good net metering rates have been allowing utilities to add fixed grid participation fees for solar customers. These are monthly charges (sometimes called "standby fees" or "[grid access fees](/utility-buyback-rate-for-solar/)") that show up regardless of your usage or export.
 
 Georgia Power charges solar customers a fixed monthly fee. APS in Arizona has had various forms of a demand charge for solar customers. In some cases these fees run $10-$20/month, which sounds small but represents $120-$240/year shaved off your system's annual savings. Over 25 years that's $3,000-$6,000 in eroded returns.
 

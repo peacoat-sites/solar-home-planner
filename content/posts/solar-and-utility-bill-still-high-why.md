@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-
+lastmod: 2026-07-07
 ---
 You went solar to cut your electric bill. Your bill is still embarrassing. Here's what's actually going on.
 
@@ -64,6 +64,15 @@ A home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Empori
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 ## Production Loss You'd Never Notice Without Checking
+
+| Issue | Production Impact | Typical Fix |
+| --- | --- | --- |
+| Panel soiling (dust, pollen, droppings) | 5-15% reduction | Clean panels ($30-$60 kit) |
+| Tree shading (gradual growth) | 5-25%+ reduction | Trim vegetation or relocate panels |
+| Normal degradation | ~0.5% per year | Expected; not a failure |
+| Undersized system vs. current load | Permanent shortfall | Expansion or behavior adjustment |
+| Net metering rate mismatch | Bill remains high despite export | Rate structure review |
+| Fixed utility charges | Cannot be offset | Typical $10-$30/month baseline |
 
 Panels degrade slowly over time, which is normal (about 0.5 percent per year is typical). But there are faster, silent production killers that don't trigger alarms.
 

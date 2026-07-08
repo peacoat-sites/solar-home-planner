@@ -23,9 +23,9 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-
+lastmod: 2026-07-07
 ---
-You've just gotten three solar quotes. The prices are all over the map, the salespeople all sound confident, and every company's website says they're "certified professionals" with "expert installers." So how do you actually tell the difference between a contractor who knows what they're doing and one who's going to leave you with a system that fails inspection, voids your roof warranty, or produces 20% less power than promised? The answer often comes down to one credential most homeowners have never heard of: NABCEP.
+You've just gotten [three solar quotes](/how-to-get-solar-quotes/). The prices are all over the map, the salespeople all sound confident, and every company's website says they're "certified professionals" with "expert installers." So how do you actually tell the difference between a contractor who knows what they're doing and one who's going to leave you with a system that fails inspection, voids your roof warranty, or produces 20% less power than promised? The answer often comes down to one credential most homeowners have never heard of: NABCEP.
 
 ## What NABCEP Actually Is (And Why It's Not Just a Logo)
 
@@ -37,7 +37,7 @@ Here's where it gets tricky. The organization offers several different credentia
 
 **NABCEP PV Associate:** Entry-level credential. Education plus a written exam, but zero field experience required. These are people early in their careers. You'll see some companies listing NABCEP Associates in their marketing in ways designed to make it sound equal to a PVIP. Read the fine print.
 
-**NABCEP Accredited Company:** Company-level designation. To keep it, the company must employ enough NABCEP-certified individuals relative to their installation volume, follow quality standards, and stay in compliance. This is the one to look for when you're vetting the solar company itself, not just one person on the crew.
+**NABCEP Accredited Company:** Company-level designation. To keep it, the company must employ enough NABCEP-certified individuals relative to their installation volume, follow quality standards, and stay in compliance. This is the one to look for when you're [vetting the solar company](/how-to-choose-a-solar-company/) itself, not just one person on the crew.
 
 The Solar Energy Industries Association (SEIA) consistently points to NABCEP as the benchmark for professional quality in residential installation. That tells you it's not some niche insider thing. It's what the industry uses as a baseline.
 
@@ -66,6 +66,14 @@ Here's the process in five minutes:
 That question in step 4 is critical. Some companies have one or two certified individuals who pull permits and sign off on designs, but the actual installation work gets done by subcontractors or day-labor crews with minimal training. This happens more than it should in hot markets where demand outpaces qualified labor.
 
 ## Comparing What Certifications and Credentials Actually Cover
+
+| Credential | Who Holds It | Experience Required | Exam | What It Signals |
+|---|---|---|---|
+| NABCEP PVIP | Individual | Yes (58+ field hours) | Yes, proctored | Advanced technical competence |
+| NABCEP PV Associate | Individual | No | Yes | Basic education, early career |
+| NABCEP Company Accreditation | Company | Employs certified staff | N/A | Company-level quality commitment |
+| State Electrical License | Individual | Varies by state | Yes | Legal authority to do electrical work |
+| General Contractor License | Individual/Company | Varies by state | Varies | Legal authority to manage construction |
 
 Here's a breakdown of what you're actually looking at:
 

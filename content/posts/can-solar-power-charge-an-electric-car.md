@@ -23,9 +23,9 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-
+lastmod: 2026-07-07
 ---
-You've just leased a new EV and watched your electric bill jump $80 higher than last month. Your neighbor casually mentions their solar panels cover most of their car charging. Now you're stuck in a spreadsheet, calculating kilowatt-hours, inverter sizes, and whatever "net metering" actually means. I've walked through this math with dozens of homeowners, and the answer is straightforward: yes, solar can absolutely charge your EV. The trap most people fall into is sizing wrong. Too small and you're still writing checks to the utility. Too big and you're looking at a 12-year payoff instead of 7. Let me show you how to actually get this right.
+You've just leased a new EV and watched your electric bill jump $80 higher than last month. Your neighbor casually mentions their solar panels cover most of their car charging. Now you're stuck in a spreadsheet, calculating kilowatt-hours, inverter sizes, and whatever "[net metering](/solar-ev-charging-cost-savings/)" actually means. I've walked through this math with dozens of homeowners, and the answer is straightforward: yes, solar can absolutely charge your EV. The trap most people fall into is sizing wrong. Too small and you're still writing checks to the utility. Too big and you're looking at a 12-year payoff instead of 7. Let me show you how to actually get this right.
 
 ---
 
@@ -75,6 +75,12 @@ Here's a real example: your home pulls 10,500 kWh and your EV adds 3,650 kWh. To
 ---
 
 ## What Level 2 Charging Actually Demands from Your System
+
+| Charging Level | Voltage | Typical Amps | Power Output | Range Added/Hour | Best For |
+| --- | --- | --- | --- | --- | --- |
+| Level 1 | 120V | 12-16A | ~1.4 kW | 4-5 miles | Occasional charging, low daily mileage |
+| Level 2 (Standard) | 240V | 32A | ~7.7 kW | ~25 miles | Daily overnight charging |
+| Level 2 (High-amp) | 240V | 48A | ~11.5 kW | 35-40 miles | Fast overnight or weekend charging |
 
 Level 1 uses a regular 120V outlet and delivers about 1.4 kW, adding maybe 4 to 5 miles of range per hour. If you drive 20 miles daily and charge overnight, Level 1 works. Most EV owners upgrade to Level 2 fast because it's so much quicker.
 

@@ -23,11 +23,20 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-
+lastmod: 2026-07-07
 ---
 Most homeowners spend weeks researching solar panels without ever thinking seriously about what's underneath them. Then a contractor shows up, takes one look at the roof, and says something vague like "that might be tricky." Suddenly you're facing unexpected costs, structural questions, or a flat-out "we can't do this job." The roof type you have right now is one of the biggest factors determining how easy, how expensive, and how long-lasting your solar installation will be. Let's get into the specifics.
 
 ## Why Roof Material Matters More Than You'd Think
+
+| Roof Type | Lifespan | Installation Complexity | Leak Risk | Cost Impact |
+| --- | --- | --- | --- | --- |
+| Asphalt Shingles | 20-30 years | Low | Low (if code-approved flashing) | Baseline |
+| Standing Seam Metal | 40-70 years | Low | None (clamp-based, no penetrations) | Baseline to lower |
+| Corrugated Metal | 40-70 years | Medium | Low (requires specialty brackets) | Slightly higher |
+| Concrete Tile | 40+ years | High | Medium (complex bracket installation) | $500-$1,000 more per labor day |
+| Clay Tile | 40+ years | High | Medium (more fragile than concrete) | $500-$1,000 more per labor day |
+| Flat/Low-Slope | Varies | Medium | Medium (ballasted systems reduce penetrations) | Varies |
 
 Solar panels themselves are fairly standardized. The racking systems, wire management, and labor are where roof type really changes the equation.
 
@@ -71,7 +80,7 @@ Clay tile is also more fragile than concrete tile. Factor that in if you're gett
 
 Flat roofs are common on commercial buildings and some residential styles, particularly in the Southwest and on modern architecture. If you have one, the solar approach is fundamentally different from a pitched roof install.
 
-On a flat or low-slope roof, panels are typically mounted on ballasted racking systems. These use concrete blocks as weight to hold the racking in place without roof penetrations. The panels are tilted to a 10 to 15 degree angle to shed water and optimize production. It's a clean system when done well.
+On a [flat or low-slope roof](/solar-for-flat-roof-homes/), panels are typically mounted on ballasted racking systems. These use concrete blocks as weight to hold the racking in place without roof penetrations. The panels are tilted to a 10 to 15 degree angle to shed water and optimize production. It's a clean system when done well.
 
 The tradeoffs: ballasted systems add significant weight. You need a structural assessment to confirm your roof deck and framing can handle the load. A standard residential flat roof isn't always designed for that kind of distributed weight. Also, flat roofs (especially EPDM rubber or TPO membrane roofs) require careful work around any penetrations to preserve the membrane integrity.
 

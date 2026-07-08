@@ -23,6 +23,7 @@ faqs:
    a: "Not automatically, but this requires attention. Many shingle manufacturers (GAF, Owens Corning, CertainTeed) have conditional language around third-party penetrations. Some installers are certified by shingle manufacturers specifically to preserve warranty coverage. Ask before you sign."
  - q: "How long does a shingle roof solar installation take?"
    a: "Physical installation on a standard shingle roof typically takes one to two days for a crew of three or four. The longer timeline is permitting and utility interconnection, which can add four to ten weeks depending on your jurisdiction and utility."
+lastmod: 2026-07-07
 ---
 
 Most people come to me after they've already gotten one quote. Sometimes two. They've got a number in their head, they're not sure if it's fair, and they're trying to figure out if they're about to get taken. If that's where you are right now, good. That's exactly the right moment to slow down and understand what you're actually buying.
@@ -66,6 +67,15 @@ One more thing on the shingle side: if you have **architectural shingles** (the 
 ---
 
 ## Where the Money Actually Goes
+
+| Cost Component | Percentage of Total | Dollar Amount (on $25,000 system) |
+| --- | --- | --- |
+| Panels | 25-30% | $6,200-$7,500 |
+| Labor | 20-25% | $5,000-$6,250 |
+| Inverter(s) | 10-15% | $2,500-$3,750 |
+| Racking and BOS | 10-12% | $2,500-$3,000 |
+| Permits, inspections, interconnection | 6-10% | $1,500-$2,500 |
+| Installer overhead and margin | Remainder | Variable |
 
 I spent a week last year pulling apart itemized proposals from six different installers in a mid-sized Texas market. Here's roughly where the cost breaks down on a $25,000 gross system:
 

@@ -23,14 +23,27 @@ faqs:
     a: "No, and this is a real limitation. As of 2026, roughly 20 states have meaningful community solar markets. Many states in the Southeast and parts of the Midwest have little to no community solar development due to utility opposition and state policy gaps. Check your state's energy office or EnergySage's community solar map for current availability."
   - q: "Do I need good credit to subscribe to community solar?"
     a: "Most community solar providers do a soft credit check, but requirements are generally less stringent than solar loans or leases. Some programs specifically target low-to-moderate income households with additional discounts. If rooftop financing isn't available to you due to credit, community solar is often still accessible."
+lastmod: 2026-07-07
 ---
 Most homeowners treat "going solar" as a single binary decision: put panels on the roof, or don't. That framing misses half the picture, and it's costing people real money.
 
-Community solar has been around long enough now that I've watched it go from a niche workaround to a legitimate option that, for some households, genuinely beats rooftop in every dimension that matters. I'll be honest: when I first encountered community solar subscriptions back when I was still doing residential installs, I dismissed them as a consolation prize for renters. I was wrong. The research here is more interesting than the marketing on either side wants you to believe.
+Community solar has been around long enough now that I've watched it go from a niche workaround to a legitimate option that, for some households, genuinely beats rooftop in every dimension that matters. I'll be honest: when I first encountered [community solar subscriptions](/community-solar-how-it-works/) back when I was still doing residential installs, I dismissed them as a consolation prize for renters. I was wrong. The research here is more interesting than the marketing on either side wants you to believe.
 
 So let me give you the real comparison, contractor bias removed.
 
 ## What You're Actually Comparing
+
+| Aspect | Rooftop Solar | Community Solar |
+| --- | --- | --- |
+| Upfront Cost | $16,800-$19,600 (after 30% ITC) | $0 |
+| Installation | Required; 5-10% rejection/delay rate via HOA | None |
+| Payback Timeline | 7-10 years typical | N/A (subscription model) |
+| Long-term Savings (20 years) | $40,000-$60,000 | $2,000-$6,000 |
+| Annual Savings (Typical) | $2,000-$3,000 | $100-$300 |
+| LCOE (Lifetime) | $0.06-$0.10/kWh | Utility rate minus 5-15% |
+| Portability | Not portable; tied to home | Transferable or cancellable |
+| Contract Length | N/A (owned asset) | 20 years (some projects); early termination fees up to $3,000 |
+| Best For | Long-term homeowners; good roof; unshaded space | Renters; shaded roofs; short-term residents; HOA issues |
 
 Rooftop solar is a capital investment. You're buying (or financing) physical equipment, having it bolted to your house, and owning the electricity output for 25-plus years. The median installed cost today is running around $3.00 to $3.50 per watt before incentives. A typical 8 kW residential system lands somewhere around $24,000 to $28,000 before the federal Investment Tax Credit (ITC). After the 30% ITC, you're looking at $16,800 to $19,600 out of pocket, or rolled into a loan.
 

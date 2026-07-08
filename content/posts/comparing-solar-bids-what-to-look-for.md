@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-
+lastmod: 2026-07-07
 ---
 You just got three solar bids back. One's $28,000, another's $19,500, the last one's $23,000. The cheapest one looks tempting. But here's what nobody tells you: they might not even be quoting the same system. Different panel brands, different inverter types, different warranty terms, different assumptions about your roof's actual usable space. Without a framework, comparing solar bids is like comparing grocery receipts where one store lists items by weight and another by volume. Apples to mangoes. Installers know this.
 
@@ -46,6 +46,16 @@ A professional solar proposal isn't a one-page flyer with a big number at the bo
 **Timeline and permits.** Who pulls the permits, which jurisdiction gets them, installation timeline from contract to activation.
 
 ## How to Normalize Bids for an Apples-to-Apples Comparison
+
+| Factor | Bid A | Bid B | Bid C |
+|---|---|---|---|
+| Total price | $28,000 | $19,500 | $23,000 |
+| System size (kW) | 10.2 | 6.5 | 8.5 |
+| Cost per watt | $2.75 | $3.00 | $2.71 |
+| Projected annual output (kWh) | 13,200 | 8,200 | 11,100 |
+| Offset % (based on 11,000 kWh usage) | 120% | 75% | 101% |
+| Inverter type | Microinverter | String | Optimizer |
+| Workmanship warranty | 10 years | 5 years | 10 years |
 
 This is where most homeowners get lost. A bid in hand looks simple. But you can't compare them straight up. You need to normalize them.
 
@@ -75,9 +85,9 @@ Bid A is the largest system and makes sense if you're planning to add EV chargin
 
 The proposal is only as good as the company behind it. I've seen beautifully formatted proposals from fly-by-night outfits and messy bids from excellent local installers. Don't judge the company entirely by the paper.
 
-**Check the license.** Every state has a contractor licensing database. Your installer needs to be licensed in your state. In California, that's the CSLB. In Texas, TDLR. Look them up. It takes three minutes.
+**[Check the license](/is-my-solar-installer-legit/).** Every state has a contractor licensing database. Your installer needs to be licensed in your state. In California, that's the CSLB. In Texas, TDLR. Look them up. It takes three minutes.
 
-**Verify NABCEP certification.** The North American Board of Certified Energy Practitioners certifies solar installers the same way electrical boards certify electricians. It's not required everywhere, but it's a meaningful quality signal. Ask if the lead installer on your project holds a NABCEP PV Installation Professional certification.
+**[Verify NABCEP certification](/solar-company-certifications-nabcep/).** The North American Board of Certified Energy Practitioners certifies solar installers the same way electrical boards certify electricians. It's not required everywhere, but it's a meaningful quality signal. Ask if the lead installer on your project holds a NABCEP PV Installation Professional certification.
 
 **Check how long they've been operating.** Six years in business means they've survived long enough to stand behind their work. Fourteen months means they might be excellent, or they might fold before your inverter warranty expires. That's not automatic disqualification, but it's reason to scrutinize their warranty backing. If your company closed tomorrow, who honors the workmanship warranty?
 
@@ -105,7 +115,7 @@ Some things just tell you to close the folder and call the next company.
 
 **Pushing for permits in your name.** Some installers ask you to pull permits yourself "to save money." What they're really doing is shifting liability onto you. Don't do it.
 
-**Vague production estimates.** If a company says your system will "offset most of your bill" without giving an actual kWh number, they're either incompetent or deliberately vague. Either way, move on.
+**Vague [production estimates](/how-to-get-solar-quotes/).** If a company says your system will "offset most of your bill" without giving an actual kWh number, they're either incompetent or deliberately vague. Either way, move on.
 
 **No physical address.** If the company's address is a PO box or a residential street that shows up as somebody's house on Google Maps, they may not have a legitimate business location. That matters when you need someone to show up three years from now for a warranty repair.
 

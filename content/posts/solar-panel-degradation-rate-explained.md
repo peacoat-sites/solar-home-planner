@@ -23,6 +23,7 @@ faqs:
    a: "Compare your annual production totals year over year using your inverter monitoring data. A drop of more than 1.5% per year, after accounting for weather variation, is worth flagging with your installer or a third-party inspector."
  - q: "Can I slow degradation with any maintenance steps?"
    a: "You can't change the physics, but keeping panels clean, ensuring good airflow underneath, and trimming any trees causing new shade will all help you stay closer to the manufacturer's rated performance curve. The rest is panel quality and climate."
+lastmod: 2026-07-07
 ---
 
 Most homeowners buying solar get handed a production estimate built around a 0.5% annual degradation rate and told not to worry about it. I used to repeat that number myself. What I found when I actually went looking at real field data is that the story is a fair bit messier than that, and the difference between a good panel and a mediocre one over 25 years is worth understanding before you sign anything.
@@ -48,6 +49,13 @@ Older polycrystalline panels, some thin-film technologies, and panels manufactur
 There's also a phenomenon called LID: light-induced degradation. During the first few hours to days of sun exposure, most crystalline silicon panels lose 1% to 3% of their rated output as certain impurities in the silicon stabilize. This isn't counted as part of the annual degradation rate in most warranties. It just happens, it's baked in, and you should know about it. After LID, the gradual long-term decline takes over.
 
 ## How to Read a Degradation Warranty Without Getting Fooled
+
+| Scenario | First-Year Drop | Annual Rate After Year 1 | Year 25 Output |
+| --- | --- | --- | --- |
+| Premium manufacturer (linear warranty) | 2-3% (LID + settling) | 0.5% | 80-82% |
+| Budget manufacturer (steep first year) | 3% | 0.7% | ~74% |
+| NREL field median | 1-3% | 0.5-0.6% | 80-85% |
+| Poor conditions (desert/coastal) | 1-3% | 0.8-1.0%+ | 70-78% |
 
 Nearly all tier-one manufacturers today offer a linear power warranty: 90% of rated output at year 10, 80% (sometimes 82%) at year 25. Sounds solid. But pay attention to two things most buyers skip.
 

@@ -23,13 +23,13 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-
+lastmod: 2026-07-07
 ---
 Your neighbor's lights are on. Yours aren't. You've got a solar array on your roof, the sun came up six hours ago, and you're still sitting in the dark during a grid outage. This is the part the sales brochure skips: standard grid-tied solar shuts off automatically when the utility grid goes down. It's a safety requirement, not a bug, and it catches homeowners completely off guard. A whole home solar backup system is the fix, but it's not just "add a battery." The components, sizing, and integration decisions matter enormously, and getting them wrong is expensive.
 
 ## What "Whole Home Backup" Actually Means (and What It Doesn't)
 
-Let's be precise. A whole home solar backup system keeps your entire house running on solar and stored energy when the grid fails. Not just a few circuits. Not a "critical loads panel" with your fridge and one outlet. Everything: HVAC, well pump, electric range, EV charger, all of it.
+Let's be precise. A whole home solar backup system keeps your entire house running on solar and stored energy when the grid fails. Not just a few circuits. Not a "[critical loads panel](/critical-loads-panel-solar-backup/)" with your fridge and one outlet. Everything: HVAC, well pump, electric range, EV charger, all of it.
 
 That's the goal. The reality is more complicated.
 
@@ -43,9 +43,22 @@ Two configurations deliver genuine whole home backup:
 
 **Solar with a hybrid inverter and battery.** One inverter handles both solar input and battery charging. Cleaner installation, fewer compatibility headaches. The Enphase IQ System, SolarEdge Home Hub, and Outback Radian are real-world examples. This is the architecture I'd specify for a new installation today.
 
-What whole home backup is *not*: a generator with a transfer switch, a single Powerwall with a "whole home" marketing sticker, or a grid-tied system with no storage at all.
+What whole home backup is *not*: a [generator with a transfer switch](/generator-vs-solar-battery-backup/), a single Powerwall with a "whole home" marketing sticker, or a grid-tied system with no storage at all.
 
 ## Sizing: The Part Where Most Quotes Get It Wrong
+
+| Configuration | Inverter Setup | Battery Integration | Best For |
+| --- | --- | --- | --- |
+| AC-Coupled | Existing grid-tied inverter + second inverter | Battery connects to main panel | Retrofitting storage onto existing systems |
+| Hybrid Inverter | Single inverter handles solar + battery | Integrated battery charging | New installations |
+
+| Component | Consideration | Example Impact |
+| --- | --- | --- |
+| Battery Capacity | Continuous output rating vs. nameplate | Tesla Powerwall 3: 11.5 kW continuous (13.5 kWh rated) |
+| Solar Array Sizing | Location & season affect recharge speed | Seattle winter: 2-3 peak sun hours; Phoenix summer: 40-48 kWh daily from 8 kW array |
+| Depth of Discharge | Usable vs. rated capacity | LFP: 90-95% usable; some NMC: more conservative |
+| Permitting Timeline | Retrofit vs. new installation | New: single permit package; retrofit: 6-12 weeks additional |
+| Load Management | Peak startup current vs. continuous draw | Well pump: 1.5 kW running, 4 kW startup spike |
 
 I've seen clients handed quotes for a 10 kWh battery and told it would handle whole home backup. It might. For about four hours, at night, if they don't run the AC. That's not whole home backup, that's a marketing claim wearing a technical costume.
 

@@ -12,6 +12,7 @@ author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
 slug: "the-coming-ban-on-chinese-solar-inverters-what-home-buyers-should-know"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 If you're in the middle of getting solar quotes right now, you picked an interesting week to be doing it. On June 30, 2026, Reuters broke the news that the Trump administration is drafting an FCC rule that could ban new Chinese-made inverters from U.S. energy projects, citing cybersecurity concerns. That story sent Sungrow's stock down roughly 20% in a single day. It also sent a lot of homeowners to their inboxes asking their solar contractors some very reasonable questions they weren't sure how to phrase.
@@ -39,6 +40,14 @@ Inverters aren't passive hardware. A modern string inverter or microinverter is 
 That said, residential buyers shouldn't treat this as someone else's problem.
 
 ## How This Ripples Into the Residential Market
+
+| Inverter Brand | Origin | Market Segment | Likely Ban Impact | U.S. Manufacturing |
+| --- | --- | --- | --- | --- |
+| Sungrow | China | Commercial & Residential | High | No |
+| Chint | China | Commercial & Industrial | High | No |
+| Huawei | China | Residential | High | No |
+| Enphase | California, USA | Residential | None (beneficiary) | Yes |
+| SolarEdge | Israel | Residential | None (beneficiary) | Yes |
 
 Here's what I tell people when they ask if they should just wait: supply chain disruption doesn't stay in its lane. Commercial and industrial installers who currently spec Sungrow or Chint equipment will pivot to alternative suppliers if those Chinese brands get restricted. That increased demand flows directly into the same pool of non-Chinese inverters that residential installers also rely on.
 

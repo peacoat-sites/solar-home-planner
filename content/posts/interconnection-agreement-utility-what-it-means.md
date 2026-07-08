@@ -23,6 +23,7 @@ faqs:
    a: "Your solar installer handles this in the vast majority of residential cases. It's part of the permitting and utility coordination process they're supposed to manage. If a contractor tells you to submit it yourself, that's unusual and worth asking about."
  - q: "What if the utility denies my interconnection application?"
    a: "Denials happen, usually for one of three reasons: the local grid circuit is at capacity for distributed generation, the application had errors, or the system doesn't meet technical requirements. Capacity-based denials are harder to fight, though an appeal process exists in most states. Technical or paperwork denials are usually fixable with a resubmission."
+lastmod: 2026-07-07
 ---
 
 Most solar articles spend three paragraphs explaining net metering and skip the document that actually controls whether you can use it. The interconnection agreement is that document, and most homeowners sign it without reading a word.
@@ -42,6 +43,14 @@ Here's the thing most installers don't tell you: the interconnection agreement a
 ---
 
 ## What's Actually In It (The Clauses That Matter)
+
+| Provision | Purpose | Typical Requirement |
+| --- | --- | --- |
+| Anti-islanding | Protects utility line workers during grid outages | Inverter must shut down automatically; IEEE 1547 compliance |
+| Interconnection tier/size limit | Determines review speed and scrutiny level | Residential systems under 10 kW qualify for fast-track review |
+| Metering requirements | Enables power export tracking and billing | Bidirectional meter standard; utility specifies type and installer |
+| Liability and insurance | Protects utility from homeowner system failures | Minimum $100,000-$300,000 homeowner's liability coverage |
+| Termination conditions | Allows utility to disconnect non-compliant systems | Utility can disconnect if system causes power quality issues or is modified without notification |
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -73,7 +82,7 @@ One real-world pattern I've noticed: applications get kicked back because the in
 
 ## What Changes After You Sign
 
-Once the agreement is executed and PTO is issued, the terms aren't static forever. Utilities can revise their interconnection tariffs, and existing customers typically get some form of grandfathering protection, but not always forever. California's NEM 3.0 changes were a real example of how quickly the economics of an existing solar system can shift when the regulatory environment changes.
+Once the agreement is executed and PTO is issued, the terms aren't static forever. Utilities can revise their interconnection tariffs, and existing customers typically get some form of grandfathering protection, but not always forever. [California's NEM 3.0 changes](/right-to-solar-law-explained/) were a real example of how quickly the economics of an existing solar system can shift when the regulatory environment changes.
 
 Your agreement should state the duration of any grandfathered rates or billing structures. If it doesn't specify, ask. A 20-year system that loses its net metering rate in year seven because you didn't notice the sunset clause is a predictable, avoidable outcome.
 

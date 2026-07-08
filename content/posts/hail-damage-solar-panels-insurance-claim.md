@@ -23,6 +23,7 @@ faqs:
    a: "The same day if possible, but no later than 24-48 hours. Many policies have reporting windows, adjusters schedule faster when called early, and timely documentation is far more defensible than documentation gathered weeks later."
  - q: "Can I get compensated for lost solar production while my system is being repaired?"
    a: "Only if your policy specifically includes a production loss endorsement, which most standard homeowner's policies don't. It's worth asking your agent whether that rider is available, especially if your system offsets a large portion of your electricity costs."
+lastmod: 2026-07-07
 ---
 
 A softball-sized hailstone can crack tempered glass. Most homeowners don't realize that until they're standing in their driveway the morning after a storm, squinting up at their roof and wondering if those new dark spots on their panels mean anything. I've been through this twice with clients in Colorado, and the experience taught me more about insurance claims than I ever wanted to know.
@@ -59,11 +60,18 @@ Then get on your roof if you can do it safely, or hire someone who can. You're l
 
 Photograph everything with your phone camera, but then also shoot video. Walk slowly. Narrate what you're seeing. A video timestamp is harder to dispute than a photo. If you have a drone or can borrow one, aerial footage is genuinely useful.
 
-Pull your inverter data. Most modern inverter systems, whether you're running a SolarEdge with individual panel monitoring or an Enphase microinverter setup, give you per-panel production data. Download or screenshot historical production going back at least 30 days. If you can show a sharp production drop on the day of the storm, that's real evidence.
+Pull your inverter data. Most modern inverter systems, whether you're running a SolarEdge with individual panel monitoring or an Enphase microinverter setup, give you [per-panel production data](/solar-inverter-troubleshooting-guide/). Download or screenshot historical production going back at least 30 days. If you can show a sharp production drop on the day of the storm, that's real evidence.
 
 While you're at it, note the date and time of the storm and cross-reference it with the official weather service report for your zip code. The [National Oceanic and Atmospheric Administration's storm data](https://www.noaa.gov/) is publicly available, and a NOAA severe weather report showing 1.5-inch hail in your area is worth attaching to your claim.
 
 ## How Your Coverage Actually Works (and Why It's Confusing)
+
+| Coverage Type | Payout Basis | Depreciation | Best For |
+| --- | --- | --- | --- |
+| Dwelling Coverage (Part of Structure) | Actual Cash Value (ACV) | Yes, applied to age of system | Older systems, lower replacement costs |
+| Scheduled Personal Property | Agreed Value | No depreciation | Newer systems, predictable payouts |
+| Solar-Specific Endorsement | Replacement Cost Value (RCV) | No depreciation | Production loss coverage included |
+| Solar-Specific Rider | RCV + Production Loss | No depreciation | Maximum protection during repair/replacement |
 
 Here's the part that trips up almost everyone. There are two ways solar panels end up covered by homeowner's insurance, and they're not equivalent.
 

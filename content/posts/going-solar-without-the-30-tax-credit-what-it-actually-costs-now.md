@@ -12,6 +12,7 @@ author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
 slug: "going-solar-without-the-30-tax-credit-what-it-actually-costs-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 You pull up a solar quote in June 2026, see a $30,000 system price, and mentally subtract that $9,000 federal tax credit you've been hearing about for years. That's the problem. The credit is gone. It ended December 31, 2025, with no phase-down, no grace period, no grandfather clause for systems in progress. The One Big Beautiful Bill Act, signed July 4, 2025, killed Section 25D outright. What you owe is what you see on the quote.
 
@@ -29,7 +30,7 @@ For a lot of households, this changes the math significantly. A 10-year payback 
 
 
 
-Here's what most people don't realize about the current market: the homeowners still going solar in 2026 are largely motivated by something other than simple ROI. SEIA's Q2 2026 report found that 45% of new residential installs in the first quarter were paired with battery storage, up from 35% in 2025. That's a striking number. People are buying resilience. Backup power during grid outages, protection against utility rate spikes, energy independence. These aren't the motivations that pencil out cleanly on a spreadsheet, but they're real, and they're driving real purchasing decisions.
+Here's what most people don't realize about the current market: the homeowners still going solar in 2026 are largely motivated by something other than simple ROI. SEIA's Q2 2026 report found that 45% of new residential installs in the first quarter were paired with [battery storage](/solar-batteries-are-now-standard-what-the-45-pairing-rate-means-for-yo/), up from 35% in 2025. That's a striking number. People are buying resilience. Backup power during grid outages, protection against utility rate spikes, energy independence. These aren't the motivations that pencil out cleanly on a spreadsheet, but they're real, and they're driving real purchasing decisions.
 
 BloombergNEF's June 15, 2026 report projects U.S. residential solar additions will drop to 4.1 GW this year, down 15% from 2025 and the lowest level in five years. SEIA puts the decline closer to 21%. Either way, the market is contracting. That actually has a silver lining for buyers: installers who were booked out four months in 2023 are now hungry for work. I've heard from homeowners in the Midwest getting quotes 10 to 15 percent below what neighbors paid in 2024. Labor pricing is softening. Use that.
 
@@ -43,11 +44,21 @@ The Section 48E path itself isn't permanent. Solar.com flagged in January 2026 t
 
 ## State Incentives Are Now Doing All the Heavy Lifting
 
+| State | State Tax Credit | Additional Program | Payback Period (Cash) |
+| --- | --- | --- | --- |
+| Massachusetts | 15% (capped $1,000) | SMART program (per kWh) | Improved |
+| New York | 25% (capped $5,000) | - | Improved |
+| New Jersey | - | SREC successor program | Improved |
+| Illinois | Meaningful rebate structure | - | Improved |
+| Arizona | Meaningful rebate structure | - | Improved |
+| New Hampshire | Weak program | - | 12+ years |
+| Maine | Weak program | - | 12+ years |
+
 Where you live matters enormously right now. States with strong programs have partially cushioned the federal loss. Massachusetts still offers a 15% state tax credit capped at $1,000, plus the SMART program which pays you per kilowatt-hour produced. New York has the 25% state credit capped at $5,000. New Jersey's successor to its SREC program continues paying for solar production. Illinois and Arizona both have meaningful rebate or incentive structures that move the needle.
 
 Then there are states where the math is just hard. New Hampshire and Maine have weak state programs, and according to NuWatt Energy's 2026 state-by-state cost breakdown, payback periods in those states now stretch past 12 years for cash buyers. That's not impossible to justify, especially if you plan to stay in the house long-term, but you need to go in with eyes open.
 
-Before you talk to a single installer, spend 30 minutes on your state's public utilities commission website and your state energy office page. Look for active rebate programs, net metering rules (which vary wildly), and any property tax exemptions on solar equipment. These details don't always show up in installer quotes unless you ask directly.
+Before you talk to a single installer, spend 30 minutes on your state's public utilities commission website and your state energy office page. Look for active rebate programs, [net metering rules](/balcony-solar-laws-are-going-live-what-your-state-allows-now/) (which vary wildly), and any property tax exemptions on solar equipment. These details don't always show up in installer quotes unless you ask directly.
 
 ## Contractor Red Flags That Matter More in This Market
 

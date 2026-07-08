@@ -23,6 +23,7 @@ faqs:
    a: "They don't prevent the underlying thermal event, but they dramatically reduce the string-level production loss from a partially shaded or failing panel. They also give you panel-level monitoring, which means you catch hot spots faster. Earlier detection means less thermal cycling and less cumulative cell damage."
  - q: "How often should I check my panels for hot spots?"
    a: "A visual inspection once or twice a year is reasonable for most climates. If you're in a high-dust or high-bird-activity area, every few months. If your system has monitoring, set a monthly alert for any panel running more than 10% below its string average. Catching it in June rather than October can mean the difference between a $15 diode fix and a panel replacement."
+lastmod: 2026-07-07
 ---
 
 Hot spots kill solar panels quietly. No alarm goes off, no warning light blinks, you just watch your production numbers slowly bleed out while a cell or two on one panel bake themselves into permanent failure. I've seen homeowners lose 15-20% of a panel's output to a hot spot that nobody caught for two years.
@@ -39,6 +40,13 @@ Here's the part most guides gloss over: bypass diodes are supposed to prevent th
 
 ## The Four Main Causes (Ranked by Frequency)
 
+| Cause | Frequency Rank | Primary Indicator | Prevention/Detection |
+| --- | --- | --- | --- |
+| Bird droppings | 1st | Localized shadow on single cell | Regular inspection, bird proofing |
+| Partial shading | 2nd | New tree growth or roof additions | Monitor tree growth, check for new structures |
+| Cell cracking | 3rd | Physical stress during installation or roof work | Visual inspection for micro-cracks |
+| Manufacturing defects | 4th | Hot spot within 12-18 months of install | Warranty claim on new panels |
+
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -47,7 +55,7 @@ Bird droppings sit at number one. A single dropping covering one cell is enough 
 
 Second is partial shading, usually from a new tree branch, a neighbor's addition, or a rooftop AC unit that wasn't there when the system was designed. If you've had a roof addition or significant tree growth since install, this is worth investigating before anything else.
 
-Third is cell cracking from physical stress. Installers walking across panels during other roof work is a common culprit nobody talks about. Micro-cracks don't always show up immediately; they can develop into hot spots over one or two thermal cycles.
+Third is [cell cracking from physical stress](/solar-panel-cracked-what-to-do/). Installers walking across panels during other roof work is a common culprit nobody talks about. Micro-cracks don't always show up immediately; they can develop into hot spots over one or two thermal cycles.
 
 Fourth is manufacturing defects. Less common with established brands, but not rare. If a brand-new panel develops a hot spot within 12-18 months, that's a warranty call, not a maintenance call.
 

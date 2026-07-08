@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-
+lastmod: 2026-07-07
 ---
 Most homeowners go three or four years without touching their solar panels, then wonder why their production numbers have drifted down 12% and their installer won't return calls. I've seen it more times than I can count.
 
@@ -43,17 +43,28 @@ What you're hunting for in the data: a gradual, system-wide decline of more than
 
 ## The Physical Inspection: What to Actually Check and When
 
+| Issue | Inspection Frequency | Severity | Action Required |
+| --- | --- | --- | --- |
+| Dirt, dust, organic debris | Twice yearly (quarterly in heavy bird/tree areas) | Low to medium | Clean with soft brush and distilled water |
+| Bird droppings | Ongoing visual checks | High | Remove immediately to prevent hot spotting |
+| Microcracks or delamination | Twice yearly | High | Document with photos; contact installer or manufacturer |
+| Loose bolts or rust on racking | Twice yearly | Medium | Tighten hardware; monitor for corrosion |
+| Critter damage to wiring | Monthly visual checks | High | Install mesh critter guards ($40-80) |
+| Inverter fault codes | Monthly | High | Check manual immediately; do not delay |
+| System-wide output decline | Monthly (review data) | High | Investigate if >10-15% drop year-over-year |
+| Single panel underperformance | Monthly (review data) | High | Check for failing inverter, shading, or degradation |
+
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Twice a year is the right cadence for most climates. I do mine in late spring (after pollen season wraps up) and again in late fall before the winter sets in. Heavy bird activity, lots of dust, or pine trees overhead? Go quarterly.
 
-**Dirt, dust, and organic debris.** Bird droppings are the culprit. A single dropping sitting on a cell causes something called "hot spotting" where that cell gets dramatically hotter than the rest of the panel and can eventually damage it permanently. Regular dust reduces output, but it's forgiving. Pollen, though, is stubborn after rain because it bonds with moisture and bakes in the sun. If your panels look yellow-green in spring, that's pollen, and it won't rinse off as easily as you'd hope.
+**Dirt, dust, and organic debris.** Bird droppings are the culprit. A single dropping sitting on a cell causes something called "[hot spotting](/solar-panel-hot-spot-problem-fix/)" where that cell gets dramatically hotter than the rest of the panel and can eventually damage it permanently. Regular dust reduces output, but it's forgiving. Pollen, though, is stubborn after rain because it bonds with moisture and bakes in the sun. If your panels look yellow-green in spring, that's pollen, and it won't rinse off as easily as you'd hope.
 
 **Panel surface condition.** Get close and look for microcracks, discoloration (particularly a brownish yellowing called delamination), or any bubbling in the encapsulant. These are warranty issues, not cleaning issues. Document them with photos and contact your installer or the panel manufacturer. LG's solar panel warranty was a nightmare when LG exited the solar market in 2022, so if you have LG Neon panels, know that Hanwha Q CELLS is now handling some of those claims.
 
 **Racking and mounting hardware.** Look for loose bolts, rust on any uncoated steel, and cracked or shifted standoffs. In high-wind areas this matters way more than people realize. A panel shifted even slightly can create a leak point in your roof.
 
-**Wiring and conduit.** You're mostly looking for critters. Squirrels will absolutely destroy wiring. A reader emailed me last year after a squirrel chewed through three homerun cables on a 10kW system and caused an arc fault. The repair was $900. Mesh critter guards that run along the bottom edge of panels cost maybe $40-80 for a typical roof. Worth every penny.
+**Wiring and conduit.** You're mostly looking for critters. Squirrels will absolutely destroy wiring. A reader emailed me last year after a squirrel chewed through three homerun cables on a 10kW system and caused an arc fault. The repair was $900. [Mesh critter guards](/solar-bird-proofing-and-critter-guard/) that run along the bottom edge of panels cost maybe $40-80 for a typical roof. Worth every penny.
 
 **Inverter and electrical components.** Check your inverter display or indicator lights monthly. A solid green light on a string inverter means it's operating fine. Any amber or red fault codes? Look them up immediately in the manual. Don't wait. Also check that your disconnect switches aren't corroded and the conduit hasn't been disturbed.
 

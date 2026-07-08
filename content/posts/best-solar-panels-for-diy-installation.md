@@ -23,11 +23,12 @@ faqs:
     a: "The honest answer: most panels from reputable manufacturers will still produce meaningful power at 25-30 years. Degradation rates are typically 0.5-0.7% per year, so a panel producing 410W at install produces roughly 370-380W at year 25. The inverter will almost certainly fail before the panels do, usually around year 10-15."
   - q: "Is it worth buying used solar panels for a DIY system?"
     a: "Rarely. Used panels have unknown degradation history, voided manufacturer warranties, and often non-standard connectors. The price gap between used and new has narrowed enough that it's hard to justify the risk unless you can test each panel with a clamp meter before purchase and you're doing a non-permitted off-grid build."
+lastmod: 2026-07-07
 ---
 
 Most "best solar panels" articles are written by people who've never been on a roof. They rank modules by efficiency percentage and wattage as if those numbers tell you anything useful about actually installing the things yourself. They don't.
 
-What matters for a DIY install is different: panel weight, frame dimensions, junction box placement, whether the connectors are pre-attached, how forgiving the module is when your mounting rails aren't perfectly level. Efficiency is almost irrelevant if the panel is a bear to handle solo on a 6:12 pitch.
+What matters for a [DIY install](/diy-solar-panel-installation-guide/) is different: panel weight, frame dimensions, junction box placement, whether the connectors are pre-attached, how forgiving the module is when your mounting rails aren't perfectly level. Efficiency is almost irrelevant if the panel is a bear to handle solo on a 6:12 pitch.
 
 I've done enough installs (and made enough mistakes on my own roof first) to have opinions here. This is what I'd actually buy.
 
@@ -51,6 +52,14 @@ UL 1703 or UL 61730 listed. If a panel doesn't have one of those marks, it won't
 
 ## The Panels Worth Buying in 2026
 
+| Panel Model | Price Range | Weight | Frame Depth | Efficiency | Best For |
+| --- | --- | --- | --- | --- | --- |
+| REC Alpha Pure-R | $280-320 | ~48 lbs | 35mm | 22.3% | Premium DIY, frameless systems |
+| Q CELLS Q.PEAK DUO BLK ML-G10+ | $210-240 | 46 lbs | 35mm | ~22% | Mid-range, all-black aesthetic |
+| Silfab SIL-410 BK | $200-220 | ~46 lbs | 35mm | ~21% | North American preference, HOA-friendly |
+| Aptos Solar DNA-120-BF27-410W | $190-215 | ~47 lbs | 35mm | ~22% | Bifacial/metal roof installs |
+| Jackery SolarSaga 200W | Varies | Portable | N/A | ~22% | Off-grid, ground-mount, entry systems |
+
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -65,7 +74,7 @@ As of July 2026, the 400-430W monocrystalline PERC format has basically won the 
 
 **Aptos Solar DNA-120-BF27-410W.** The bifacial sleeper pick. If you have a standing seam metal roof or a flat/low-slope surface where you can get a few inches of clearance, bifacial panels will outperform monofacial by 5-15% in real-world production. Aptos is underrated, probably because they don't advertise much. Around $190-215 per panel. The catch: bifacial installs need specific mounting considerations (no solid surfaces blocking the rear), and they're a little trickier to ground properly.
 
-**Jackery SolarSaga 200W.** This one's different from the rest of the list. It's not a rooftop panel. If you're starting with a smaller off-grid or backup system, ground-mounted or balcony-mounted, the SolarSaga panels are genuinely plug-and-play in a way permanent panels aren't. Worth knowing about. Not the path to a whole-home system, but a legitimate entry point.
+**Jackery SolarSaga 200W.** This one's different from the rest of the list. It's not a rooftop panel. If you're starting with a [smaller off-grid or backup system](/off-grid-solar-diy-setup/), ground-mounted or balcony-mounted, the SolarSaga panels are genuinely plug-and-play in a way permanent panels aren't. Worth knowing about. Not the path to a whole-home system, but a legitimate entry point.
 
 ---
 

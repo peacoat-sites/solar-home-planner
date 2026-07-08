@@ -12,12 +12,19 @@ author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 slug: "solar-panel-cracked-what-to-do"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 A cracked solar panel is one of those things that looks worse than it sometimes is, and also sometimes way worse than it looks. I've seen both.
 
 The call I get most often goes something like this: homeowner goes up on the roof to clean their panels (or, more often, their kid throws a baseball, a hailstorm rolls through, or a roofer drops something), and now there's a visible crack running across one of the cells. The immediate panic is understandable. These things cost money. But before you call your installer in a spiral, there are a few things you need to check first, because the right response depends entirely on what kind of crack you're dealing with.
 
 ## First: Assess What You Actually Have
+
+| Crack Type | Visibility | Glass Intact | Impact on Output | Action Required |
+| --- | --- | --- | --- | --- |
+| Microcracks | Not visible to naked eye | Yes | Gradual degradation over time | Monitor; replace if network develops |
+| Visible cell cracks | Clearly visible line or spider-web pattern | Yes | 10-30% reduction on clear day | Replace panel |
+| Shattered/breached glass | Obvious damage | No | Immediate risk; full system risk | Remove from service immediately |
 
 Not all cracks are equal. This matters more than most people realize, and getting it wrong will cost you.
 
@@ -35,13 +42,13 @@ There are three basic scenarios:
 
 
 
-Here's where a home energy monitor earns its keep. If you have a system with module-level monitoring (Enphase microinverters or SolarEdge optimizers give you per-panel data), go check your app right now. A cracked panel will show reduced output relative to its neighbors, often 10-30% lower on a clear day.
+Here's where a [home energy monitor](/solar-inverter-troubleshooting-guide/) earns its keep. If you have a system with module-level monitoring (Enphase microinverters or SolarEdge optimizers give you per-panel data), go check your app right now. A cracked panel will show reduced output relative to its neighbors, often 10-30% lower on a clear day.
 
 If you don't have module-level monitoring, you're flying blind. Your system inverter will show total output, but a single underperforming panel in a string can drag down the whole string without screaming "panel 7 is broken." This is one reason I've come around pretty hard on microinverters for new installs, despite the higher upfront cost.
 
 If you want to do a quick sanity check yourself, a [home energy monitor like the Emporia Vue Gen 2](https://www.amazon.com/s?k=home+energy+monitor+emporia+vue&tag=rsh-sol-20) (the site may earn a commission on purchases) can give you a whole-system view that at least tells you if total output has dropped after the incident.
 
-Worked example: A homeowner in Phoenix contacted me after hail in April. One panel had a visible crack across two cells, glass intact. His Enphase app showed that panel producing 22% less than the adjacent panels on a 78-degree clear morning. After replacement, his system output recovered exactly that delta. Total cost: one panel at $310 plus $180 labor.
+Worked example: A homeowner in Phoenix contacted me after [hail in April](/hail-damage-solar-panels-insurance-claim/). One panel had a visible crack across two cells, glass intact. His Enphase app showed that panel producing 22% less than the adjacent panels on a 78-degree clear morning. After replacement, his system output recovered exactly that delta. Total cost: one panel at $310 plus $180 labor.
 
 ## Do Not Do This
 

@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-
+lastmod: 2026-07-07
 ---
 Your electric bill arrives in July, and it's $340. Central AC running, a couple teenagers, maybe a home office humming all day. You glance at the neighbors' roof, see those panels gleaming, and think: *could I actually do that?* The answer's yes. But there's a canyon between "thinking about solar" and "having a system that actually saves you money," and most installers won't walk you through it honestly. Let's fix that.
 
@@ -68,6 +68,16 @@ When a contractor says "we'll have you running in three weeks," they mean instal
 If you're in an HOA, check the CC&Rs immediately. Federal law (the Solar Rights Act and various state solar access statutes) stops HOAs from banning solar outright in most states, but they can still demand aesthetic requirements about panel placement and visibility. Don't assume your HOA won't cause problems. Get everything in writing.
 
 ## Comparing Quotes: What to Look For and What's a Red Flag
+
+| What to Check | Good Sign | Red Flag |
+|---|---|---|
+| Production estimate | Based on actual shading analysis and PVWatts data | Round number with no methodology |
+| Equipment specs | Named panel brand, model, wattage, inverter type | "High-quality panels" with nothing specific |
+| Panel upgrade | Included or explicitly broken out | Not mentioned |
+| Warranty terms | 25-year product + 25-year production on panels | Only installation warranty |
+| Timeline | Realistic 2-4 month estimate to full operation | "Done in two weeks" |
+| Contract terms | Clear cancellation window (3+ days minimum) | High-pressure same-day signing bonus |
+| Financing | Explains loan terms, interest rate, true cost | Focuses only on monthly payment |
 
 EnergySage's data is consistent on this: homeowners who grab three or more quotes save an average of 20 percent versus those who go with the first installer. On a $25,000 to $40,000 system, that's real money.
 

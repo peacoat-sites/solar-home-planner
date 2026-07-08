@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-
+lastmod: 2026-07-07
 ---
 A homeowner in Sacramento called me last spring, three days before her installation was scheduled to start. She'd signed a 25-year solar lease nine months earlier and had just discovered her contract included an automatic annual escalator of 2.9% on her monthly payments. Nobody had explained that to her during the sales pitch. Over 25 years, that clause would cost her roughly $14,000 more than the flat rate she thought she was getting. The installer wasn't breaking any laws. Every word was in the contract. She just hadn't read it.
 
@@ -31,11 +31,18 @@ That situation isn't rare. Solar contracts are long, dense, and written by lawye
 
 ## Understand What Type of Agreement You're Actually Signing
 
+| Contract Type | Ownership | Payment Structure | Key Risk |
+| --- | --- | --- | --- |
+| Cash Purchase | You own system | Upfront payment | Requires careful review of warranty and scope |
+| Loan | You own system | Monthly payments with interest | UCC-1 filing or deed of trust can complicate refinancing |
+| Power Purchase Agreement (PPA) | Third party owns | Per kilowatt-hour rate | Long-term energy contract with potential escalators |
+| Lease | Third party owns | Flat monthly fee | Escalator clauses (2.9%-3.5% common) add significant cost over time |
+
 Before you review a single line item, you need to know which type of contract you're holding. They're not interchangeable, and your rights and risks are completely different depending on the structure.
 
 **Cash purchase:** You own the system outright. The contract is essentially a scope of work, a warranty document, and a payment schedule. Straightforward, but still requires careful review.
 
-**Loan (secured or unsecured):** You own the system, but you're financing it. Watch for whether it's a secured loan, because some solar loans place a lien on your home through a mechanism called a UCC-1 filing or a deed of trust. That can complicate refinancing or selling your house.
+**Loan (secured or unsecured):** You own the system, but you're financing it. Watch for whether it's a secured loan, because some [solar loan](/how-to-get-solar-quotes/)s place a lien on your home through a mechanism called a UCC-1 filing or a deed of trust. That can complicate refinancing or selling your house.
 
 **Power Purchase Agreement (PPA):** You don't own the panels. A third party owns the equipment on your roof and sells you electricity at a set rate. You're signing a long-term energy contract, not buying a product.
 

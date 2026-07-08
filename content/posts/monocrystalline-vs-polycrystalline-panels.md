@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-
+lastmod: 2026-07-07
 ---
 If you've spent more than twenty minutes researching solar panels, you've already encountered this argument. Monocrystalline or polycrystalline? Black or blue? And you're probably thinking it doesn't matter, that this is one of those distinctions that sounds technical but makes zero practical difference.
 
@@ -42,6 +42,15 @@ Polycrystalline cells start with many silicon fragments melted together and cool
 That's the core of it. Now let's get into what it actually means for your roof.
 
 ## The Efficiency Gap: Real Numbers, Not Marketing Copy
+
+| Specification | Monocrystalline | Polycrystalline |
+| --- | --- | --- |
+| Typical Efficiency | 19-22% | 15-17% |
+| Temperature Coefficient | -0.3% to -0.36% per °C | -0.4% to -0.45% per °C |
+| Cell Appearance | Nearly black, rounded corners | Blue speckled |
+| Manufacturing Method | Single crystal (Czochralski) | Multiple fragments melted together |
+| Wholesale Cost (2024) | $0.25-$0.40 per watt | $0.20-$0.28 per watt |
+| Market Availability | Dominant in residential | Niche/declining |
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

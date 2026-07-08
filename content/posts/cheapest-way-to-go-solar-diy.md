@@ -23,15 +23,21 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-
+lastmod: 2026-07-07
 ---
-Most solar articles start the same way: "Go solar and slash your electric bill!" Then they skip right past the part where you drop $25,000 on a contractor and wait 8-10 years to break even. There's another route. It's not for everyone, but if you're handy with electrical work and willing to handle permits yourself, a DIY solar installation can cut your total cost by 40-60% compared to hiring it out. The average contractor charges $3.00-$3.50 per watt before incentives, per EnergySage data. A competent DIYer can hit $1.00-$1.50 per watt in equipment costs. On a 6kW system, that's $18,000-$21,000 versus $6,000-$9,000. Here's how to actually get there.
+Most solar articles start the same way: "Go solar and slash your electric bill!" Then they skip right past the part where you drop $25,000 on a contractor and wait 8-10 years to break even. There's another route. It's not for everyone, but if you're handy with electrical work and willing to handle permits yourself, a [DIY solar installation](/diy-solar-panel-installation-guide/) can cut your total cost by 40-60% compared to hiring it out. The average contractor charges $3.00-$3.50 per watt before incentives, per EnergySage data. A competent DIYer can hit $1.00-$1.50 per watt in equipment costs. On a 6kW system, that's $18,000-$21,000 versus $6,000-$9,000. Here's how to actually get there.
 
 ## Understand What "DIY Solar" Actually Means
 
+| DIY Approach | System Size | Permits Required | Complexity | Best For |
+|---|---|---|---|---|
+| Plug-and-play / balcony solar | 400W-800W | None (most places) | Zero | Renters, testing |
+| Partial DIY | 3kW-8kW | Yes (electrical) | Medium | Most homeowners |
+| Full DIY with permits | 5kW-15kW | Yes (building & electrical) | High | Experienced DIYers |
+
 DIY solar isn't one thing. It's a spectrum depending on your skills, your state's rules, and how much risk you'll tolerate.
 
-One end: buy a plug-in kit, stick panels on your roof, done. Other end: design a full grid-tied system, pull permits, run conduit, handle the utility interconnection yourself. The first is easiest and cheapest but limits your system size. The second gets the biggest savings but demands real electrical knowledge and bureaucratic patience.
+One end: buy a plug-in kit, stick panels on your roof, done. Other end: design a [full grid-tied system](/can-i-install-solar-panels-myself/), pull permits, run conduit, handle the utility interconnection yourself. The first is easiest and cheapest but limits your system size. The second gets the biggest savings but demands real electrical knowledge and bureaucratic patience.
 
 Here's what each actually looks like:
 

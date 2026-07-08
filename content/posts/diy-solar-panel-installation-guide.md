@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-
+lastmod: 2026-07-07
 ---
 Let me be straight with you: a licensed electrician friend of mine once said that pulling a permit for a solar job is "just paperwork," but skipping it is "a lawsuit waiting to happen." He wasn't wrong. Every year, homeowners lose insurance coverage, face forced system removal, or get slapped with fines because they installed solar without permits, without inspections, or without understanding what they were actually doing to their electrical system. DIY solar is absolutely possible. I've helped dozens of homeowners do it themselves, save $10,000 to $20,000 in labor costs, and end up with a system they fully understand. But "DIY" doesn't mean "shortcuts." It means you're the one responsible for doing it right.
 
@@ -61,6 +61,12 @@ A few sizing realities to keep in mind:
 Your [roof type matters too](/best-roof-type-for-solar-panels/). Composition shingle is the easiest to work with. Metal roofs require different mounting hardware. Flat roofs use ballasted or tilted racking systems. If you've got a flat roof, there are specific considerations worth understanding before you buy any hardware.
 
 ## Equipment Selection: Panels, Inverters, and Racking
+
+| Inverter Type | Best For | Cost | Monitoring |
+|---|---|---|---|
+| String inverter | Simple roofs, no shading | Lowest | System-level |
+| Microinverters (e.g., Enphase IQ8) | Complex roofs, shading, phased expansion | Highest | Panel-level |
+| DC optimizers + string inverter (e.g., SolarEdge) | Moderate shading, some complexity | Mid-range | Panel-level |
 
 You have more good options today than ever before. You also have more ways to buy garbage from a random overseas supplier, so pay attention.
 

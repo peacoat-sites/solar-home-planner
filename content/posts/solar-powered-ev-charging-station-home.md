@@ -23,11 +23,17 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-
+lastmod: 2026-07-07
 ---
 You bought an EV and a solar array in the same year, feeling pretty clever about the whole thing. Then your installer hands you a commissioning report showing your panels produce most of their power between 10 a.m. and 3 p.m., and your car sits in the garage charging overnight. You're buying grid electricity at peak rates to move electrons into a vehicle you bought specifically to stop paying for fuel. That's the gap most solar-plus-EV articles skip right past, and it's the gap this piece closes.
 
 ## Why the Timing Problem Is the Real Problem
+
+| Configuration | Upfront Cost | Solar-Only Charging | Grid Tie Required | Outage Resilience |
+| --- | --- | --- | --- | --- |
+| Solar + smart EVSE + TOU scheduling | Lowest | No | Yes | No |
+| Solar + home battery + smart EVSE | Higher | Yes | No | Yes |
+| Solar + dedicated EV battery + bidirectional | Highest | Yes | No | Yes |
 
 A solar panel doesn't care when you need the power. It produces when the sun shines. Your EV charger doesn't care where the power comes from. It draws when you plug in. Left unmanaged, those two facts work against each other completely.
 
@@ -35,7 +41,7 @@ Most homeowners default to charging overnight because that's when rates used to 
 
 The fix has three possible configurations:
 
-1. **Solar + smart EVSE + TOU scheduling** (lowest cost, good for grid-tied homes with net metering)
+1. **Solar + smart EVSE + TOU scheduling** (lowest cost, good for grid-tied homes with [net metering](/can-solar-power-charge-an-electric-car/))
 2. **Solar + home battery + smart EVSE** (higher upfront, true solar-only charging possible)
 3. **Solar + dedicated EV battery storage + bidirectional charging** (highest cost, maximum control, vehicle-to-home capable)
 
@@ -57,7 +63,7 @@ Rough sizing rule: every 1 kW of solar in a decent sun location (Phoenix, Atlant
 
 "Level 2 charger" means a 240V charging unit, the same voltage as your dryer or range. A Level 2 EVSE (Electric Vehicle Supply Equipment) delivers 7.2 to 19.2 kW depending on amperage and your vehicle's onboard charger limit. Most passenger EVs accept 7.2 to 11.5 kW. You get 20 to 35 miles of range per hour of charging.
 
-What matters for solar integration is solar awareness. Not all Level 2 EVSEs are created equal here. Dumb chargers accept a schedule. Smart chargers accept a schedule, adjust based on real-time grid pricing signals, and the best ones integrate directly with your solar inverter or home energy management system.
+What matters for [solar integration](/best-ev-charger-for-solar-home/) is solar awareness. Not all Level 2 EVSEs are created equal here. Dumb chargers accept a schedule. Smart chargers accept a schedule, adjust based on real-time grid pricing signals, and the best ones integrate directly with your solar inverter or home energy management system.
 
 Look specifically for:
 

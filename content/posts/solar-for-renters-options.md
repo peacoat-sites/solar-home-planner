@@ -23,13 +23,13 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-
+lastmod: 2026-07-07
 ---
 Most solar coverage assumes you own the roof. Full stop. The articles about tax credits, panel brands, and payback periods are written for homeowners, and if you're renting, you're supposed to feel vaguely left out and wait until you buy a house someday.
 
 That framing is wrong, and it's costing renters real money every month.
 
-You don't need to own property to cut your electricity bill with solar. You have four practical paths: community solar subscriptions, portable solar setups, balcony or plug-in solar systems, and negotiating with your landlord. Each has different tradeoffs in savings, effort, and hassle. Let me walk through all of them honestly, including where each falls short.
+You don't need to own property to cut your electricity bill with solar. You have four practical paths: [community solar](/community-solar-how-it-works/) subscriptions, portable solar setups, balcony or plug-in solar systems, and negotiating with your landlord. Each has different tradeoffs in savings, effort, and hassle. Let me walk through all of them honestly, including where each falls short.
 
 ## Community Solar: The Biggest Savings with the Least Setup
 
@@ -39,7 +39,7 @@ Here's how it works: a solar farm gets built somewhere in your utility territory
 
 The catch: availability is patchy. Strong in New York, Massachusetts, Illinois, Minnesota, and a handful of other states with decent policy support. Texas, Florida, most of the Southeast? Community solar is thin to nonexistent right now. Check your utility's website or run a zip code search on EnergySage directly to see what's in your area.
 
-Before you sign anything, read the contract length and cancellation terms carefully. Some community solar agreements run month-to-month. Others lock you in for 20 years with a transfer clause that lets you exit if you move (and you need to read what "transfer" actually requires). If a sales rep glosses over the cancellation terms, ask three more times. Not twice. Three.
+Before you sign anything, read the contract length and cancellation terms carefully. Some [community solar agreements](/solar-garden-subscription-what-is-it/) run month-to-month. Others lock you in for 20 years with a transfer clause that lets you exit if you move (and you need to read what "transfer" actually requires). If a sales rep glosses over the cancellation terms, ask three more times. Not twice. Three.
 
 ## Portable Solar: Modest but Real, and Yours to Keep
 
@@ -62,6 +62,13 @@ If you want to try this, you need a microinverter designed for plug-in use (the 
 I'm watching this space closely. The regulatory picture in the US will clarify over the next few years, and when it does, plug-in solar for renters will become a much bigger deal.
 
 ## Talking to Your Landlord: Lower Odds, But Sometimes It Works
+
+| Option | Setup Complexity | Landlord Permission | Estimated Savings | Portability |
+| --- | --- | --- | --- | --- |
+| Community Solar | None | Not required | $150-$200/year | N/A (subscription-based) |
+| Portable Solar | Low-Medium | Not required | $15-$40/month | Yes (moves with you) |
+| Plug-In Solar | Medium | Check lease | Varies (utility-dependent) | Possible (with effort) |
+| Landlord Negotiation | High | Required | Varies | No (fixed to property) |
 
 Most renters assume this conversation is a dead end. Sometimes it is. But there are specific situations where landlords genuinely open to installing solar, and knowing which arguments land makes a difference.
 

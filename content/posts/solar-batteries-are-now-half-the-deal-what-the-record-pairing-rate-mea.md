@@ -12,12 +12,19 @@ author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
 slug: "solar-batteries-are-now-half-the-deal-what-the-record-pairing-rate-mea"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 A homeowner called me last month genuinely confused. She had three solar quotes. Two installers were pushing hard for a lease package that bundled in a battery. The third quoted panels only, straight cash purchase, and it was actually cheaper upfront. Which was the better deal? The honest answer in mid-2026 is: it depends entirely on a tax credit change that most installers aren't explaining clearly.
 
 Here's what shifted. According to the [SEIA Solar Market Insight Report Q2 2026](https://seia.org/research-resources/solar-market-insight-report-q2-2026/), a record 45% of new residential solar installations in Q1 2026 included a battery storage system. Nearly half. That's a sharp jump from prior years, and it's not because homeowners suddenly fell in love with backup power. It's because the financial math on residential solar changed dramatically when the calendar flipped to January 1, 2026.
 
 ## The Tax Credit That's Gone and the One That Isn't
+
+| Ownership Model | Federal Tax Credit Available | Battery Cost Example | Effective Cost After Credit | Key Consideration |
+| --- | --- | --- | --- | --- |
+| Cash Purchase (2026) | None (Section 25D expired) | $12,000 | $12,000 | State rebates may apply; no federal offset |
+| Lease/PPA | Section 48E (30%, claimed by lessor) | $12,000 | ~$8,400 (lessor keeps credit value) | Lower monthly payment reflects credit pass-through; long-term costs vary |
+| State Rebate Programs | Varies by state | $12,000 | Up to $4,000 less (Connecticut example: up to $16,000) | Subject to waitlists, income qualifications, funding caps |
 
 The 30% Residential Clean Energy Credit, Section 25D, is gone. The One Big Beautiful Bill Act, passed in July 2025, eliminated it effective December 31, 2025. If you buy solar panels or a battery outright in 2026, there is no federal tax credit waiting for you at the end of the year. On a $12,000 battery system, you just lost $3,600 in federal money. That stings.
 
@@ -31,7 +38,7 @@ Most people don't realize this isn't a loophole. It's exactly how the commercial
 
 The overall residential solar market is struggling. BloombergNEF projects the U.S. will add only 4.1 GW of residential solar in 2026, the lowest level in five years, with the broader market contracting roughly 21% this year. That context matters. We're not in a solar boom. Installers are competing hard for fewer customers, and smaller companies that rode the 25D wave are quietly shutting down.
 
-Against that backdrop, 45% battery attachment is striking. It tells you something specific: the lease and PPA model, which benefits from Section 48E and almost always bundles storage, is capturing a larger share of a shrinking pie. I've seen this locally too. The cash-purchase, panels-only deal that used to be the bread and butter for mid-sized residential installers is getting harder to justify to customers who can't claim any federal credit. The lease-plus-battery pitch has a cleaner story right now, even if the long-term economics are more complicated.
+Against that backdrop, 45% battery attachment is striking. It tells you something specific: the lease and PPA model, which benefits from Section 48E and almost always bundles storage, is capturing a larger share of a shrinking pie. I've seen this locally too. The [cash-purchase, panels-only deal](/going-solar-without-the-30-tax-credit-what-it-actually-costs-now/) that used to be the bread and butter for mid-sized residential installers is getting harder to justify to customers who can't claim any federal credit. The lease-plus-battery pitch has a cleaner story right now, even if the long-term economics are more complicated.
 
 ## State Rebates Are Real, But You Have to Hunt for Them
 
@@ -47,7 +54,7 @@ The lease-plus-battery model being the financially logical path for many people 
 
 Also watch for installers who are vague about which tax credit they're claiming on your behalf. If someone quotes you a lease without clearly explaining that the Section 48E commercial ITC is how they're pricing the system, force that conversation. Ask directly: "What tax credits is your company claiming on this installation, and how are those reflected in my lease rate?" A good installer will have a clean answer.
 
-On the equipment side, battery pairing rates being up doesn't mean every battery is appropriate for every home. I've seen proposals pushing a 10 kWh battery on a house using 600 kWh a month with a small panel array. The sizing math matters. Don't let the lease model's monthly payment framing distract you from asking whether the actual system makes sense for your usage and your goals.
+On the equipment side, [battery pairing rates being up](/how-to-add-a-battery-to-your-existing-solar-system/) doesn't mean every battery is appropriate for every home. I've seen proposals pushing a 10 kWh battery on a house using 600 kWh a month with a small panel array. The sizing math matters. Don't let the lease model's monthly payment framing distract you from asking whether the actual system makes sense for your usage and your goals.
 
 ## What This Moment Actually Means If You're Shopping Now
 

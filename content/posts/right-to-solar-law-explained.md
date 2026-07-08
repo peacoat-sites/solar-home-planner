@@ -23,9 +23,9 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-
+lastmod: 2026-07-07
 ---
-Your neighbor just sent you a letter threatening to fine you $500 if you don't remove the solar panels from your roof. You installed them legally, pulled the permits, passed inspection, and your utility is already crediting your net metering. But your HOA's architectural guidelines say nothing visible from the street is allowed, and apparently that includes your brand new $22,000 solar array. Sound like a nightmare? For thousands of homeowners, this scenario is exactly what happened before "right to solar" laws stepped in. These statutes exist in the majority of U.S. states specifically to prevent neighbors, HOAs, and local governments from blocking your access to solar energy on your own property. Understanding how they work could save you a serious legal headache, or a lot of money.
+Your neighbor just sent you a letter threatening to fine you $500 if you don't remove the solar panels from your roof. You installed them legally, [pulled the permits, passed inspection](/solar-panel-permit-process-explained/), and your utility is already crediting your net metering. But your HOA's architectural guidelines say nothing visible from the street is allowed, and apparently that includes your brand new $22,000 solar array. Sound like a nightmare? For thousands of homeowners, this scenario is exactly what happened before "right to solar" laws stepped in. These statutes exist in the majority of U.S. states specifically to prevent neighbors, HOAs, and local governments from blocking your access to solar energy on your own property. Understanding how they work could save you a serious legal headache, or a lot of money.
 
 ## What "Right to Solar" Actually Means
 
@@ -38,6 +38,18 @@ The second, and more commonly discussed, is solar rights laws (sometimes called 
 They're legally separate. You might have strong HOA protections in your state but weak sunlight access rights, or the reverse. Knowing which type of law applies to your situation matters enormously before you write a single check to an installer.
 
 ## Which States Have the Strongest Protections
+
+| State | Solar Rights Law | HOA Restrictions Allowed | Solar Easement Mechanism |
+| --- | --- | --- | --- |
+| California | California Solar Rights Act | Aesthetic changes only (max $1,000 cost or 10% output reduction) | Yes, recorded easements available |
+| Florida | Florida Solar Rights Act (constitutional) | Prohibited via constitution | Not specified in article |
+| Texas | Senate Bill 1938 (2021) | Aesthetic guidelines only | Not specified in article |
+| Arizona | Similar to CA/TX | Varies | Not specified in article |
+| Colorado | Similar to CA/TX | Varies | Not specified in article |
+| New Jersey | Similar to CA/TX | Varies | Not specified in article |
+| Wisconsin | State solar rights | Varies | Yes, recorded easements available |
+| Oregon | State solar rights | Varies | Yes, recorded easements available |
+| New Mexico | State solar rights | Varies | Yes, recorded easements available |
 
 California has the most aggressive solar rights framework in the country. Under the California Solar Rights Act, HOAs cannot prohibit solar systems, period. They can request that you modify placement or appearance, but only if those changes don't cost more than $1,000 extra or reduce system output by more than 10 percent. Florida, Texas, Arizona, Colorado, and New Jersey all have similar but not identical statutes.
 

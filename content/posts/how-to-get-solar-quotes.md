@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-
+lastmod: 2026-07-07
 ---
 Most homeowners spend more time researching a $600 dishwasher than a $25,000 solar system. I've watched people sign contracts after a single sales pitch, then call me six months later wondering why their electricity bill barely moved. Getting solar quotes isn't just about finding the lowest price. It's about gathering enough structured information to make a comparison that actually means something.
 
@@ -45,7 +45,7 @@ You've got several channels available, and they're not equally good.
 
 **Local installers** are often a better starting point if you can find them. A company that's been pulling permits in your county for 8 years knows your AHJ (Authority Having Jurisdiction), your utility's interconnection requirements, and the specific quirks that slow down a project. I've seen national installers quote a job in 2 weeks and take 5 months because they underestimated the local inspection process.
 
-**Your utility's approved vendor list** is an underused resource. Many utilities publish lists of contractors who have successfully interconnected systems through their process. Starting there doesn't limit you, but it gives you a vetted starting pool.
+**[Your utility's approved vendor list](/is-my-solar-installer-legit/)** is an underused resource. Many utilities publish lists of contractors who have successfully interconnected systems through their process. Starting there doesn't limit you, but it gives you a vetted starting pool.
 
 **Referrals from neighbors** who've actually had systems installed and running for at least a year are gold. Don't just ask if they're happy. Ask what went wrong. How long did the install take? How did the permit process actually go? Does production match what was promised?
 

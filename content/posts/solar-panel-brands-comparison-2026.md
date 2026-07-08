@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-
+lastmod: 2026-07-07
 ---
 Most people shopping for solar panels in 2026 spend way too much time comparing efficiency ratings and nowhere near enough time asking who's actually going to be around to honor that 25-year warranty. That's the thing nobody puts in the comparison chart.
 
@@ -37,9 +37,18 @@ You'll see "Tier 1" thrown around constantly in solar marketing. I'll be honest:
 
 What surprised me when I started looking closer is how many genuinely excellent panels come from manufacturers that aren't on the Tier 1 list at all. And how many mediocre panels carry that exact designation.
 
-The framework I actually use: look at domestic US presence (do they have an office here? US-based warranty support?), degradation rate (power loss per year), temperature coefficient (output drop in heat), and whether they offer both product warranty and separate performance warranty. Those last two are different things. Most homeowners don't realize it.
+The framework I actually use: look at domestic US presence (do they have an office here? US-based warranty support?), degradation rate (power loss per year), [temperature coefficient](/solar-panel-efficiency-ratings-explained/) (output drop in heat), and whether they offer both product warranty and separate performance warranty. Those last two are different things. Most homeowners don't realize it.
 
 ## The Brands Worth Talking About in 2026
+
+| Brand | Efficiency | Temperature Coefficient | Warranty | Key Strength | US Presence |
+| --- | --- | --- | --- | --- | --- |
+| REC Group | 430-445W | -0.24%/°C | 25-year product/performance | Heat performance | European roots, solid US distribution |
+| Maxeon Solar | 24%+ (400W) | Not specified | Intact warranty support | High efficiency, limited space | Monitored financial position |
+| Qcells (Hanwha) | 21-22% | Not specified | 25-year linear/product | Quality + price + confidence | US manufacturing facility (Dalton, GA) |
+| Longi Solar | 21-22.8% | Not specified | 25-year | Largest manufacturer, competitive pricing | Chinese manufacturer, logistics concerns |
+| Canadian Solar | Not specified | Not specified | 25-year | Budget-conscious option | Questions on US warranty support |
+| SunPower | Previously leading | Not specified | Warranty complicated post-2024 | Historical standard (now restructured) | Bankruptcy 2024, restructured |
 
 **REC Group** keeps earning its reputation. The REC Alpha Pure and Alpha Pure RX series hit 430-445W for residential panels, with a temperature coefficient around -0.24%/°C. Genuinely impressive, especially for homeowners in Arizona or Texas where heat kills output. REC has European roots but solid US distribution, and their 25-year product/performance warranty has held up well in the handful of claims I've seen process. Not cheap. Expect to pay a $0.10-0.15 per watt premium over comparable JA Solar or Longi panels. Worth it for most installs? Probably yes, if your installer is comfortable with them.
 

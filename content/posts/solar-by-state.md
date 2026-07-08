@@ -10,11 +10,11 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-
+lastmod: 2026-07-07
 ---
 How much power your rooftop solar system actually produces? Geography. A 6 kW system in Phoenix looks completely different on your electricity bill than the same system in Seattle.
 
-The table below ranks US states by annual output for a standard 6 kW residential system, highest to lowest. These numbers come from NASA POWER solar irradiance data with an 80% system performance ratio baked in (accounting for real-world losses like dust, angle, and inverter inefficiency).
+The table below ranks US states by annual output for a standard 6 kW residential system, highest to lowest. These numbers come from NASA POWER solar irradiance data with an 80% system performance ratio baked in (accounting for real-world losses like dust, angle, and [inverter inefficiency](/best-solar-inverter-brands-reviewed/)).
 
 {{< solar-table >}}
 
@@ -28,7 +28,7 @@ The savings figures shown use a national average rate of roughly $0.13 per kWh, 
 
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
-- with an 80% system performance ratio baked in (accounting for real-world losses
+- with an [80% system performance ratio](/best-solar-panels-for-diy-installation/) baked in (accounting for real-world losses
 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*

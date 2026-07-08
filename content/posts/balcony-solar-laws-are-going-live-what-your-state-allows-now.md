@@ -12,6 +12,7 @@ author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
 slug: "balcony-solar-laws-are-going-live-what-your-state-allows-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 Your landlord just told you balcony solar panels violate your lease. Last year, they were probably right. This July, depending on which state you live in, they may be breaking the law.
@@ -27,6 +28,16 @@ The price range is real and worth knowing: these systems run roughly $300 to $1,
 The reason this matters at scale is that an estimated 70% of American households can't access traditional rooftop solar. They rent. Their roof is shaded. They can't afford the upfront cost or don't plan to stay long enough to recoup it. Plug-in panels are, practically speaking, the only solar option available to most Americans, which is exactly why the legislative push has moved this fast.
 
 ## The July 2026 Laws, Broken Down
+
+| State | Law Name | Effective Date | Max Wattage | HOA Ban | Meter Collar Support |
+| --- | --- | --- | --- | --- | --- |
+| New Jersey | Garden State Plug-In Solar Act | July 1, 2026 | Not specified | Yes | No |
+| Virginia | Plug-in Solar Law | July 1, 2026 | Not specified | No | No |
+| Maine | Plug-in Solar Law | July 2026 | Not specified | No | No |
+| Colorado | Plug-in Solar Law | Active | 1,920W | No | Yes |
+| Maryland | Plug-in Solar Law | Active | Not specified | No | No |
+| Utah | Plug-in Solar Law | Active | Not specified | No | No |
+| New York | SUNNY Act | Pending signature | 1,200W | No | No |
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

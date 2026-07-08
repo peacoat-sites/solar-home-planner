@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-
+lastmod: 2026-07-07
 ---
 Most homeowners sign a contract, assume the solar company handles everything, and expect panels on the roof in six weeks. Then they get a call: the permit's delayed, the utility needs more documentation, or building department wants revised structural drawings. Suddenly it's four months. I've watched this happen dozens of times, and here's what I've learned, understanding the permit process yourself, even if your installer's managing it, puts you in control and helps you catch problems before they spiral into expensive delays.
 
@@ -48,6 +48,16 @@ A solar permit application isn't just an online form. The complete package typic
 If your installer hands you an application missing the single-line diagram or uses a generic structural letter that doesn't reference your actual roof, that's a red flag. I've covered more of these warning signs in detail at [red flags when hiring a solar installer](/red-flags-when-hiring-solar-installer/).
 
 ## The Step-by-Step Permit Timeline
+
+| Permit Stage | Typical Duration | Key Deliverables | Common Delays |
+| --- | --- | --- | --- |
+| Pre-application design work | 1-3 weeks | Site plans, schematics, structural assessment | Older or non-standard roofs |
+| Permit application submission | 5 business days to 6 weeks | Complete application package | Backlog in busy jurisdictions |
+| Plan review and corrections | Variable | Revised drawings, amended calculations | Missing arc fault notation, conduit routing issues |
+| Permit issuance | Same day to 1 week | Permit card/number | Rare delays at this stage |
+| Inspections | 1-2 weeks scheduling | Rough-in and final inspection sign-offs | Improper wire sizing, missing labels, conduit violations |
+| Utility interconnection and PTO | 2-8 weeks | Permission to Operate document | State and utility-specific backlogs |
+| **Total Average** | **2-3 months nationally** | All documents and approvals | Varies significantly by region |
 
 Here's what the realistic sequence looks like, using a typical grid-tied residential system:
 

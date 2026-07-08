@@ -23,6 +23,7 @@ faqs:
     a: "Not necessarily. Backup duration depends on both battery size and how much load you're running. A 20 kWh battery running your whole house at 3 kW average draw lasts under seven hours. That same battery running only your critical loads at 0.8 kW average gets you over 24 hours. Managing what you back up matters more than raw kWh."
   - q: "Is it worth sizing up to qualify for a better rebate or incentive?"
     a: "Sometimes, but read the program terms carefully. Some utility rebate programs do have tiered incentives tied to system size (California's SGIP program, for example, has per-kWh incentive structures). If adding 2 kWh unlocks a significantly better incentive tier and the hardware cost is modest, it can make sense. Don't let a rebate structure push you into a system that's wildly oversized for your actual load, though."
+lastmod: 2026-07-07
 ---
 Most solar battery sizing guides will tell you to add up your daily kWh usage, multiply by your backup days, and divide by 0.8 for depth of discharge. Technically correct. Also wildly incomplete. That formula will get you a number, but it won't tell you whether that number makes financial sense, fits your load profile, or accounts for the way real inverters behave under surge loads.
 
@@ -37,6 +38,20 @@ A house using 1,200 kWh a month could run a 5kWh battery just fine, or drain a 2
 Before you touch a calculator, pull your last 12 months of utility bills and note the *seasonal peaks*, not the averages. Better yet, grab a [home energy monitor like the Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) and run it for two weeks. You'll see your load curve: when your draw spikes, how long it lasts, what's causing it. That two-week investment saves you from buying a battery that's either embarrassingly undersized or pointlessly expensive.
 
 ## The Actual Sizing Math (With Real Numbers)
+
+| Component | Georgia Example | Use Case | Notes |
+| --- | --- | --- | --- |
+| Daily consumption | 38 kWh | Whole house | Average across all loads |
+| Critical loads | 18 kWh | Backup subpanel | Refrigerator, lights, medical, Wi-Fi, charging |
+| Evening peak (5-10pm) | 6 kWh | Load shape analysis | Five-hour window concentration |
+| Critical load per night | 10 kWh | Storage baseline | Single night backup requirement |
+| LFP depth of discharge | 90-100% | Usable capacity | Modern lithium chemistry |
+| Lead-acid depth of discharge | 50% | Usable capacity | Not recommended for residential |
+| Round-trip efficiency | 92-96% | System losses | Quality LFP systems |
+| Recommended storage (two-night backup) | 20-24 kWh | Emergency resilience | Two Powerwall 3 units or equivalent |
+| Recommended storage (daily self-consumption) | 10-13 kWh | Solar cycling | Evening load profile matched |
+| Typical paired array size | 7-12 kW | System ratio | EnergySage market median |
+| Refrigerator compressor surge | 3-6x running | Peak demand | Half-second spike requirement |
 
 > **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

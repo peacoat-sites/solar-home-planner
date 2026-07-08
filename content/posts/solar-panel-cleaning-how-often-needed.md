@@ -23,6 +23,7 @@ faqs:
     a: "Use your inverter's monitoring app and compare output on clear days over time. A consistent underperformance of one panel or one string relative to its neighbors on sunny days is your signal. Visual inspection from the ground is not reliable enough for anything except obvious bird fouling."
   - q: "Is there a solar panel coating that reduces how often I need to clean?"
     a: "Yes, hydrophobic coatings exist, and some panel manufacturers apply them at the factory. Aftermarket versions like Rain-X variants formulated for solar glass are available, though long-term data on how much they actually reduce cleaning frequency is mixed. They help most in moderate-dust environments where rain is still doing much of the work."
+lastmod: 2026-07-07
 ---
 Most cleaning advice for solar panels is either so conservative it's useless ("clean them twice a year!") or written by someone trying to sell you a cleaning service contract. Here's what actually matters.
 
@@ -32,7 +33,7 @@ Your panels are outside. They're tilted. Rain hits them. In most of the continen
 
 Dust and pollen are the least of your problems. They're light, they blow off, and a decent rain event resets the situation. The stuff that costs you real output is anything that sits heavy and wet, dries into a crust, or blocks individual cells rather than dimming the whole panel uniformly.
 
-Bird droppings are the classic offender. A single dropping over a cell can kill the output of an entire string in systems without microinverters or power optimizers, because shading one cell in a series string drags down the whole chain. I've watched a 6 kW system drop to 4.2 kW output on a clear June day because of maybe a dozen droppings across 18 panels. That's not a rounding error.
+Bird droppings are the classic offender. A single dropping over a cell can kill the output of an entire string in systems without [microinverters or power optimizers](/solar-inverter-troubleshooting-guide/), because shading one cell in a series string drags down the whole chain. I've watched a 6 kW system drop to 4.2 kW output on a clear June day because of maybe a dozen droppings across 18 panels. That's not a rounding error.
 
 Wildfire smoke and ash leave a gray film that bakes onto glass in sunlight. If you're in California, Oregon, Washington, or anywhere else that's had fire season nearby in the last few years, inspect your panels immediately after any smoke event. Don't wait for rain. Ash mixed with moisture creates a weak acidic residue that's harder to remove the longer it sits.
 
@@ -42,11 +43,18 @@ The other factor almost no one talks about: panel angle. Most residential instal
 
 ## How Often, Actually
 
+| Cleaning Frequency | Best For | Key Conditions |
+| --- | --- | --- |
+| Once per year | Most homeowners | Microinverters/optimizers, no fire-prone area, minimal tree coverage, quarterly monitoring |
+| Twice per year | Moderate risk areas | Dry/dusty climate (AZ, NM, inland CA), significant tree coverage, recent fire smoke, string inverters without optimizers |
+| Three+ times per year | High-risk situations | Agricultural area with field work, highway with heavy truck traffic, persistent bird roosting |
+| Optimal timing | All systems | Late winter or early spring (before peak output April-August) |
+
 Here's my honest answer: for most homeowners in most climates, once a year is fine if you have microinverters or power optimizers, you're not in a fire-prone area, you don't have heavy tree coverage overhead, and you check your monitoring data quarterly.
 
 Twice a year makes sense if any of these apply: you're in a dry, dusty climate like Arizona, New Mexico, or inland Southern California; you have significant tree coverage; you've had nearby fire smoke events; or your system uses string inverters without optimizers, where shading penalties are steeper.
 
-Three or more times a year is warranted if you're in an agricultural area with regular field work nearby, you're near a highway with heavy diesel truck traffic, or you're dealing with persistent bird roosting on or around your array. Pigeons are a special kind of terrible. If you've got a pigeon problem, no cleaning schedule fixes it without also addressing the roosting situation.
+Three or more times a year is warranted if you're in an agricultural area with regular field work nearby, you're near a highway with heavy diesel truck traffic, or you're dealing with persistent bird roosting on or around your array. Pigeons are a special kind of terrible. If you've got a [pigeon problem](/solar-bird-proofing-and-critter-guard/), no cleaning schedule fixes it without also addressing the roosting situation.
 
 One more thing: late winter or early spring is the single best time for a manual clean in most of the U.S. You're clearing off everything that accumulated over fall and winter right before solar output peaks in April through August. If you're only cleaning once a year, that's your window.
 
@@ -56,7 +64,7 @@ Ground-level inspection is nearly useless for anything except obvious bird activ
 
 EnergySage's market data has tracked real-world soiling losses across regions and found that in heavily polluted or dusty environments, annual output losses from soiling alone can reach 25 percent or more. In the Pacific Northwest with its regular rainfall, the same panels might lose less than 2 percent annually. Same technology, radically different result based purely on environment.
 
-If you see one panel or one string consistently underperforming its neighbors on clear days, that's your cue. Don't just add it to the to-do list. Either it's dirty, shaded by a new obstruction, or developing a fault. All three warrant investigation.
+If you see one panel or one string consistently underperforming its neighbors on clear days, that's your cue. Don't just add it to the to-do list. Either it's dirty, shaded by a new obstruction, or [developing a fault](/my-solar-panels-stopped-working-what-to-do/). All three warrant investigation.
 
 ## Cleaning the Right Way Without Damaging Anything
 

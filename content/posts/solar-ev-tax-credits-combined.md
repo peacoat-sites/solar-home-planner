@@ -23,11 +23,19 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-
+lastmod: 2026-07-07
 ---
 You bought an EV last year, installed solar this spring, and your accountant just told you the credits "probably stack." Probably. That one word is costing homeowners real money, because the interaction between the federal solar Investment Tax Credit and the federal EV tax credit is more nuanced than any sales rep will explain before you sign. Yes, they stack. But the longer version is where you actually need to pay attention.
 
 ## How Both Credits Actually Work (Not the Brochure Version)
+
+| Credit Type | Maximum Amount | Refundable? | Carries Forward? | Key Limit |
+| --- | --- | --- | --- | --- |
+| Residential Clean Energy (Solar) | 30% of system cost | No | Yes, indefinitely | None (through 2032) |
+| Clean Vehicle (New EV) | $7,500 | No | No | $150k AGI (single), $300k (joint) |
+| Clean Vehicle (Used EV) | $4,000 | No | No | $150k AGI (single), $300k (joint) |
+| EVSE (Home Charger) | 30% of cost, max $1,000 | No | Yes | $1,000 cap |
+| Vehicle MSRP Cap | N/A | N/A | N/A | $55k (sedan), $80k (SUV/truck) |
 
 Both credits live in the tax code, but they behave differently.
 
@@ -55,7 +63,7 @@ If you've got solar and an EV, running your charger off your panels is the obvio
 
 A Level 2 EVSE (that's a 240V home charger) typically pulls between 7.2 kW and 11.5 kW while charging. Drive 1,000 miles a month, and at roughly 3-4 miles per kWh, you're adding about 250-333 kWh per month to your consumption. That's a real load. When clients underestimate this, they end up buying more grid power than expected and wondering why their utility bill didn't drop as much as promised.
 
-Add that number to your baseline household consumption before sizing your solar array. A good installer does this automatically. A mediocre one quotes you a system based on last year's bills without asking whether you just bought a Tesla.
+Add that number to your baseline household consumption before [sizing your solar array](/how-to-size-solar-system-for-ev/). A good installer does this automatically. A mediocre one quotes you a system based on last year's bills without asking whether you just bought a Tesla.
 
 The EVSE itself qualifies for the 30C Alternative Fuel Vehicle Refueling Property Credit, separate from both the solar and EV credits. It's worth 30% of the equipment and installation cost, up to $1,000 for residential installations. A [quality Level 2 home charger](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=contentportfo-20) typically runs $400-$900 for the hardware alone, so the credit can cover a big chunk of that. *(Note: this site may earn a commission on purchases.)*
 

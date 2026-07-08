@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-
+lastmod: 2026-07-07
 ---
 You got your solar quote in early 2023, felt pretty good about the numbers, and then your installer mentioned something about "NEM 3.0" in passing, like it was a footnote. Six months later you're reading your neighbor's utility bill and wondering why their solar system seems to be performing so differently from yours, even though you bought similar setups. That's NEM 3.0 doing its thing, and if nobody has sat down and explained it to you plainly, that's a real problem, because it changes the math on residential solar in California more than anything in the last decade.
 
@@ -39,7 +39,7 @@ The timing cutoff is sharp. If you submitted a complete interconnection applicat
 
 ## How Export Rates Actually Work Under NEM 3.0
 
-This is where people get confused, and honestly, the confusion is deserved. NEM 3.0 doesn't pay you a flat export rate. It uses something called Avoided Cost Calculator rates, which the CPUC updates annually. These rates vary by utility (PG&E, SCE, and SDG&E each have their own tables), by time of day, and by month.
+This is where people get confused, and honestly, the confusion is deserved. NEM 3.0 doesn't pay you a flat export rate. It uses something called [Avoided Cost Calculator rates](/utility-buyback-rate-for-solar/), which the CPUC updates annually. These rates vary by utility (PG&E, SCE, and SDG&E each have their own tables), by time of day, and by month.
 
 Here's the reality: exporting solar power at noon on a sunny weekday in June is worth almost nothing under NEM 3.0, because the grid already has a ton of solar at that time. The California ISO's famous "duck curve" problem, where the grid is flooded with solar midday and then scrambles to meet the evening ramp, is exactly why those midday export rates are so low. But exporting power at 7 or 8 PM in the winter? That can be worth considerably more, sometimes approaching or exceeding 20 cents per kilowatt-hour, because the grid actually needs it then.
 
@@ -49,7 +49,7 @@ I've seen clients with 7 kW systems that were originally well-sized for NEM 2.0 
 
 ## The Battery Storage Equation Has Completely Changed
 
-Under NEM 2.0, battery storage was optional. Nice to have for backup power, but the payback period was long and many homeowners skipped it. Under NEM 3.0, battery storage isn't optional if you want anything close to the financial performance you're expecting from solar.
+Under NEM 2.0, [battery storage was optional](/solar-and-utility-bill-still-high-why/). Nice to have for backup power, but the payback period was long and many homeowners skipped it. Under NEM 3.0, battery storage isn't optional if you want anything close to the financial performance you're expecting from solar.
 
 The logic is straightforward: if midday export rates are near worthless, you don't want to export your midday solar production. You want to capture it in a battery and dispatch it in the evening when you're using power at peak-rate TOU (time-of-use) pricing, or export it during those higher-value evening windows. A properly sized battery lets you do exactly that. Charge from solar during the day, discharge to your home during the 4 to 9 PM peak window, and potentially export during those high-value late evening hours.
 
@@ -60,6 +60,15 @@ For sizing purposes, most NEM 3.0 analysis suggests pairing each 5 to 6 kW of so
 If you're sizing a new system from scratch, a home energy monitor can be invaluable for understanding your real consumption patterns before you commit to equipment. The [Emporia Vue 2](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20) is well-regarded, gives you circuit-level data, and costs under $100. (This site may earn a commission on purchases through this link.)
 
 ## NEM 3.0 vs. NEM 2.0: What the Numbers Look Like
+
+| Factor | NEM 2.0 | NEM 3.0 (Solar Only) | NEM 3.0 (Solar + Storage) |
+|---|---|---|---|
+| Avg. export credit rate | ~$0.28/kWh | ~$0.05-$0.08/kWh | ~$0.12-$0.20/kWh |
+| Midday export value | High | Near zero | Captured in battery |
+| Evening export value | Flat rate | $0.15-$0.20/kWh | $0.15-$0.25/kWh |
+| 20-year system payback | 5-7 years | 8-12 years | 6-9 years |
+| Battery requirement | Optional | Not recommended | Essential |
+| Ideal system pairing | Solar only | Solar only | 5-6 kW solar + ~10 kWh storage |
 
 Here's a side-by-side comparison for a typical California homeowner running a 7 kW solar system with average annual consumption of 9,000 kWh.
 

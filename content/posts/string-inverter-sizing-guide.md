@@ -23,9 +23,10 @@ faqs:
    a: "Sizing matters more for system safety and production. But brand affects reliability, warranty support, and monitoring quality. SMA, Fronius, and SolarEdge have strong long-term track records in the U.S. residential market. Be cautious with lesser-known brands that can't demonstrate installed base and service infrastructure."
  - q: "Why does my installer's proposal show a different panel count than I calculated?"
    a: "String sizing constraints often dictate the final panel count more than your energy goals do. If you need exactly 10 panels per string to hit the voltage window on a specific inverter, you might end up with 20 panels instead of 19, or 18 instead of 19. The inverter's MPPT operating range and max input specs are frequently the binding constraint."
+lastmod: 2026-07-07
 ---
 
-Most homeowners spend weeks comparing solar panels and almost no time thinking about the inverter. That's backwards. The inverter is where your system can quietly bleed efficiency for years, and string inverter sizing is the piece that trips up even experienced installers.
+Most homeowners spend weeks comparing solar panels and almost no time thinking about the inverter. That's backwards. The inverter is where your system can quietly bleed efficiency for years, and [string inverter sizing](/microinverter-vs-string-inverter-comparison/) is the piece that trips up even experienced installers.
 
 I'll be honest: when I first started doing solar installations after 15 years as an electrician, I assumed inverter sizing was straightforward math. Panels generate X watts, inverter handles X watts, done. What surprised me was how wrong that assumption is, and how much money people lose by following it.
 
@@ -47,13 +48,20 @@ Get your temperature correction factor from the [U.S. Department of Energy's sol
 
 ## The Clipping Question (and Why a Little Is Fine)
 
+| Location | Peak Sun Hours | Recommended DC/AC Ratio | Reasoning |
+| --- | --- | --- | --- |
+| Seattle | Lower (rare peak days) | 1.25-1.35 | Higher ratio acceptable; clipping losses minimal |
+| Denver | Moderate | 1.2-1.25 | Balanced approach for temperate climate |
+| Phoenix | High (frequent peak irradiance) | 1.1-1.2 | Lower ratio to avoid significant clipping losses |
+| U.S. Average (residential) | - | 1.2-1.25 | Industry standard per EnergySage market data |
+
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
 Here's where the conventional advice gets genuinely interesting. The standard rule says your inverter's AC output rating should match your total panel DC wattage. A 6,000W (DC) array gets a 6,000W inverter. Clean and simple.
 
-But in practice, most installers intentionally oversize the array relative to the inverter, a concept called "DC-to-AC ratio" or the "inverter loading ratio." Most residential systems today run a DC/AC ratio between 1.1 and 1.3. Meaning a 6,000W inverter might feed an 7,200W to 7,800W panel array.
+But in practice, most installers intentionally oversize the array relative to the inverter, a concept called "DC-to-AC ratio" or the "inverter loading ratio." [Most residential systems today run](/best-solar-inverter-brands-reviewed/) a DC/AC ratio between 1.1 and 1.3. Meaning a 6,000W inverter might feed an 7,200W to 7,800W panel array.
 
 Why? Because your panels almost never produce their rated output. Dust, heat, off-angle sun, haze, real-world losses. A 6,000W array might peak at 5,200W on a typical summer afternoon. Undersizing the inverter slightly means it runs closer to full capacity more often, generating more total energy over the year. The panels "clip" (get capped at the inverter's max output) only during rare peak conditions, and the lost energy from clipping is usually less than the gained energy from running at higher efficiency the rest of the time.
 

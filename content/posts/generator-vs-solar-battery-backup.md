@@ -23,9 +23,9 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-
+lastmod: 2026-07-07
 ---
-The power goes out at 11 PM on a Wednesday. Your sump pump stops. The food in your freezer starts its slow decline. Your kid's CPAP machine goes quiet. You've told yourself for two years that you'd get backup power sorted out before something like this happened, and here you are. If that scenario feels a little too familiar, you're probably already weighing two options: a generator or a solar battery backup system. Here's what I tell people when they come to me in exactly that moment, often on their phones while sitting in the dark.
+The power goes out at 11 PM on a Wednesday. Your sump pump stops. The food in your freezer starts its slow decline. Your kid's CPAP machine goes quiet. You've told yourself for two years that you'd get backup power sorted out before something like this happened, and here you are. If that scenario feels a little too familiar, you're probably already weighing two options: a generator or a [solar battery backup system](/whole-home-solar-backup-system/). Here's what I tell people when they come to me in exactly that moment, often on their phones while sitting in the dark.
 
 ## These Are Two Very Different Tools Solving the Same Problem
 
@@ -53,6 +53,17 @@ Ongoing costs matter too. A natural gas standby generator needs annual servicing
 
 ## What Each System Actually Powers (and What It Won't)
 
+| Load | Typical Wattage | Generator (7,500W portable) | Single Powerwall 3 (13.5 kWh) |
+|---|---|---|---|
+| Refrigerator | 150W running | Yes | Yes, for days |
+| Sump pump | 800-1,200W | Yes | Yes, intermittent use fine |
+| CPAP (no heat) | 30-60W | Yes | Yes, for days |
+| Central AC (3-ton) | 3,500W running | Yes, tight on portable | 3-4 hours continuous |
+| EV charger (Level 2) | 7,200W | No (portable) / Yes (standby) | No, not recommended |
+| Well pump (1HP) | 1,500W | Yes | Yes, with caution |
+| Electric range | 5,000-8,000W | Partial/No | No |
+| Whole-home HVAC + fridge + lights | Combined 5-8kW | Yes (standby) | Partial or No |
+
 You might be wondering: can a battery backup run my central air conditioner? Sometimes, and it depends on the battery capacity and how long you need it to run.
 
 Here's a practical breakdown:
@@ -68,7 +79,7 @@ Here's a practical breakdown:
 | Electric range | 5,000-8,000W | Partial/No | No |
 | Whole-home HVAC + fridge + lights | Combined 5-8kW | Yes (standby) | Partial or No |
 
-The honest truth about batteries: they shine brightest when powering critical loads efficiently. If you use them to run your home like nothing happened, you'll burn through a 13.5 kWh Powerwall in a few hours. Most people set up a "backup loads" panel that includes the refrigerator, a few outlets, lighting, and medical equipment. The generator, especially a standby unit, handles the "run everything" scenario better.
+The honest truth about batteries: they shine brightest when powering [critical loads efficiently](/critical-loads-panel-solar-backup/). If you use them to run your home like nothing happened, you'll burn through a 13.5 kWh Powerwall in a few hours. Most people set up a "backup loads" panel that includes the refrigerator, a few outlets, lighting, and medical equipment. The generator, especially a standby unit, handles the "run everything" scenario better.
 
 Some installers now offer hybrid setups: a battery handles the first 12 to 24 hours silently, and a generator kicks in only if the battery drops below a set threshold. This is increasingly popular in hurricane-prone regions. I've seen this approach work beautifully for clients in coastal Florida who deal with multi-day outages.
 

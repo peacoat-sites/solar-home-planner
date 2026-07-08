@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-
+lastmod: 2026-07-07
 ---
 You got three quotes last week. The lowest one was $4,000 cheaper than the others, the salesperson was at your door for two hours, and they want a 50% deposit before they'll pull a permit. Something feels off. Trust that instinct, because residential solar is one of the most complaint-heavy home improvement categories in the country, and the Federal Trade Commission has logged thousands of fraud reports tied to door-to-door solar sales alone. Before you sign anything, you need to know exactly how to vet the company standing in your driveway.
 
@@ -68,6 +68,14 @@ Let's get specific. Here are the behaviors that should make you slow down or wal
 **Promised production numbers that seem too high:** If a company is guaranteeing your bill will drop to zero without doing a proper site assessment and shading analysis, they're either inflating numbers to close the deal or they don't know what they're doing. Production estimates depend on your roof's pitch and orientation, local solar irradiance data, shading from trees or neighboring structures, and your actual consumption patterns.
 
 ## Step-by-Step: How to Vet an Installer Before You Sign
+
+| Verification Step | What to Check | Why It Matters |
+| --- | --- | --- |
+| License Number | State contractor licensing board online lookup | Confirms legal authority to perform electrical/solar work |
+| Insurance | General liability ($1M+) and workers' compensation | Protects you from liability if worker is injured |
+| NABCEP Certification | Search nabcep.org directory | Verifies installer has demonstrated technical competency |
+| Permit Documentation | Request copy before work begins | Ensures system meets code and protects home resale value |
+| Equipment Specifications | Verify specific panel model, inverter brand, racking | Prevents installer from substituting cheaper components |
 
 Use this process for every company you're evaluating. It takes about an hour per installer and can save you thousands.
 

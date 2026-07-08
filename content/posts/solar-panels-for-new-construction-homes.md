@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-
+lastmod: 2026-07-07
 ---
 If you're building a new home right now, you're sitting on something most homeowners never get: the chance to do solar right the first time. No ripping off shingles. No threading conduit through drywall. No fighting with your roofer over warranty voiding. Most people add solar years later and pay a premium for that delay. Building new flips the entire equation. The decisions you make in the next few weeks of planning can save you thousands and spare you years of retrofit headaches.
 
@@ -64,6 +64,12 @@ But you still need to pay attention. Some jurisdictions require a separate solar
 HOA rules are a different beast. You might be moving into a new development with freshly written CC&Rs, and some of those documents still have language restricting solar panel placement or appearance. Federal law and most state laws protect solar access, but they're not absolute. Many state laws let HOAs require panels to be "not visible from the street" or impose aesthetic guidelines, which can push you toward a worse roof placement. Read those CC&Rs before you close on the lot. Changing a restrictive covenant after the fact is exactly the legal headache you don't need.
 
 ## Comparing Solar Options for New Construction: Integrated vs. Rack-Mounted
+
+| Option | Description | Avg. Cost Premium | Best For |
+|---|---|---|---|
+| Traditional rack-mounted panels | Standard panels attached to racking above the roof surface | Baseline cost | Most new builds; maximizes efficiency and serviceability |
+| Building-integrated PV (BIPV) | Solar cells embedded into roofing material (e.g., Tesla Solar Roof, CertainTeed Apollo) | 30-60% higher per watt | High-visibility roofs, HOA-restricted areas, architectural priority |
+| Solar shingles | Similar to BIPV, individual solar shingles blend with standard shingles | 20-40% higher per watt | Partial roof coverage, aesthetic preference |
 
 You've got choices in how panels physically connect to your home, and they're not interchangeable.
 

@@ -23,6 +23,7 @@ faqs:
    a: "Individual panels can be replaced without replacing your whole system. Make sure you work with your original installer or someone who knows your racking system, because panel dimensions vary. Keep the original spec sheet and installation documentation, since matching a new panel's electrical characteristics matters more than matching its brand name."
  - q: "Should I get solar panels inspected before buying a house with them?"
    a: "Yes, 100%. Have a licensed solar contractor pull the monitoring history if the seller can provide account access, look at the inverter, check the age of the system against the warranty status, and visually inspect the racking and roof penetrations. It's a couple hundred dollars well spent, because you're inheriting whatever problems exist and potentially any remaining warranty complications."
+lastmod: 2026-07-07
 ---
 
 Most solar panels sit up there on your roof for years without any problems, and that's exactly what leads a lot of homeowners to assume they need nothing at all. That assumption is mostly right. But "mostly" is doing some work in that sentence, and if you want your system to perform close to what you were promised on the sales sheet, there are a few things worth actually paying attention to.
@@ -42,6 +43,15 @@ The exceptions are real, though. If you live in Southern California, Arizona, or
 DIY cleaning is simple: use plain water and a soft brush, do it in the early morning before the panels heat up, and stay on the ground if you can reach with a long-handled brush. Don't use abrasive pads, pressure washers at close range, or any harsh detergent. The glass has an anti-reflective coating on many panels and you don't want to strip it. A [telescoping solar panel cleaning brush kit](https://www.amazon.com/s?k=solar+panel+cleaning+brush+kit) (Amazon, site may earn a commission) makes this a 20-minute job you don't have to get on the roof for.
 
 ## What actually needs regular attention
+
+| Maintenance Item | Frequency | DIY Possible | Cost if Professional | When It Matters Most |
+| --- | --- | --- | --- | --- |
+| Panel cleaning | 1-2x yearly (varies by climate) | Yes | $150-$400 | Dry climates, flat roofs, near highways/farms |
+| System monitoring | Monthly | Yes (via app) | Included with system | All systems-catches inverter failures |
+| Wiring/conduit inspection | Annually | Yes, visual only | $200-$500 if repair needed | Areas with trees, rodent activity |
+| Roof penetration seals | Annually | No-visual inspection only | $300-$800 if resealing needed | After heavy weather |
+| Shade assessment | Annually | Yes, visual | N/A | As trees grow or neighbors build |
+| String inverter replacement | Per failure (typically 10-15 years) | No | $2,000-$4,000 | End of inverter lifespan |
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

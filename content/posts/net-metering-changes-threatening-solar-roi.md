@@ -23,6 +23,7 @@ faqs:
     a: "Ask the installer to show you a scenario where the export rate drops to $0.04 to $0.06/kWh (the low-end 'avoided cost' rate that several states now use) and recalculate the payback period from there. If the system still pencils out within 15 years under that conservative assumption, you have a more durable investment. If it only works at current retail export rates, you're taking on policy risk."
   - q: "Are there solar financing structures that reduce my exposure to net metering changes?"
     a: "A fully owned system (cash or loan) gives you the most flexibility to adapt as policies change, because you control the hardware. PPAs and leases lock you into a third-party arrangement where the solar company captures the export credits, which may or may not be favorable depending on future rate environments. I generally recommend ownership unless the upfront cost is genuinely prohibitive."
+lastmod: 2026-07-07
 ---
 
 Something that almost no one told me when I got into residential solar consulting: the rate your utility pays you for excess power matters as much as the panels themselves. I'll be honest, I assumed net metering was a settled thing. A law. A right. After spending most of my career doing electrical work and then making the shift into solar, I figured the policy framework was stable enough to plan around. I was wrong about that, and it's cost some of my clients real money.
@@ -35,13 +36,19 @@ Net metering changes are quietly dismantling the ROI math that sold millions of 
 
 The original deal was clean: send excess power to the grid, get credited at the retail electricity rate. If you pay $0.14 per kilowatt-hour to buy power, you'd get $0.14 per kWh back as a credit when your panels overproduced. Simple, predictable, and the basis of almost every payback calculation you've ever seen on a solar quote.
 
-California broke from that model with NEM 3.0, which took effect in April 2023. Under NEM 3.0, export rates dropped by roughly 75% on average, from around $0.30/kWh (California rates are high) down to as low as $0.05/kWh during many daytime hours. The state now uses a "avoided cost" rate instead of retail, which sounds reasonable until you realize that's what utilities claim it costs them to generate power, not what they sell it to you for. That gap is enormous and entirely in the utility's favor.
+California broke from that model with [NEM 3.0](/nem-30-california-explained/), which took effect in April 2023. Under NEM 3.0, export rates dropped by roughly 75% on average, from around $0.30/kWh (California rates are high) down to as low as $0.05/kWh during many daytime hours. The state now uses a "avoided cost" rate instead of retail, which sounds reasonable until you realize that's what utilities claim it costs them to generate power, not what they sell it to you for. That gap is enormous and entirely in the utility's favor.
 
 What surprised me was how quickly other states started watching California and treating it as a template rather than a cautionary tale. Nevada restructured its net metering program. Arizona has been fighting over it for years. Michigan, Louisiana, and several other states have proceedings underway or recently concluded that move in the same direction. The National Conference of State Legislatures has been tracking these proceedings, and as of July 2026, there are active net metering restructuring debates in at least 14 states.
 
 ---
 
 ## The Real Numbers Behind the Shift
+
+| Scenario | Location | System Size | Annual Export | Old Rate | Old Annual Credit | New Rate | New Annual Credit | Annual Loss | 25-Year Impact |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Scenario 1 | Sacramento, CA | 8 kW | 2,700 kWh | $0.28/kWh | $756 | $0.05/kWh | $135 | $621 | $15,525 |
+| Scenario 2 | Phoenix, AZ | Unknown | Unknown | Retail rate | 9-year payback | Demand charges | 14-year payback (no battery) | Extended timeline | +5 years |
+| Scenario 3 | North Carolina | Unknown | Unknown | Retail rate (quote) | Better | Lower export rate (actual) | Reduced | $4,200 over 10 years | $4,200 |
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

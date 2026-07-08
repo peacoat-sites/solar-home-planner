@@ -12,6 +12,7 @@ author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
 slug: "how-long-does-solar-battery-last-during-outage"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 My neighbor lost power for 11 days during a derecho storm last summer. She had solar panels. She still lost everything in her fridge by day two.
 
@@ -45,7 +46,7 @@ There's another spec everyone glosses over: continuous power output, separate fr
 
 I'll be honest: I underestimated this early on. People fixate on battery size and completely ignore solar input, which is the thing that determines whether your outage is a 24-hour annoyance or a weeks-long non-issue.
 
-A battery in the dark is a finite resource. Once drained, it's done. But pair it with even modest solar (6-8 kW of panels) and a hybrid inverter, and it recharges meaningfully every sunny day. Here's what caught me off guard: how fast this changes everything. During a February outage in the Pacific Northwest with 3-4 hours of usable sun and conservative consumption, a homeowner with a 13.5 kWh Powerwall and a 7 kW array could put back 15-20 kWh on a decent day. A complete recharge. That means if you're careful about nighttime loads, you can ride out indefinitely long outages, not just a few days.
+A battery in the dark is a finite resource. Once drained, it's done. But pair it with even modest solar (6-8 kW of panels) and a [hybrid inverter](/whole-home-solar-backup-system/), and it recharges meaningfully every sunny day. Here's what caught me off guard: how fast this changes everything. During a February outage in the Pacific Northwest with 3-4 hours of usable sun and conservative consumption, a homeowner with a 13.5 kWh Powerwall and a 7 kW array could put back 15-20 kWh on a decent day. A complete recharge. That means if you're careful about nighttime loads, you can ride out indefinitely long outages, not just a few days.
 
 It's not guaranteed. Cloudy weather ruins the math. Winter in Seattle beats summer in Phoenix. But the principle holds: solar input is the multiplier on your battery, and any installer who doesn't model this for your specific location and roof angle is selling you short.
 
@@ -53,7 +54,7 @@ EnergySage's market data shows homeowners pairing batteries with 8-12 kW systems
 
 ## The real variables nobody puts on a spec sheet
 
-**Your critical loads panel configuration.** Most battery installs don't back up your whole house. They back up a subpanel (sometimes called a critical loads panel or backup panel) that feeds select circuits. If nobody thought hard about which circuits make the cut, you might have your home theater backed up but not your well pump. I've audited installs where homeowners didn't even realize their master bedroom outlets weren't on the backup circuits. Get the load list in writing before the install happens.
+**Your [critical loads panel](/critical-loads-panel-solar-backup/) configuration.** Most battery installs don't back up your whole house. They back up a subpanel (sometimes called a critical loads panel or backup panel) that feeds select circuits. If nobody thought hard about which circuits make the cut, you might have your home theater backed up but not your well pump. I've audited installs where homeowners didn't even realize their master bedroom outlets weren't on the backup circuits. Get the load list in writing before the install happens.
 
 **Temperature.** Lithium iron phosphate (LFP) batteries, what most residential systems use today, perform reasonably in the cold but start losing capacity below 32°F. If your battery sits in an unconditioned garage in Minnesota, it won't deliver rated capacity during a January ice storm. This is a real problem that nobody talks about enough.
 

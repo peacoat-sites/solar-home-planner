@@ -23,6 +23,7 @@ faqs:
    a: "No. Foam degrades from UV exposure and physical pressure over one to two years and stops being an effective barrier. Metal mesh is the right material for this application. The cost difference doesn't justify the failure rate."
  - q: "How do I know if animals have already damaged my system?"
    a: "Start with your monitoring app or inverter display. Unexplained production drops that don't correlate with weather are a flag. Physically, look for debris accumulation at the panel edges, visible nesting material, or droppings concentrated under one section of the array. If you suspect wiring damage, have a licensed electrician inspect the DC wiring before touching anything yourself."
+lastmod: 2026-07-07
 ---
 
 Something got under your panels. Maybe you heard scratching in the early morning and traced it back to the roof. Maybe a neighbor warned you about pigeons nesting under their array. Maybe you're not even sure there's a problem yet, but you're about to get solar installed and you want to do this right the first time. Whatever brought you here, you're asking the right question before things get expensive.
@@ -33,11 +34,18 @@ Ask for it.
 
 ## Why the Space Under Your Panels Is Basically a Five-Star Hotel for Wildlife
 
+| Critter Type | Primary Damage | Frequency | Severity |
+| --- | --- | --- | --- |
+| Pigeons | Nesting, moisture retention, acidic droppings degrade shingles, panel soiling reduces output by 15%+ | Most common in U.S. | High |
+| Squirrels | Chew wiring, DC cabling, conduit, micro-inverter leads | Less common than pigeons | Very High |
+| Roof Rats | Similar to squirrels | Less frequent | Very High |
+| Starlings | Similar to squirrels | Less frequent | Very High |
+
 Your solar array creates a gap between the panels and your roof deck, typically 3 to 6 inches. That gap is dark, sheltered from wind and rain, warmer than the ambient air in winter, and elevated enough that most ground predators aren't a concern. To a pigeon, a squirrel, or even a pack rat in the right climate, that's a perfect nesting site.
 
 Pigeons are the most common culprit in most of the U.S. They're not just a nuisance. Pigeon nests hold moisture against your roofing material, and their droppings are acidic enough to degrade shingles over time. The nests themselves can block airflow under the panels, and the droppings accumulate on panel surfaces and reduce output. A study from the University of Waterloo found that sustained soiling from bird droppings can cut panel efficiency by 15% or more in affected areas. You probably won't notice that on your monitoring app because the degradation is gradual.
 
-Squirrels are a different problem entirely. They don't nest as dramatically as pigeons, but they chew. Every wire under your panels, the DC cabling, the conduit, the micro-inverter leads, all of it is attractive to them. I've seen squirrel damage that required pulling the entire array for a rewire. That job cost the homeowner about $2,400 in labor alone because the damage wasn't caught until the system started throwing fault codes.
+Squirrels are a different problem entirely. They don't nest as dramatically as pigeons, but they chew. Every wire under your panels, the DC cabling, the conduit, the micro-inverter leads, all of it is attractive to them. I've seen squirrel damage that required pulling the entire array for a rewire. That job cost the homeowner about $2,400 in labor alone because the damage wasn't caught until the [system started throwing fault codes](/my-solar-panels-stopped-working-what-to-do/).
 
 Roof rats and starlings show up less often but can cause the same category of damage.
 

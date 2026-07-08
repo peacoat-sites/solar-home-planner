@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-
+lastmod: 2026-07-07
 ---
 Most solar homeowners I talk to can name their panel brand and their system's wattage off the top of their head. Ask them how net metering actually works on their utility bill, and you'll get a long pause. That surprised me, because net metering is the single financial mechanism that determines whether your solar investment pays off in 7 years or 15. It's not a bonus feature. It's the math underneath everything.
 
@@ -37,21 +37,27 @@ I'll be honest: when I first started consulting on residential solar, I assumed 
 
 ## How the Credits Actually Get Calculated
 
+| Credit Type | Export Rate | Import Rate | Financial Impact | Use Case |
+| --- | --- | --- | --- | --- |
+| Full Retail Net Metering | $0.14/kWh | $0.14/kWh | Optimal; predictable ROI | Gold standard; most favorable |
+| Avoided Cost/Wholesale | $0.03-$0.06/kWh | $0.14/kWh | Significantly reduced savings | After policy revisions |
+| Value of Solar (VOS) Tariff | Variable (calculated) | $0.14/kWh | Mixed outcomes; state-dependent | Regulatory alternative to retail |
+
 The core mechanic is straightforward. Your meter tracks two numbers: electricity you consumed from the grid, and electricity you exported to the grid. At the end of your billing cycle (monthly, in most cases), the utility nets those two numbers against each other. If you exported more than you imported, you carry a credit forward. If you imported more, you pay the difference.
 
 What varies wildly is the *rate* at which your exports get credited.
 
 **Full retail net metering** is the gold standard. Every kilowatt-hour you push onto the grid gets credited at the same rate you'd pay to pull one off the grid. If your retail rate is $0.14/kWh, you export at $0.14/kWh. This makes your solar system's math clean and predictable.
 
-**Avoided cost or wholesale rate crediting** is where things get painful. Some utilities, especially after policy revisions, credit your exports at the wholesale rate, which might be $0.03 to $0.06/kWh, while you're still buying power back at $0.14/kWh. You're essentially selling low and buying high. Your system still saves you money, but significantly less than the installer's original estimate might have shown.
+**Avoided cost or wholesale rate crediting** is where things get painful. Some utilities, especially after [policy revisions](/net-metering-changes-threatening-solar-roi/), credit your exports at the wholesale rate, which might be $0.03 to $0.06/kWh, while you're still buying power back at $0.14/kWh. You're essentially selling low and buying high. Your system still saves you money, but significantly less than the installer's original estimate might have shown.
 
 **Value of Solar (VOS) tariffs** are a hybrid approach some states use. They try to calculate the actual value your solar generation provides to the grid (capacity value, line loss savings, environmental benefits) and credit you that amount. The research here is mixed on whether this benefits or hurts homeowners compared to full retail metering. It depends heavily on how your state's regulators run the calculation.
 
-What surprised me was how many homeowners sign contracts with solar companies using financial projections based on their state's *current* net metering rules, without any discussion of what happens if those rules change mid-loan. That's a real risk worth asking about.
+What surprised me was how many homeowners sign contracts with solar companies using financial projections based on their state's *current* [net metering rules](/net-metering-rates-by-state-2026/), without any discussion of what happens if those rules change mid-loan. That's a real risk worth asking about.
 
 ## True-Up Billing: The Annual Accounting You Need to Understand
 
-Many utilities, especially in states with strong net metering programs, use an annual true-up billing cycle instead of monthly accounting. California's net metering program (NEM) is probably the most well-known example. Here's how it works in practice.
+Many utilities, especially in states with strong net metering programs, use an annual true-up billing cycle instead of monthly accounting. [California's net metering program (NEM)](/nem-30-california-explained/) is probably the most well-known example. Here's how it works in practice.
 
 Each month, you get a statement showing your running credit or balance, but you don't pay or receive a check. The utility is keeping score. At the end of 12 months, you settle up. If you consumed more than you produced annually, you pay the net amount owed. If you produced more than you consumed, most utilities either give you a very small payment at that wholesale rate or simply zero out your account and you lose the excess credit.
 

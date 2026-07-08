@@ -23,6 +23,7 @@ faqs:
    a: "No. Performance warranties cover panel degradation relative to their rated output under standard test conditions, not actual production losses due to cloud cover, shade, or seasonal sun angle changes. You'd need to commission an independent performance test that isolates panel-level degradation."
  - q: "My panels are underperforming but I'm not sure if it's a warranty issue. What should I do first?"
    a: "Download 12 months of production data from your monitoring system and compare it to the system's original production estimate (this should be in your installation contract as a first-year kWh projection). Also check for shading changes, soiling, and inverter error codes before calling the manufacturer. A lot of 'underperformance' turns out to be a dirty panel or a tripped breaker."
+lastmod: 2026-07-07
 ---
 
 A homeowner I worked with last year had a Hanwha Q CELLS panel that cracked along the back sheet, no storm, no impact, just a hot Arizona summer doing what Arizona summers do. The panel was four years old, well within the 12-year product warranty. She had her original purchase invoice, her installation records, a timestamped photo from the day she noticed it, and the installer's business card. Should have been a clean claim. Instead she spent six weeks trading emails with a warranty department that kept asking for documents she'd already sent, then tried to tell her the crack was "physical damage" (excluded) rather than a manufacturing defect. She got it resolved, but only because she knew what she was entitled to and pushed back with specific language from the warranty document itself.
@@ -31,9 +32,14 @@ That experience is pretty representative of how solar panel warranty claims actu
 
 ## What You're Actually Covered For (And What You're Not)
 
+| Warranty Type | Coverage | Typical Duration | What It Covers |
+| --- | --- | --- | --- |
+| Product (Materials/Equipment) | Physical defects in panel | 10-25 years | Delamination, cracked back sheets, cell corrosion, frame separation, junction box failures |
+| Performance | Output guarantee | 25 years | Panel produces ≥80-87% of rated output at 25-year mark |
+
 Most residential panels come with two separate warranties, and conflating them is the first mistake most homeowners make.
 
-The **product warranty** (also called the materials or equipment warranty) covers physical defects in the panel itself: delamination, cracked back sheets, cell corrosion, frame separation, junction box failures. Hanwha Q CELLS currently offers 12 years on most of their residential line. SunPower's Maxeon panels carry 25 years on the product side. LG, before they exited the solar business, was at 25 years too. Most other tier-one brands sit between 10 and 15 years.
+The **product warranty** (also called the materials or equipment warranty) covers physical defects in the panel itself: delamination, [cracked back sheets](/solar-panel-cracked-what-to-do/), cell corrosion, frame separation, junction box failures. Hanwha Q CELLS currently offers 12 years on most of their residential line. SunPower's Maxeon panels carry 25 years on the product side. LG, before they exited the solar business, was at 25 years too. Most other tier-one brands sit between 10 and 15 years.
 
 The **performance warranty** is different. It guarantees the panel will produce at least a specified percentage of its rated output over time, typically 80 to 87 percent at the 25-year mark. If your panels are measurably underproducing relative to that curve, you have a legitimate performance claim. These are harder to prove because you have to account for shading, soiling, inverter losses, and seasonal variation before you can isolate genuine panel degradation.
 

@@ -12,6 +12,7 @@ author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
 slug: "solar-batteries-are-now-standard-what-the-45-pairing-rate-means-for-yo"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been putting off the solar decision, or you got a quote last year and set it aside, you might be wondering whether the math still works without that 30% federal tax credit. That's a fair question, and it's where a lot of homeowners are sitting right now. Here's what I tell people: the game has genuinely changed, but not necessarily in the way you'd expect.
 
@@ -23,11 +24,17 @@ Three things collided at once, and the timing matters.
 
 First, the 30% federal residential solar tax credit, Section 25D, expired on December 31, 2025 under the One Big Beautiful Bill Act. That credit was a major psychological driver of solar sales for years. Without it, a bare solar-only system is harder to justify on payback period alone, especially when electricity rates in many markets are still climbing. Batteries change that calculus by letting you capture and use more of what you generate instead of exporting it to the grid at low net-metering rates.
 
-Second, the grid reliability anxiety is real and it's measurable. Aurora Solar's 2026 Snapshot found that 53% of solar-engaged homeowners say the grid has become less reliable, and 62% say extreme weather is directly affecting their area. People aren't buying batteries because a salesperson upsold them. They're buying them because they watched their neighbor's house go dark for four days after a storm, or because they've already lost a freezer full of food once and they're not doing it again.
+Second, the grid reliability anxiety is real and it's measurable. Aurora Solar's 2026 Snapshot found that 53% of solar-engaged homeowners say the [grid has become less reliable](/solar-batteries-are-rising-even-as-the-federal-tax-credit-is-gone/), and 62% say extreme weather is directly affecting their area. People aren't buying batteries because a salesperson upsold them. They're buying them because they watched their neighbor's house go dark for four days after a storm, or because they've already lost a freezer full of food once and they're not doing it again.
 
 Third, battery hardware costs keep falling even as solar module prices are heading the other direction. A benchmark from Anza's Q1 2026 report shows distributed storage capital expenditure dropped roughly 6.8% to $212 per kilowatt-hour in Q1 2026. Meanwhile, solar module prices are facing upward pressure from FEOC compliance rules and ongoing trade risks. The spread between "just panels" and "panels plus battery" is narrowing, which makes the decision easier.
 
 ## What This Means for Your Quote Process
+
+| Battery Option | Coupling Type | Best For | Key Consideration |
+| --- | --- | --- | --- |
+| Tesla Powerwall 3 | AC/DC-coupled | Whole-home backup | High upfront cost, strong performance |
+| Enphase IQ Battery 5P | DC-coupled | Modular expansion | Scalability, microinverter integration |
+| Franklin WH Series | AC/DC-coupled | Flexible sizing | Mid-range cost, reliable runtime |
 
 > **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

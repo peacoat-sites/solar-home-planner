@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-
+lastmod: 2026-07-07
 ---
 A homeowner in Phoenix signed a contract with a solar company in February, put down $4,000, and by June the installer had vanished. The panels were never mounted. The deposit was gone. The lien the company had placed on her home took three months and a lawyer to clear. This isn't some obscure nightmare story buried in regulatory filings. The solar industry has a contractor fraud problem, and it's accelerating as demand spikes and undercapitalized outfits flood the market to chase easy money.
 
@@ -45,7 +45,7 @@ Also check whether they're licensed in your state for electrical and contractor 
 
 I've watched this happen dozens of times. A salesperson shows up, spends 45 minutes at your kitchen table, hands you a quote for a 7.2 kW system, and hasn't opened a single electric bill or looked in your attic.
 
-Proper sizing needs your last 12 months of utility bills to calculate your actual annual consumption. It needs a roof assessment: shingle age, pitch, orientation, unshaded square footage. It needs shading analysis, ideally with something like Solmetric SunEye or satellite software. It needs understanding of how your consumption might shift if you're adding an EV or planning an addition.
+Proper sizing needs your last 12 months of utility bills to calculate your actual annual consumption. It needs a roof assessment: shingle age, pitch, orientation, unshaded square footage. It needs shading analysis, ideally with something like Solmetric SunEye or satellite software. It needs understanding of [how your consumption might shift](/comparing-solar-bids-what-to-look-for/) if you're adding an EV or planning an addition.
 
 The National Renewable Energy Laboratory has published research showing system performance varies dramatically based on local solar irradiance and shade. A company skipping this analysis isn't saving you time. They're guessing. Guess too small, you still have a fat electric bill. Guess too large, you've overpaid for capacity you'll never touch.
 
@@ -53,9 +53,16 @@ Ask: "How'd you get to this system size?" The answer should reference your actua
 
 ## The Financing Terms Are Buried or Rushed
 
+| Financing Type | Ownership | Tax Credit Eligible | Home Sale Impact | Risk Level |
+| --- | --- | --- | --- | --- |
+| Cash Purchase | You own panels | Yes (30% ITC) | Adds home value | Low |
+| Loan | You own panels | Yes (30% ITC) | Adds home value | Medium |
+| Lease | Company owns panels | No (company takes it) | Lease transfers to buyer | High |
+| Power Purchase Agreement (PPA) | Company owns panels | No (company takes it) | PPA transfers to buyer | High |
+
 Solar financing could be its own article. Short version: the contract you sign matters enormously, and pressure to sign fast is always a red flag.
 
-Real installers give you time to read the paperwork. Predatory ones manufacture urgency. "This price expires Friday." "The federal tax credit's about to vanish." (The federal Investment Tax Credit is 30% through 2032 under the Inflation Reduction Act. It's not going anywhere.) "We only have two slots left this month." Sales tactics, not facts.
+Real installers give you time to [read the paperwork](/solar-contract-what-to-review-before-signing/). Predatory ones manufacture urgency. "This price expires Friday." "The federal tax credit's about to vanish." (The federal Investment Tax Credit is 30% through 2032 under the Inflation Reduction Act. It's not going anywhere.) "We only have two slots left this month." Sales tactics, not facts.
 
 If you're taking a loan, read the interest rate, term, and total financing cost. A 25-year solar loan at 7.99% APR on a $28,000 system costs you significantly more than sticker price by the end. Run actual numbers.
 

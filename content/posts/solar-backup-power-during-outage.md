@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-
+lastmod: 2026-07-07
 ---
 Picture this: it's July, a heat wave is rolling through, and a transformer two blocks over just blew. Your neighbor with solar panels is watching TV and running their AC while you're sweating in the dark wondering why your solar-powered house is also completely dead. This happens every single summer, and the confusion it causes is completely understandable. Most homeowners assume solar equals backup power. It almost never does, at least not without a specific additional component that most installers don't emphasize nearly enough during the sales process.
 
@@ -43,17 +43,24 @@ The fix is battery storage, or a specific type of inverter configuration. Let's 
 
 > **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-A battery system paired with solar is the most complete answer to the backup power question, but I'll be honest about what "complete" actually means. Batteries have capacity limits, and those limits matter a lot.
+A [battery system paired with solar](/best-batteries-for-off-grid-solar/) is the most complete answer to the backup power question, but I'll be honest about what "complete" actually means. Batteries have capacity limits, and those limits matter a lot.
 
 The Tesla Powerwall 3 stores 13.5 kWh of usable energy. A central air conditioner running at 3.5 kW for 4 hours burns through 14 kWh. One AC unit, one afternoon. Gone. This is why whole-home backup is almost always a fantasy unless you're stacking multiple batteries or aggressively managing loads.
 
-What actually works is critical load backup: the refrigerator, some lights, a few outlets, a medical device if relevant, maybe a window AC unit in one room. That's genuinely achievable with a single battery. A second battery gets you to meaningful comfort territory, especially if your panels are recharging during daylight.
+What actually works is [critical load backup](/critical-loads-panel-solar-backup/): the refrigerator, some lights, a few outlets, a medical device if relevant, maybe a window AC unit in one room. That's genuinely achievable with a single battery. A second battery gets you to meaningful comfort territory, especially if your panels are recharging during daylight.
 
 Battery chemistry matters too, though the research here is genuinely mixed. Lithium iron phosphate (LFP) batteries like those in newer Powerwall models, the Enphase IQ Battery 5P, and the FranklinWH aGate offer excellent cycle life (often rated for 4,000+ cycles) and better thermal stability than older NMC chemistries. For a device sitting in your garage through Arizona summers, that thermal stability isn't minor.
 
 A home energy monitor like the [Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) clipped onto your main panel gives you real-time visibility into your battery state and home consumption during an outage. That awareness is genuinely useful when you're trying to stretch 13.5 kWh through a 36-hour blackout. *(This site may earn a commission on qualifying purchases.)*
 
 ## Inverter Options: SMA Sunny Boy, Enphase, and the Hybrid Approach
+
+| Inverter Type | Grid-Down Behavior | Battery Compatible | Backup Capability |
+| --- | --- | --- | --- |
+| Standard String Inverter | Shuts off immediately | Requires separate battery inverter | None without additional hardware |
+| Microinverters (Enphase IQ) | Shuts off by default | Yes, with IQ Battery & System Controller | Yes, forms microgrid with battery |
+| Hybrid Inverter (Sol-Ark, Sungrow, SolarEdge) | Automatic island transition | Designed-in battery management | Full home loads during day, battery at night |
+| Hybrid + Generator Integration | Automatic island transition | Yes | Solar + battery + generator backup |
 
 Not all inverters handle outages the same way, and understanding the differences will help you ask better questions when talking to installers.
 
@@ -63,7 +70,7 @@ Not all inverters handle outages the same way, and understanding the differences
 
 **Hybrid inverters (Sungrow, SolarEdge, Growatt, Sol-Ark)**: These are designed from the start to manage both solar input and battery storage, and they handle the islanding transition automatically. A Sol-Ark 12K can run your full home loads during the day directly from panels if the sun is strong enough, use the battery to bridge gaps and nighttime, and switch to grid-tied mode when utility power returns. Transition times are typically under 20 milliseconds, fast enough that most appliances don't even hiccup.
 
-**Generator integration**: Some hybrid inverters have a generator input terminal. This is worth asking about specifically if you live somewhere with extended outage risk. The inverter manages the generator as a backup charging source when solar production and battery reserves both get low.
+**Generator integration**: Some hybrid inverters have a generator input terminal. This is worth asking about specifically if you live somewhere with [extended outage risk](/how-long-does-solar-battery-last-during-outage/). The inverter manages the generator as a backup charging source when solar production and battery reserves both get low.
 
 ## What to Actually Expect During an Outage: A Realistic Breakdown
 

@@ -23,6 +23,7 @@ faqs:
    a: "Most programs cap your subscription at 100% to 120% of your average annual consumption, and some states set the cap at exactly your 12-month average. Subscribing beyond your usage doesn't generally result in a cash payment; unused credits may roll over monthly but often expire annually, so over-subscribing can mean paying for production you never benefit from."
  - q: "Are solar garden subscription credits taxable income?"
    a: "The IRS hasn't issued a definitive ruling specifically on community solar bill credits as of June 2026, and this is an area where the research is genuinely mixed. Most tax practitioners treat bill credits as a reduction in an expense rather than income, meaning they're generally not taxable. But I'd confirm with a CPA if your subscription generates more than a few hundred dollars annually in credits."
+lastmod: 2026-07-07
 ---
 
 Most people hear "community solar" and picture a shared rooftop somewhere. What they don't realize is that the actual mechanism behind it, the thing you're signing up for, is a garden subscription. And those two words do a lot of heavy lifting.
@@ -49,6 +50,12 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has pub
 
 ## What Surprised Me Most: The Savings Are Real But Modest
 
+| Scenario | Subscription Size | Annual Production | Credit Rate | Annual Credits | Annual Fee | Net Savings | Payback vs. Rooftop |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Colorado homeowner (garden) | 5 kW | 6,500 kWh | $0.13/kWh | $845 | $750 | ~$95 | Rooftop wins (12-14 years) |
+| Colorado homeowner (rooftop) | 5 kW | 6,500 kWh | $0.13/kWh | $845 | $0 | $845/year after payoff | ~12-14 years to break even |
+| Massachusetts renter (garden) | 3 kW | ~3,900 kWh | ~$0.12/kWh | ~$468 | ~$288 | ~$180 | N/A (no rooftop option) |
+
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -57,11 +64,11 @@ I expected the savings to be either impressive or fake. What I found was somethi
 
 A typical subscriber scenario plays out something like this: 5 kW subscription at a garden in Colorado producing 6,500 kWh/year, credited at $0.13/kWh. That's $845 in annual credits. If the subscription fee is $750/year (around $62.50/month), your net savings are roughly $95. Not nothing, but not a solar revolution either.
 
-Compare that to a rooftop system. A 5 kW rooftop install in Colorado averaging $3.00/watt installed comes to $15,000 before the 30% federal tax credit, so effectively $10,500 out of pocket. At that same production rate, you're generating $845 worth of electricity annually with no ongoing subscription fee, meaning payback in roughly 12 to 14 years and then free electricity for another decade. The rooftop math wins handily over time if you own your home and have a suitable roof.
+Compare that to a [rooftop system](/community-solar-vs-rooftop-solar/). A 5 kW rooftop install in Colorado averaging $3.00/watt installed comes to $15,000 before the 30% federal tax credit, so effectively $10,500 out of pocket. At that same production rate, you're generating $845 worth of electricity annually with no ongoing subscription fee, meaning payback in roughly 12 to 14 years and then free electricity for another decade. The rooftop math wins handily over time if you own your home and have a suitable roof.
 
-But here's the scenario where the garden subscription actually wins:
+But here's the scenario where the [garden subscription actually wins](/community-solar-how-it-works/):
 
-**Renter in a multi-unit building → Subscribes to 3 kW at a community solar garden in Massachusetts → Saves approximately $180/year with no upfront cost, no landlord permission required, no installation headache.**
+**[Renter in a multi-unit building](/solar-for-renters-options/) → Subscribes to 3 kW at a community solar garden in Massachusetts → Saves approximately $180/year with no upfront cost, no landlord permission required, no installation headache.**
 
 Or a homeowner with a heavily shaded roof, a north-facing pitch, or an HOA that bans visible solar equipment. The garden subscription is often their only practical path to any solar participation at all. For those people, $95 to $200/year in savings beats zero.
 

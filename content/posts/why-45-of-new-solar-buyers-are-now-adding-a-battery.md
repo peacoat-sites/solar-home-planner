@@ -12,12 +12,22 @@ author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 slug: "why-45-of-new-solar-buyers-are-now-adding-a-battery"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been pricing out solar this spring, you're probably feeling whiplash. The 30% federal tax credit is gone. Installers are quoting higher costs than anything you saw online a year ago. Yet somehow, everyone's adding a battery now. What's actually happening here?
 
 You're not imagining the shift. According to the SEIA/Wood Mackenzie Q2 2026 Solar Market Insight report, a record 45% of new residential solar installations in Q1 2026 came paired with battery storage. That's up from about 35% throughout 2025. Never been higher. Understanding why it jumped tells you whether storage makes sense for your situation right now.
 
 ## The Tax Credit Is Gone, and That Changes the Calculation in a Non-Obvious Way
+
+| Metric | 2025 | Q1 2026 | Change |
+| --- | --- | --- | --- |
+| Solar + Battery Pairing Rate | ~35% | 45% | +10 percentage points |
+| Solar Cost ($/watt) | $3.99 | $3.44 | -14% YoY |
+| Projected U.S. Residential Solar Additions | - | 4.1 GW | -15% (vs. 2025) |
+| Homeowners Reporting Grid Reliability Decline | - | 53% | - |
+| Homeowners Reporting Extreme Weather Impact | - | 62% | - |
+| Homeowners Who Say They Don't Want a Battery | - | 3% | - |
 
 Here's what I tell people surprised that solar-plus-storage is surging right after the incentive expired: the math didn't get worse for storage specifically. It got worse for everything equally.
 
@@ -35,7 +45,7 @@ You might be wondering how much of this battery trend is marketing anxiety versu
 
 Aurora Solar's 2026 Solar Snapshot surveyed homeowners across the country. 53% say the power grid has become less reliable in their area. 62% say extreme weather is affecting their region. These aren't abstract concerns. If you've sat through a 90-degree August without power for three days because a substation got overwhelmed, or watched your sump pump die during a nor'easter while your neighbors with Tesla Powerwalls went about their evenings, your interest in backup power isn't irrational.
 
-Geography matters though. If you're in southern California, Florida, Texas, or anywhere with regular hurricane or wildfire exposure, the resilience case for storage is genuinely strong. If you're in a mild climate with a reliable utility and no time-of-use rates, the payback math is harder. I always push people to pull their actual outage history from their utility's website before deciding. Most utilities publish it. Most homeowners have never looked.
+Geography matters though. If you're in southern California, Florida, Texas, or anywhere with regular hurricane or wildfire exposure, the resilience case for storage is genuinely strong. If you're in a mild climate with a reliable utility and no [time-of-use rates](/going-solar-without-the-30-tax-credit-what-it-actually-costs-now/), the payback math is harder. I always push people to pull their actual outage history from their utility's website before deciding. Most utilities publish it. Most homeowners have never looked.
 
 ## What the Installer Trend Actually Tells You
 
@@ -55,7 +65,7 @@ Make sure the quote separates solar cost from storage cost clearly. Some install
 
 Ask specifically whether the system is configured for whole-home backup or partial-home backup. Most residential batteries do partial backup unless you've sized up and added a sub-panel or automatic transfer switch. Either approach is fine, but you need to know what you're buying.
 
-Finally, confirm the battery qualifies for your state's storage incentive, if one exists. California's SGIP program, Massachusetts' ConnectedSolutions, New York's Con Ed Smart Charge program, and several others can meaningfully change your net cost even without the federal credit. These programs have their own eligibility windows and capacity limits. Timing matters.
+Finally, confirm the battery qualifies for your state's [storage incentive, if one exists](/solar-batteries-are-rising-even-as-the-federal-tax-credit-is-gone/). California's SGIP program, Massachusetts' ConnectedSolutions, New York's Con Ed Smart Charge program, and several others can meaningfully change your net cost even without the federal credit. These programs have their own eligibility windows and capacity limits. Timing matters.
 
 The convergence happening right now is real. It's driving a genuine shift in how homeowners approach solar. The people still moving forward without the federal credit are doing so with clearer eyes about what they're buying and why. If you're in that group, storage deserves a serious look. Not because everyone's doing it, but because the hardware is cheaper, the grid is less dependable, and the financial case has gotten genuinely stronger in the last 18 months.
 

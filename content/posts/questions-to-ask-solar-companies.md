@@ -23,11 +23,23 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-
+lastmod: 2026-07-07
 ---
 A salesperson sits across your kitchen table, tablet in hand, promising you'll eliminate your electric bill and pay for the whole system in seven years. The numbers look great. The rep is friendly. And you're about to sign a contract worth $25,000 or more without asking a single hard question. I've watched this happen to neighbors, clients, and friends. The solar industry has real, reputable contractors in it, but it also has high-pressure closers who disappear after installation day. Knowing which questions to ask, and when to ask them, is the only thing standing between you and a decision you'll regret for the next 20 years.
 
 ## Equipment: What Exactly Are You Buying?
+
+| Component | Key Specification | What to Ask For |
+| --- | --- | --- |
+| Solar Panels | Temperature coefficient | Aim for around -0.30%/°C; request datasheet |
+| Solar Panels | Degradation warranty | Verify manufacturer documentation |
+| Solar Panels | Manufacturer tier | Tier 1 (REC, Panasonic, Canadian Solar) vs. no-name brands |
+| Inverter | Type | String inverter, microinverter (Enphase), or DC optimizer (SolarEdge) |
+| Inverter | Weak-link risk | String inverters affected by one underperforming panel |
+| Battery (optional) | Usable capacity | Tesla Powerwall ~13.5 kWh |
+| Battery (optional) | Runtime | ~24 hours for essential loads only |
+| System | Offset percentage | 80-100% of annual consumption (utility-dependent) |
+| Financing | Dealer fee range | 10-30% of system cost (if included in loan) |
 
 This is where most homeowners go soft, and it's where contractors can swap in cheaper gear without you noticing. Get specific. Ask for the exact make and model of the panels, inverter, and mounting hardware before you agree to anything.
 
@@ -44,7 +56,7 @@ I've seen subcontractors do the actual work on at least half the residential ins
 Ask these directly:
 
 - "Are you licensed to do electrical work in this state, or do you subcontract the electrical portion?" In most states, the final electrical connections require a licensed electrician. Find out if that person works for the company you're hiring.
-- "Is your company NABCEP-certified?" The North American Board of Certified Energy Practitioners offers the gold standard credential in this industry. Not every good installer has it, but serious companies pursue it.
+- "Is your company [NABCEP-certified](/solar-company-certifications-nabcep/)?" The North American Board of Certified Energy Practitioners offers the gold standard credential in this industry. Not every good installer has it, but serious companies pursue it.
 - "Can I see proof of liability insurance and workers' comp?" Get the certificates, not just a verbal yes. If an uninsured worker falls off your roof, your homeowner's insurance could be on the hook.
 - "How long has your company been operating under this name?" Some companies fold, rebrand, and reopen to shed warranty obligations. Check their standing with the state contractor licensing board yourself. It takes five minutes.
 

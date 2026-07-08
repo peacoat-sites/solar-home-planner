@@ -23,6 +23,7 @@ faqs:
     a: "Expect a 2-5% variance between SolarEdge-reported production and your utility's net meter reading. This is common across inverter-based monitoring, not unique to SolarEdge. If you're billing or reconciling against net metering credits, use your utility meter as the authoritative number."
   - q: "Can I grant my installer or a third party access to monitor my system?"
     a: "Yes. SolarEdge allows site sharing, and installers with a professional SolarEdge account can add your system to their fleet monitoring dashboard. You control this through the monitoring portal's site settings. If you want your installer to proactively flag issues, confirm they're actually monitoring and ask what their alert response process looks like."
+lastmod: 2026-07-07
 ---
 
 My first SolarEdge installation was a 7.2 kW system on a split-level in suburban Columbus, and I'll be honest: I oversold the monitoring platform to the homeowner. I told her it was "like having a window into every panel." That's technically true. What I didn't tell her was that window occasionally fogs up, sometimes shows the wrong view, and every so often just refuses to open.
@@ -42,6 +43,12 @@ Where it gets more interesting is the energy flow diagram, which shows productio
 ---
 
 ## The Data Depth: Where It Gets Technically Interesting
+
+| Metric | Expected | Actual | Variance |
+| --- | --- | --- | --- |
+| 6.4 kW Phoenix system (total) | 100% of design projection | 89% | -11% |
+| East-facing panels (8am-11am) | 100% of expected output | 60% | -40% |
+| Post-cleaning performance | Design projection | Within 4% | -4% |
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

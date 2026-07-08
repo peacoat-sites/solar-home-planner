@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-
+lastmod: 2026-07-07
 ---
 Most people who ask me about off-grid battery sizing start with the wrong question. They want to know how many panels they need. But panels are almost irrelevant if you haven't figured out storage first. Your battery bank is the backbone of an off-grid system, and getting it wrong doesn't just mean higher costs. It means waking up at 2 a.m. to a dead system in January because you undersized by 20%.
 
@@ -52,6 +52,11 @@ If you're in the Pacific Northwest, eastern Oregon, or anywhere that routinely s
 Here's my honest take: most residential off-grid systems I've consulted on end up in the 3-day range, then add a propane or diesel generator as a backup. That combination tends to be more cost-effective than scaling your battery bank to 7 days of autonomy. Batteries are the most expensive component per kilowatt-hour, and buying more of them just to survive an unusually long weather event isn't the smartest financial decision.
 
 ## The Battery Sizing Formula (And Where People Get It Wrong)
+
+| Battery Type | Depth of Discharge | Nameplate Capacity for 36 kWh Need | Cold Weather Capacity Loss | Lifespan Concern |
+| --- | --- | --- | --- | --- |
+| Lead-acid | 50% | 72 kWh | 20-30% | 4-6 years typical |
+| LiFePO4 | 85% | 42.4 kWh | 15-20% | 10+ years typical |
 
 Here's the core calculation. It's not complicated, but two factors constantly get glossed over.
 

@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-
+lastmod: 2026-07-07
 ---
 You own your land, you own your manufactured home, and your electric bill is running $180 a month. A neighbor down the road just got solar panels on their site-built house and cut their bill in half. So why does every solar company you call either quote you a sky-high price, tell you it's "complicated," or just stop returning your calls? That's not bad luck. That's a real pattern, and it has everything to do with how the industry views manufactured housing, not with whether solar actually works for your situation. It does. You just need to know the rules before you start.
 
@@ -32,7 +32,7 @@ You own your land, you own your manufactured home, and your electric bill is run
 **"Solar only works in sunny climates"**: Most people think you need Arizona sunshine to make solar worthwhile. But the data shows Germany generates 8% of its electricity from solar despite averaging just 3.5 peak sun hours daily, compared to 5+ hours in most U.S. states. Even cloudy regions like Oregon and Washington have seen residential solar capacity grow 300%+ in the past five years. Modern panels convert diffuse light efficiently; Germany's Fraunhofer Institute found that panels still produce 50-75% of their rated output on overcast days. For mobile home owners in northern climates, this means ROI timelines stretch slightly longer, but the economics remain solid, especially with federal tax credits covering 30% of installation costs regardless of location.
 
 
-Most residential solar installers are optimized for stick-built homes with composition shingle roofs, standard attic access, and 200-amp service panels. The moment you mention a manufactured home, they're suddenly out of their comfort zone. And instead of saying that directly, some will give you vague excuses or inflated quotes to make you go away.
+Most residential solar installers are optimized for stick-built homes with [composition shingle roofs](/solar-for-shingle-roof-cost/), standard attic access, and 200-amp service panels. The moment you mention a manufactured home, they're suddenly out of their comfort zone. And instead of saying that directly, some will give you vague excuses or inflated quotes to make you go away.
 
 The actual concerns are legitimate but manageable: roof load capacity, wind zone ratings, chassis grounding requirements, and whether your home is on a permanent foundation. None of these are deal-breakers if you understand them.
 
@@ -41,6 +41,16 @@ The core issue with roof-mounted panels on a manufactured home is straightforwar
 A competent installer will pull your home's data plate (required by HUD code to be inside every manufactured home, usually in a cabinet or near the electrical panel), confirm your wind zone and roof load rating, and design accordingly. If they don't ask about the data plate, that's a red flag worth taking seriously.
 
 ## Ground Mounts: Often the Better Option for Manufactured Housing
+
+| Factor | Roof-Mounted | Ground-Mounted |
+| --- | --- | --- |
+| Structural consideration | Roof load capacity critical; requires data plate review | No roof load; ground posts bear all weight |
+| Space requirement | Minimal; uses existing roof | ~100 sq ft per kW capacity |
+| Installation complexity | Higher for manufactured homes; requires structural analysis | Lower; avoids roof concerns entirely |
+| Hardware cost premium | Baseline | +$0.20-$0.50 per watt |
+| Panel orientation | Limited by roof pitch/direction | Optimizable (typically south-facing) |
+| Maintenance | Harder to access; requires specialized equipment | Easier to clean; DIY-friendly |
+| Permitting | Required | Required (conduit burial 18-24 inches) |
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-
+lastmod: 2026-07-07
 ---
 The financing decision you make before a single panel goes on your roof will shape your relationship with solar for the next 10 to 25 years. Most coverage on this topic either oversimplifies ("leases are bad, loans are good!") or buries you in theoretical math without telling you what actually matters in practice. Let me fix both problems.
 
@@ -31,11 +31,18 @@ There are three structures you'll encounter: a Power Purchase Agreement (PPA), a
 
 ## How Each Structure Actually Works
 
+| Financing Type | Upfront Cost | Ownership | Federal ITC | Monthly Payment | Home Sale Transfer | Repair Responsibility |
+| --- | --- | --- | --- | --- | --- | --- |
+| PPA | $0 | Third party | No (company claims) | Per kWh (~$0.08-$0.12, 1-3% annual increase) | Requires buyer qualification; buyout may apply | Company |
+| Lease | $0 | Third party | No (company claims) | Flat fee (independent of production) | Requires buyer qualification; early termination fees $2K-$5K possible | Company |
+| Loan (Secured) | $0 upfront | You (after payoff) | Yes (30% ITC, ~$9K on $30K system) | Monthly payment (5-8% interest typical) | Simple transfer with home | You |
+| Loan (Unsecured) | $0 upfront | You (after payoff) | Yes (30% ITC, ~$9K on $30K system) | Monthly payment (6-12%+ interest typical) | Simple transfer with home | You |
+
 **PPA:** A third party owns the panels on your roof. You buy the electricity they produce, not the hardware. Pricing is set per kilowatt-hour, often starting around $0.08 to $0.12/kWh depending on your market, with an annual escalator of 1% to 3% written into the contract. The appeal is obvious: zero upfront, no maintenance responsibility, and your bill drops on day one. The catch is that you're signing a 20 or 25-year agreement with a company that may or may not exist in 2045.
 
 **Lease:** Structurally nearly identical to a PPA, but instead of paying per kWh, you pay a flat monthly fee regardless of how much power the system generates. That sounds minor. It isn't. If your panels get shaded by a tree your neighbor planted, or if the inverter underperforms for six months, your payment doesn't change. With a PPA, at least you're only paying for what you get.
 
-**Loan:** You own the system outright after the final payment. This means you claim the 30% federal Investment Tax Credit (ITC) yourself, which as of 2024 is still at full strength under the Inflation Reduction Act through 2032. On a $30,000 system, that's $9,000 back. Solar loans come in a few flavors: secured (home equity, HELOC) and unsecured (personal solar loans). Secured loans carry lower interest rates, typically 5% to 8% right now, but put your house on the line. Unsecured loans from installers or third-party lenders like Mosaic or Sunlight Financial run 6% to 12%, sometimes higher for longer terms.
+**Loan:** You own the system outright after the final payment. This means you claim the 30% [federal Investment Tax Credit (ITC)](/how-to-calculate-solar-system-size-for-home/) yourself, which as of 2024 is still at full strength under the Inflation Reduction Act through 2032. On a $30,000 system, that's $9,000 back. Solar loans come in a few flavors: secured (home equity, HELOC) and unsecured (personal solar loans). Secured loans carry lower interest rates, typically 5% to 8% right now, but put your house on the line. Unsecured loans from installers or third-party lenders like Mosaic or Sunlight Financial run 6% to 12%, sometimes higher for longer terms.
 
 ## The Tax Credit Is the Whole Ballgame
 

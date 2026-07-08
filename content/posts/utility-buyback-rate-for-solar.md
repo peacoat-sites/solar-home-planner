@@ -23,15 +23,22 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-
+lastmod: 2026-07-07
 ---
 Nobody warns you about this part. You go through the whole process, get the solar panels installed, watch your production numbers climb on the SolarEdge app, and then your first utility bill arrives. You realize you're getting paid *way* less per kilowatt-hour than you expected. Sometimes embarrassingly less.
 
-I've talked to dozens of homeowners who discovered their net metering credit was $0.04/kWh when they were paying $0.14/kWh to buy electricity. That's not a rounding error. That's a structural feature of how utilities treat solar exports, and it catches people off guard more than almost anything else in the residential solar calculus.
+I've talked to dozens of homeowners who discovered their [net metering credit](/net-metering-explained-simply/) was $0.04/kWh when they were paying $0.14/kWh to buy electricity. That's not a rounding error. That's a structural feature of how utilities treat solar exports, and it catches people off guard more than almost anything else in the residential solar calculus.
 
 So let's actually get into how buyback rates work, why they vary so wildly, and how to figure out what yours will be before you sign a contract.
 
 ## What a Buyback Rate Actually Is
+
+| Compensation Mechanism | Export Rate | Typical Range | Homeowner Favorability |
+| --- | --- | --- | --- |
+| Net Energy Metering (NEM) | Retail rate | $0.13-$0.30/kWh | Most favorable |
+| Net Billing | Avoided cost | $0.05-$0.13/kWh | Moderate |
+| Avoided Cost / Wholesale | Wholesale only | $0.02-$0.04/kWh | Least favorable |
+| Feed-in Tariffs (FiTs) | Fixed or above retail | Variable | Rare in U.S., potentially favorable |
 
 When your solar system produces more electricity than your home is using at that moment, the excess flows back onto the grid. Your utility clocks it. The question is: at what rate do they credit you for it?
 
@@ -39,7 +46,7 @@ The answer depends on which compensation mechanism your utility uses, and there 
 
 **Net Energy Metering (NEM)** is the traditional model. Under classic NEM, your meter runs backward when you export power, and you're credited at the same retail rate you'd pay to buy electricity. If you're paying $0.13/kWh, you get $0.13/kWh back. This is the most favorable model for homeowners and it's still widely available, but it's under serious pressure in a lot of states.
 
-California's NEM 3.0, which took effect in April 2023 for new applicants, was a wake-up call for the whole industry. Export rates dropped by around 75% in some cases, averaging roughly $0.05/kWh depending on the time of export, compared to retail rates that can hit $0.30/kWh or higher on the state's tiered structure. That changed the financial math for California solar dramatically, and it's pushing new installations toward battery storage in a way that wasn't happening before.
+[California's NEM 3.0](/nem-30-california-explained/), which took effect in April 2023 for new applicants, was a wake-up call for the whole industry. Export rates dropped by around 75% in some cases, averaging roughly $0.05/kWh depending on the time of export, compared to retail rates that can hit $0.30/kWh or higher on the state's tiered structure. That changed the financial math for California solar dramatically, and it's pushing new installations toward battery storage in a way that wasn't happening before.
 
 **Net Billing** is basically what California moved to. You sell at one rate (usually tied to the "avoided cost" your utility calculates), and you buy at a higher retail rate. The gap between those two numbers is where your return on investment quietly shrinks.
 
@@ -55,7 +62,7 @@ Those two utilities serve overlapping Phoenix metro geography and their export c
 
 NREL has done solid work on this. Their research shows that state-by-state effective export compensation rates vary from retail-rate NEM down to avoided-cost payments that are sometimes below $0.03/kWh. The gap is enormous. A 7kW system in Massachusetts under a favorable net metering rate structure might offset $1,800/year in electricity costs. A similar system in a state with degraded export rates might net $900/year. Same hardware, same sun hours, half the financial return.
 
-EnergySage's market data consistently shows that homeowners in states with full retail NEM see payback periods in the 7-10 year range, while those in states with weakened or pending NEM reforms are looking at 10-15 years. Batteries change this equation, but they also add $10,000-$15,000 to the system cost.
+EnergySage's market data consistently shows that homeowners in [states with full retail NEM](/net-metering-rates-by-state-2026/) see payback periods in the 7-10 year range, while those in states with weakened or pending NEM reforms are looking at 10-15 years. Batteries change this equation, but they also add $10,000-$15,000 to the system cost.
 
 What surprised me when I started digging into utility tariffs specifically was how much variation exists *within* the same utility, depending on your rate class. Some utilities have time-of-use (TOU) rates that can actually benefit solar customers who export in the afternoon peak. Others apply demand charges to residential customers, which solar alone generally can't address effectively. You need to read the actual tariff schedule, not the utility's marketing page.
 

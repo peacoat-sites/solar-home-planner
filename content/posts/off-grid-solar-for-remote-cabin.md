@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-
+lastmod: 2026-07-07
 ---
 If you've ever stood inside a dark cabin at dusk, watching the propane lanterns hiss while your phone battery dies and the nearest hardware store is forty-five minutes of dirt road away, you already understand the problem better than any spec sheet can explain it.
 
@@ -42,6 +42,14 @@ For each device, estimate the wattage and the hours per day you'll actually run 
 A reasonable small cabin off-grid system often lands between 600 and 1,200 watt-hours per day. Add some comfort items, maybe a small chest freezer and regular laptop use, and you're often looking at around 800 to 1,000 Wh/day. That number is your anchor for everything else.
 
 ## Sizing Your Solar Array and Battery Bank Together
+
+| Component | Load Scenario | Daily Watt-Hours | Notes |
+| --- | --- | --- | --- |
+| Small cabin (lights, pump, charging) | Baseline | 600-1,200 | Most common remote setups |
+| Small cabin with chest freezer & laptop | Moderate | 800-1,000 | Typical real-world use |
+| 3-day autonomy at 1,000 Wh/day | Battery sizing example | 3,000 (lithium: 3,750 total capacity) | Lithium at 80% DoD |
+| 3-day autonomy at 1,000 Wh/day | Battery sizing example | 3,000 (lead-acid: 6,000 total capacity) | Lead-acid at 50% DoD |
+| Solar array example | 1,000 Wh/day at 4.5 peak sun hours | 280-300W panels | Two 150W or one 300W panel |
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

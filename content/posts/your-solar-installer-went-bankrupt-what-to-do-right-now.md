@@ -12,6 +12,7 @@ author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
 slug: "your-solar-installer-went-bankrupt-what-to-do-right-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 If you bought solar through Freedom Forever, you already know something is wrong. Maybe your installer stopped returning calls. Maybe your system never got its final inspection. Or maybe you just saw the headlines: Freedom Forever, the company that Solar Power World ranked as the #1 residential solar contractor in the country in 2025, filed for Chapter 11 bankruptcy on April 15, 2026 (case 26-10522, D. Del.) with liabilities estimated between $500 million and $1 billion. They were operating in more than 30 states. Hundreds of thousands of homeowners are now in some version of the same situation, and the honest answer to "what do I do?" is more complicated than anyone wants to admit.
@@ -22,7 +23,7 @@ I'll be honest: I've been in and around the solar industry long enough to have s
 
 This is the part nobody in the sales process ever explained clearly. When an installer files for bankruptcy, the workmanship warranty and the performance guarantee they sold you become, functionally, worthless. You become an unsecured creditor in the bankruptcy estate. According to Solar Insure's analysis of installer bankruptcies, unsecured creditors typically recover little to nothing in these proceedings. You can file a claim. You almost certainly won't see a meaningful payout.
 
-What survives is the manufacturer warranty on the equipment itself: the panels, the inverter, the battery if you have one. Most tier-one panel manufacturers (think Qcells, REC, Canadian Solar) offer 25-year product warranties that travel with the equipment regardless of who installed it. Enphase and SolarEdge both have inverter warranties that don't require your installer to be alive to honor them. So if a panel fails, the manufacturer will likely send a replacement.
+What survives is the manufacturer warranty on the equipment itself: the panels, the inverter, the battery [if you have one](/how-to-add-a-battery-to-your-existing-solar-system/). Most tier-one panel manufacturers (think Qcells, REC, Canadian Solar) offer 25-year product warranties that travel with the equipment regardless of who installed it. Enphase and SolarEdge both have inverter warranties that don't require your installer to be alive to honor them. So if a panel fails, the manufacturer will likely send a replacement.
 
 Here's the gap that surprises people: that manufacturer warranty covers the equipment, not the labor to swap it out. If your inverter fails two years from now and the manufacturer ships you a new one, you're paying a licensed electrician out of pocket to install it. That can run $300 to $800 for an inverter swap, more if the wiring situation is complicated. Nobody told you that during the pitch because it wasn't a great sales line.
 
@@ -47,7 +48,7 @@ The situation varies a lot depending on where your project is in the process. He
 | Contract signed, no work started | Down payment loss, financing may be active | File a claim with the bankruptcy court; contact lender to pause or cancel financing |
 | Installation started, not complete | Open permit, unfinished wiring, no PTO | Call building department immediately; find a licensed contractor to assess and complete |
 | Installed, no Permission to Operate | System can't legally run; utility interconnect stalled | Contact your utility directly; find a new EPC to push the interconnection application |
-| Fully operational, warranty concern | Workmanship warranty void | Document everything; check manufacturer warranties; consider a third-party warranty product |
+| Fully operational, warranty concern | Workmanship warranty void | Document everything; check manufacturer warranties; [consider a third-party warranty product](/solar-lease-and-ppa-surge-what-the-new-math-means-for-you/) |
 | Financed through Mosaic or Sunnova | Loan still active even if installer is gone | Contact loan servicer directly; do not stop payments without legal advice |
 
 That last row matters especially right now. Mosaic's bankruptcy does not cancel your loan obligation. The loan will be transferred to a servicer or acquired through the bankruptcy proceedings. Stopping payments because "the company went bankrupt" is a fast track to a collections problem and a credit hit.

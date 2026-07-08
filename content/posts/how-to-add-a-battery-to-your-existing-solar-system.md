@@ -12,6 +12,7 @@ author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
 slug: "how-to-add-a-battery-to-your-existing-solar-system"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 You bought your solar system in 2019, your installer promised you'd "basically eliminate your electric bill," and for a while that was true. Then your utility quietly revised its net metering policy, cut the export rate from retail to something closer to wholesale, and now you're watching your annual bill creep back up while your panels sit there doing exactly what they were designed to do. You're not imagining it. This is happening to solar owners all over the country, and it's exactly why battery retrofits have become the loudest conversation in residential solar right now.
 
@@ -23,13 +24,18 @@ Meanwhile, Lawrence Berkeley National Laboratory estimates that fewer than 10% o
 
 ## AC-Coupled vs. DC-Coupled: The Decision That Drives Everything Else
 
+| Retrofit Type | Existing Inverter | Typical Cost | Best For | Efficiency |
+| --- | --- | --- | --- | --- |
+| AC-Coupled | Stays in place | $12,000-$18,000 (10-13.5 kWh) | Most retrofit situations | Lower (conversion losses) |
+| DC-Coupled | Replaced with hybrid unit | Higher | Inverter near end-of-life | Higher (fewer conversions) |
+
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
 This is where most homeowners get confused, and understandably so. When you're retrofitting a battery onto an existing solar system, the fundamental question is whether your new battery talks to your existing system through AC wiring (AC-coupled) or bypasses your current inverter to connect directly on the DC side (DC-coupled).
 
-For the vast majority of retrofit situations, AC-coupled is the right answer. Here's why: your existing string inverter or microinverters stay in place. You're adding a new piece of equipment, not replacing the heart of your system. The battery has its own inverter built in, it connects to your main panel or a critical loads panel, and the two systems operate somewhat independently. Tesla Powerwall 3 and the Enphase IQ Battery lineup are the most common retrofit products going this route, and installers are comfortable with them. The average installed cost for a 10 to 13.5 kWh AC-coupled retrofit runs $12,000 to $18,000 before state and local incentives, which is real money but a fraction of replacing your entire system.
+For the vast majority of retrofit situations, AC-coupled is the right answer. Here's why: your existing string inverter or microinverters stay in place. You're adding a new piece of equipment, not replacing the heart of your system. The battery has its own inverter built in, it connects to your main panel or a critical loads panel, and the two systems operate somewhat independently. Tesla Powerwall 3 and the [Enphase IQ Battery lineup](/enphase-iq9n-microinverter-what-gan-technology-means-for-your-roof/) are the most common retrofit products going this route, and installers are comfortable with them. The average installed cost for a 10 to 13.5 kWh AC-coupled retrofit runs $12,000 to $18,000 before state and local incentives, which is real money but a fraction of replacing your entire system.
 
 DC-coupled retrofits are more efficient in theory (you lose less energy in conversion steps) but they typically require replacing your existing inverter with a hybrid unit that can manage both the solar and the battery on the DC side. If your inverter is five years old and due for replacement anyway, this can make financial sense. If it was installed last year, you're throwing away working equipment for a marginal efficiency gain. I've seen homeowners get talked into DC-coupled retrofits they didn't need because the installer had a preferred hybrid inverter they wanted to sell. Ask directly: why are we replacing my existing inverter?
 

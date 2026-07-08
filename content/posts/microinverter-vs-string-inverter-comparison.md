@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-
+lastmod: 2026-07-07
 ---
 Thirty-eight panels on a south-facing roof and not a single one performing at capacity. That's the first string inverter system I ever saw where the homeowner had no clue why his production numbers looked wrong. Turns out, three panels had bird droppings caked on them, and because they were wired in series, the whole string throttled down to match the weakest link. He'd been losing production for months without knowing it.
 
@@ -35,13 +35,19 @@ Most people have heard some version of the shade explanation. Microinverters con
 
 Here's what actually shifts between these two approaches.
 
-With a string inverter (brands like SMA, Fronius, SolarEdge if you're counting DC optimizers as part of that ecosystem), your system has one central point of conversion and one central point of failure. That box on your garage wall handles everything. A quality string inverter from SMA, say the Sunny Boy 7.7-US, runs around $1,800 to $2,200 installed. It'll carry a 10-year warranty standard, sometimes extendable to 20. When it works, it works well. When it dies, your whole system's down until it's replaced.
+With a string inverter (brands like SMA, Fronius, SolarEdge if you're counting DC optimizers as part of that ecosystem), your system has one central point of conversion and one central point of failure. That box on your garage wall handles everything. A [quality string inverter from SMA](/best-solar-inverter-brands-reviewed/), say the Sunny Boy 7.7-US, runs around $1,800 to $2,200 installed. It'll carry a 10-year warranty standard, sometimes extendable to 20. When it works, it works well. When it dies, your whole system's down until it's replaced.
 
 Microinverters flip that model entirely. Enphase IQ8 units, which dominate the market for good reason, run roughly $150 to $200 per unit before labor. On a 20-panel system you're looking at $3,000 to $4,000 just in hardware before anyone touches your roof. The per-panel conversion means one failed unit takes down exactly one panel. Everything else keeps running.
 
 That redundancy has real value. It's just not free.
 
 ## When String Inverters Still Make a Lot of Sense
+
+| Inverter Type | Hardware Cost (20-panel system) | Per-Watt Cost Advantage | Warranty | Failure Impact | Monitoring |
+| --- | --- | --- | --- | --- | --- |
+| String Inverter | ~$1,800-$2,200 | $0.20-$0.40/W less | 10 years (extendable to 20) | Entire system down | System-level only |
+| Microinverter (Enphase IQ8) | $3,000-$4,000 | Baseline | Per-unit standard | Single panel only | Panel-level detail |
+| DC Optimizer (SolarEdge) | Mid-range | Mid-range | Central inverter dependent | Central inverter failure | Panel-level detail |
 
 The solar industry has done a solid job convincing homeowners that microinverters are universally superior. I don't buy it.
 
@@ -61,7 +67,7 @@ The Enphase IQ8 specifically earned my respect because it can operate in grid-in
 
 Panel-level monitoring is the other thing I find genuinely useful in practice. The Enphase Enlighten app flags a unit that's underperforming before you'd ever notice it from total production numbers. I caught a loose connector on an install that would've been nearly invisible otherwise. For a homeowner who actually checks their monitoring, that visibility is real value.
 
-There's also an NEC code angle that doesn't get talked about enough. Rapid shutdown requirements (NEC 2017 and 2020 sections cover this) mean that systems in most states need to de-energize roof-level conductors quickly in a fire scenario. Microinverters and DC optimizers both satisfy this inherently. String inverters without optimizers need an added rapid shutdown device, which costs money and adds a component. It's not dealbreaking, but it's worth factoring in when you're comparing true apples-to-apples bids.
+There's also an NEC code angle that doesn't get talked about enough. [Rapid shutdown requirements](/string-inverter-sizing-guide/) (NEC 2017 and 2020 sections cover this) mean that systems in most states need to de-energize roof-level conductors quickly in a fire scenario. Microinverters and DC optimizers both satisfy this inherently. String inverters without optimizers need an added rapid shutdown device, which costs money and adds a component. It's not dealbreaking, but it's worth factoring in when you're comparing true apples-to-apples bids.
 
 ## DC Optimizers: The Middle Path Most Reps Won't Explain Clearly
 
