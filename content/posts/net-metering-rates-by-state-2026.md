@@ -1,5 +1,5 @@
 ---
-title: "Net Metering Rates By State"
+title: "How Net Metering Rates Compare Across Your State"
 date: 2026-06-06T23:35:32.649478+00:00
 draft: false
 description: "Discover net metering rates by state in 2026. Compare policies, compensation rates, and solar buyback programs to maximize your home solar energy savings."
@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Net metering was never as simple as "sell your excess solar back to the grid for full retail price." That was the rosy version. The reality in 2026 is messier, more state-dependent, and shifting faster than most solar shoppers realize.
 

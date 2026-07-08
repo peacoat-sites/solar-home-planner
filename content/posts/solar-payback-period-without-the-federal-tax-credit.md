@@ -1,5 +1,5 @@
 ---
-title: "Solar Payback Period Without the Federal Tax Credit"
+title: "How Long Until Solar Pays for Itself?"
 date: 2026-06-25T23:53:46.568208+00:00
 draft: false
 description: "Discover how long it takes to recoup your solar investment without the federal tax credit and explore strategies to maximize savings and shorten your payback pe"
@@ -12,7 +12,7 @@ author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
 slug: "solar-payback-period-without-the-federal-tax-credit"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 The 30% federal residential solar tax credit is gone. No phase-down, no grace period. The One Big Beautiful Bill Act, signed July 4, 2025, eliminated Section 25D for any system installed after December 31, 2025, and if you're shopping for solar right now, you're doing the math in a fundamentally different environment than your neighbor who signed a contract two years ago. BloombergNEF's June 15, 2026 report projects only 4.1 GW of new residential solar additions this year, down 15% from 2025 and the lowest figure in five years. The market isn't expected to recover to 2023 record levels within the next decade. So the question sitting in front of you isn't "should I go solar" in some abstract sense. It's whether solar pencils out *for your specific address* when you can no longer subtract $9,000+ off your federal tax bill.
 

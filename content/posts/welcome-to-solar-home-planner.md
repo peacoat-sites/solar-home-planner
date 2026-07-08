@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Solar Home Planner"
+title: "Plan Your Solar Installation in Minutes"
 date: 2026-05-28T02:01:18.273375+00:00
 draft: false
 description: "Your complete guide to planning a home solar installation,  from contractor selection to permits, EV charging, and off-grid systems."
@@ -11,7 +11,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Planning to go solar is one of the best decisions a homeowner can make. Whether you're looking to cut electricity bills, add backup power during outages, charge your EV for free, or take your home completely off-grid, this site is your comprehensive planning resource.
 
