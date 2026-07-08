@@ -1,5 +1,5 @@
 ---
-title: "Panasonic Evervolt Solar Panel Review"
+title: "Panasonic EverVolt Solar Panels: Performance & Value"
 date: 2026-07-06T23:40:25.695824+00:00
 draft: false
 description: "Discover if Panasonic EverVolt solar panels are worth it. We review efficiency, cost, warranty, and performance to help you decide for your home."

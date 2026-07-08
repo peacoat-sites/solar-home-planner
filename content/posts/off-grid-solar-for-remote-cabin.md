@@ -1,5 +1,5 @@
 ---
-title: "Off Grid Solar For Remote Cabin"
+title: "Power Your Remote Cabin Without the Grid"
 date: 2026-06-08T23:47:58.050750+00:00
 draft: false
 description: "Discover how to power your remote cabin with off grid solar energy. Learn system sizing, battery storage, and top components for reliable, sustainable electrici"
@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you've ever stood inside a dark cabin at dusk, watching the propane lanterns hiss while your phone battery dies and the nearest hardware store is forty-five minutes of dirt road away, you already understand the problem better than any spec sheet can explain it.
 

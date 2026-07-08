@@ -1,5 +1,5 @@
 ---
-title: "Solar Installer Reviews What To Look For"
+title: "How to Pick a Trustworthy Solar Installer"
 date: 2026-05-24T20:57:59.799257+00:00
 draft: false
 description: "Find out what to look for in solar installer reviews before you hire. Learn how to spot red flags, verify credentials, and choose a trusted local installer with"
@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You get three quotes for a rooftop solar system. Two companies seem nearly identical on paper: same panel brand, similar system size, prices within $800 of each other. Then you dig into their online reviews and realize one installer has a pattern of complaints about permits being pulled six months late and customer service that vanishes after the contract is signed. That $800 difference suddenly looks like a bargain for the other guy. Reading solar installer reviews isn't like reading Yelp reviews for a pizza place. The stakes are higher, the projects are more complex, and the red flags are buried in language most homeowners don't know to look for.
 

@@ -1,5 +1,5 @@
 ---
-title: "Solar Panel Degradation Rate Explained"
+title: "How Solar Panels Lose Power Over Time"
 date: 2026-06-21T23:53:18.936851+00:00
 draft: false
 description: "Learn how solar panel degradation rate affects long-term energy output, what causes efficiency loss, and how to maximize your panels lifespan."
@@ -23,7 +23,7 @@ faqs:
    a: "Compare your annual production totals year over year using your inverter monitoring data. A drop of more than 1.5% per year, after accounting for weather variation, is worth flagging with your installer or a third-party inspector."
  - q: "Can I slow degradation with any maintenance steps?"
    a: "You can't change the physics, but keeping panels clean, ensuring good airflow underneath, and trimming any trees causing new shade will all help you stay closer to the manufacturer's rated performance curve. The rest is panel quality and climate."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most homeowners buying solar get handed a production estimate built around a 0.5% annual degradation rate and told not to worry about it. I used to repeat that number myself. What I found when I actually went looking at real field data is that the story is a fair bit messier than that, and the difference between a good panel and a mediocre one over 25 years is worth understanding before you sign anything.

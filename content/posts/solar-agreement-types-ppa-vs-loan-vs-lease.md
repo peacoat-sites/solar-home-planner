@@ -1,5 +1,5 @@
 ---
-title: "Solar Agreement Types Ppa Vs Loan Vs Lease"
+title: "Which Solar Payment Option Saves You Money"
 date: 2026-06-05T12:21:46.323411+00:00
 draft: false
 description: "Compare solar agreement types including PPAs, loans, and leases to find the best option for your home or business. Learn costs, benefits, and ownership details."
@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 The financing decision you make before a single panel goes on your roof will shape your relationship with solar for the next 10 to 25 years. Most coverage on this topic either oversimplifies ("leases are bad, loans are good!") or buries you in theoretical math without telling you what actually matters in practice. Let me fix both problems.
 

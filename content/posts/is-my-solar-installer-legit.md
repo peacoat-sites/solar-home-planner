@@ -1,5 +1,5 @@
 ---
-title: "Is My Solar Installer Legit"
+title: "Red Flags: How To Spot A Shady Solar Company"
 date: 2026-05-28T16:19:39.506577+00:00
 draft: false
 description: "Check if your solar installer is legitimate before signing anything. Learn the red flags, license checks, and verification steps to avoid costly scams and fraud"
@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You got three quotes last week. The lowest one was $4,000 cheaper than the others, the salesperson was at your door for two hours, and they want a 50% deposit before they'll pull a permit. Something feels off. Trust that instinct, because residential solar is one of the most complaint-heavy home improvement categories in the country, and the Federal Trade Commission has logged thousands of fraud reports tied to door-to-door solar sales alone. Before you sign anything, you need to know exactly how to vet the company standing in your driveway.
 

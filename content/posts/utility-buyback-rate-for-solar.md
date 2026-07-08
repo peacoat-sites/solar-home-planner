@@ -1,5 +1,5 @@
 ---
-title: "Utility Buyback Rate For Solar"
+title: "How Solar Buyback Rates Really Affect Your Returns"
 date: 2026-06-05T23:47:39.987357+00:00
 draft: false
 description: "Discover how utility buyback rates for solar work, what affects your compensation, and how to maximize earnings when selling excess solar energy back to the gri"
@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Nobody warns you about this part. You go through the whole process, get the solar panels installed, watch your production numbers climb on the SolarEdge app, and then your first utility bill arrives. You realize you're getting paid *way* less per kilowatt-hour than you expected. Sometimes embarrassingly less.
 

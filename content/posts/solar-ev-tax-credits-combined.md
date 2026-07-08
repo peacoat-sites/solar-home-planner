@@ -1,5 +1,5 @@
 ---
-title: "Solar + EV Tax Credits Combined"
+title: "Combine Solar And EV Tax Credits For Maximum Savings"
 date: 2026-05-21T14:57:09.597450+00:00
 draft: false
 description: "Maximize savings by combining federal solar panel and EV tax credits. Learn how homeowners can claim both incentives to slash energy costs and reduce their tax "
@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You bought an EV last year, installed solar this spring, and your accountant just told you the credits "probably stack." Probably. That one word is costing homeowners real money, because the interaction between the federal solar Investment Tax Credit and the federal EV tax credit is more nuanced than any sales rep will explain before you sign. Yes, they stack. But the longer version is where you actually need to pay attention.
 

@@ -1,5 +1,5 @@
 ---
-title: "Bifacial Solar Panels Explained"
+title: "How Bifacial Solar Panels Boost Your System's Power"
 date: 2026-06-26T23:42:15.645323+00:00
 draft: false
 description: "Bifacial solar panels capture sunlight on both sides to boost energy output. Learn how they work, their benefits, and if they suit your home or business."
@@ -23,7 +23,7 @@ faqs:
    a: "Technically, yes, a very-high-performing bifacial ground-mount system could clip production at the inverter if the system is undersized for the array output. Clipping is a real design consideration for ground-mount bifacial builds. For residential roof mounts where rear-side gains are minimal, it's rarely an issue in practice."
  - q: "What's the lifespan difference between bifacial and standard panels?"
    a: "Bifacial panels, especially glass-glass construction, often carry lower degradation rates and can realistically hit 30-35 year useful lifespans. Standard P-type monofacial panels typically degrade faster. Most manufacturers warrant both types to 80-85% output at 25-30 years, but the actual degradation curve matters more than the warranty floor."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Bifacial panels are probably the most overhyped product in residential solar right now. That's not a knock on the technology itself, which is genuinely good. It's a knock on how they're being sold: as a near-magical upgrade that justifies a 15-20% cost premium for almost every homeowner, regardless of their roof, their shading, or how their system is actually going to be mounted. Most of the marketing skips the part where bifacial gains are almost entirely dependent on installation conditions that the average residential roof doesn't have.

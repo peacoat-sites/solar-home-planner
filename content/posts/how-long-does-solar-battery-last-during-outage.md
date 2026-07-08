@@ -1,5 +1,5 @@
 ---
-title: "How Long Does Solar Battery Last During Outage"
+title: "How Long Your Solar Battery Powers Your Home During an Outage"
 date: 2026-06-16T00:11:41.582957+00:00
 draft: false
 description: "Find out how long a solar battery lasts during a power outage based on battery capacity, home energy usage, and system size."
@@ -12,7 +12,7 @@ author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
 slug: "how-long-does-solar-battery-last-during-outage"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 My neighbor lost power for 11 days during a derecho storm last summer. She had solar panels. She still lost everything in her fridge by day two.
 

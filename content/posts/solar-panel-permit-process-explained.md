@@ -1,5 +1,5 @@
 ---
-title: "Solar Panel Permit Process Explained"
+title: "How To Get Your Solar Panels Approved Fast"
 date: 2026-05-26T05:37:34.319690+00:00
 draft: false
 description: "Get a complete guide to the solar panel permit process. Learn requirements, timelines, and steps needed to install solar panels at your home or business."
@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners sign a contract, assume the solar company handles everything, and expect panels on the roof in six weeks. Then they get a call: the permit's delayed, the utility needs more documentation, or building department wants revised structural drawings. Suddenly it's four months. I've watched this happen dozens of times, and here's what I've learned, understanding the permit process yourself, even if your installer's managing it, puts you in control and helps you catch problems before they spiral into expensive delays.
 

@@ -1,5 +1,5 @@
 ---
-title: "Can HOA Deny Solar Panels"
+title: "Your HOA Can't Block Solar Panels: Here's Why"
 date: 2026-05-22T00:15:14.918141+00:00
 image: "/img/heroes/4320449.jpg"
 draft: false
@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your HOA just sent you a letter denying your solar panel application. Maybe they cited "aesthetic guidelines" or said panels aren't allowed on street-facing roof sections. You're frustrated. And you might be thinking the HOA has the final word here.
 

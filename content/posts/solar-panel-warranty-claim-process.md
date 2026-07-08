@@ -1,5 +1,5 @@
 ---
-title: "Solar Panel Warranty Claim Process"
+title: "Filing a Solar Panel Warranty Claim: Step-by-Step"
 date: 2026-06-25T23:51:10.294082+00:00
 draft: false
 description: "Learn how to file a solar panel warranty claim step by step. Discover what voids coverage, required documents, and how to get repairs or replacements fast."
@@ -23,7 +23,7 @@ faqs:
    a: "No. Performance warranties cover panel degradation relative to their rated output under standard test conditions, not actual production losses due to cloud cover, shade, or seasonal sun angle changes. You'd need to commission an independent performance test that isolates panel-level degradation."
  - q: "My panels are underperforming but I'm not sure if it's a warranty issue. What should I do first?"
    a: "Download 12 months of production data from your monitoring system and compare it to the system's original production estimate (this should be in your installation contract as a first-year kWh projection). Also check for shading changes, soiling, and inverter error codes before calling the manufacturer. A lot of 'underperformance' turns out to be a dirty panel or a tripped breaker."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 A homeowner I worked with last year had a Hanwha Q CELLS panel that cracked along the back sheet, no storm, no impact, just a hot Arizona summer doing what Arizona summers do. The panel was four years old, well within the 12-year product warranty. She had her original purchase invoice, her installation records, a timestamped photo from the day she noticed it, and the installer's business card. Should have been a clean claim. Instead she spent six weeks trading emails with a warranty department that kept asking for documents she'd already sent, then tried to tell her the crack was "physical damage" (excluded) rather than a manufacturing defect. She got it resolved, but only because she knew what she was entitled to and pushed back with specific language from the warranty document itself.

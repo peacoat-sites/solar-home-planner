@@ -1,5 +1,5 @@
 ---
-title: "DIY Solar Kit Recommendations"
+title: "Best DIY Solar Kits for Home Installation"
 date: 2026-05-20T03:35:03.011784+00:00
 draft: false
 description: "DIY solar kit recommendations for off-grid living and home energy. Compare top-rated kits, installation tips, and cost savings for renewable power solutions."
@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A homeowner in Phoenix told me last year he saved $14,000 by installing a 6kW solar kit himself over two weekends. His neighbor across the street, same neighborhood, same roof type, paid a contractor $28,000 for the equivalent system. The difference wasn't luck or skill level. It was research, the right kit, and knowing exactly what he was getting into before he bought anything.
 

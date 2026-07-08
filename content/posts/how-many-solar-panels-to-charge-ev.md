@@ -1,5 +1,5 @@
 ---
-title: "How Many Solar Panels To Charge EV"
+title: "Solar Panels Needed To Charge Your Electric Vehicle"
 date: 2026-05-26T09:44:19.406178+00:00
 draft: false
 description: "Discover how many solar panels you need to charge your electric vehicle at home. We cover daily mileage, panel output, and setup tips to maximize savings."
@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people ask their solar installer how many panels they need to run their house. Almost nobody asks how many panels they need to run their *car*. That's a mistake. I've worked with homeowners who added an EV to a fully sized solar system and immediately found themselves buying grid power again, confused about why their electric bill came back. The car wasn't in the plan. Adding an EV to your energy load isn't a footnote, it's often a 30 to 50 percent increase in your household electricity consumption. Get the math right before you sign anything.
 

@@ -1,5 +1,5 @@
 ---
-title: "Solar Contract What To Review Before Signing"
+title: "Critical Clauses: What Every Solar Contract Must Include"
 date: 2026-05-25T13:11:06.766562+00:00
 draft: false
 description: "Learn what to review in a solar contract before signing, including pricing, warranties, installation terms, and cancellation policies to protect your investment"
@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A homeowner in Sacramento called me last spring, three days before her installation was scheduled to start. She'd signed a 25-year solar lease nine months earlier and had just discovered her contract included an automatic annual escalator of 2.9% on her monthly payments. Nobody had explained that to her during the sales pitch. Over 25 years, that clause would cost her roughly $14,000 more than the flat rate she thought she was getting. The installer wasn't breaking any laws. Every word was in the contract. She just hadn't read it.
 

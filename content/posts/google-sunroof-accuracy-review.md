@@ -1,5 +1,5 @@
 ---
-title: "Google Sunroof Accuracy Review"
+title: "Does Google Sunroof Overestimate Your Solar Potential?"
 date: 2026-07-05T23:35:06.541291+00:00
 draft: false
 description: "We tested Google Project Sunroof against real solar quotes and satellite data to see how accurate its roof solar estimates really are in 2024."

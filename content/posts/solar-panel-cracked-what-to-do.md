@@ -1,5 +1,5 @@
 ---
-title: "Solar Panel Cracked What To Do"
+title: "Cracked Solar Panel? Here's What To Do Next"
 date: 2026-06-29T23:33:36.154149+00:00
 draft: false
 description: "Discovered a cracked solar panel? Learn what steps to take immediately, whether to repair or replace it, and how to stay safe and protect your investment."
@@ -12,7 +12,7 @@ author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 slug: "solar-panel-cracked-what-to-do"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A cracked solar panel is one of those things that looks worse than it sometimes is, and also sometimes way worse than it looks. I've seen both.
 

@@ -1,5 +1,5 @@
 ---
-title: "How To Choose A Solar Company"
+title: "Find Your Best Solar Company: 5 Key Questions To Ask"
 date: 2026-05-21T23:34:58.251137+00:00
 draft: false
 description: "Find the best solar company for your home with our expert tips. Learn what to look for, questions to ask, and red flags to avoid before signing any contract."
@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A neighbor of mine got a $0-down solar quote that looked great on paper. The installer was in and out in two days, the panels went up fast, and then the problems started: a roof leak that the company blamed on pre-existing damage, a system that was undersized by about 30%, and a financing contract with an escalator clause that raised his payments 2.9% every year for 25 years. The company? Gone six months later. That experience is more common than the industry likes to admit, and it's exactly why choosing the right solar company matters as much as choosing the right system.
 

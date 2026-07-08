@@ -1,5 +1,5 @@
 ---
-title: "Solar Backup Power During Outage"
+title: "Keep Your Lights On: Solar Backup Power During Outages"
 date: 2026-05-20T01:40:58.974330+00:00
 draft: false
 description: "Stay powered during outages with solar backup systems. Learn how solar panels and battery storage keep your home running when the grid goes down. Get started to"
@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Picture this: it's July, a heat wave is rolling through, and a transformer two blocks over just blew. Your neighbor with solar panels is watching TV and running their AC while you're sweating in the dark wondering why your solar-powered house is also completely dead. This happens every single summer, and the confusion it causes is completely understandable. Most homeowners assume solar equals backup power. It almost never does, at least not without a specific additional component that most installers don't emphasize nearly enough during the sales process.
 

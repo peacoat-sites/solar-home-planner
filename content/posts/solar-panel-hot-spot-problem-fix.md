@@ -1,5 +1,5 @@
 ---
-title: "Solar Panel Hot Spot Problem Fix"
+title: "Stop Solar Panel Hot Spots Before They Kill Efficiency"
 date: 2026-07-02T23:35:40.529571+00:00
 draft: false
 description: "Learn how to identify and fix solar panel hot spots to prevent damage, improve efficiency, and extend the lifespan of your solar energy system."
@@ -23,7 +23,7 @@ faqs:
    a: "They don't prevent the underlying thermal event, but they dramatically reduce the string-level production loss from a partially shaded or failing panel. They also give you panel-level monitoring, which means you catch hot spots faster. Earlier detection means less thermal cycling and less cumulative cell damage."
  - q: "How often should I check my panels for hot spots?"
    a: "A visual inspection once or twice a year is reasonable for most climates. If you're in a high-dust or high-bird-activity area, every few months. If your system has monitoring, set a monthly alert for any panel running more than 10% below its string average. Catching it in June rather than October can mean the difference between a $15 diode fix and a panel replacement."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Hot spots kill solar panels quietly. No alarm goes off, no warning light blinks, you just watch your production numbers slowly bleed out while a cell or two on one panel bake themselves into permanent failure. I've seen homeowners lose 15-20% of a panel's output to a hot spot that nobody caught for two years.

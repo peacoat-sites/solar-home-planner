@@ -1,5 +1,5 @@
 ---
-title: "Solar Powered EV Charging Station Home"
+title: "Charge Your EV at Home Using Solar Power"
 date: 2026-05-21T09:57:34.814832+00:00
 draft: false
 description: "Discover how to set up a solar powered EV charging station at home. Save money, reduce emissions, and charge your electric vehicle with clean, renewable energy."
@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You bought an EV and a solar array in the same year, feeling pretty clever about the whole thing. Then your installer hands you a commissioning report showing your panels produce most of their power between 10 a.m. and 3 p.m., and your car sits in the garage charging overnight. You're buying grid electricity at peak rates to move electrons into a vehicle you bought specifically to stop paying for fuel. That's the gap most solar-plus-EV articles skip right past, and it's the gap this piece closes.
 

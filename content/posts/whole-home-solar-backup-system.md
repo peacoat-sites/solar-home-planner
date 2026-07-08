@@ -1,5 +1,5 @@
 ---
-title: "Whole Home Solar Backup System"
+title: "How To Keep Your Home Powered During Outages"
 date: 2026-05-22T21:48:15.992351+00:00
 draft: false
 description: "Discover how a whole home solar backup system keeps your power on during outages, saves money on energy bills, and provides clean, reliable electricity year-rou"
@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your neighbor's lights are on. Yours aren't. You've got a solar array on your roof, the sun came up six hours ago, and you're still sitting in the dark during a grid outage. This is the part the sales brochure skips: standard grid-tied solar shuts off automatically when the utility grid goes down. It's a safety requirement, not a bug, and it catches homeowners completely off guard. A whole home solar backup system is the fix, but it's not just "add a battery." The components, sizing, and integration decisions matter enormously, and getting them wrong is expensive.
 

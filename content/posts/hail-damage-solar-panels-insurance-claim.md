@@ -1,5 +1,5 @@
 ---
-title: "Hail Damage Solar Panels Insurance Claim"
+title: "Hail Damage to Solar Panels: File Your Insurance Claim"
 date: 2026-06-19T23:35:18.545246+00:00
 draft: false
 description: "Learn how to file a hail damage solar panel insurance claim, document evidence, work with adjusters, and maximize your payout for repairs or replacement."
@@ -23,7 +23,7 @@ faqs:
    a: "The same day if possible, but no later than 24-48 hours. Many policies have reporting windows, adjusters schedule faster when called early, and timely documentation is far more defensible than documentation gathered weeks later."
  - q: "Can I get compensated for lost solar production while my system is being repaired?"
    a: "Only if your policy specifically includes a production loss endorsement, which most standard homeowner's policies don't. It's worth asking your agent whether that rider is available, especially if your system offsets a large portion of your electricity costs."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 A softball-sized hailstone can crack tempered glass. Most homeowners don't realize that until they're standing in their driveway the morning after a storm, squinting up at their roof and wondering if those new dark spots on their panels mean anything. I've been through this twice with clients in Colorado, and the experience taught me more about insurance claims than I ever wanted to know.

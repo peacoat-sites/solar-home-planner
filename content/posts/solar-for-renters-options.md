@@ -1,5 +1,5 @@
 ---
-title: "Solar For Renters Options"
+title: "Go Solar as a Renter: Your Real Options Explained"
 date: 2026-06-08T23:45:33.595609+00:00
 draft: false
 description: "Discover practical solar energy options for renters, including community solar, portable panels, and lease agreements, to save money and reduce your carbon foot"
@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most solar coverage assumes you own the roof. Full stop. The articles about tax credits, panel brands, and payback periods are written for homeowners, and if you're renting, you're supposed to feel vaguely left out and wait until you buy a house someday.
 

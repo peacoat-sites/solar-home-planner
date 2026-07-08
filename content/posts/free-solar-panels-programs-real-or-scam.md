@@ -1,5 +1,5 @@
 ---
-title: "Free Solar Panels Programs Real Or Scam"
+title: "Are Free Solar Panel Programs Legitimate?"
 date: 2026-06-03T14:13:21.995498+00:00
 draft: false
 description: "Wondering if free solar panel programs are legit or a scam? Discover the truth, how these offers work, and what to watch out for before signing up."

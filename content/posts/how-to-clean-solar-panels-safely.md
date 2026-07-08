@@ -1,5 +1,5 @@
 ---
-title: "How To Clean Solar Panels Safely"
+title: "The Safe Way To Clean Your Solar Panels"
 date: 2026-06-14T23:46:55.369831+00:00
 draft: false
 description: "Learn how to clean solar panels safely with simple tools and steps. Keep your panels efficient and avoid damage with our easy-to-follow cleaning guide."

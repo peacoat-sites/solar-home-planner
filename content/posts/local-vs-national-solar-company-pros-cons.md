@@ -1,5 +1,5 @@
 ---
-title: "Local Vs National Solar Company Pros Cons"
+title: "Local vs National Solar: Which Installer Fits Your Home"
 date: 2026-06-24T23:43:02.219430+00:00
 draft: false
 description: "Compare local vs national solar companies to find the best fit. Explore pricing, service, warranties, and support before signing any solar contract."
@@ -23,7 +23,7 @@ faqs:
    a: "Focus less on the headline number and more on who's backing it. A 25-year workmanship warranty from a company founded in 2022 with no track record is worth less than a 10-year warranty from a company that's been servicing systems since 2008. Ask for customer references from installs that are at least five years old."
  - q: "What's the single most important thing to check before signing with any solar company?"
    a: "Pull their license number from your state contractor licensing board and verify it's current, in good standing, and covers electrical work. Takes five minutes. I'm always surprised how many people skip this step on a five-figure purchase."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 You've probably already gotten a few quotes. Maybe one came from a slick national brand you've seen advertised during football games, and another from a local company someone in your neighborhood used last year. The prices are different. The pitches are different. And now you're sitting there wondering which one you can actually trust with a $25,000 decision that's going to live on your roof for the next 25 years.

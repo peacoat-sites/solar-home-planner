@@ -1,5 +1,5 @@
 ---
-title: "Solar Bird Proofing And Critter Guard"
+title: "Stop Rodents From Destroying Your Solar Panels"
 date: 2026-06-26T23:44:43.002444+00:00
 draft: false
 description: "Protect your solar panels from birds and critters with professional proofing solutions. Learn about mesh guards, clips, and installation options."
@@ -23,7 +23,7 @@ faqs:
    a: "No. Foam degrades from UV exposure and physical pressure over one to two years and stops being an effective barrier. Metal mesh is the right material for this application. The cost difference doesn't justify the failure rate."
  - q: "How do I know if animals have already damaged my system?"
    a: "Start with your monitoring app or inverter display. Unexplained production drops that don't correlate with weather are a flag. Physically, look for debris accumulation at the panel edges, visible nesting material, or droppings concentrated under one section of the array. If you suspect wiring damage, have a licensed electrician inspect the DC wiring before touching anything yourself."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Something got under your panels. Maybe you heard scratching in the early morning and traced it back to the roof. Maybe a neighbor warned you about pigeons nesting under their array. Maybe you're not even sure there's a problem yet, but you're about to get solar installed and you want to do this right the first time. Whatever brought you here, you're asking the right question before things get expensive.

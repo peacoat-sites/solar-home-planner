@@ -1,5 +1,5 @@
 ---
-title: "Cheapest Way To Go Solar DIY"
+title: "DIY Solar Installation: Cut Costs Without Sacrificing Safety"
 date: 2026-05-22T13:04:55.518735+00:00
 draft: false
 description: "Save money going solar with DIY installation tips. Discover the cheapest methods, best budget panels, and step-by-step guidance to cut energy costs and boost sa"
@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most solar articles start the same way: "Go solar and slash your electric bill!" Then they skip right past the part where you drop $25,000 on a contractor and wait 8-10 years to break even. There's another route. It's not for everyone, but if you're handy with electrical work and willing to handle permits yourself, a [DIY solar installation](/diy-solar-panel-installation-guide/) can cut your total cost by 40-60% compared to hiring it out. The average contractor charges $3.00-$3.50 per watt before incentives, per EnergySage data. A competent DIYer can hit $1.00-$1.50 per watt in equipment costs. On a 6kW system, that's $18,000-$21,000 versus $6,000-$9,000. Here's how to actually get there.
 

@@ -1,5 +1,5 @@
 ---
-title: "Can I Install Solar Panels Myself"
+title: "DIY Solar Installation: What You Need To Know First"
 date: 2026-05-27T09:22:12.745303+00:00
 image: "/img/heroes/9875443.jpg"
 draft: false
@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A Colorado homeowner saved about $8,000 by pulling his own permit, sourcing his own panels, and installing everything himself. He's also a licensed electrician with 15 years of experience who spent four weekends on the roof and another two weeks wrestling with utility paperwork. That's the actual DIY solar story, not the highlight reel. It can work. It's not straightforward, and the distance between "I watched some YouTube videos" and "I successfully connected a grid-tied solar system" is much larger than most people think.
 

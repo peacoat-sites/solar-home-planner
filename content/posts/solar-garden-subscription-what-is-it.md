@@ -1,5 +1,5 @@
 ---
-title: "Solar Garden Subscription What Is It"
+title: "How Solar Garden Subscriptions Work For You"
 date: 2026-06-29T23:36:13.993531+00:00
 draft: false
 description: "A solar garden subscription lets you buy into a shared solar farm and get credits on your electric bill without installing panels on your home."
@@ -23,7 +23,7 @@ faqs:
    a: "Most programs cap your subscription at 100% to 120% of your average annual consumption, and some states set the cap at exactly your 12-month average. Subscribing beyond your usage doesn't generally result in a cash payment; unused credits may roll over monthly but often expire annually, so over-subscribing can mean paying for production you never benefit from."
  - q: "Are solar garden subscription credits taxable income?"
    a: "The IRS hasn't issued a definitive ruling specifically on community solar bill credits as of June 2026, and this is an area where the research is genuinely mixed. Most tax practitioners treat bill credits as a reduction in an expense rather than income, meaning they're generally not taxable. But I'd confirm with a CPA if your subscription generates more than a few hundred dollars annually in credits."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people hear "community solar" and picture a shared rooftop somewhere. What they don't realize is that the actual mechanism behind it, the thing you're signing up for, is a garden subscription. And those two words do a lot of heavy lifting.

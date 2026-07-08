@@ -1,5 +1,5 @@
 ---
-title: "Critical Loads Panel Solar Backup"
+title: "Power Your Home During Blackouts With Solar Backup"
 date: 2026-06-29T00:36:30.546320+00:00
 draft: false
 description: "Learn how a critical loads panel works with solar backup systems to keep essential home circuits powered during outages and reduce energy costs."
@@ -23,7 +23,7 @@ faqs:
    a: "The battery inverter will either throttle output or trip an overcurrent protection device on the critical loads panel, depending on the inverter model. You won't damage the battery, but you might trip a breaker and lose power to those circuits until you reset it and reduce the load."
  - q: "Do I need a separate permit for the critical loads panel versus the solar and battery permit?"
    a: "Usually it's covered under a single permit application for the entire solar-plus-storage system, but this varies by jurisdiction. Some municipalities issue separate electrical permits for the subpanel work. Ask your installer to confirm what permits they're pulling before work starts, and verify with your local building department if they can't give you a straight answer."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most homeowners shopping for solar-plus-storage think "backup" means the whole house stays on. It doesn't. What you actually get with a standard battery install, unless someone specifically sets up a critical loads panel, is a dead house during an outage even if you have a fully charged battery sitting right there in your garage. I've watched this happen to a reader named Marcus from Sacramento who installed a 10 kWh system in 2024, lost power in a grid outage, and his battery did absolutely nothing for him. His installer never explained the difference.

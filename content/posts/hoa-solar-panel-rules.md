@@ -1,5 +1,5 @@
 ---
-title: "HOA Solar Panel Rules"
+title: "Getting Solar Approved: Your HOA Rules Guide"
 date: 2026-05-24T22:33:22.882718+00:00
 draft: false
 description: "HOA solar panel rules guide homeowners through regulations, approval processes, and legal requirements for installing solar panels in your community."
@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've found the perfect south-facing roof, gotten three quotes, and you're ready to pull the trigger on a solar install. Then the HOA letter arrives. "Your request has been denied pending further review." It's one of the most common gut-punch moments in residential solar, and I've watched it derail installs that should have been straightforward. Here's the thing though: in most states, your HOA doesn't actually have the final say. Understanding exactly where the law stands, what your HOA can and can't demand, and how to build an airtight approval request can mean the difference between getting your system installed and fighting a losing battle with your neighbor's architectural committee.
 

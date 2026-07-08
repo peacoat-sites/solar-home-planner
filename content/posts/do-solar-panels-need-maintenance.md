@@ -1,5 +1,5 @@
 ---
-title: "Do Solar Panels Need Maintenance"
+title: "Keep Your Solar Panels Running: Essential Maintenance Tips"
 date: 2026-06-19T00:11:43.243550+00:00
 draft: false
 description: "Solar panels require minimal but essential maintenance. Learn what to clean, inspect, and monitor to keep your system running at peak efficiency."
@@ -23,7 +23,7 @@ faqs:
    a: "Individual panels can be replaced without replacing your whole system. Make sure you work with your original installer or someone who knows your racking system, because panel dimensions vary. Keep the original spec sheet and installation documentation, since matching a new panel's electrical characteristics matters more than matching its brand name."
  - q: "Should I get solar panels inspected before buying a house with them?"
    a: "Yes, 100%. Have a licensed solar contractor pull the monitoring history if the seller can provide account access, look at the inverter, check the age of the system against the warranty status, and visually inspect the racking and roof penetrations. It's a couple hundred dollars well spent, because you're inheriting whatever problems exist and potentially any remaining warranty complications."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most solar panels sit up there on your roof for years without any problems, and that's exactly what leads a lot of homeowners to assume they need nothing at all. That assumption is mostly right. But "mostly" is doing some work in that sentence, and if you want your system to perform close to what you were promised on the sales sheet, there are a few things worth actually paying attention to.

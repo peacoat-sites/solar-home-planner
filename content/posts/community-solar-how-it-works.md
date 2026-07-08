@@ -1,5 +1,5 @@
 ---
-title: "Community Solar How It Works"
+title: "How Community Solar Projects Generate Power For Your Home"
 date: 2026-06-13T00:01:39.760677+00:00
 draft: false
 description: "Discover how community solar works, letting renters and homeowners access clean, affordable solar energy without rooftop panels and save money on electricity bi"
@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-
+lastmod: 2026-07-08
 ---
 Your electric bill arrives and you think: solar makes sense, but I rent. Or you own your home but the roof faces north, or it's shaded by a 60-year-old oak you'd never cut down, or you simply can't swing the $18,000 upfront even after the federal tax credit. Community solar was built for exactly this moment. Not as a consolation prize. As a genuinely smart option that millions of people overlook because the marketing around it is confusing and the internet is full of vague explainer articles that never actually tell you what happens step by step.
 

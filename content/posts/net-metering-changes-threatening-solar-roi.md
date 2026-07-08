@@ -1,5 +1,5 @@
 ---
-title: "Net Metering Changes Threatening Solar ROI"
+title: "How Net Metering Changes Affect Your Solar Payback"
 date: 2026-07-05T23:37:22.085196+00:00
 draft: false
 description: "Discover how recent net metering policy changes are reducing solar panel returns and what homeowners can do to protect their solar investment."
@@ -23,7 +23,7 @@ faqs:
     a: "Ask the installer to show you a scenario where the export rate drops to $0.04 to $0.06/kWh (the low-end 'avoided cost' rate that several states now use) and recalculate the payback period from there. If the system still pencils out within 15 years under that conservative assumption, you have a more durable investment. If it only works at current retail export rates, you're taking on policy risk."
   - q: "Are there solar financing structures that reduce my exposure to net metering changes?"
     a: "A fully owned system (cash or loan) gives you the most flexibility to adapt as policies change, because you control the hardware. PPAs and leases lock you into a third-party arrangement where the solar company captures the export credits, which may or may not be favorable depending on future rate environments. I generally recommend ownership unless the upfront cost is genuinely prohibitive."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Something that almost no one told me when I got into residential solar consulting: the rate your utility pays you for excess power matters as much as the panels themselves. I'll be honest, I assumed net metering was a settled thing. A law. A right. After spending most of my career doing electrical work and then making the shift into solar, I figured the policy framework was stable enough to plan around. I was wrong about that, and it's cost some of my clients real money.

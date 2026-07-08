@@ -1,5 +1,5 @@
 ---
-title: "Solar Company Certifications Nabcep"
+title: "NABCEP Certification: Your Solar Installer's Real Credential"
 date: 2026-05-26T03:22:51.981353+00:00
 draft: false
 description: "Learn why NABCEP certifications matter when choosing a solar company. Discover how certified installers ensure quality, safety, and reliable solar energy system"
@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've just gotten [three solar quotes](/how-to-get-solar-quotes/). The prices are all over the map, the salespeople all sound confident, and every company's website says they're "certified professionals" with "expert installers." So how do you actually tell the difference between a contractor who knows what they're doing and one who's going to leave you with a system that fails inspection, voids your roof warranty, or produces 20% less power than promised? The answer often comes down to one credential most homeowners have never heard of: NABCEP.
 

@@ -1,5 +1,5 @@
 ---
-title: "DIY Solar Panel System Sizing"
+title: "Size Your Own Solar System Right"
 date: 2026-05-29T00:51:20.921747+00:00
 draft: false
 description: "Learn how to size a DIY solar panel system correctly. Calculate your energy needs, choose the right panels, batteries, and inverter for a reliable off-grid or g"
@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners walk into solar quotes with zero leverage. They hand the salesperson a utility bill, nod along while someone explains "peak sun hours," and end up with a system somebody else sized for them. I've watched this happen dozens of times. The salesperson isn't necessarily lying, but they have every incentive to round up. A bigger system means a bigger commission. What I want to show you is that sizing a solar system yourself isn't that complicated, and doing it before you ever talk to a contractor changes the entire conversation.
 

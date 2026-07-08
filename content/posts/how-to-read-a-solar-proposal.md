@@ -1,5 +1,5 @@
 ---
-title: "How To Read A Solar Proposal"
+title: "Decode Your Solar Proposal: A Buyer's Guide"
 date: 2026-06-04T12:25:59.188340+00:00
 draft: false
 description: "Learn how to read a solar proposal with confidence. Understand system size, costs, savings estimates, and key terms before signing any solar energy agreement."

@@ -1,5 +1,5 @@
 ---
-title: "Off Grid Solar System For Home Complete Guide"
+title: "Off Grid Solar Systems: Your Complete Installation Guide"
 date: 2026-05-29T11:49:21.680083+00:00
 draft: false
 description: "Discover how to design and install an off grid solar system for your home. Learn about components, sizing, costs, and tips to achieve energy independence today."
@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You found a piece of land. Maybe you inherited it, maybe you've been saving for years, or maybe you just got tired of watching your utility bill climb past $300 a month with no end in sight. Whatever brought you here, you're now staring at the real question: can you actually power a home without being connected to the grid? The answer is yes, and people do it every day. But the path from "I want off-grid solar" to "my lights are on and my freezer is running" involves a lot of decisions that most YouTube videos gloss over. Let's work through this properly.
 

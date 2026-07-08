@@ -1,5 +1,5 @@
 ---
-title: "Solar + EV Charging Home Setup"
+title: "Power Your EV With Solar: The Home Setup Guide"
 date: 2026-05-28T16:01:26.792155+00:00
 draft: false
 description: "Discover how to set up solar panels with EV charging at home, reduce energy costs, and drive on clean power with our complete step-by-step guide."
@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You bought the EV first. Or maybe you're about to. And now someone, a neighbor, a coworker, a YouTube rabbit hole at midnight, has convinced you that free solar charging is possible. It is. But it's not as simple as bolting panels to your roof and plugging in the car.
 

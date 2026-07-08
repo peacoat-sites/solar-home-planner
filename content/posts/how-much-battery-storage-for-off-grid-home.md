@@ -1,5 +1,5 @@
 ---
-title: "How Much Battery Storage For Off Grid Home"
+title: "Battery Storage Sizing: The Off-Grid Home Guide"
 date: 2026-05-29T03:57:22.899562+00:00
 draft: false
 description: "Discover how much battery storage your off grid home needs. Learn key factors like energy usage, backup days, and system size to choose the right battery bank."
@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people who ask me about off-grid battery sizing start with the wrong question. They want to know how many panels they need. But panels are almost irrelevant if you haven't figured out storage first. Your battery bank is the backbone of an off-grid system, and getting it wrong doesn't just mean higher costs. It means waking up at 2 a.m. to a dead system in January because you undersized by 20%.
 

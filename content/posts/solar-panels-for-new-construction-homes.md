@@ -1,5 +1,5 @@
 ---
-title: "Solar Panels For New Construction Homes"
+title: "Build Solar Into New Homes From the Ground Up"
 date: 2026-05-28T14:30:08.829654+00:00
 draft: false
 description: "Discover the benefits of installing solar panels in new construction homes. Learn about costs, incentives, energy savings, and how to integrate solar from the s"
@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you're building a new home right now, you're sitting on something most homeowners never get: the chance to do solar right the first time. No ripping off shingles. No threading conduit through drywall. No fighting with your roofer over warranty voiding. Most people add solar years later and pay a premium for that delay. Building new flips the entire equation. The decisions you make in the next few weeks of planning can save you thousands and spare you years of retrofit headaches.
 

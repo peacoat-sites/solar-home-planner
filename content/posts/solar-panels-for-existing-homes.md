@@ -1,5 +1,5 @@
 ---
-title: "Solar Panels For Existing Homes"
+title: "Adding Solar To Your Existing Home: What's Involved"
 date: 2026-05-21T22:38:00.691110+00:00
 draft: false
 description: "Discover how to add solar panels to your existing home. Learn about costs, installation options, savings on energy bills, and how to choose the right system for"
@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your electric bill arrives in July, and it's $340. Central AC running, a couple teenagers, maybe a home office humming all day. You glance at the neighbors' roof, see those panels gleaming, and think: *could I actually do that?* The answer's yes. But there's a canyon between "thinking about solar" and "having a system that actually saves you money," and most installers won't walk you through it honestly. Let's fix that.
 

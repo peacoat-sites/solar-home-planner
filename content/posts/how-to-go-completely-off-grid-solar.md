@@ -1,5 +1,5 @@
 ---
-title: "How To Go Completely Off Grid Solar"
+title: "Complete Off-Grid Solar Setup: A Homeowner's Guide"
 date: 2026-05-19T17:15:40.329883+00:00
 draft: false
 description: "Learn how to go completely off grid with solar power. Discover system sizing, battery storage, panels, and everything you need for full energy independence."
@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Picture this: the power goes out at 11 PM during an ice storm, and your neighbor's house goes dark while yours stays lit, your heat keeps running, and you're watching TV with a hot cup of coffee. That's not a fantasy. That's what a properly designed off-grid solar system looks like in practice. I've helped homeowners get there, and I've also watched people spend $40,000 on systems that couldn't power their electric dryer. The difference almost always comes down to planning, not products.
 

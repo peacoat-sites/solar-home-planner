@@ -1,5 +1,5 @@
 ---
-title: "DIY Solar With Battery Storage"
+title: "Build Your Own Solar System With Battery Backup"
 date: 2026-06-23T23:38:00.076609+00:00
 draft: false
 description: "Learn how to build a DIY solar system with battery storage, cut electricity bills, and gain energy independence with step-by-step setup advice."
@@ -23,7 +23,7 @@ faqs:
    a: "A standard grid-tie inverter only pushes solar power to the grid or your home loads. A hybrid inverter does that plus manages battery charging and discharging, and provides backup power output when the grid is down. If battery storage is in your plans at all, start with a hybrid inverter, not a plain grid-tie unit you'll have to replace later."
  - q: "Is DIY solar with battery storage worth it compared to hiring a contractor?"
    a: "If you're comfortable with the permitting process and have some electrical knowledge (or access to a licensed electrician for the sign-off), you can realistically save 30 to 50% on labor costs. The research here is mixed on whether the time investment is worth it for everyone, but for the homeowner who's going to learn the system anyway and wants to understand exactly what's running their house, it's hard to argue against it."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people who ask me about DIY solar want to know one thing: how fast will it pay off? I get it. But I'll be honest, that's almost always the wrong first question. The better question is whether a battery-backed DIY system actually does what you think it's going to do, because what surprised me most when I went deep on this was how often homeowners end up with exactly the wrong setup for their actual situation.

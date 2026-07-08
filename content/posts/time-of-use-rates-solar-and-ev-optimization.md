@@ -1,5 +1,5 @@
 ---
-title: "Time Of Use Rates Solar And EV Optimization"
+title: "Time-Of-Use Rates: The Hidden Solar And EV Advantage"
 date: 2026-06-22T23:49:44.608893+00:00
 draft: false
 description: "Learn how time of use rates work with solar panels and EVs to slash your electricity bill by charging and exporting power at the right hours."
@@ -23,7 +23,7 @@ faqs:
    a: "Most modern inverters with integrated battery management (Enphase, SolarEdge, Tesla) have TOU programming options, but they require manual setup. You have to input your utility's schedule, and you should check it every time your utility revises its tariff, which happens more often than you'd think."
  - q: "Is it worth switching to TOU if I have solar but no battery storage?"
    a: "Possibly, but it's not automatic. If your peak window overlaps with your midday solar production window, you can offset peak imports naturally. If the peak window is evening-only and your export rate is low, TOU could actually cost you more. Model it first with your actual usage data."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most articles about time-of-use rates spend three paragraphs explaining what a rate schedule is, then tell you to "shift your loads to off-peak hours." Thanks. Very helpful. What they skip is the actual math, the tricky interactions between solar production and TOU windows, and why an EV charger can either be your best weapon or quietly wreck your bill if you're not paying attention.

@@ -1,5 +1,5 @@
 ---
-title: "Fighting HOA Solar Panel Denial"
+title: "How To Legally Challenge Your HOA's Solar Denial"
 date: 2026-06-20T23:44:50.025461+00:00
 draft: false
 description: "Learn how to fight HOA solar panel denial using state laws, appeals, and legal rights to get your renewable energy system approved."
@@ -12,7 +12,7 @@ author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
 slug: "fighting-hoa-solar-panel-denial"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You got the denial letter, and now you're sitting there wondering if that's just... it. Whether your HOA actually has the power to block solar panels indefinitely, and whether fighting them is worth the hassle or just going to cost you money and neighborly goodwill you don't have to spare. You might be wondering if this is even a winnable situation.
 

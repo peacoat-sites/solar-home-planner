@@ -1,5 +1,5 @@
 ---
-title: "Solar For Flat Roof Homes"
+title: "Flat Roof Solar: Installation Guide for Homeowners"
 date: 2026-05-27T19:59:34.204792+00:00
 draft: false
 description: "Discover how solar panels work on flat roof homes, the best mounting systems available, and how to maximize energy output with the ideal tilt angle for your set"
@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've got a flat roof and you're thinking about solar. Maybe a contractor already told you it's "complicated" or quoted you a price that felt suspiciously high. Here's the thing: flat roofs are actually one of the better candidates for solar installation when it's done right. Unlike a steep pitched roof where panel angle is locked in by the structure, a flat roof gives you control. You can orient panels for maximum production, point them true south, dial in the tilt angle for your latitude, and space them to avoid self-shading. The "complication" most installers mention is real, but it's manageable, and understanding it puts you in a much stronger negotiating position.
 

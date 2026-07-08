@@ -1,5 +1,5 @@
 ---
-title: "Solaredge Monitoring Platform Review"
+title: "SolarEdge Monitoring Platform: Real-World Performance Review"
 date: 2026-07-03T23:36:36.414260+00:00
 draft: false
 description: "Discover how the SolarEdge monitoring platform tracks energy production, detects faults, and optimizes your solar system performance in this detailed review."

@@ -1,5 +1,5 @@
 ---
-title: "Best Roof Type For Solar Panels"
+title: "Metal Roofs vs Asphalt: Which Handles Solar Best"
 date: 2026-05-25T16:37:33.714321+00:00
 draft: false
 description: "Best roof types for solar panels: asphalt shingles, metal, and flat roofs offer optimal installation. Learn which suits your home and maximizes energy efficienc"
@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners spend weeks researching solar panels without ever thinking seriously about what's underneath them. Then a contractor shows up, takes one look at the roof, and says something vague like "that might be tricky." Suddenly you're facing unexpected costs, structural questions, or a flat-out "we can't do this job." The roof type you have right now is one of the biggest factors determining how easy, how expensive, and how long-lasting your solar installation will be. Let's get into the specifics.
 

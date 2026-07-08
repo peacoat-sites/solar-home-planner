@@ -1,5 +1,5 @@
 ---
-title: "Solar For Two Story Home"
+title: "Two-Story Homes Go Solar: A Complete Guide"
 date: 2026-05-25T13:35:13.420421+00:00
 draft: false
 description: "Discover how solar panels work on two story homes, the benefits, costs, installation tips, and how to maximize energy savings for your multi-level property."

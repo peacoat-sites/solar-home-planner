@@ -1,5 +1,5 @@
 ---
-title: "Red Flags When Hiring Solar Installer"
+title: "Hiring A Solar Installer? Watch For These Red Flags"
 date: 2026-05-24T15:32:09.833671+00:00
 draft: false
 description: "Avoid costly mistakes with your solar investment. Discover the top red flags when hiring a solar installer to protect your home and ensure a quality installatio"
@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A homeowner in Phoenix signed a contract with a solar company in February, put down $4,000, and by June the installer had vanished. The panels were never mounted. The deposit was gone. The lien the company had placed on her home took three months and a lawyer to clear. This isn't some obscure nightmare story buried in regulatory filings. The solar industry has a contractor fraud problem, and it's accelerating as demand spikes and undercapitalized outfits flood the market to chase easy money.
 

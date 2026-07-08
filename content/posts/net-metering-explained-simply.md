@@ -1,5 +1,5 @@
 ---
-title: "Net Metering Explained Simply"
+title: "How Net Metering Saves Solar Owners Money"
 date: 2026-06-02T12:56:37.595863+00:00
 draft: false
 description: "Learn how net metering works, how it can lower your electricity bills, and why it matters for solar panel owners. A simple, clear guide for beginners."
@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most solar homeowners I talk to can name their panel brand and their system's wattage off the top of their head. Ask them how net metering actually works on their utility bill, and you'll get a long pause. That surprised me, because net metering is the single financial mechanism that determines whether your solar investment pays off in 7 years or 15. It's not a bonus feature. It's the math underneath everything.
 

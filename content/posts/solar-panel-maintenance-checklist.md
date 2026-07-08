@@ -1,5 +1,5 @@
 ---
-title: "Solar Panel Maintenance Checklist"
+title: "Keep Your Solar Panels Running at Peak Performance"
 date: 2026-06-13T23:39:23.608094+00:00
 draft: false
 description: "Keep your solar panels performing at peak efficiency with our complete maintenance checklist covering cleaning, inspections, wiring checks, and seasonal care ti"
@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners go three or four years without touching their solar panels, then wonder why their production numbers have drifted down 12% and their installer won't return calls. I've seen it more times than I can count.
 

@@ -1,5 +1,5 @@
 ---
-title: "Solar For Mobile Homes And Manufactured Housing"
+title: "Mobile Home Solar: Complete Installation Guide"
 date: 2026-05-29T16:55:14.250224+00:00
 draft: false
 description: "Discover how solar panels can work for mobile and manufactured homes. Learn about installation options, costs, incentives, and energy savings for your property."
@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You own your land, you own your manufactured home, and your electric bill is running $180 a month. A neighbor down the road just got solar panels on their site-built house and cut their bill in half. So why does every solar company you call either quote you a sky-high price, tell you it's "complicated," or just stop returning your calls? That's not bad luck. That's a real pattern, and it has everything to do with how the industry views manufactured housing, not with whether solar actually works for your situation. It does. You just need to know the rules before you start.
 

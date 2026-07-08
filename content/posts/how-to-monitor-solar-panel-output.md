@@ -1,5 +1,5 @@
 ---
-title: "How To Monitor Solar Panel Output"
+title: "Track Your Solar Panel Performance in Real Time"
 date: 2026-06-10T23:58:11.129203+00:00
 draft: false
 description: "Learn how to monitor solar panel output with simple tools and techniques. Track energy production, spot issues early, and maximize your solar system's efficienc"

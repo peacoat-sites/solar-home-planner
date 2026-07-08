@@ -1,5 +1,5 @@
 ---
-title: "Microinverter Vs String Inverter Comparison"
+title: "String vs. Microinverters: Which Solar Setup Wins"
 date: 2026-06-12T00:00:21.172413+00:00
 draft: false
 description: "Compare microinverters vs string inverters on cost, efficiency, shading performance, and reliability to find the best solar inverter for your home or business."
@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Thirty-eight panels on a south-facing roof and not a single one performing at capacity. That's the first string inverter system I ever saw where the homeowner had no clue why his production numbers looked wrong. Turns out, three panels had bird droppings caked on them, and because they were wired in series, the whole string throttled down to match the weakest link. He'd been losing production for months without knowing it.
 

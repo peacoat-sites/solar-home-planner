@@ -1,5 +1,5 @@
 ---
-title: "Questions To Ask Solar Companies"
+title: "The Critical Questions To Ask Before Hiring A Solar Company"
 date: 2026-05-25T21:57:32.622411+00:00
 draft: false
 description: "Find the right solar installer with confidence. Discover the essential questions to ask solar companies before signing any contract or making a major investment"
@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A salesperson sits across your kitchen table, tablet in hand, promising you'll eliminate your electric bill and pay for the whole system in seven years. The numbers look great. The rep is friendly. And you're about to sign a contract worth $25,000 or more without asking a single hard question. I've watched this happen to neighbors, clients, and friends. The solar industry has real, reputable contractors in it, but it also has high-pressure closers who disappear after installation day. Knowing which questions to ask, and when to ask them, is the only thing standing between you and a decision you'll regret for the next 20 years.
 

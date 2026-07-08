@@ -1,5 +1,5 @@
 ---
-title: "Solar And Utility Bill Still High Why"
+title: "Why Your Solar Panels Aren't Lowering Your Bills"
 date: 2026-06-03T14:10:52.322577+00:00
 draft: false
 description: "Find out why your solar panels aren't lowering your utility bill as expected. Discover common reasons and practical fixes to finally reduce your energy costs."
@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You went solar to cut your electric bill. Your bill is still embarrassing. Here's what's actually going on.
 

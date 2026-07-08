@@ -1,5 +1,5 @@
 ---
-title: "How To Calculate Solar System Size For Home"
+title: "Size Your Solar System: A Homeowner's Calculation Guide"
 date: 2026-06-05T12:24:02.022486+00:00
 draft: false
 description: "Learn how to calculate the right solar system size for your home. Discover key factors like energy usage, roof space, and panel efficiency to make the best choi"

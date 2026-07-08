@@ -1,5 +1,5 @@
 ---
-title: "Off Grid Solar Vs Grid Tied Comparison"
+title: "Off-Grid vs Grid-Tied Solar: Which Fits Your Home"
 date: 2026-05-19T22:49:19.796999+00:00
 draft: false
 description: "Compare off grid solar vs grid tied systems to find the best fit for your home. Explore costs, reliability, energy independence, and key pros and cons."
@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting at your kitchen table with two quotes in front of you. One is from a company pushing a grid-tied system with a shiny app and a promise of a $0 electric bill. The other is from a guy who specializes in off-grid builds and keeps talking about "energy independence" like it's a constitutional right. Both of them made it sound simple. Neither of them actually explained the real tradeoffs. I've been in this exact conversation dozens of times, and what most people don't realize is that choosing between off-grid and grid-tied solar isn't just a technical decision. It's a lifestyle decision, a budget decision, and depending on where you live, sometimes a legal one.
 
