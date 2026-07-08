@@ -23,7 +23,7 @@ faqs:
     a: "Expect a 2-5% variance between SolarEdge-reported production and your utility's net meter reading. This is common across inverter-based monitoring, not unique to SolarEdge. If you're billing or reconciling against net metering credits, use your utility meter as the authoritative number."
   - q: "Can I grant my installer or a third party access to monitor my system?"
     a: "Yes. SolarEdge allows site sharing, and installers with a professional SolarEdge account can add your system to their fleet monitoring dashboard. You control this through the monitoring portal's site settings. If you want your installer to proactively flag issues, confirm they're actually monitoring and ask what their alert response process looks like."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 My first SolarEdge installation was a 7.2 kW system on a split-level in suburban Columbus, and I'll be honest: I oversold the monitoring platform to the homeowner. I told her it was "like having a window into every panel." That's technically true. What I didn't tell her was that window occasionally fogs up, sometimes shows the wrong view, and every so often just refuses to open.
@@ -122,6 +122,6 @@ What SolarEdge has that some competitors don't is the ecosystem: if you add EV c
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

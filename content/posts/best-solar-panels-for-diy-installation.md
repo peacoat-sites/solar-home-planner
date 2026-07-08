@@ -23,7 +23,7 @@ faqs:
     a: "The honest answer: most panels from reputable manufacturers will still produce meaningful power at 25-30 years. Degradation rates are typically 0.5-0.7% per year, so a panel producing 410W at install produces roughly 370-380W at year 25. The inverter will almost certainly fail before the panels do, usually around year 10-15."
   - q: "Is it worth buying used solar panels for a DIY system?"
     a: "Rarely. Used panels have unknown degradation history, voided manufacturer warranties, and often non-standard connectors. The price gap between used and new has narrowed enough that it's hard to justify the risk unless you can test each panel with a clamp meter before purchase and you're doing a non-permitted off-grid build."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most "best solar panels" articles are written by people who've never been on a roof. They rank modules by efficiency percentage and wattage as if those numbers tell you anything useful about actually installing the things yourself. They don't.
@@ -162,7 +162,7 @@ Production guarantees without a monitoring agreement. Guaranteeing 9,200 kWh/yea
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
-- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199) — 200W panel kit with MPPT charge controller for maximum energy harvest.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199), 200W panel kit with MPPT charge controller for maximum energy harvest.
 

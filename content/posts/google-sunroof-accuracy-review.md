@@ -23,7 +23,7 @@ faqs:
     a: "Not meaningfully. The tool is built around a solar-only model that assumes you're offsetting grid usage with net metering. If you're planning to add a battery (like a Tesla Powerwall or Enphase IQ Battery) and operate more self-sufficiently, Sunroof's savings projections aren't designed for that use case."
   - q: "How often does Google update the imagery used in Sunroof?"
     a: "Google doesn't publish a fixed update schedule for Sunroof specifically. Imagery updates are tied to Google Maps aerial data refreshes, which vary significantly by region. Some metro areas get updated every one to two years; rural or lower-density areas can go much longer between updates. If your property has changed significantly in the last few years, assume Sunroof's data may not reflect it."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Google Project Sunroof told a homeowner in my area she'd save $1,400 a year with solar. She called me after getting three installer quotes, all projecting closer to $800. That gap isn't nothing. It's the difference between a system that pays off in 8 years and one that pays off in 14.
@@ -125,6 +125,6 @@ New Jersey homeowner, complex Victorian roofline → Sunroof projected 14 panels
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

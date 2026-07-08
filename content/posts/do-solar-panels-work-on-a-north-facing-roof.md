@@ -23,7 +23,7 @@ faqs:
     a: "They should, and a good one will show you production estimates that reflect it. But not all will, especially if they're compensating for poor orientation by upsizing the system. Always ask for a PVWatts or Aurora Solar report showing projected annual kWh before signing anything."
   - q: "Is a ground-mount solar system a good alternative to a north-facing roof install?"
     a: "Often, yes. Ground mounts add $0.25 to $0.75 per watt to installation costs, but you get full orientation control, easier cleaning access, and no roof penetrations. If you have even a modest open area in your yard with southern exposure, it's worth pricing out before committing to a compromised rooftop install."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Three years ago, a homeowner in Asheville, North Carolina called me in a panic. She'd already signed a contract with a solar installer who'd told her, flat out, that her north-facing roof was "fine." I pulled up her address on Google Maps satellite view before she even finished the sentence. The main roof slope faced almost due north. I told her to pause the contract. She was about 10 days away from a $28,000 mistake.
@@ -70,11 +70,11 @@ Let me put some actual figures on this so you can pressure-test any quote you re
 
 | Condition | Annual Production (10 kW system) | vs. South-Facing | Notes |
 |---|---|---|---|
-| South-facing, 30° tilt, no shade | ~14,000–16,000 kWh | Baseline | Optimal install |
-| East or West-facing, 30° tilt | ~10,500–12,500 kWh | -15% to -25% | Still viable |
-| North-facing, 30° tilt | ~6,500–9,000 kWh | -35% to -55% | Marginal; location-dependent |
-| North-facing, 10° tilt (nearly flat) | ~9,000–11,000 kWh | -20% to -30% | Shallower pitch recovers production |
-| North-facing, heavily shaded | ~4,000–6,000 kWh | -60% to -70% | Usually not worth it |
+| South-facing, 30° tilt, no shade | ~14,000-16,000 kWh | Baseline | Optimal install |
+| East or West-facing, 30° tilt | ~10,500-12,500 kWh | -15% to -25% | Still viable |
+| North-facing, 30° tilt | ~6,500-9,000 kWh | -35% to -55% | Marginal; location-dependent |
+| North-facing, 10° tilt (nearly flat) | ~9,000-11,000 kWh | -20% to -30% | Shallower pitch recovers production |
+| North-facing, heavily shaded | ~4,000-6,000 kWh | -60% to -70% | Usually not worth it |
 
 These are estimated ranges based on industry modeling tools like PVWatts (NREL's free calculator) and my own experience sizing systems across the Southeast and Mid-Atlantic. Your actual numbers will vary by latitude, local weather, and equipment.
 
@@ -131,7 +131,7 @@ The other one: installers who size the system large to compensate for poor orien
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 

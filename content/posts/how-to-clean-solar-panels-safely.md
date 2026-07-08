@@ -23,7 +23,7 @@ faqs:
    a: "In rainy climates with moderate tilt, rain handles a lot of the routine dust. But rain doesn't do much for bird droppings, pollen, or heavy soiling, and flat-mount panels don't self-clean well at all. Think of rain as maintenance between cleanings, not a substitute."
  - q: "What's the best time of day to clean solar panels?"
    a: "Early morning, before the panels heat up in direct sun. Cleaning hot glass with cool water creates thermal stress and can cause micro-cracking over time. Early morning also means dew has been softening surface dirt, and you'll be done before the day heats up."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people wait too long to clean their solar panels. Then they finally do it wrong, scratching the glass or [voiding a warranty](/solar-panel-warranty-claim-process/) they didn't even know existed.
 
@@ -37,7 +37,7 @@ Here's what I tell people: it's genuinely simple, but you need to know a few spe
  <div class="vm-head">Panel Cleaning Safety Checklist with Thresholds</div>
  <div class="vm-body">
  <p class="vm-intro">Use this checklist to verify conditions before cleaning, each item has a specific pass/fail threshold based on manufacturer guidelines and installer best practices.</p>
- <table><thead><tr><th>Safety Check</th><th>Pass Threshold</th><th>Fail Action</th></tr></thead><tbody><tr><td>Panel surface temperature</td><td>Within 20°F (11°C) of ambient air temperature</td><td>Wait until early morning or 2+ hours after sunset</td></tr><tr><td>Water temperature differential</td><td>Less than 30°F (17°C) difference from panel surface</td><td>Use lukewarm water or let panels cool further</td></tr><tr><td>System power status</td><td>DC isolator OFF and inverter showing no production</td><td>Locate isolator switch; consult installer if unclear</td></tr><tr><td>Roof pitch</td><td>≤6:12 (≤27°) for DIY cleaning without harness</td><td>Hire professional or use fall protection equipment</td></tr><tr><td>Water pressure (if using hose)</td><td>≤40 PSI at nozzle (standard garden hose is typically 40–60 PSI)</td><td>Use spray attachment with gentle shower setting</td></tr><tr><td>Water mineral content</td><td>Soft or filtered water (under 120 ppm hardness)</td><td>Use deionized water or squeegee immediately to prevent spotting</td></tr><tr><td>Cleaning tool material</td><td>Soft sponge, microfiber, or lamb's wool only</td><td>Never use abrasive pads, brushes with stiff bristles, or pressure washers</td></tr><tr><td>Weather conditions</td><td>No rain forecast for 2+ hours, wind under 15 mph</td><td>Postpone cleaning to avoid slip hazards and streaking</td></tr></tbody></table>
+ <table><thead><tr><th>Safety Check</th><th>Pass Threshold</th><th>Fail Action</th></tr></thead><tbody><tr><td>Panel surface temperature</td><td>Within 20°F (11°C) of ambient air temperature</td><td>Wait until early morning or 2+ hours after sunset</td></tr><tr><td>Water temperature differential</td><td>Less than 30°F (17°C) difference from panel surface</td><td>Use lukewarm water or let panels cool further</td></tr><tr><td>System power status</td><td>DC isolator OFF and inverter showing no production</td><td>Locate isolator switch; consult installer if unclear</td></tr><tr><td>Roof pitch</td><td>≤6:12 (≤27°) for DIY cleaning without harness</td><td>Hire professional or use fall protection equipment</td></tr><tr><td>Water pressure (if using hose)</td><td>≤40 PSI at nozzle (standard garden hose is typically 40-60 PSI)</td><td>Use spray attachment with gentle shower setting</td></tr><tr><td>Water mineral content</td><td>Soft or filtered water (under 120 ppm hardness)</td><td>Use deionized water or squeegee immediately to prevent spotting</td></tr><tr><td>Cleaning tool material</td><td>Soft sponge, microfiber, or lamb's wool only</td><td>Never use abrasive pads, brushes with stiff bristles, or pressure washers</td></tr><tr><td>Weather conditions</td><td>No rain forecast for 2+ hours, wind under 15 mph</td><td>Postpone cleaning to avoid slip hazards and streaking</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -102,7 +102,7 @@ Pull up your monitoring app, Enphase Enlighten, SolarEdge, whatever your system 
 
 ## If You're Hiring Someone
 
-Professional cleaning for a typical residential system runs $150–$300 depending on system size, roof angle, and location. Reasonable once a year. Not reasonable every month, so be skeptical of quarterly "maintenance contracts" unless you're in a genuinely high-soiling area.
+Professional cleaning for a typical residential system runs $150-$300 depending on system size, roof angle, and location. Reasonable once a year. Not reasonable every month, so be skeptical of quarterly "maintenance contracts" unless you're in a genuinely high-soiling area.
 
 Red flags: anyone using a pressure washer, anyone who doesn't shut the system off first, anyone who can't tell you what brush or cleaning agent they're using. Ask those questions before they're on your roof.
 

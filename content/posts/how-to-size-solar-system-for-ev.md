@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners I talk to start the solar-plus-EV conversation completely backwards. They buy the car first, get the charging equipment installed, then call a solar installer and say something like "I want to offset my electricity bill." The installer quotes them a system based on their current usage, and six months later they're wondering why their net metering credit disappeared and their bill is climbing again. The EV wasn't in the equation. That one oversight can mean undersizing your system by 30 to 50 percent, and I've seen it happen more times than I can count.
 
@@ -31,7 +31,7 @@ Most homeowners I talk to start the solar-plus-EV conversation completely backwa
   <div class="vm-head">EV Solar Sizing Quick Calculator</div>
   <div class="vm-body">
     <p class="vm-intro">Use this worksheet to estimate your total solar system size before talking to installers.</p>
-    <table><thead><tr><th>Input</th><th>How to Find It</th><th>Example</th></tr></thead><tbody><tr><td>Annual home usage (kWh)</td><td>Sum 12 months of utility bills</td><td>10,500 kWh</td></tr><tr><td>Annual miles driven</td><td>Odometer ÷ years owned, or estimate daily × 365</td><td>13,500 miles</td></tr><tr><td>EV efficiency (mi/kWh)</td><td>Check EPA rating: sedans 3.5–4, SUVs 2.5–3, trucks 1.8–2.2</td><td>3.0 mi/kWh</td></tr><tr><td>Annual EV demand (kWh)</td><td>Miles ÷ efficiency</td><td>4,500 kWh</td></tr><tr><td>Total annual need (kWh)</td><td>Home + EV demand</td><td>15,000 kWh</td></tr><tr><td>Local sun-hours/day</td><td>NREL PVWatts or installer estimate (US range: 3.5–6.5)</td><td>5.0 hrs</td></tr><tr><td>System size needed (kW)</td><td>Total kWh ÷ 365 ÷ sun-hours ÷ 0.80 (system losses)</td><td>10.3 kW</td></tr></tbody></table>
+    <table><thead><tr><th>Input</th><th>How to Find It</th><th>Example</th></tr></thead><tbody><tr><td>Annual home usage (kWh)</td><td>Sum 12 months of utility bills</td><td>10,500 kWh</td></tr><tr><td>Annual miles driven</td><td>Odometer ÷ years owned, or estimate daily × 365</td><td>13,500 miles</td></tr><tr><td>EV efficiency (mi/kWh)</td><td>Check EPA rating: sedans 3.5-4, SUVs 2.5-3, trucks 1.8-2.2</td><td>3.0 mi/kWh</td></tr><tr><td>Annual EV demand (kWh)</td><td>Miles ÷ efficiency</td><td>4,500 kWh</td></tr><tr><td>Total annual need (kWh)</td><td>Home + EV demand</td><td>15,000 kWh</td></tr><tr><td>Local sun-hours/day</td><td>NREL PVWatts or installer estimate (US range: 3.5-6.5)</td><td>5.0 hrs</td></tr><tr><td>System size needed (kW)</td><td>Total kWh ÷ 365 ÷ sun-hours ÷ 0.80 (system losses)</td><td>10.3 kW</td></tr></tbody></table>
     <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>

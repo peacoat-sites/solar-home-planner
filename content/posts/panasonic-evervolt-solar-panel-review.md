@@ -23,7 +23,7 @@ faqs:
     a: "Yes, Panasonic's EverVolt warranty is transferable to subsequent homeowners, which adds real value if you sell before the warranty expires. Make sure your installer registers the panels with Panasonic at installation (not all do this automatically) and keep the documentation. A transferable 25-year warranty is a legitimate selling point on a home."
   - q: "What's the realistic payback period for EverVolt panels?"
     a: "It depends heavily on your electricity rate, local sun hours, and whether you're comparing against a budget panel or a mid-tier Tier 1. In high-rate markets (California, Massachusetts, Hawaii), total system payback including installation typically runs 7 to 10 years. The premium you pay for EverVolt over a mid-tier alternative may take 15 to 25 years to recover through extra production alone, so the financial case strengthens when you factor in the full warranty period and plan to stay in the home."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Panasonic makes really good solar panels. That's not the whole story, but it's where I'd start if a neighbor asked me over the fence.
@@ -148,6 +148,6 @@ For the expansion I'm doing now, I'm actually going with a different panel becau
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

@@ -23,7 +23,7 @@ faqs:
     a: "Your inverter's model-specific fault code list is in the installation manual, which you can find as a PDF on the manufacturer's website. Search '[your inverter brand] [model] fault code [the number you're seeing]' and you'll usually find the official documentation plus forum threads from installers who've seen it before. Don't just clear the fault without logging what it was. Repeated fault codes of the same type tell a story."
   - q: "Does lower inverter efficiency at partial load actually matter for my bill?"
     a: "Yes, more than most people expect. Most string inverters operate at peak efficiency (97 to 98.5 percent) only within a specific output range, typically 20 to 80 percent of rated capacity. In shoulder seasons, when your panels produce less and your loads are lower, your effective efficiency can drop to 94 to 95 percent. Over a year, that gap adds up to maybe 1 to 2 percent of total production, which on a 7 kW system translates to roughly 100 to 200 kWh annually. Not catastrophic, but worth knowing when comparing inverter specs during a system purchase."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most homeowners glance at their inverter display once after installation, see green lights and some numbers, and never look again. That's a mistake. Your inverter screen is the closest thing solar has to an engine diagnostic panel, and if you can read it fluently, you'll catch problems months before they cost you real money.
@@ -136,6 +136,6 @@ The [U.S. Department of Energy's homeowner guide to going solar](https://www.ene
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 
