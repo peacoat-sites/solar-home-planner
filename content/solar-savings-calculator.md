@@ -5,7 +5,8 @@ date: 2026-06-10
 draft: false
 description: "Use our free solar savings calculator to estimate annual savings, payback period, and 25-year returns for your home solar system, including the 30% federal tax credit."
 slug: "solar-savings-calculator"
-author: "Liz & Tom Greer"
+author: "Rachel Kim"
+author_slug: "rachel-kim"
 categories: ["Solar Cost & Savings"]
 tags: ["solar calculator", "solar savings", "payback period", "federal tax credit", "solar ROI"]
 image: "https://images.pexels.com/photos/159397/solar-panel-array-power-sun-electricity-159397.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

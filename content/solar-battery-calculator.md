@@ -5,7 +5,8 @@ date: 2026-06-10
 draft: false
 description: "Calculate exactly how many solar batteries you need to power your home during an outage. Enter your critical loads, days of backup, and battery specs to get an instant estimate."
 slug: "solar-battery-calculator"
-author: "Liz & Tom Greer"
+author: "David Torres"
+author_slug: "david-torres"
 categories: ["Off-Grid & Backup Power"]
 tags: ["battery storage", "solar battery", "battery backup", "Powerwall", "home energy storage"]
 image: "https://images.pexels.com/photos/9875441/pexels-photo-9875441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
