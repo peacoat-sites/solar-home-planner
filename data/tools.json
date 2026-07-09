@@ -2,17 +2,19 @@
   {
     "label": "Battery Calc",
     "url": "/solar-battery-calculator/",
-    "icon": "\u2600\ufe0f",
+    "icon": "☀️",
     "match": [
       "battery"
-    ]
+    ],
+    "desc": "Size the battery bank you need to keep power flowing after dark."
   },
   {
     "label": "Savings Calc",
     "url": "/solar-savings-calculator/",
-    "icon": "\u2600\ufe0f",
+    "icon": "☀️",
     "match": [
       "savings"
-    ]
+    ],
+    "desc": "Estimate how much you could save by switching your home to solar."
   }
 ]
