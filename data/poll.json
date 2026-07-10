@@ -1,0 +1,21 @@
+{
+  "question": "What's holding you back from going solar?",
+  "options": [
+    {
+      "label": "Upfront cost",
+      "votes": 428
+    },
+    {
+      "label": "Trust in installers",
+      "votes": 203
+    },
+    {
+      "label": "Roof suitability",
+      "votes": 117
+    },
+    {
+      "label": "Waiting for better tech",
+      "votes": 88
+    }
+  ]
+}
