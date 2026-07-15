@@ -132,3 +132,13 @@ According to the [Solar Energy Industries Association (SEIA)](https://www.seia.o
 If you're still in the quote-gathering phase, the [EnergySage marketplace](https://www.energysage.com/) is genuinely useful for getting multiple bids on a standardized basis. And if you want to track your system's output once it's installed, a home energy monitor like the **Emporia Vue** (available on [Amazon](https://amzn.to/emporiavue) -- the site may earn a commission) pairs well with most inverter brands to give you real-time consumption data alongside your solar production. Knowing what you produce is only half the picture.
 
 ---
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+

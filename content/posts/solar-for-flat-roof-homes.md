@@ -126,3 +126,14 @@ A flat roof isn't a compromise when it comes to solar. Done right, it's a genuin
 - **[Renogy 100W Flexible Solar Panel](https://www.amazon.com/dp/B09W21FRBC/?tag=contentportfo-20)** (~$89), 22% efficiency flexible solar panel that bends up to 240°, designed for curved roofs and irregular mounting surfaces.
 
 *Photo: [Trinh Trần](https://www.pexels.com/@trinh-tr-n-191284110) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[Renogy 100W Flexible Solar Panel](https://www.amazon.com/dp/B09W21FRBC/?tag=contentportfo-20)** (~$89), 22% efficiency flexible solar panel that bends up to 240°, designed for curved roofs and irregular mounting surfaces.
+
