@@ -120,16 +120,6 @@ An installer who can't clearly explain the difference between your retail TOU ra
 
 NEM 3.0 is a real shift, not a minor tweak, and the homeowners who do well under it are the ones who treat it as a fundamentally different product than what their neighbors bought in 2020. The good news is that smart system design, the right battery pairing, and a solid grasp of your TOU rates can still produce a genuinely strong return on investment. You just have to go in with eyes open, ask harder questions, and refuse to accept proposals that were built for a policy that no longer exists.
 
-## Helpful Resources
-
-> **Disclosure:** *As an Amazon Associate, this site earns from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue 2](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20)

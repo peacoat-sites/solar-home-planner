@@ -19,8 +19,6 @@ This quick 7-question quiz looks at where you are *right now*, your roof, your e
 
 However you scored, remember there's no rush to be perfect. Readiness is something you can build over a few months. If this year isn't the one, pull your last 12 electric bills or get your roof inspected. Either of those puts you in a great spot for next season. [Browse our beginner guides](/cheapest-way-to-go-solar-diy/) to keep learning at your own pace.
 
-## Recommended Resources
-
 ## Sources
 
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)

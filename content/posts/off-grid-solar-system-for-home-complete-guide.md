@@ -141,17 +141,7 @@ If you're ready to start educating yourself on the installation side, a [DIY sol
 
 Going off-grid isn't for everyone, and there's no shame in deciding that a grid-tied system with battery backup better fits your life and budget. But if independence, rural land, or genuine energy security is what you're after, off-grid solar is a proven path. The technology has matured, the costs have come down substantially, and the community of people doing this well is larger than ever. Do the load math honestly, buy quality components, pull the permits, and you'll be running your home on sunlight for decades.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -102,16 +102,6 @@ And if a solar company is pushing a 25-year loan with an interest rate above 9% 
 
 The right choice between grid-tied and off-grid isn't about which one sounds more satisfying on paper. It's about your location, your utility's policies, your realistic budget, and how much hands-on involvement you actually want with your energy system. I've seen grid-tied systems with modest battery backup transform how families think about energy, and I've seen beautifully engineered off-grid systems give rural homeowners something no utility could offer them. Both paths work. The key is being honest about which one fits your actual life, not the idealized version of it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [tracks net metering policies by state](https://www.seia.org/)

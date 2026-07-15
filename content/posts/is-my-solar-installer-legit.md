@@ -116,19 +116,7 @@ If you have a dispute with an installer, your first call should be to your state
 
 The solar industry has plenty of genuinely good installers who will do right by you, stand behind their work, and still be in business when you need them in year 15. The homework I've outlined above takes a few hours and gives you a much clearer picture of who you're actually dealing with. Your system will be on your roof for 25 years. Spend the time before you write the check.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
-*Photo: [Los Muertos Crew](https://www.pexels.com/@cristian-rojas) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -143,4 +131,3 @@ The solar industry has plenty of genuinely good installers who will do right by 
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

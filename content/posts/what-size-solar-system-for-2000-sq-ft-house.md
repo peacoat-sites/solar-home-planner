@@ -132,16 +132,6 @@ Get at least three quotes. Compare them on price per watt installed, not just to
 
 The right solar system for your 2,000 sq ft home comes down to three things: how much electricity you actually use, how much sun your location and roof can capture, and how your utility compensates for energy you export. Start with your electric bills, use the formula in this article to get a baseline, and walk into contractor conversations with that number already in hand. You'll get better quotes and ask better questions. That's not a small thing when you're making a $20,000 decision.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [adding a Level 2 EV charger](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=contentportfo-20)

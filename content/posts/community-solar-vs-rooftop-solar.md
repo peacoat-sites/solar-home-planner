@@ -103,18 +103,6 @@ One more suggestion for anyone going the rooftop route: invest in a home energy 
 
 The honest answer is there's no universal winner. What surprised me most is how location-specific, and specifically utility-policy-specific, the math turns out to be. Two homeowners in adjacent states can make completely opposite decisions and both be right. Know your roof, know your utility, know your timeline, and run the actual numbers before anyone hands you a contract.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-
-*Photo: [Dang Hong](https://www.pexels.com/@dwanghong) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)

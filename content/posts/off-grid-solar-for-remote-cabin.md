@@ -91,18 +91,6 @@ The cabin that finally made me a convert to proper off-grid solar planning wasn'
 
 Three years later, she's never once dealt with a dead battery bank during a visit. That's what good sizing buys you. Not the fanciest equipment. Just a system that matches the life you actually want to live out there.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-*Photo: [Jean-Paul Wettstein](https://www.pexels.com/@jean-paul-wettstein-677916508) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)

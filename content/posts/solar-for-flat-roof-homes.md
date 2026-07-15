@@ -110,8 +110,6 @@ Most solar installers do most of their work on pitched roofs. That's where the v
 
 A flat roof isn't a compromise when it comes to solar. Done right, it's a genuine advantage: precise panel orientation, easier maintenance access, and a layout you can actually control. The key is working with a contractor who understands flat roof specifics rather than one who just replaces their usual pitched-roof process with a ballast order and hopes for the best. Ask the hard questions, verify the load calculations, protect the membrane, and pull the permits. You'll end up with a system that performs well and doesn't cause you grief for the next 25 years.
 
-## Recommended Resources
-
 ## Sources
 
 - [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)

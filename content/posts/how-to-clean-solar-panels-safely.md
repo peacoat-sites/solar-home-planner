@@ -110,18 +110,6 @@ Red flags: anyone using a pressure washer, anyone who doesn't shut the system of
 
 There's something satisfying about checking your monitoring app the day after cleaning and watching production numbers climb. It's one of the few things on a solar system you can actually fix yourself without calling anyone. Do it carefully, do it at the right time, and your panels will work the way they're supposed to.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-*Photo: [Stefan de Vries](https://www.pexels.com/@sdvmovies) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [according to the National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)

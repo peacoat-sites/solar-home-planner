@@ -115,18 +115,6 @@ For monitoring your production and self-consumption ratio, a good home energy mo
 
 The states with strong net metering right now won't all look this way in five years. California was a cautionary tale few saw coming at scale. Florida's situation is still unresolved. If you're seriously evaluating solar in 2026, treat the export rate as a core input in your financial model, not a footnote. A system that makes sense at $0.14/kWh export credit may not make sense at $0.04/kWh, and getting that number wrong before you sign a 25-year loan is an expensive mistake to correct.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
-*Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)

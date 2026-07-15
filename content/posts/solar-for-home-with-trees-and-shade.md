@@ -104,19 +104,7 @@ Ask directly: "What annual production loss are you attributing to shade, and how
 
 Shade doesn't disqualify your home from solar. It just means you need to be more rigorous than the average homeowner who signs the first proposal that shows up. Get a real shade analysis, push for optimizer-based technology, think creatively about panel placement, and don't let anyone skip the site-specific production modeling. The homes that get disappointing systems aren't usually the ones with the most trees. They're the ones where nobody did the homework.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-
-*Photo: [Serg Karpow](https://www.pexels.com/@strannik-sk) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -131,4 +119,3 @@ Shade doesn't disqualify your home from solar. It just means you need to be more
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

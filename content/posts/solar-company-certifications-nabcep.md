@@ -118,18 +118,6 @@ If you're thinking about battery storage or EV charging down the road, ask wheth
 
 The residential solar industry is growing fast, and that growth attracts contractors better at marketing than installation. NABCEP certification won't guarantee a perfect project, but it gives you a concrete, verifiable standard to anchor your evaluation to. Do the five-minute directory check before any sales presentation. It's the easiest filter you have, and it costs nothing.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
-*Photo: [Michael Pointner](https://www.pexels.com/@michael-pointner-134459625) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)

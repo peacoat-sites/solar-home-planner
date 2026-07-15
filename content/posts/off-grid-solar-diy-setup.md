@@ -117,16 +117,6 @@ Consider your water and HVAC loads carefully. A well pump and an air conditioner
 
 Off-grid solar isn't a product you buy. It's a system you design, build, and manage. The homeowners who thrive with it are the ones who treat it like the engineering project it is, learn their system deeply, and plan conservatively. Start with a thorough load audit, don't skimp on battery capacity, fuse everything properly, and keep a generator in reserve for the hard weeks. Do those things, and you'll produce your own power for 25 years without ever sending a check to the utility company again.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)

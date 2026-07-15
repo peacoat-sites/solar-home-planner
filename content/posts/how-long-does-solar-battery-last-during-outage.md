@@ -110,19 +110,6 @@ If you take one thing away, it's the distinction between a battery that buys you
 
 My neighbor got batteries installed six months after that derecho. Two Powerwalls, a 9 kW array, a properly configured critical loads panel. I helped her pick her circuits. Last spring, when her neighborhood lost power for four days in an ice storm, she didn't lose a single thing in her freezer.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-
-*Photo: [Markus Spiske](https://www.pexels.com/@markusspiske) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)

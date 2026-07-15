@@ -118,16 +118,6 @@ If you're in an HOA community, the rules get thornier. The Solar Energy Industri
 
 Going solar in a tiny home is one of the few situations where the DIY path genuinely competes with, and often beats, professional installation in both cost and outcome. You can buy better components for the same money, and you'll understand your system well enough to troubleshoot it when something goes wrong at mile marker 400 on a cross-country move. The key is doing the load math honestly, choosing components that work together, and not cutting corners on wire sizing and connections. Do that, and you've built something that'll serve you reliably for 20 years.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)

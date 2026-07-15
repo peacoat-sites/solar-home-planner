@@ -127,17 +127,7 @@ The savings case for DIY solar is real but not guaranteed. Contractor labor and 
 
 DIY solar is genuinely achievable for a specific type of homeowner: patient, mechanically capable, electrically literate, and willing to spend real time on paperwork and research. If that's you, the savings are meaningful and the satisfaction is real. If it's not quite you, a hybrid approach or even just being a highly informed consumer when hiring a contractor can still put money back in your pocket. The worst outcome isn't failing at DIY. It's rushing into either path without knowing what you're actually getting into.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

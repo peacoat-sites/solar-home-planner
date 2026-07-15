@@ -128,17 +128,7 @@ One often-missed point: the solar credit covers battery storage even if the batt
 
 The combined credit stack available to a homeowner buying solar, an EV, and a Level 2 charger can legitimately exceed $15,000. That's real money, and none of it requires anything exotic, just accurate paperwork, honest system sizing, and a tax professional who's actually done this before. The credits work. You just have to work them correctly.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

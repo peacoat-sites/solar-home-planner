@@ -108,16 +108,6 @@ There's no universal right answer here, and anyone who tells you otherwise is ei
 
 The efficiency number on a spec sheet is a starting point, not a purchase decision. The homeowners who get the most out of their solar investment are the ones who cross-reference that number with temperature coefficient, system sizing, degradation guarantees, and their own roof constraints before signing anything. That takes maybe an extra hour of research. On a $20,000 purchase, that's a pretty good use of an hour.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)

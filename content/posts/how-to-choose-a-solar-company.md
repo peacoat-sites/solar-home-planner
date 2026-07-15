@@ -113,18 +113,6 @@ To track your system's performance once it's installed, a [home energy monitor](
 
 Choosing a solar company isn't glamorous work, but it's the part of going solar that has the biggest impact on whether your system performs and your investment holds up over 25 years. The companies worth hiring are usually happy to answer hard questions, show you their credentials, and put specific numbers in writing. The ones that aren't happy to do that are telling you something important. Trust what they show you more than what they say.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-
-*Photo: [Nadeem Jafar](https://www.pexels.com/@nadeem-jafar-10715349) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [EnergySage's market data](https://news.energysage.com/)

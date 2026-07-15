@@ -90,16 +90,6 @@ There's also a real but underappreciated advantage to cold temperatures in cloud
 
 Don't let a string of gray days convince you your system isn't doing its job. Watch the annual totals. Understand your local peak sun hours before you size anything. And if an installer can't show you a monthly PVWatts breakdown for your specific roof, find one who can.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)

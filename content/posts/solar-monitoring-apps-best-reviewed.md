@@ -94,16 +94,6 @@ If your monitoring app doesn't let you export data as a CSV or PDF report, that'
 
 The gap between a good monitoring setup and a bad one isn't price. It's attention. Spend 20 minutes configuring your alerts properly after installation and you'll catch a failed microinverter or an underperforming string in days instead of months. That 20 minutes is worth more than any premium app feature.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue Gen 2](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=contentportfo-20)

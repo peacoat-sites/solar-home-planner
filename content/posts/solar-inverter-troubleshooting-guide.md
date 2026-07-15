@@ -83,18 +83,6 @@ For systems with battery backup, add-on DC-coupled battery systems like the Fran
 
 The honest takeaway from years of troubleshooting these systems: patience and methodical thinking solve most inverter issues without a service call. The error codes are breadcrumbs, not verdicts. Follow them back to the source before you spend money.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-*Photo: [Los Muertos Crew](https://www.pexels.com/@cristian-rojas) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)

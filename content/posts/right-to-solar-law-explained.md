@@ -125,16 +125,6 @@ They don't apply uniformly to renters or condo owners. If you don't own the roof
 
 Right to solar laws are genuinely powerful protections, but they're not magic shields. They work best when you understand exactly what your state law says, document every step of your HOA interaction, and work with a contractor who knows the local regulatory terrain. Go in informed, keep your paperwork clean, and you'll be in a much stronger position if anyone tries to make your solar installation their problem.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)

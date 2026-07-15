@@ -141,19 +141,7 @@ An EV charged on solar costs roughly 1 to 2 cents per mile over the system's lif
 
 The math is solid. The technology is proven. The federal tax credit window is open now. What it takes is real data, honest sizing, and a contractor quoting based on your actual roof and utility rates, not a regional average. You've already done the hardest part by asking the right questions.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

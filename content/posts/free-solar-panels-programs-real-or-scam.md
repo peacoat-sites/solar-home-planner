@@ -95,19 +95,7 @@ Energy monitors like the Sense Energy Monitor or Emporia Vue are worth consideri
 
 If you take one thing from this, let it be this: skepticism is not cynicism. Asking hard questions before you sign a 25-year contract isn't difficult. It's responsible. The right solar installer will welcome every single question.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-*Photo: [Calvin Seng](https://www.pexels.com/@calvinseng) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

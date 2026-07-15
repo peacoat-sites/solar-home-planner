@@ -101,18 +101,6 @@ No load analysis before recommending units. An installer who suggests two Powerw
 
 Get at least three quotes. EnergySage's marketplace is legitimately useful. I've seen homeowners save $2,000 to $4,000 on identical systems just by getting competitive bids.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-*Photo: [DaeYeoung Ahn](https://www.pexels.com/@daeyeoung-ahn-1552650783) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue 3 whole-home energy monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20)

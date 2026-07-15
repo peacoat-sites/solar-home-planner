@@ -90,20 +90,7 @@ If the HOA backs down after your initial letter, you're looking at two to six we
 
 Your state solar access statute (printed, with the relevant sections highlighted), your installer's system design showing panel placement and specs, a copy of your CC&Rs with the cited restriction flagged, and any records showing other homes in your HOA have solar or similar rooftop installations. That last one is often the most powerful document in the room.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-
-*Photo: [Dang Hong](https://www.pexels.com/@dwanghong) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -118,4 +105,3 @@ Your state solar access statute (printed, with the relevant sections highlighted
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

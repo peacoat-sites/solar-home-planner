@@ -113,19 +113,7 @@ For a broader look at evaluating bids, [comparing solar bids and what to look fo
 
 The HOA process adds friction. Most homeowners don't expect it. But it's rarely a dead end. Know your state law. Prepare a thorough submission. Pick an installer who's done this before. Document everything in writing. Most HOA boards aren't adversarial, they're just working from incomplete information. Give them the full picture upfront, and you'll move through approval faster than you'd think.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
-*Photo: [Michael Pointner](https://www.pexels.com/@michael-pointner-134459625) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -106,19 +106,7 @@ Ask to see the tariff schedule the proposal is based on. If the contractor can't
 
 The buyback rate question doesn't have a universal answer, and anyone who tells you it's simple is probably selling something. What I'd leave you with is this: before the panels go on your roof, read your utility's actual tariff document. It's dry, it's bureaucratic, and it might be the most financially important hour of research you do on this whole project.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-*Photo: [Harrison Haines](https://www.pexels.com/@harrisonhaines) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -134,4 +122,3 @@ The buyback rate question doesn't have a universal answer, and anyone who tells 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-

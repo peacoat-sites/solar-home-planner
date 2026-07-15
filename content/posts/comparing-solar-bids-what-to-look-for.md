@@ -123,18 +123,6 @@ Some things just tell you to close the folder and call the next company.
 
 Getting three bids and picking the middle one is a strategy. Just not a good one. The process I've laid out here takes two or three extra hours, but it's the difference between a system that earns you back $1,200 a year for 25 years and one that underperforms, causes headaches, and loses you money. If you want to go deeper on your own system's production estimates, the [NREL's PVWatts Calculator](https://www.nrel.gov/) is free and accurate. Use it to sanity-check every production number an installer hands you. If their estimate is more than 10-15% higher than PVWatts for your address and roof orientation, ask why. Keep asking until you get a real answer.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-
-*Photo: [Vinícius Vieira ft](https://www.pexels.com/@viniciusvieirafotografia) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [NREL's PVWatts Calculator](https://www.nrel.gov/)

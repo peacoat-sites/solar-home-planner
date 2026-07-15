@@ -102,18 +102,6 @@ Roof penetrations and flashing should be checked by a roofer during your next ro
 
 The honest summary: most of your maintenance is really just paying attention. Check your numbers regularly, clean when you need to, get eyes on the hardware twice a year, and don't ignore warning signs because fixing a small problem in year three costs way less than replacing a panel in year seven. Your system is probably fine. But "probably" is something you should be able to prove with data, not just assume.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-*Photo: [Trinh Trần](https://www.pexels.com/@trinh-tr-n-191284110) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)

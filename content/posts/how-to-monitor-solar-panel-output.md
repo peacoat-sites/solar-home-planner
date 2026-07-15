@@ -118,18 +118,6 @@ A word on the [U.S. Department of Energy's homeowner solar guide](https://www.en
 
 A system you can see is a system you can trust. That's really the whole point. You didn't put $20,000 on your roof to wonder how it's doing. Spend fifteen minutes this week learning your monitoring platform, set up your alerts, and run your numbers against PVWatts. You might find everything's perfect. You might find a problem that's been costing you money for months. Either way, you'll know.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [National Renewable Energy Laboratory's PVWatts calculator](https://www.nrel.gov/)

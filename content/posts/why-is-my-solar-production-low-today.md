@@ -94,16 +94,6 @@ Your system in December in Michigan is not going to produce what it does in July
 
 I'd recommend pulling up PVWatts, NREL's free calculator at pvwatts.nrel.gov, and running your own simulation for your system size, tilt, and location. It gives you month-by-month production estimates. Compare that to what you're actually producing. If you're consistently running 15 to 20 percent below PVWatts estimates after accounting for weather, that's when you've got a real problem worth escalating.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)

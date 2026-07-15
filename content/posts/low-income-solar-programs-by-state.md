@@ -105,18 +105,6 @@ The subscriber model means you don't own anything, but you also don't pay instal
 
 The difference between a $28,000 solar quote and a free installation often comes down to whether someone told you the programs existed. Most people aren't told. Now you know to ask.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
-*Photo: [Chris The Island](https://www.pexels.com/@chris-the-island-3570397) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [The U.S. Department of Energy has a homeowner's guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)

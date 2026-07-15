@@ -126,8 +126,6 @@ I've reviewed a lot of proposals on behalf of homeowners. Here's what I actually
 
 The grid isn't getting more reliable. Extreme weather events are longer and more frequent, utility infrastructure is aging, and in many parts of the country, planned outages are now routine during summer. A properly sized whole home solar backup system is a legitimate hedge against all of that. It's also a significant investment that rewards homeowners who understand what they're buying. Ask the hard questions before you sign anything, and make sure the system on paper matches the life you actually live.
 
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue](https://www.amazon.com/dp/B09ZJ1WVGK/?tag=contentportfo-20)

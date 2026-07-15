@@ -115,17 +115,7 @@ The NREL has done extensive modeling on residential solar-plus-storage resilienc
 
 Solar backup power is one of those topics where the gap between what people expect and what they actually have can be costly, not just financially but in terms of comfort and safety during emergencies. The good news is the technology has gotten dramatically better and more affordable in the last three years. If you went solar five years ago without storage and assumed you had outage protection, it's worth revisiting. The math on a battery retrofit actually works now in a way it didn't before, and the peace of mind, if you've ever sat through a summer outage, is real.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

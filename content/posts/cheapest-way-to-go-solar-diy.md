@@ -147,20 +147,7 @@ On contractor red flags if you hire part of it out: walk away from anyone withou
 
 The cheapest way to go solar is the way that matches your actual skills, gets permitted right, and uses quality equipment with real warranty backing. Cut corners on any of those three and the savings disappear fast. Do them right and you've got a legitimate path to a fully working grid-tied system for under $5,000 with a three to five year payback instead of a decade. Worth doing the work.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
-
-*Photo: [Markus Spiske](https://www.pexels.com/@markusspiske) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

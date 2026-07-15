@@ -123,16 +123,6 @@ What surprised me most when I started consulting on these projects was how many 
 
 The bottom line: solar-plus-EV is one of the best financial decisions a homeowner can make right now, but only if the system is actually sized for the combined load. Do your own math before you talk to a contractor. Know your driving miles, your vehicle's efficiency, your utility's net metering rules, and your roof's production ratio. When you walk into that consultation with your numbers already on paper, you'll spot the order-takers from the engineers almost immediately. You'll end up with a system that actually does what you bought it to do.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)

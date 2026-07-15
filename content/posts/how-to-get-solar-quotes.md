@@ -114,8 +114,6 @@ A home energy monitor like the [Emporia Vue](https://amzn.to/emporiavue) lets yo
 
 Getting solar quotes is a skill, not just a task. The homeowners who end up with systems that actually perform as promised are the ones who came in prepared, asked the right questions, and slowed down when any contractor tried to speed them up. Take two or three weeks. Compare real proposals, not just prices. If a deal feels too good or a contractor feels too pushy, trust that instinct. This is a 25-year decision, and it deserves that kind of attention.
 
-## Recommended Resources
-
 ## Sources
 
 - [consistently recommends multiple bids](https://www.seia.org/)

@@ -114,18 +114,7 @@ One option worth a quick note: portable or balcony solar. Products like plug-in 
 
 Condos and solar are genuinely complicated, but they're not incompatible. The path that makes sense for you depends heavily on your state, your HOA's governance culture, your building's electrical infrastructure, and how much energy you're willing to spend advocating for a rooftop system versus just subscribing to community solar and moving on. Both are legitimate choices. Know your options, read your governing documents, and don't let a contractor who's never worked with a condo building tell you this is routine. It isn't, but it's solvable.
 
-## Helpful Resources
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit with 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-*Photo: [Job1505 De waal](https://www.pexels.com/@job1505-de-waal-461434964) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -140,4 +129,3 @@ Condos and solar are genuinely complicated, but they're not incompatible. The pa
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

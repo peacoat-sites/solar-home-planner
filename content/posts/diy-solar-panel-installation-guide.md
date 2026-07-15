@@ -136,19 +136,7 @@ If at some point you decide the project is beyond what you want to tackle, our g
 
 DIY solar isn't for everyone, and there's no shame in deciding that hiring a professional makes more sense for your situation. But if you're comfortable with heights, have some electrical knowledge, and are willing to do the permit work properly, you can absolutely install a system that performs just as well as one installed by a $45,000 contractor quote. The homeowners I've seen do this best treat it like a serious construction project, not a weekend hack. Plan carefully, follow code, and get your inspections. The payoff, both financial and personal, is real.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
-*Photo: [Markus Spiske](https://www.pexels.com/@markusspiske) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

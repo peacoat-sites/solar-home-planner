@@ -114,16 +114,6 @@ Pair your system with a [home energy monitor like the Emporia Vue](https://www.a
 
 Getting solar and EV charging right is one of those projects that rewards patience and planning. The homeowners most satisfied with their systems are the ones who took a few extra weeks to understand their utility's policies, got the system sized for their actual future usage, and didn't let a pushy sales timeline rush them into a suboptimal decision. Take your time, get specific about your numbers, and don't hesitate to ask installers hard questions. The right ones will welcome it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Smart EV chargers are available on Amazon](https://www.amazon.com/s?k=smart+ev+charger+level+2)

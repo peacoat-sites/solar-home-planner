@@ -22,8 +22,6 @@ Peak sun hours, the average daily hours when sunlight hits full strength, matter
 
 The savings figures shown use a national average rate of roughly $0.13 per kWh, so they're ballpark only. Your actual return depends entirely on two things: what your utility charges you and whether they credit you for excess power (net metering rules vary state to state). Before you assume solar won't work in your climate, check your bill first.
 
-## Recommended Resources
-
 ## Sources
 
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)

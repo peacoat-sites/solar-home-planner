@@ -136,19 +136,7 @@ Note: These are kit costs only. Add $0.30 to $0.70 per watt for racking, wiring,
 
 DIY solar isn't for everyone. If you're not comfortable on a roof, not willing to read a permit application, or not prepared to learn enough electrical basics to pass an inspection, hiring a contractor is the right call. But if you're the kind of person who rewires their own outlets, builds decks, and reads spec sheets for fun, a quality solar kit is a legitimate path to a 25-year energy asset that you built yourself. The savings are real, the technology is proven, and the resources to do it right have never been better.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
-*Photo: [Tanha Tamanna Syed](https://www.pexels.com/@tanhatamannasyed) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

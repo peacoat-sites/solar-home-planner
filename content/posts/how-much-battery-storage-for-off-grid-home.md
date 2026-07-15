@@ -135,17 +135,7 @@ Speaking of EV charging, if you're off-grid with an EV, consider a Level 1 or sm
 
 Getting off-grid battery sizing right isn't glamorous work, but it's the difference between a system that runs quietly in the background for 15 years and one that keeps you up at night worrying about the weather forecast. Do the load math first, choose your chemistry based on lifecycle cost and use case, design for your worst solar month not your best, and talk to any installer long enough to see whether they start with your loads or their inventory. That last one tells you a lot.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

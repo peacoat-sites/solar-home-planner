@@ -93,18 +93,6 @@ Expect to pay $150 to $300 for a standard residential clean in most markets, som
 
 The U.S. Department of Energy's homeowner solar resources are pretty clear that routine cleaning and inspection are part of maintaining system performance and longevity. Not as marketing, just as maintenance reality.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-*Photo: [Harrison Haines](https://www.pexels.com/@harrisonhaines) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)

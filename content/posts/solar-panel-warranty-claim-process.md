@@ -94,20 +94,7 @@ No-name or overly discounted panels from an installer who's pushing you toward s
 
 The warranty paperwork you shove in a drawer when the installers leave is only as useful as your ability to act on it when something goes wrong. Keep your documents organized, register your panels, and don't accept a claim denial without asking exactly which exclusion applies to your situation. Most legitimate defects should be covered. Getting them covered just takes knowing the system well enough to work it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-
-*Photo: [ThisIsEngineering](https://www.pexels.com/@thisisengineering) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -122,4 +109,3 @@ The warranty paperwork you shove in a drawer when the installers leave is only a
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

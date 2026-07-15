@@ -113,8 +113,6 @@ One timing note: some states require a final electrical inspection before the sy
 
 Building new with solar is one of the most financially sound energy decisions you can make, but only if you plan it deliberately. The window where walls are open and trades are on site is brief. Use it. Every decision you make now, from conduit runs to roof orientation to panel choice, gets locked in concrete, literally and figuratively, once construction closes. The homeowners I've watched get the best outcomes treated solar as part of the home's design, not as an accessory bolted on after the fact.
 
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)

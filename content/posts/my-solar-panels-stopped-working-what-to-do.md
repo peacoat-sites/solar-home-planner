@@ -201,8 +201,6 @@ Storms cause several issues simultaneously: tripped breakers from power surges, 
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [home battery backup system like the Tesla Powerwall or Enphase IQ Battery](https://amzn.to/solar-battery-backup)

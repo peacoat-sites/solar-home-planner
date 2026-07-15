@@ -98,8 +98,6 @@ Also check whether your system is actually turned on. This sounds absurd, but it
 
 A high bill after solar isn't always a tragedy. Sometimes it's just information. A consumption problem. A rate structure you didn't fully understand. A tree that grew three feet. Most of these are fixable once you actually know what you're dealing with. The mistake is assuming the system is working perfectly and blaming the utility, or assuming something is catastrophically wrong and panicking. Pull the data first. The answer is almost always in there.
 
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor&tag=contentportfo-20)

@@ -105,20 +105,7 @@ The case for keeping old panels running is strong as long as the rest of the sys
 ---
 
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
-
-*Photo: [Serg Karpow](https://www.pexels.com/@strannik-sk) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

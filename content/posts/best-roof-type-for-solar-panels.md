@@ -121,19 +121,7 @@ You can save yourself a lot of wasted time and awkward contractor conversations 
 
 The roof under your panels is a long-term partnership with your solar system. Getting it right means honest assessment upfront, not optimism. If your roof is sound, the material is mostly a matter of cost and installer experience. If the roof is questionable, fix that first. The panels will still be there when you're ready, and they'll perform a lot better on a roof that's not failing underneath them.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
-*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -148,4 +136,3 @@ The roof under your panels is a long-term partnership with your solar system. Ge
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

@@ -91,16 +91,6 @@ If someone is pushing you hard toward one inverter type without asking about you
 
 Get this decision right before you sign anything. The inverter choice is one you'll live with for 15 to 25 years, and it shapes everything from your production numbers to your battery options to what happens when a squirrel decides to chew through a wire on panel 14. Take the time to understand what's actually on the proposal in front of you.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Docazoo brush and hose wand](https://amzn.to/placeholder)

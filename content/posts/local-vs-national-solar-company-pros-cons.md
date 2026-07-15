@@ -93,20 +93,7 @@ Get three quotes. Not two.
 
 The salesperson who quoted you the national brand isn't lying to you, and the local guy isn't necessarily more trustworthy just because he shook your hand. Both can do excellent work. Both can cut corners. The difference is in the details, the equipment specs, the licensing, the subcontractor question, and who actually picks up the phone in year 8. That's what the quote sheet won't tell you.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-
-
-*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -121,4 +108,3 @@ The salesperson who quoted you the national brand isn't lying to you, and the lo
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

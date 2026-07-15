@@ -101,18 +101,6 @@ If you're purely chasing economics, a smaller battery sized to shift your peak-h
 
 The formula is simple. The judgment around it isn't. Get your actual load data, define what you're trying to accomplish, then run the numbers. A battery sized to your real evening load profile will outperform a battery sized to your utility bill every single time.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [home energy monitor like the Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)

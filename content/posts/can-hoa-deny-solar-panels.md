@@ -120,17 +120,7 @@ NREL research shows permitting and interconnection delays add real cost to solar
 
 Most HOA solar denials are legally questionable or fully unenforceable. HOA boards know this when they're advised by competent legal counsel. Push back with documentation, cite your state's statute, and escalate methodically. Homeowners who know their rights tend to get their panels.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

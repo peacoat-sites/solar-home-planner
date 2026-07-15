@@ -39,8 +39,6 @@ Or if you already know what you want, use the navigation above to jump straight 
 
 *Solar Home Planner is an independent resource. We earn a small commission on some product recommendations, this never affects our editorial opinions.*
 
-## Recommended Resources
-
 ## Sources
 
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)

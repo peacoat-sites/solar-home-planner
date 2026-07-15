@@ -104,19 +104,7 @@ If you're in a state with full retail net metering right now, don't assume that 
 
 Net metering is the piece of the solar equation that deserves as much attention as panel efficiency ratings or installer reviews. The hardware on your roof is relatively standardized at this point. The billing structure underneath it is where the real financial variability lives. Know your utility's current export rate, understand whether you're on a monthly or annual true-up cycle, and ask your installer explicitly how their production estimates would change if your state's net metering policy shifted. That's not pessimism. That's how you make a $20,000 decision with your eyes open.
 
-## Helpful Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)** (~$99), real-time home energy tracking so you can see exactly when your solar is producing and when you're drawing from the grid.
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)** (~$18), plug-and-play monitoring for individual appliances to understand consumption patterns.
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)** (~$27), another solid option for tracking specific circuits or devices.
-
-*Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -132,4 +120,3 @@ Net metering is the piece of the solar equation that deserves as much attention 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

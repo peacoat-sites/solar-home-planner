@@ -92,16 +92,6 @@ A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+
 
 The decision isn't which structure is universally best. It's which structure fits your tax situation, your time horizon in the house, your tolerance for contract complexity, and your honest assessment of the company you're signing with for the next two decades. Get three quotes. Read the escalator clause. Ask for the cash price. That's most of the battle right there.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)

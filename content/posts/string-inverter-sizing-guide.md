@@ -122,20 +122,7 @@ Test your contractor's proposal against PVWatts before you sign anything.
 
 The inverter spec sheet isn't the most exciting document you'll read during your solar research. But spending 30 minutes understanding your string configuration, your temperature-corrected voltages, and your DC/AC ratio will tell you more about whether a proposal is solid than any number of panel efficiency comparisons. That's the part nobody puts in the brochure.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
-
-*Photo: [Elite Power Group](https://www.pexels.com/@elite-power-group-661996115) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -150,4 +137,3 @@ The inverter spec sheet isn't the most exciting document you'll read during your
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

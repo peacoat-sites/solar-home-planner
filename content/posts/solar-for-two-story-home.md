@@ -212,8 +212,6 @@ Have your installer do a visual inspection every 3-5 years, especially after maj
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue Energy Monitor on Amazon](https://www.amazon.com)

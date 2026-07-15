@@ -131,19 +131,7 @@ Ask every installer for annual kWh production estimates, not just system size in
 
 The math itself isn't difficult. The hard part is getting accurate inputs and not caving to pressure for a quick decision. Grab your utility bills, run PVWatts for your address, and do this calculation before you talk to a single installer. You'll ask smarter questions, catch overblown proposals, and get a system actually designed for your house.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

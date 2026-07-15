@@ -118,18 +118,6 @@ Here's how you actually configure a working solar-to-car charging setup once har
 
 The gap between "I have solar" and "I'm actually fueling my car with sunlight" is mostly a scheduling and hardware integration problem, not a technology problem. The tools exist. With a properly sized array, a smart EVSE, and some attention to your utility's rate structure, you can close that gap practically and permanently. Run your numbers first. Sign the contracts second.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
-*Photo: [smart-me AG](https://www.pexels.com/@smart-me-ag-2155714756) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)

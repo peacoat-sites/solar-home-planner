@@ -135,19 +135,6 @@ Utility interconnection is separate from permitting. Your utility has to approve
 
 Do this homework before you request a single quote, and you'll walk into every conversation knowing what you actually need. You'll catch upsells, spot undersized equipment, and be able to ask specific questions instead of nodding along. Contractors who know their stuff will respect it. The ones who get defensive or dismissive when you bring your own numbers? That's information too.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-
-*Photo: [Giant Asparagus](https://www.pexels.com/@giantasparagus) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)

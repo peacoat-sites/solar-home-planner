@@ -91,16 +91,6 @@ I've helped people go both routes. Neither is wrong.
 
 The honest truth is that community solar flies under the radar in a lot of energy conversations, and it shouldn't. For anyone who's been told solar isn't an option for them, it's worth an hour of your time to find out what's available in your area, read one contract carefully, and do the math on your current bill. Sometimes the answer really is that simple.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [EnergySage's market data](https://news.energysage.com/)

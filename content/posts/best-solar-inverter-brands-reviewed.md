@@ -88,18 +88,6 @@ I'm not going to name every no-name brand, but there are a few situations to wat
 
 Growatt has become popular on the DIY import market and the hardware is often fine at the spec sheet level. But I've seen enough monitoring connectivity issues and enough confusion about how to actually make a warranty claim that I'd only recommend it to someone who's technically comfortable troubleshooting independently. Same goes for some of the Solis units, which have solid hardware but historically weak U.S. support.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)

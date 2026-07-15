@@ -146,17 +146,7 @@ For a more capable standalone setup that could power a full off-grid cabin or la
 
 Shed solar is one of the few home improvement projects where you genuinely learn something useful, solve a real problem, and potentially save money compared to conventional alternatives. The first time you flip on a light in that workshop and know it's running entirely off the sun and a battery you wired yourself, it sticks with you. Start with a realistic load calculation, buy components from reputable brands, and don't cut corners on wire sizing or fusing. The technical details aren't difficult once you understand why they matter.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -126,16 +126,6 @@ If one quote is dramatically cheaper than the others, find out why before you ce
 
 You're making a two-decade financial decision about your home. The good news is that most of the information you need is available before you commit, if you ask for it directly. Good contractors welcome these questions. They've heard them before, they have the answers ready, and they understand that an informed customer is a satisfied customer. The ones who hedge, deflect, or rush you past the hard parts are telling you something important. Listen to what they're not saying.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)

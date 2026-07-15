@@ -137,17 +137,7 @@ Some states let homeowners pull their own permits for work on their primary resi
 
 The path to complete energy independence is real and increasingly affordable. It's also genuinely complex in ways that a weekend of YouTube won't fully prepare you for. Get your load audit right, be honest about worst-case consumption, and don't skimp on the battery bank. The homeowners most satisfied with their off-grid systems aren't the ones who found the cheapest path. They're the ones who planned thoroughly, sized conservatively, and had a backup generator wired in before they ever flipped the switch to disconnect.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

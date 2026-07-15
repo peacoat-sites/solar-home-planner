@@ -130,18 +130,6 @@ A few contractor behaviors that should make you pause.
 
 The honest truth is that solar plus EV is one of the most financially powerful combinations available to a homeowner right now, but only if the system is sized correctly from the start. The math isn't complicated, it just requires that someone actually do it. If you're planning to buy an EV in the next three years, tell your solar installer today. Size the system for the life you're planning, not just the utility bill you have right now.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-*Photo: [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)

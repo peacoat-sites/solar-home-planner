@@ -111,8 +111,6 @@ Watch for companies that refuse to provide an itemized quote. You should know ex
 
 And if an installer tells you permits are optional or suggests you skip them to save money, that's your cue to end the conversation. Unpermitted systems create serious problems when you sell your home and may void your equipment warranties.
 
-## Recommended Resources
-
 ## Sources
 
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)

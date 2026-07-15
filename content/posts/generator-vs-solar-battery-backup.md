@@ -113,17 +113,7 @@ A quality [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=
 
 Whatever you decide, the worst outcome is the one you've been living with: putting this off until the next outage reminds you why you care. Both generator and battery systems are legitimate, proven solutions when they're sized correctly and installed by someone who knows what they're doing. Get the quotes. Run the numbers. Pick the one that fits your actual life and your actual outages, not the one that sounds best in a commercial. You've already done the hard part by asking the right questions.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

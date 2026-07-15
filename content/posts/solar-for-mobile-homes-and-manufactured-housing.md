@@ -118,16 +118,6 @@ Use this sequence before you talk to a single contractor. It'll save you time an
 
 Solar on a manufactured home isn't plug-and-play. But it's absolutely achievable, and the economics can be just as compelling as they are for any other homeowner. The key is going in informed: know your roof specs, understand your permitting path, and don't let a salesperson who's never pulled a HUD-code permit make decisions for you. You've already done the hard work of owning your home. Adding solar is just the next smart step.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)

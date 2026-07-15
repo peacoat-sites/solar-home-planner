@@ -116,19 +116,7 @@ A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+
 
 Buy the mono panels. Get the system sized right for your roof and your load. And spend your research energy on picking a contractor who pulls permits and doesn't vanish after installation, because that matters more than the crystalline structure debate.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-*Photo: [Quang Nguyen Vinh](https://www.pexels.com/@quang-nguyen-vinh-222549) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

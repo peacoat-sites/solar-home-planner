@@ -112,16 +112,6 @@ Be wary of any installer who pressures you to sign at the first appointment, off
 
 The goal isn't to make the vetting process feel intimidating. Solar is a 25-year decision made in a few weeks, often with a contractor you've never met before. The reviews are out there, the license databases are public, and the references are a phone call away. Do the work upfront, and the system you end up with will be worth far more than the time you spent checking.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [EnergySage's market data](https://news.energysage.com/)

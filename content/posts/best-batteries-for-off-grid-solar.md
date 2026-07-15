@@ -112,17 +112,7 @@ A seller who can't tell you the continuous discharge rate and peak discharge rat
 
 No accessible BMS data or app integration. Can't see cell voltage and temperature? You're blind.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

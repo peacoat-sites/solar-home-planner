@@ -128,18 +128,7 @@ Before you sign anything, go through this list. Print it out if you need to.
 
 The goal isn't to make you suspicious of the industry. Most solar companies are operating in good faith, and going solar is still one of the smarter home investments available to most homeowners right now. But the contract is where "good faith" meets legal reality, and those two things aren't always aligned. Read it, ask questions about anything you don't understand, and if a company makes you feel like taking time to review the paperwork is an inconvenience, treat that as the answer you need.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit with 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-
-*Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -154,4 +143,3 @@ The goal isn't to make you suspicious of the industry. Most solar companies are 
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

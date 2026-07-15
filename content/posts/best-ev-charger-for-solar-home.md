@@ -98,18 +98,6 @@ You might be wondering why I'm bringing up installation logistics in a charger a
 
 The Solar Energy Industries Association has been tracking the growth of solar-plus-EV households, and that combination now represents one of the fastest-growing residential energy configurations in the country. Utilities are taking notice, and some are now offering specific rate incentives for solar owners who charge during peak production hours. Check with your utility before you finalize your charging schedule.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
-*Photo: [Andersen EV](https://www.pexels.com/@andersen-ev-1587213396) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)

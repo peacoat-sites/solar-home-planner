@@ -115,20 +115,7 @@ Add in the federal Investment Tax Credit, currently 30% of system cost, and payb
 
 The combination of rooftop solar and home EV charging is one of the best financial moves a homeowner can make right now, but only if you size correctly, time charging intelligently, and go in with realistic expectations. I've watched people throw away thousands by installing solar before considering the car in the garage. Get the numbers right upfront, claim that federal tax credit, and you can cut your personal transportation fuel costs by 90% or more for the next two decades.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
-
-*Photo: [04iraq](https://www.pexels.com/@04iraq-1272398525) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

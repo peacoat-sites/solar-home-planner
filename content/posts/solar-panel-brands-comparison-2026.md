@@ -82,16 +82,6 @@ The research here is mixed on whether domestically manufactured panels actually 
 
 The brands at the top of the market in 2026 are genuinely better than what was available five years ago. Efficiency is up, prices are down, and the technology is more mature. What hasn't changed is that a great panel installed poorly on an undersized system with a shaky warranty is still a bad investment. Get the installer right first. Then worry about the panel brand.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [EnergySage's market data](https://news.energysage.com/)

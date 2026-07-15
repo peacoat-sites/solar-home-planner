@@ -111,18 +111,6 @@ Maintenance costs stay low. The biggest lifetime expense is usually inverter rep
 
 Retrofitting solar onto an existing home means more decisions than the marketing suggests. None of it's beyond reach though if you ask the right questions, collect multiple quotes, and do basic math. The technology's mature, incentives are still strong, and a well-designed system delivers. You just need to go in with your eyes open.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [basic solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20)

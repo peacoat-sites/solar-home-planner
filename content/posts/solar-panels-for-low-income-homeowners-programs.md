@@ -102,18 +102,7 @@ Ask for the specific program name and the government agency or utility administe
 
 There are real dollars available for people who need them most. The programs exist. The barrier is usually awareness, not eligibility. If you've been told solar is only for people who can drop $25,000 on a system, that was true once and it isn't anymore.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169). Complete beginner solar kit with 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99). Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-
-*Photo: [Trinh Trần](https://www.pexels.com/@trinh-tr-n-191284110) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -128,4 +117,3 @@ There are real dollars available for people who need them most. The programs exi
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

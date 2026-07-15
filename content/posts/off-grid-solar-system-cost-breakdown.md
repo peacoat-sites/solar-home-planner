@@ -129,8 +129,6 @@ I've reviewed a lot of off-grid proposals over the years. Here's what should mak
 
 **No mention of the 30% federal tax credit.** The Investment Tax Credit (ITC) applies to off-grid solar systems used for residential purposes. At 30% of total system cost, a $70,000 system yields a $21,000 credit. If your installer isn't factoring this into your financial picture, they're leaving money on the table.
 
-## Recommended Resources
-
 ## Sources
 
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)

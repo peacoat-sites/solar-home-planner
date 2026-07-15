@@ -105,16 +105,6 @@ One more practical note: once your system is permitted, installed, and running, 
 
 The permit process isn't exciting, but getting it right protects your investment, your home, and your ability to sell someday without headaches. Your installer should manage the logistics, but you should understand every stage well enough to ask intelligent questions and verify progress yourself. A contractor who welcomes those questions is worth hiring. One who tells you not to worry about it is worth reconsidering.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [homeowner guide to going solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
