@@ -7,3 +7,11 @@
 
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
+
+# 2026-07-18 thin-category consolidation
+/categories/basics/ /categories/solar-planning-tools/ 301
+/categories/roi/ /categories/solar-policy-utility-issues/ 301
+/categories/solar-sizing/ /categories/solar-planning-tools/ 301
+/categories/solar-troubleshooting/ /categories/solar-maintenance-troubleshooting/ 301
+/categories/system-sizing/ /categories/solar-planning-tools/ 301
+/categories/will-solar-work/ /categories/solar-for-home-types/ 301

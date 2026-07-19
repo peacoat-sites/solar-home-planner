@@ -4,7 +4,7 @@ date: 2026-07-10T23:28:01.342406+00:00
 draft: false
 description: "Find out exactly how many solar panels power a 2000 sq ft home, what affects the count, and how to size your system for maximum savings."
 image: "/img/heroes/29206488.jpg"
-categories: ["Solar Sizing"]
+categories: ["Solar Planning Tools"]
 tags: ["many", "solar", "panels", "power", "2000"]
 author: "David Torres"
 author_slug: "david-torres"

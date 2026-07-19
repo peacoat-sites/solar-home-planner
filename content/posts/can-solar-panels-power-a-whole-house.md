@@ -4,7 +4,7 @@ date: 2026-07-16T23:24:13.619069+00:00
 draft: false
 description: "Learn whether solar panels can power an entire home, what factors affect coverage, and how to determine your home's solar needs."
 image: "/img/heroes/20433881.jpg"
-categories: ["Solar Sizing"]
+categories: ["Solar Planning Tools"]
 tags: ["solar", "panels", "power", "whole", "house"]
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"

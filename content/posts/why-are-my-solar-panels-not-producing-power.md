@@ -4,7 +4,7 @@ date: 2026-07-09T23:47:29.565847+00:00
 draft: false
 description: "Discover the most common reasons your solar panels aren't producing power and how to fix them fast before losing hundreds in energy savings."
 image: "/img/heroes/6961122.jpg"
-categories: ["Solar Troubleshooting"]
+categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["solar", "panels", "producing", "power"]
 author: "Tom Bradley"
 author_slug: "tom-bradley"

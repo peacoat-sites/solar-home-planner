@@ -4,7 +4,7 @@ date: 2026-07-07T23:28:55.761428+00:00
 draft: false
 description: "North facing solar panels can still generate usable electricity. Learn how much output to expect, when it makes sense, and how to maximise your return."
 image: "/img/heroes/9638475.jpg"
-categories: ["Will Solar Work"]
+categories: ["Solar for Home Types"]
 tags: ["solar", "panels", "work", "north", "facing"]
 author: "Tom Bradley"
 author_slug: "tom-bradley"

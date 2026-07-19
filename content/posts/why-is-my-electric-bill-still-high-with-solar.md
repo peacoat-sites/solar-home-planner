@@ -4,7 +4,7 @@ date: 2026-07-08T23:38:22.262277+00:00
 draft: false
 description: "Solar panels but still paying too much? Discover the most common reasons your electric bill stays high and what you can do to fix it fast."
 image: "/img/heroes/9875442.jpg"
-categories: ["Solar Troubleshooting"]
+categories: ["Solar Maintenance & Troubleshooting"]
 tags: ["electric", "bill", "still", "high", "with"]
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
