@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-08
+lastmod: 2026-07-19
 ---
 Net metering was never as simple as "sell your excess solar back to the grid for full retail price." That was the rosy version. The reality in 2026 is messier, more state-dependent, and shifting faster than most solar shoppers realize.
 
@@ -41,17 +41,9 @@ Most people don't realize that "net metering" on a utility's website can mean an
 
 ## The State Landscape in 2026: Winners, Losers, and the Uncertain Middle
 
-| State | Net Metering Type | Compensation Rate | Status |
-| --- | --- | --- | --- |
-| Illinois | Retail Rate | ~$0.14/kWh (varies) | Strong |
-| New Jersey | Successor Tariff | $0.09-$0.11/kWh | Competitive |
-| Massachusetts | Retail Rate + SMART | Full retail + incentive | Strong |
-| California | Net Billing Tariff (NEM 3.0) | ~$0.04/kWh | Reduced (75% decline) |
-| Texas | Varies by utility | Avoided cost (reduced) | Weak/inconsistent |
-| Nevada | Tiered/Degressive | Tiered by capacity | Functional |
-| Arizona | Resource Comparison Proxy | Avoided cost | Reduced |
-| Utah | Value of Solar | Avoided cost | Reduced |
-| Florida | Retail Rate | Full retail | Strong (grandfathered) |
+Below is every state's current export-compensation status in one searchable, sortable table. Use it as the starting point, then confirm your own utility's tariff, because the credit is often set utility by utility.
+
+{{< datatable "net_metering" >}}
 
 **States still offering solid retail-rate net metering:**
 
