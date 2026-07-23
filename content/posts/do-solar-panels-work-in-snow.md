@@ -3,7 +3,7 @@ title: "Do Solar Panels Work in Snow? What Happens to Output"
 date: 2026-07-22T23:29:32.144460+00:00
 draft: false
 description: "Learn how snow affects solar panel performance, why they still generate power in winter, and what homeowners need to know about maintenance."
-image: ""
+image: "https://images.pexels.com/photos/7456230/pexels-photo-7456230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Will Solar Work"]
 tags: ["solar", "panels", "work", "snow"]
 author: "Tom Bradley"
