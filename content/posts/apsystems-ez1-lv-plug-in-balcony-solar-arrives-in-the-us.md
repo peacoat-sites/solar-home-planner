@@ -83,3 +83,13 @@ The EZ1-LV is a legitimate product solving a real access problem. It won't repla
 - [APsystems EZ1-LV balcony solar microinverter](https://www.pv-magazine.com/2026/07/18/apsystems-introduces-plug-in-microinverter-for-u-s-balcony-solar/) (July 18, 2026)
 
 *Photo: [Job1505 De waal](https://www.pexels.com/@job1505-de-waal-461434964) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+
