@@ -127,7 +127,7 @@ Red flags I've seen firsthand: a quote that never asks for your utility bills, a
 
 A reputable installer will also factor in your utility's net metering policy, which varies dramatically by state and has been changing fast. In California, the NEM 3.0 rate structure that took effect in 2023 significantly reduced the value of exported energy, which shifted the calculus toward battery storage for many homeowners. Your local incentive stack matters as much as your panel count.
 
-If you want to [monitor your home energy use more precisely before sizing your system](https://www.amazon.com/s?k=home+energy+monitor&tag=yoursitetag-20), a whole-home energy monitor like the Emporia Vue 2 (around $150 installed) gives you appliance-level data that makes your kWh estimate more accurate than 12 months of bills alone. Worth doing six months before you get quotes. (Disclosure: this site may earn a commission on Amazon purchases.)
+If you want to [monitor your home energy use more precisely before sizing your system](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20), a whole-home energy monitor like the Emporia Vue 2 (around $150 installed) gives you appliance-level data that makes your kWh estimate more accurate than 12 months of bills alone. Worth doing six months before you get quotes. (Disclosure: this site may earn a commission on Amazon purchases.)
 
 ## Sources
 

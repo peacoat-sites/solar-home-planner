@@ -100,7 +100,7 @@ As of July 2026, a complete F-150 Lightning plus solar-plus-backup system is a s
 
 The 30% Investment Tax Credit applies to the solar array, inverter, and associated electrical work. It does not apply to the truck or the IBP hardware. Some states layer on additional credits; the DSIRE database (managed by NREL) is the best place to check your state.
 
-To track how your solar and the truck interact day-to-day, a home energy monitor is genuinely useful. The [Emporia Vue Gen 3](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=solardiyhome-20) (around $109) gives you circuit-level monitoring and can show you exactly how much solar is going to the truck versus the house. Worth every penny when you're debugging a new system. *(The site may earn a commission on purchases through that link.)*
+To track how your solar and the truck interact day-to-day, a home energy monitor is genuinely useful. The [Emporia Vue Gen 3](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20) (around $109) gives you circuit-level monitoring and can show you exactly how much solar is going to the truck versus the house. Worth every penny when you're debugging a new system. *(The site may earn a commission on purchases through that link.)*
 
 ## Sources
 

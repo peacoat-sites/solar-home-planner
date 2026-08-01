@@ -69,7 +69,7 @@ The eyeball method matters more than people admit. Get up there (safely) and loo
 
 One scenario I've seen repeat itself: Homeowner in Phoenix notices a production dip every August afternoon. Checks monitoring, finds one panel in a string dropping to near-zero. Clears a bird dropping, production recovers. Two weeks later, same panel drops again. New dropping? No. The bypass diode failed silently after being stressed by the earlier hot spot event. The diode failure masked itself as a recurrence of the original problem. Panel needed a diode replacement (or replacement panel if under warranty). Clearing the dropping → partial recovery → identifying diode failure → replacing junction box assembly → full production restored at ~98% of original output.
 
-A good [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=your-affiliate-tag) helps here, not just for the cleaning itself but because getting up close lets you do a visual inspection that remote monitoring can't replace. (Note: this site may earn a commission on purchases through Amazon links.)
+A good [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) helps here, not just for the cleaning itself but because getting up close lets you do a visual inspection that remote monitoring can't replace. (Note: this site may earn a commission on purchases through Amazon links.)
 
 ## The Fix: From Simple to Surgical
 
@@ -85,7 +85,7 @@ One more scenario worth knowing: a reader in Sacramento emailed me last spring a
 
 ## What a Home Energy Monitor Adds to This
 
-If you're serious about catching hot spots early, a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=your-affiliate-tag) paired with panel-level production data creates a baseline that makes anomalies obvious. The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) recommends tracking production trends monthly. That's the minimum. Weekly is better. What you're looking for isn't just overall production, it's one panel or string that's trending downward while others hold steady.
+If you're serious about catching hot spots early, a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=contentportfo-20) paired with panel-level production data creates a baseline that makes anomalies obvious. The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) recommends tracking production trends monthly. That's the minimum. Weekly is better. What you're looking for isn't just overall production, it's one panel or string that's trending downward while others hold steady.
 
 As of July 2026, panel-level monitoring has gotten cheap enough that there's no real excuse to run a string inverter without optimizers on any new install where shading is a realistic factor. Retrofit optimizer kits from SolarEdge run $40-80 per panel. Not cheap, but cheaper than replacing panels you could have saved.
 

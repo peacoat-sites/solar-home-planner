@@ -58,7 +58,7 @@ The monitoring portal's reporting is more capable than the app lets on. You can 
 
 SolarEdge also provides alerts: low production, communication faults, inverter errors. I've had homeowners catch shading issues they didn't know existed because one panel kept flagging 15-20% below its neighbors, every sunny afternoon. Turned out a new HVAC unit installed on the roof was casting a shadow after about 2pm. Without panel-level monitoring, that would have shown up as a vague system underperformance that's hard to diagnose.
 
-Here's a worked example from a client situation: A 6.4 kW system in Phoenix showed total production about 11% below what the design software projected. Three months of shrugging. We pulled per-panel data from the monitoring portal and saw that four panels on the east-facing slope were sitting at about 60% of expected output between 8am and 11am. Dirt accumulation on the lower edge of those panels specifically. After a targeted cleaning (not a whole-roof rinse, just those four), production came up within 4% of projections. That diagnostic specificity is real, and it's not something you get from a system without optimizers and panel-level monitoring. (For panel maintenance, a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=solarsavings-20) pays for itself fast if you're in a dusty climate. The site may earn a commission on purchases through that link.)
+Here's a worked example from a client situation: A 6.4 kW system in Phoenix showed total production about 11% below what the design software projected. Three months of shrugging. We pulled per-panel data from the monitoring portal and saw that four panels on the east-facing slope were sitting at about 60% of expected output between 8am and 11am. Dirt accumulation on the lower edge of those panels specifically. After a targeted cleaning (not a whole-roof rinse, just those four), production came up within 4% of projections. That diagnostic specificity is real, and it's not something you get from a system without optimizers and panel-level monitoring. (For panel maintenance, a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) pays for itself fast if you're in a dusty climate. The site may earn a commission on purchases through that link.)
 
 ---
 
@@ -90,7 +90,7 @@ As of July 2026, the main competitors in this monitoring space for residential i
 
 SMA's Sunny Portal is noticeably clunkier and feels like it hasn't had a real design update in several years.
 
-What SolarEdge has that some competitors don't is the ecosystem: if you add EV charging with the SolarEdge EV Charger, or pair it with a compatible [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=solarsavings-20), the consumption side of the equation starts to fill in more completely. That whole-home energy picture is where the monitoring platform starts to justify itself beyond just "watch your solar production."
+What SolarEdge has that some competitors don't is the ecosystem: if you add EV charging with the SolarEdge EV Charger, or pair it with a compatible [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20), the consumption side of the equation starts to fill in more completely. That whole-home energy picture is where the monitoring platform starts to justify itself beyond just "watch your solar production."
 
 ---
 

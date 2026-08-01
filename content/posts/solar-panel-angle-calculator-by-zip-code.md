@@ -91,7 +91,7 @@ Three worked examples illustrating the range of outcomes:
 
 **Miami condo owner, 4kW system, low-slope roof** → Ran the same comparison → Found only 2% gap between 20° and 25° optimal; wind uplift concerns on the low-slope roof made tilt mounts a liability given local hurricane codes → Went flush. Correct call.
 
-**Minneapolis garage, off-grid 3kW system** → Optimal tilt 42°, existing roof pitch 15° → 10.3% gap meant about 280 kWh/year difference on an already constrained off-grid setup; installed adjustable [ground-mount racking](https://www.amazon.com/s?k=adjustable+solar+panel+ground+mount+racking&tag=solarreviews-20) (site may earn a commission) set to 45° → Hit winter charging targets that flush mount couldn't reach.
+**Minneapolis garage, off-grid 3kW system** → Optimal tilt 42°, existing roof pitch 15° → 10.3% gap meant about 280 kWh/year difference on an already constrained off-grid setup; installed adjustable [ground-mount racking](https://www.amazon.com/s?k=adjustable+solar+panel+ground+mount+racking&tag=contentportfo-20) (site may earn a commission) set to 45° → Hit winter charging targets that flush mount couldn't reach.
 
 ## Azimuth: The Angle Most People Forget to Check
 
@@ -101,7 +101,7 @@ True south (180° azimuth) is optimal in the Northern Hemisphere, always. But a 
 
 When I pull zip-code data from PVWatts for a client, I always run south, southeast (160°), and southwest (200°) scenarios side by side. Most installers don't do this unless you push them. Ask for it specifically.
 
-A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=solarreviews-20) (site may earn a commission) can help you validate actual vs. projected production after install, which is how you'd catch an azimuth error before the warranty window closes.
+A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) (site may earn a commission) can help you validate actual vs. projected production after install, which is how you'd catch an azimuth error before the warranty window closes.
 
 ## Seasonal Tilt Adjustment: Worth It or Overkill?
 
@@ -109,7 +109,7 @@ You can theoretically adjust your panel tilt twice a year, steeper in winter to 
 
 NREL data backs that up: seasonal adjustment in a location like Denver improves annual output by roughly 4.1% over fixed optimal-tilt. On a 6kW system, that's about 230 kWh. At $0.14/kWh, $32/year. Unless you're genuinely off-grid or obsessive about optimization, the juice isn't worth the squeeze for twice-yearly manual adjustment.
 
-The one exception is off-grid cabins and RV/tiny home installs where every kilowatt-hour matters for battery autonomy. For those, an [adjustable tilt mount](https://www.amazon.com/s?k=adjustable+solar+panel+tilt+mount&tag=solarreviews-20) (site may earn a commission) is often the right call.
+The one exception is off-grid cabins and RV/tiny home installs where every kilowatt-hour matters for battery autonomy. For those, an [adjustable tilt mount](https://www.amazon.com/s?k=adjustable+solar+panel+tilt+mount&tag=contentportfo-20) (site may earn a commission) is often the right call.
 
 ## Sources
 

@@ -108,7 +108,7 @@ Three scenarios from real cases (numbers anonymized but accurate):
 
 **Scenario 2:** Elderly couple, Tucson, AZ, fixed income $31,000/year. Medical-priority designation (oxygen equipment). Received $1,200 LIHEAP cooling-assistance grant applied toward 3kW system. System cost: $10,200. Federal credit: $3,060. AZ state credit: $1,000 (AZ caps at that). Net cost: ~$4,940. AZ utility provides a demand-response credit of ~$22/month on top of solar production savings.
 
-**Scenario 3:** Homeowner in rural Georgia, first year of a county pilot. Only $500 grant available, applied toward equipment (a [battery backup unit](https://www.amazon.com/s?k=solar+battery+storage+home&tag=yourtag-20) for medical equipment continuity). System was otherwise self-financed. Grant still meaningfully reduced out-of-pocket on the backup component, which otherwise wouldn't have qualified for the federal credit alone. *(Note: Amazon affiliate link, the site may earn a commission on purchases.)*
+**Scenario 3:** Homeowner in rural Georgia, first year of a county pilot. Only $500 grant available, applied toward equipment (a [battery backup unit](https://www.amazon.com/s?k=solar+battery+storage+home&tag=contentportfo-20) for medical equipment continuity). System was otherwise self-financed. Grant still meaningfully reduced out-of-pocket on the backup component, which otherwise wouldn't have qualified for the federal credit alone. *(Note: Amazon affiliate link, the site may earn a commission on purchases.)*
 
 ## Contractor Red Flags Specific to This Program
 
@@ -121,7 +121,7 @@ Red flags to watch for:
 - Contractor claims your LIHEAP grant covers a system that would otherwise be out of your price range with no explanation of how the economics work post-grant. This usually means the grant is just covering their margin, not reducing your real cost.
 - No mention of permits. Any grid-tied solar install requires a building permit and utility interconnection approval. If the contractor is suggesting otherwise to speed up a grant-tied install, that's a problem you'll own for decades.
 
-A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=yourtag-20) installed alongside your system is a low-cost way to verify the system is actually producing what the installer quoted. Emporia Vue 2 runs about $70, and it will tell you within the first billing cycle if something is wrong. *(Affiliate link, the site may earn a commission.)*
+A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) installed alongside your system is a low-cost way to verify the system is actually producing what the installer quoted. Emporia Vue 2 runs about $70, and it will tell you within the first billing cycle if something is wrong. *(Affiliate link, the site may earn a commission.)*
 
 ## Sources
 

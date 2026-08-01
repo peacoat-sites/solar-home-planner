@@ -80,7 +80,7 @@ Many utilities have moved customers onto Time-of-Use (TOU) pricing, where what y
 
 Your solar panels generate the most power from roughly 9 AM to 3 PM. Your household probably uses the most power from 5-9 PM, when people are cooking, running the dishwasher, watching TV, and charging phones. You're selling cheap, buying expensive. Even if your system produces exactly as much as you consume annually, TOU pricing can leave you with a real net cost.
 
-The fix: shift loads. Run your dishwasher at 10 AM instead of after dinner. Set your EV to charge at midnight if your utility has a true off-peak window. Use a home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=yoursitetag-20) (around $60-80, and genuinely useful) to see exactly when and where your home is pulling peak power. *(Disclosure: the site may earn a commission on purchases made through links in this article.)*
+The fix: shift loads. Run your dishwasher at 10 AM instead of after dinner. Set your EV to charge at midnight if your utility has a true off-peak window. Use a home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20) (around $60-80, and genuinely useful) to see exactly when and where your home is pulling peak power. *(Disclosure: the site may earn a commission on purchases made through links in this article.)*
 
 A reader in Sacramento, Claudia, emailed me last spring after her bills stayed stubbornly high even after installing a 7.2 kW system. One look at her TOU data showed she was importing 18 kWh per day during peak hours at $0.42/kWh and exporting 22 kWh during off-peak hours at $0.05/kWh. The system was working. The rate structure was the problem. We shifted her pool pump and EV charging schedule, and her bill dropped $140/month without touching the panels at all.
 
@@ -94,7 +94,7 @@ Shading is the big one. A single shaded panel on a string inverter system can dr
 
 Check your monitoring app for production anomalies. If one section of your array is consistently producing 40% less than the others on sunny days, you've found your problem.
 
-Soiling matters more in some regions than others. In dusty climates, Los Angeles, Phoenix, parts of Texas, a dirty array can lose 5-10% of production annually. A [basic solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=yoursitetag-20) costs $30-50 and a Saturday morning. EnergySage's market data has shown that cleaning frequency is one of the most underused performance levers homeowners have.
+Soiling matters more in some regions than others. In dusty climates, Los Angeles, Phoenix, parts of Texas, a dirty array can lose 5-10% of production annually. A [basic solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) costs $30-50 and a Saturday morning. EnergySage's market data has shown that cleaning frequency is one of the most underused performance levers homeowners have.
 
 Worked example: A homeowner in Albuquerque was puzzled that their 8.4 kW system was producing 18% below the installer's projections in year three. No shading changes, no equipment failures. The panels hadn't been cleaned since install. One thorough wash later, production recovered to within 4% of projections. That 14% gap was costing them about $85/month.
 

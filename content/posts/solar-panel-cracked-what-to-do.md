@@ -46,7 +46,7 @@ Here's where a [home energy monitor](/solar-inverter-troubleshooting-guide/) ear
 
 If you don't have module-level monitoring, you're flying blind. Your system inverter will show total output, but a single underperforming panel in a string can drag down the whole string without screaming "panel 7 is broken." This is one reason I've come around pretty hard on microinverters for new installs, despite the higher upfront cost.
 
-If you want to do a quick sanity check yourself, a [home energy monitor like the Emporia Vue Gen 2](https://www.amazon.com/s?k=home+energy+monitor+emporia+vue&tag=rsh-sol-20) (the site may earn a commission on purchases) can give you a whole-system view that at least tells you if total output has dropped after the incident.
+If you want to do a quick sanity check yourself, a [home energy monitor like the Emporia Vue Gen 2](https://www.amazon.com/s?k=home+energy+monitor+emporia+vue&tag=contentportfo-20) (the site may earn a commission on purchases) can give you a whole-system view that at least tells you if total output has dropped after the incident.
 
 Worked example: A homeowner in Phoenix contacted me after [hail in April](/hail-damage-solar-panels-insurance-claim/). One panel had a visible crack across two cells, glass intact. His Enphase app showed that panel producing 22% less than the adjacent panels on a 78-degree clear morning. After replacement, his system output recovered exactly that delta. Total cost: one panel at $310 plus $180 labor.
 
