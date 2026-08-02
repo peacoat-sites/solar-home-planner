@@ -114,3 +114,13 @@ In my experience, about 60% of the homeowners I've talked to don't know what the
 The uncomfortable truth about TOU solar optimization is that it requires you to actually understand your utility bill, which the utility industry has never made easy. That's not cynicism, it's just how rate structures have been designed historically. But once you've got your peak window nailed down and your schedulable loads shifted, the ongoing effort is minimal. The Fresno neighbor I mentioned earlier? He called me last spring. His annual bill had dropped from $1,440 to $390, and all he'd done was add a small battery and set his EV charger to overnight. Sometimes the simple version actually works.
 
 *Photo: [Melike  B](https://www.pexels.com/@mlkbnl) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+
