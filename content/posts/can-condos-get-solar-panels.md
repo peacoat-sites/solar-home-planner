@@ -121,7 +121,6 @@ Condos and solar are genuinely complicated, but they're not incompatible. The pa
 - [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
-- [Job1505 De waal](https://www.pexels.com/@job1505-de-waal-461434964)
 - are among the
 
 

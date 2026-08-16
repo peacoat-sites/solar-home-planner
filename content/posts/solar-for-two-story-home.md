@@ -216,7 +216,6 @@ Have your installer do a visual inspection every 3-5 years, especially after maj
 
 - [Emporia Vue Energy Monitor on Amazon](https://www.amazon.com)
 - [Amazon](https://www.amazon.com)
-- [Kindel Media](https://www.pexels.com/@kindelmedia)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
 

@@ -109,7 +109,6 @@ There are real dollars available for people who need them most. The programs exi
 - [National Renewable Energy Laboratory](https://www.nrel.gov/)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
-- [Trinh Trần](https://www.pexels.com/@trinh-tr-n-191284110)
 - showing that low-income households spend three times more of their income on ene
 
 

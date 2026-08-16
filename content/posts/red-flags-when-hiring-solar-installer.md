@@ -114,7 +114,6 @@ The solar industry has plenty of excellent, professional installers who do metic
 
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
-- [James Thomas](https://www.pexels.com/@digitaljames)
 - showing system performance varies dramatically based on local solar irradiance a
 - isn't saving you time
 

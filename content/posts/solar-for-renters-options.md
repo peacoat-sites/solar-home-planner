@@ -96,7 +96,6 @@ Your electricity bill doesn't care whether you own the roof.
 - [Amazon](https://www.amazon.com/s?k=portable+solar+generator+kit)
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
-- [Ivan S](https://www.pexels.com/@ivan-s)
 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*

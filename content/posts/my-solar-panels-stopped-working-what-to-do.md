@@ -207,7 +207,6 @@ Storms cause several issues simultaneously: tripped breakers from power surges, 
 - [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20)
 - [whole-home energy monitor like Sense or Emporia](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)
 - [solar panel cleaning brush kit](https://www.amazon.com/s?k=solar+panel+brush+cleaning+kit&tag=contentportfo-20)
-- [Kindel Media](https://www.pexels.com/@kindelmedia)
 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
