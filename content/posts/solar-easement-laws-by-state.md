@@ -27,17 +27,15 @@ faqs:
 
 Thirty-eight states have some form of solar access protection on the books, and [most homeowners](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) have never heard of any of them.
 
-That number should matter to you before you sign a single contract. I've watched people spend $28,000 on a rooftop system, get it permitted and installed, and then spend two years fighting a neighbor whose oak tree slowly swallowed their south-facing array. A solar easement, properly recorded, could have prevented the whole mess. Most people don't realize these laws exist at all, let alone that they vary so wildly from state to state that what protects you in California might do absolutely nothing in, say, Mississippi.
+That number should matter to you before you sign a single contract. For example, a homeowner might spend $28,000 on a rooftop system, get it permitted and installed, and then spend two years fighting a neighbor whose oak tree slowly swallowed their south-facing array. A solar easement, properly recorded, could have prevented the whole mess. Most people don't realize these laws exist at all, let alone that they vary so wildly from state to state that what protects you in California might do absolutely nothing in, say, Mississippi.
 
 Let me walk you through what's actually on the books, what the gaps are, and how to use this information before you write a check to any installer.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">38 states have some solar access or easement law, but only a handful make protection automatic.</li><li style="margin:5px 0">Most states require you to separately record a solar easement deed ,  it doesn't attach to your property automatically.</li><li style="margin:5px 0">California and a handful of others limit HOA authority to block solar; most states do not.</li><li style="margin:5px 0">A shading loss of just 10% can cut annual output by up to 20% depending on your inverter type.</li><li style="margin:5px 0">Solar easement recording fees typically run $15–$75 at the county recorder's office, making it one of the cheapest protections you can buy.</li></ul></div>
-
 
 ## The Difference Between "Solar Access Rights" and a Solar Easement
 
-These two terms get conflated constantly, even by contractors who [should know](/solaredge-nexis-is-now-available-in-the-us-what-homeowners-should-know/) better. I made this mistake myself when I first transitioned from electrical work into solar consulting. I told a client in Arizona that her state's solar access law "protected" her. Technically true, but practically misleading.
+These two terms get conflated constantly, even by contractors who [should know](/solaredge-nexis-is-now-available-in-the-us-what-homeowners-should-know/) better. A common mistake is telling a homeowner that their state's solar access law "protects" them. Technically true, but practically misleading.
 
 A **solar access right** is a statutory protection, usually meaning the state limits what local governments or HOAs can do to restrict your system. It doesn't automatically stop your neighbor from planting a 60-foot sycamore. A **solar easement** is a recorded legal instrument, like a deed restriction, that grants you the right to receive unobstructed sunlight across your neighbor's property. You negotiate it, you pay to record it, and it runs with the land.
 
@@ -47,13 +45,9 @@ The critical distinction: solar access rights are passive (they protect you from
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I'll be blunt. The patchwork of state law here is genuinely maddening. EnergySage's market data confirms that solar adoption correlates strongly with the strength of state-level access protections, which makes sense when you think about it from a risk perspective.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Solar Easement Legal Strength by State (Score 1–5)</div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">5 score</span></div><div class="sc-row"><span class="sc-label">Colorado</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">4 score</span></div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">3 score</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">2 score</span></div><div class="sc-row"><span class="sc-label">Georgia</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">2 score</span></div><div class="sc-row"><span class="sc-label">Mississippi</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">1 score</span></div><div class="sc-src">Source: National Renewable Energy Laboratory state policy database, 2025</div></div>
-
 
 The states that tend to have the strongest frameworks share a few traits: they enable (not just permit) solar easements by statute, they limit HOA veto power over solar installations, and they provide a clear recording process at the county level.
 
@@ -116,7 +110,6 @@ The U.S. Department of Energy's [Homeowner's Guide to Going Solar](https://www.e
 - National Conference of State Legislatures (NCSL) Solar Rights Compilation: State-by-state legislative summary of solar access laws, updated periodically
 
 ---
-
 
 *Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
 

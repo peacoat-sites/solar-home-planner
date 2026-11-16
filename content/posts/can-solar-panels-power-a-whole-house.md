@@ -64,7 +64,7 @@ As of July 2026, installed residential solar runs $2.50-$3.80 per watt depending
 | 10 kW | $25,000-$38,000 | $17,500-$26,600 | $1,800-$2,500 |
 | 12 kW + battery (13.5 kWh) | $38,000-$55,000 | $26,600-$38,500 | $2,200-$3,000 |
 
-Those savings figures assume you're offsetting electricity at roughly $0.14-$0.17/kWh, which is close to the national average. If you're in Massachusetts or California, your rate might be $0.28-$0.35/kWh, and the payback timeline compresses significantly. A reader emailed me last month from Connecticut with a $380/month summer electric bill, primarily from central AC. Her 10 kW system paid back in under 7 years after incentives.
+Those savings figures assume you're offsetting electricity at roughly $0.14-$0.17/kWh, which is close to the national average. If you're in Massachusetts or California, your rate might be $0.28-$0.35/kWh, and the payback timeline compresses significantly. In high-usage climates with significant summer cooling demand, a 10 kW system can pay back in under 7 years after incentives.
 
 ## Does your roof actually work?
 
@@ -72,7 +72,7 @@ Panel count is one thing. Whether your roof can physically and structurally host
 
 South-facing roof planes at 20-35 degree pitch are ideal in the northern hemisphere. East or west orientation costs you 10-20% production. North-facing is a last resort. Shading is the killer nobody talks about enough. A single pine branch throwing shadow across two panels for three hours a day can drop system output by 15-25% depending on whether you're running string inverters or microinverters/power optimizers.
 
-This is where microinverters (Enphase IQ8 series) or DC optimizers (SolarEdge) genuinely earn their cost premium over a simple string inverter setup. On a shading-free south-facing roof, a string inverter like a Fronius Primo or SMA Sunny Boy is perfectly fine and costs less. On a complex roof with dormers, chimneys, or nearby trees, panel-level electronics pay for themselves. I've seen systems with string inverters lose 40% production from shade that a microinverter system would have largely recovered.
+This is where microinverters (Enphase IQ8 series) or DC optimizers (SolarEdge) genuinely earn their cost premium over a simple string inverter setup. On a shading-free south-facing roof, a string inverter like a Fronius Primo or SMA Sunny Boy is perfectly fine and costs less. On a complex roof with dormers, chimneys, or nearby trees, panel-level electronics pay for themselves. String inverters can lose around 40% of production from shade that a microinverter system would largely recover.
 
 The structural piece: most 2x6 rafter construction handles standard panel weight fine. Older 2x4 rafter systems, flat roofs, or roofs with existing damage need an engineer's sign-off before you permit. Your installer should pull a permit and schedule an inspection. If they suggest skipping the permit to "save time," walk away.
 

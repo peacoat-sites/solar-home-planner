@@ -22,7 +22,6 @@ That story drives a lot of what I want to cover here. The question "how long doe
 
 The answer ranges from three hours to three weeks. Both are technically correct.
 
-
 <div class="value-module">
  <div class="vm-head">Battery Runtime by Usage Scenario</div>
  <div class="vm-body">
@@ -38,7 +37,7 @@ Most home batteries sold today are measured in kilowatt-hours (kWh). A Tesla Pow
 
 Here's a basic reality check. A standard refrigerator draws about 100-150 watts continuously, or roughly 1.5 kWh per day. A window AC unit pulls 500-1,500 watts. A well pump surges at 2,000 watts or higher on startup. An electric dryer runs around 5,500 watts. If you try to keep everything running like normal, a single 13.5 kWh Powerwall lasts maybe 12 hours. Possibly less. That's not pessimism. That's math.
 
-Shift into outage mode though, just the fridge, a few lights, phone charging, maybe a small fan, and that same 13.5 kWh stretches to 24 to 36 hours realistically. Two Powerwalls stacked (27 kWh) with disciplined usage? I've seen homeowners breeze through 48 to 72 hour outages comfortably.
+Shift into outage mode though, just the fridge, a few lights, phone charging, maybe a small fan, and that same 13.5 kWh stretches to 24 to 36 hours realistically. Two Powerwalls stacked (27 kWh) with disciplined usage can realistically stretch to 48 to 72 hour outages.
 
 There's another spec everyone glosses over: continuous power output, separate from storage capacity. A Powerwall 3 outputs up to 11.5 kW continuous. This matters when your well pump kicks on, because a battery packed with capacity but weak surge output will trip the inverter. Always check both numbers before you buy anything.
 
@@ -70,7 +69,7 @@ Here's how I walk people through it. Pull your utility bills for the last 12 mon
 
 For most three-bedroom homes, that lands somewhere between 8 and 15 kWh per day. One Powerwall handles short outages with discipline. Two batteries give you actual resilience. Three or more, combined with decent solar, and you're effectively weather-independent for most storms.
 
-One honest caveat: if you have EV charging in your critical loads panel, this explodes. A Level 2 charger pulls 7-10 kW. Most people rightly leave this off backup circuits, but I've seen installs where it was accidentally included.
+One caveat: if EV charging is included in your critical loads panel, this explodes the load calculation. A Level 2 charger pulls 7-10 kW. Most installations correctly leave EV charging off backup circuits, but it can be accidentally included.
 
 A good home energy monitor (something like the Sense Energy Monitor or an Emporia Vue) is worth the $150-300 investment before you size your battery, because it shows your real consumption patterns, not guesses. (The site may earn a commission on purchases through affiliate links.)
 
@@ -116,7 +115,6 @@ My neighbor got batteries installed six months after that derecho. Two Powerwall
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

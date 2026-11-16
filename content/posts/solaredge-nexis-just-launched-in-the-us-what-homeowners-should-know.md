@@ -16,7 +16,7 @@ affiliate_disclosure: true
 
 Most solar coverage of the Nexis launch is treating it like a product review. Unbox, spec list, enthusiastic close. That misses the actual story, which is about timing and economics, not Lego bricks.
 
-SolarEdge opened US orders for the Nexis platform on July 2, 2026, and the context around that date matters more than the hardware itself. The federal 25D residential solar tax credit has expired. Net metering is weakening in state after state. And according to Aurora Solar's May 2026 research, 53% of homeowners now cite grid reliability as a reason they're considering storage. That's not a coincidence, it's the market SolarEdge is walking into.
+SolarEdge opened US orders for the Nexis platform on July 2, 2026, and the context around that date matters more than the hardware itself. The federal 25D residential solar tax credit has expired. Net metering is weakening in state after state. And according to Aurora Solar's May 2026 research, 53% of homeowners now cite grid reliability as a reason they're considering storage. These factors have created demand for integrated storage solutions like the Nexis platform.
 
 ## What the Nexis Platform Actually Is
 
@@ -30,17 +30,13 @@ Capacity scales from 5 kWh up to 80 kWh per system. So you're covered from a mod
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The expiration of the 25D credit changes the math for residential buyers. What it doesn't change is the math for commercial installations, where the One Big Beautiful Bill Act's domestic content (FEOC) requirements now apply. Nexis is US-manufactured, which means installers working on commercial projects, multifamily, or community solar can use it to meet those domestic content rules and preserve the applicable investment tax credits.
 
 For straight residential homeowners buying a Nexis system for their own home right now: you've lost the 30% federal credit that covered both panels and storage. State incentives vary, and some (California, Massachusetts, New York) still have meaningful storage-specific rebates. Check your state's database before you assume the federal loss is the whole story.
 
 What hasn't changed is the underlying economics that are pushing storage adoption regardless of federal policy.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Residential solar systems with battery storage (%)</div><div class="sc-row"><span class="sc-label">2024</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">28%</span></div><div class="sc-row"><span class="sc-label">2025</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">35%</span></div><div class="sc-row"><span class="sc-label">2026 Q1</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">40%</span></div><div class="sc-src">Source: Aurora Solar, May 2026</div></div>
-
 
 That 40% figure from Q1 2026, up from 35% in 2025, tells you homeowners are adding batteries even as incentives shrink. Rising utility rates and weakened net metering are doing the work the tax credit used to do.
 

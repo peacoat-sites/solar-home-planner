@@ -38,7 +38,7 @@ Your utility doesn't let solar systems connect to the grid automatically. Every 
 
 The agreement spells out the technical rules your system has to follow, what equipment is required, who's responsible for maintaining the connection point, what fees apply, and the conditions under which the utility can disconnect you. It also locks in certain rights on your end, including your ability to export power and receive credit for it.
 
-Here's the thing most installers don't tell you: the interconnection agreement and the net metering agreement are two separate documents. Interconnection governs the physical and technical connection. Net metering governs the billing arrangement for exported power. You need both, and they're sometimes processed by different departments on different timelines. I've seen homeowners get their interconnection approved, assume they were good to go on net metering credits, and then discover their net metering application was sitting unapproved for six more weeks.
+Most installers don't emphasize that the interconnection agreement and the net metering agreement are two separate documents. Interconnection governs the physical and technical connection. Net metering governs the billing arrangement for exported power. You need both, and they're sometimes processed by different departments on different timelines. It's common for homeowners to get their interconnection approved, assume they're good to go on net metering credits, and then discover their net metering application is sitting unapproved for several more weeks.
 
 ---
 
@@ -53,8 +53,6 @@ Here's the thing most installers don't tell you: the interconnection agreement a
 | Termination conditions | Allows utility to disconnect non-compliant systems | Utility can disconnect if system causes power quality issues or is modified without notification |
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The document looks different depending on your state and utility, but a handful of provisions show up in virtually every agreement.
 
@@ -100,10 +98,9 @@ If you have a home energy monitor (something like the Emporia Vue or Sense), the
 
 ---
 
-
 ---
 
-The interconnection agreement is the least glamorous piece of a solar project and probably the one that has the most actual leverage over how your system performs financially over time. Ten minutes with it now is worth more than ten hours of troubleshooting later.
+The interconnection agreement is often overlooked but has the most impact on how your system performs financially over time. Ten minutes with it now is worth more than ten hours of troubleshooting later.
 
 ---
 
@@ -114,7 +111,6 @@ The interconnection agreement is the least glamorous piece of a solar project an
 - [shop home energy monitors here](https://www.amazon.com/s?k=home+energy+monitor)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -55,11 +55,11 @@ A few things shift this number:
 
 ## The Permit and Utility Interconnection Reality
 
-I've watched homeowners get blindsided here. It's the single biggest source of project delays, and nobody talks about it until it's too late.
+Permitting often blindsides homeowners and ranks among the biggest sources of project delays.
 
 Permits aren't optional. Timeline varies wildly by jurisdiction.
 
-Most cities and counties require a building permit and an electrical permit. Some add a structural permit if the racking needs specific roof work. Straightforward jurisdictions turn these around in one to three weeks. I've seen California and Northeast locations drag it to six to twelve weeks.
+Most cities and counties require a building permit and an electrical permit. Some add a structural permit if the racking needs specific roof work. Straightforward jurisdictions turn these around in one to three weeks. California and Northeast locations often take six to twelve weeks.
 
 Your utility also needs to approve interconnection before you flip the switch. This is the Interconnection Agreement. Without it, you can't legally export power to the grid. In most states, your installer can't even energize the system. Utility reviews range from a few days to several months depending on the utility and how stressed the grid is in your area.
 
@@ -118,7 +118,6 @@ Retrofitting solar onto an existing home means more decisions than the marketing
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

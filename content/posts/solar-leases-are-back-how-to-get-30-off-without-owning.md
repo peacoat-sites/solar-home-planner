@@ -20,9 +20,7 @@ Here's what actually happened: the Section 25D residential tax credit expired De
 
 The catch is timing. As Electrek reported on June 4, 2026, the practical deadline for locking in a 48E-eligible lease was July 4, 2026, the date by which a project needed to "begin construction" to qualify, with four years to reach completion. Projects fully placed in service by end of 2027 are also eligible. If you're reading this in mid-2026, the construction-start window is essentially closed for new shoppers, but the placed-in-service pathway is still real for deals already in motion.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The 30% federal solar credit expired for homeowner-purchased systems on December 31, 2025.</li><li style="margin:5px 0">Leases and PPAs let solar companies claim Section 48E (30%) and pass savings to you.</li><li style="margin:5px 0">Construction had to begin by July 4, 2026; systems placed in service by end of 2027 still qualify.</li><li style="margin:5px 0">The solar-plus-battery bundle is now the default lease pitch, with storage attachment at 45% in Q1 2026.</li><li style="margin:5px 0">Wood Mackenzie projects 5% market contraction in 2026, then 12% average annual growth for four years.</li></ul></div>
-
 
 ## Lease vs. Buy: What the Math Actually Looks Like Now
 
@@ -43,8 +41,6 @@ Buying still wins over 25 years if you finance at a decent rate and your install
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Something else happened quietly in Q1 2026: batteries stopped being an add-on and became the default package. The solar-plus-storage attachment rate hit 45% in Q1 2026, up from 38% just a year prior, according to the ACP and Wood Mackenzie US Energy Storage Monitor released June 23, 2026. Residential battery installations hit 1.3 GWh in Q1 alone, up 86% year-over-year.
 
 The lease-and-battery bundle is driving a lot of this. Under 48E, storage co-located with solar qualifies for the same credit structure, so installers are packaging them together and pitching the whole system as a single discounted product. Aurora Solar's 2026 Solar Snapshot found that only 3% of solar-engaged homeowners have no interest in adding a battery, and nearly a third of installers expect more than 75% of their 2026 projects to include storage. When virtually nobody is saying no to batteries, the industry stops asking and just includes them.
@@ -57,7 +53,7 @@ The residential solar market is going to shrink in 2026. Wood Mackenzie projects
 
 Installers who are hungry for volume in a softer market are more flexible on lease terms than they were in 2022 or 2023 when demand outpaced supply. Push on three things: the annual rate escalator (1.9% or lower is achievable; 2.9% is too high), the buyout price schedule at years 5, 10, and 15, and who pays for inverter replacement if it fails mid-lease.
 
-The four-year growth projection after this dip, Wood Mackenzie's 12% average annual pace through 2030, is real and is being driven partly by third-party ownership. Lease companies have capital and incentive to grow. You have leverage right now that you won't have in 2028.
+The four-year growth projection after this dip, Wood Mackenzie's 12% average annual pace through 2030, is real and is being driven partly by third-party ownership. Lease companies have capital and incentive to grow. Homeowners have more negotiating power now than they're likely to have in 2028.
 
 ## Red Flags That Cost You Money
 

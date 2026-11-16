@@ -25,7 +25,7 @@ faqs:
     a: "Yes. The 30% federal Investment Tax Credit (ITC) applies to the full installed cost of the solar system, including the tile-specific mounting hardware and any incidental tile work directly related to the installation. It does not cover a full roof replacement if you decide to re-roof before installing."
 ---
 
-Tile roofs and solar panels have a complicated relationship. I'll be honest: when I started doing installs on Spanish clay tile and concrete tile about six years ago, I assumed the process was basically the same as asphalt shingle work, just with prettier roofing underneath. I was wrong in ways that cost a homeowner a cracked $14-per-tile barrel tile and cost me an afternoon of apologizing.
+Tile roofs and solar panels have a complicated relationship. Installing solar on tile roofs requires different techniques than asphalt shingle work. Improper mounting can crack expensive tiles, so understanding the right attachment method matters.
 
 The truth is that tile roof solar is its own skill set, and a lot of installers who do fine work on shingles will absolutely butcher a tile job. If you've got a tile roof and you're pricing out solar, there are things you need to know before you sign anything.
 
@@ -40,8 +40,6 @@ What surprised me was how few installers explain this to customers. You'll often
 ## Mounting Systems: What's Actually Being Used
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 There are three real approaches to tile roof solar mounting in 2026, and they differ significantly in labor, cost, and long-term roof integrity.
 
@@ -84,13 +82,9 @@ Homeowner in San Jose on concrete flat tile, 6.4kW system, found two cracked til
 
 The National Renewable Energy Laboratory has published data showing tile roof solar systems don't underperform their shingle counterparts once properly installed. The output is the same. You're just paying for more careful installation.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg installed cost per watt: tile vs. shingle roofs (8kW system, 2026)</div><div class="sc-row"><span class="sc-label">Asphalt shingle</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">$3</span></div><div class="sc-row"><span class="sc-label">Flat concrete tile</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">$3.2</span></div><div class="sc-row"><span class="sc-label">S-profile concrete tile</span><span class="sc-track"><span class="sc-bar" style="width:94%"></span></span><span class="sc-val">$3.4</span></div><div class="sc-row"><span class="sc-label">Clay barrel tile</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$3.5</span></div><div class="sc-src">Source: EnergySage market data, mid-2026</div></div>
 
-
 ## Red Flags to Watch For Before You Sign
-
-You're probably thinking some of this is obvious, but I get emails from readers who ignored these signs and regret it.
 
 An installer who doesn't ask what type of tile you have before quoting is winging it. The profile matters. The age matters. Whether replacement tile is still in production matters enormously, because discontinued clay tile can run $18-$40 per tile if you need replacements.
 
@@ -109,7 +103,6 @@ And if anyone suggests removing all the tile and re-roofing with shingles just t
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/): Industry data on residential solar installation volumes and regional variance
 
 ---
-
 
 ---
 

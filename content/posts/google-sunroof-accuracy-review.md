@@ -38,9 +38,9 @@ The tool uses aerial and satellite imagery, combined with 3D modeling of your ro
 
 That's genuinely impressive for a free tool. And for a lot of roofs, it's in the right ballpark.
 
-Here's what most people don't realize though: Sunroof's accuracy is heavily dependent on the age and resolution of the imagery in your area. Google updates its aerial data on no fixed schedule. In fast-growing suburbs or rural counties, I've seen imagery that was clearly three or four years old. A tree that got taken down in 2023, a new addition on the west side of your house, a neighbor's second story that now shades your array in the afternoon. None of that shows up if the satellite photo predates it.
+Here's what most people don't realize though: Sunroof's accuracy is heavily dependent on the age and resolution of the imagery in your area. Google updates its aerial data on no fixed schedule. In fast-growing suburbs or rural counties, imagery can be three or four years old. A tree that got taken down in 2023, a new addition on the west side of your house, or a neighbor's second story that now shades your array in the afternoon won't show up if the satellite photo predates it.
 
-The 3D modeling is also a generalization. It works better on standard gable roofs than on complex hip-and-valley configurations. I've tested this myself on two similar homes: a simple two-pitch ranch house and a four-bedroom with a complicated roofline and three dormers. On the ranch, Sunroof's usable square footage estimate was within 8% of what our design software calculated. On the complex roof, it was off by over 20%, which translated to a meaningfully different panel count and projected output.
+The 3D modeling is also a generalization. It works better on standard gable roofs than on complex hip-and-valley configurations. Simple two-pitch roofs typically see usable square footage estimates within 8% of what design software calculates. Complex roofs with multiple pitches, hips, valleys, and dormers can be off by 20% or more, which translates to meaningfully different panel counts and projected output.
 
 ---
 
@@ -55,21 +55,19 @@ The 3D modeling is also a generalization. It works better on standard gable roof
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where I'd ask you to be most skeptical.
 
 Sunroof pulls electricity rate data, but it's often working with state or regional averages, not your specific utility's rate structure. If you're on a time-of-use plan with Pacific Gas & Electric, or if your co-op in rural Georgia has below-average rates, the generic number will be wrong in ways that matter. As of July 2026, residential electricity rates vary from around 10 cents per kWh in parts of the South to over 30 cents in Hawaii and California. A tool averaging those together will produce wildly different accuracy depending on where you live.
 
 The [net metering assumption](/solar-agreement-types-ppa-vs-loan-vs-lease/) is the bigger problem. Sunroof tends to assume relatively favorable net metering (selling excess power back at or near retail rates). But net metering policies have been changing fast. Several states have moved to "net billing" at wholesale rates, which cuts the effective value of your excess generation by 50% or more. If your state made that change recently and Sunroof's model hasn't caught up, your savings estimate could be overstated by thousands of dollars over the life of the system.
 
-I made this mistake myself early in my consulting work. I was using Sunroof projections as a sanity check on quotes without verifying the net metering assumption. A client in Nevada got a projection based on old rate structures before the PUCN modified net metering rules there. His real-world payback period was about 11 years, not the 7.5 Sunroof had suggested. I've been more careful since.
+A common mistake is using Sunroof projections as a sanity check on quotes without verifying the net metering assumption. For example, a projection based on old rate structures before the PUCN modified net metering rules in Nevada could suggest a 7.5-year payback when the real-world payback period is closer to 11 years. Always confirm that Sunroof's rate assumptions match your current utility's actual net metering policy.
 
 ---
 
 ## What It Gets Right (and I Don't Want to Be Unfair)
 
-Look, I'm being critical here, but I don't want to leave you thinking Sunroof is useless. For roof orientation and basic solar potential, it's genuinely solid. If Sunroof says your north-facing roof in Seattle is a bad candidate for solar, believe it. That conclusion is almost certainly right.
+I'm being critical here, but I don't want to leave you thinking Sunroof is useless. For roof orientation and basic solar potential, it's genuinely solid. If Sunroof says your north-facing roof in Seattle is a bad candidate for solar, believe it. That conclusion is almost certainly right.
 
 The shading analysis is also better than it looks at first glance. By modeling the sun's path across your specific address at different times of year, it can flag situations where morning or afternoon shading would cost you meaningful production. I've compared Sunroof's shading estimates to reports generated by professional tools like Aurora or Solargraf on a handful of projects, and on roofs with straightforward obstructions (one large tree to the southwest, for example), the estimates were within 10-15% of the professional tool's output.
 
@@ -91,7 +89,7 @@ Get at least two quotes from installers who will produce a detailed shade analys
 
 Seattle homeowner, north-facing primary roof with a south-facing garage → Sunroof flagged it as low potential → Professional assessment confirmed the garage roof alone could support a 4.2 kW system, enough to cover 70% of usage. Sunroof was right to be cautious, but the real installer saw an option the tool missed.
 
-Suburban Phoenix home, simple south-facing roof, SRP electric customer → Sunroof projected $1,100/year savings → Actual first-year savings after a correctly sized 8.5 kW system: $1,050. That's one of the closest matches I've seen, partly because Arizona's solar resource is so consistent and SRP's rates fit neatly into the modeling.
+For a simple south-facing roof in suburban Phoenix with SRP as the utility, Sunroof projected $1,100 in annual savings while the actual first-year savings from a correctly sized 8.5 kW system came to $1,050. Arizona's consistent solar resource and SRP's straightforward rate structure allowed the model to perform well.
 
 New Jersey homeowner, complex Victorian roofline → Sunroof projected 14 panels and $900/year → Professional design identified only 9 usable panels due to shading and roof configuration → Real projected savings: $560/year. That's a 37% gap. Big enough to change the whole financial case.
 
@@ -106,7 +104,6 @@ New Jersey homeowner, complex Victorian roofline → Sunroof projected 14 panels
 - State Public Utilities Commission filings (California CPUC, Nevada PUCN, and others): Primary sources for current net metering and net billing rules.
 
 ---
-
 
 ---
 

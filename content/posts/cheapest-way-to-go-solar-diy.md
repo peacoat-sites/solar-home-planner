@@ -139,7 +139,7 @@ Complex roofs with multiple planes, heavy shading, or steep pitches increase fal
 
 Older electrical panels, especially 100-amp service or Federal Pacific/Zinsco units, often need upgrades before solar. That work requires a licensed electrician no matter what.
 
-HOAs are real. Some require approval. Some are overridden by state solar rights laws. Check your CC&Rs and state law first. In my experience, contractors use "the HOA might object" as a scare tactic, but you do need to verify.
+HOAs are real. Some require approval. Some are overridden by state solar rights laws. Check your CC&Rs and state law first. Contractors sometimes use "the HOA might object" as a scare tactic, but verification is still necessary.
 
 On contractor red flags if you hire part of it out: walk away from anyone without an itemized quote, anyone who pressures you to sign same-day, anyone whose warranty is only backed by them (not the manufacturer), and anyone who won't pull permits. That last one matters. Unpermitted work can void your homeowner's insurance on related claims.
 
@@ -156,7 +156,6 @@ The cheapest way to go solar is the way that matches your actual skills, gets pe
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

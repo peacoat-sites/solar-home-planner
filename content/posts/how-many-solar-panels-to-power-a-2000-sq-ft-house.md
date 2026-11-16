@@ -43,8 +43,6 @@ Once you have your annual kWh, divide by 365 to get your daily average. That's t
 
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's the formula that actually matters:
 
 **Number of panels = Daily kWh needed / (Peak sun hours x Panel wattage in kW)**
@@ -69,9 +67,7 @@ More electricity use, more sun, similar panel count. Geography and consumption c
 
 Peak sun hours vary more than most homeowners expect. This isn't about whether it's "sunny" where you live; it's a precise measurement of how many hours per day solar irradiance averages at least 1,000 W/m². Cloudy Seattle still gets about 3.5 peak sun hours. Sunny Boston gets 4.2. Miami gets 5.3. Albuquerque leads the continental U.S. at around 6.8.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average peak sun hours by city</div><div class="sc-row"><span class="sc-label">Albuquerque</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">6.8 hours/da</span></div><div class="sc-row"><span class="sc-label">Miami</span><span class="sc-track"><span class="sc-bar" style="width:78%"></span></span><span class="sc-val">5.3 hours/da</span></div><div class="sc-row"><span class="sc-label">Dallas</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">5.2 hours/da</span></div><div class="sc-row"><span class="sc-label">Nashville</span><span class="sc-track"><span class="sc-bar" style="width:66%"></span></span><span class="sc-val">4.5 hours/da</span></div><div class="sc-row"><span class="sc-label">Chicago</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">4.1 hours/da</span></div><div class="sc-row"><span class="sc-label">Boston</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">4.2 hours/da</span></div><div class="sc-row"><span class="sc-label">Seattle</span><span class="sc-track"><span class="sc-bar" style="width:51%"></span></span><span class="sc-val">3.5 hours/da</span></div><div class="sc-src">Source: NREL PVWatts database, 2025</div></div>
-
 
 That gap between Albuquerque and Seattle means a homeowner in Seattle needs roughly 94% more panel capacity to produce the same annual energy. Same roof size, same electrical load. That's not a rounding error; that's the difference between a 10-panel and a 20-panel system.
 
@@ -123,7 +119,7 @@ As of July 2026, the [Solar Energy Industries Association (SEIA)](https://www.se
 
 Any installer worth hiring will pull a shading analysis using software like Aurora, Solargraf, or at minimum a Solmetric SunEye. They'll pull your utility bills directly (some companies use Bidgee or similar aggregators with your permission). They should be designing to offset a specific percentage of your actual consumption, not selling you a "standard" system.
 
-Red flags I've seen firsthand: a quote that never asks for your utility bills, a roof pitch or orientation that's never mentioned, panel count derived from square footage alone, or pressure to sign before the shading analysis is complete. That last one especially. I've seen shading analysis come back showing 30% production loss on roofs that looked perfectly open from the driveway. That changes the entire economics.
+Red flags to watch for: a quote that never asks for your utility bills, a roof pitch or orientation that's never mentioned, panel count derived from square footage alone, or pressure to sign before the shading analysis is complete. Shading analysis can reveal 30% production loss on roofs that look perfectly open from the driveway, which fundamentally changes the entire economics.
 
 A reputable installer will also factor in your utility's net metering policy, which varies dramatically by state and has been changing fast. In California, the NEM 3.0 rate structure that took effect in 2023 significantly reduced the value of exported energy, which shifted the calculus toward battery storage for many homeowners. Your local incentive stack matters as much as your panel count.
 
@@ -138,7 +134,6 @@ If you want to [monitor your home energy use more precisely before sizing your s
 - [Lawrence Berkeley National Laboratory, Tracking the Sun](https://emp.lbl.gov/tracking-the-sun): Annual report on residential solar pricing, system characteristics, and installation trends.
 
 ---
-
 
 ---
 

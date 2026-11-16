@@ -20,23 +20,19 @@ The One Big Beautiful Bill Act, signed on July 4, 2025, repealed Section 25D rou
 
 What surprised me was how little chaos this created in installation numbers, at least on the surface. The residential segment installed 1,179 MWdc in Q1 2026, a 6% year-over-year increase, according to SEIA's Q2 2026 Solar Market Insight Report. But dig into that number and it's partly an echo of the 2025 rush. Installers were finishing systems contracted before the deadline. The real demand picture for Q3 and Q4 2026 will be telling.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The 30% federal residential solar tax credit (Section 25D) expired December 31, 2025, with no phase-down.</li><li style="margin:5px 0">Cash and loan buyers get $0 in federal credits in 2026; there is no workaround for direct purchases.</li><li style="margin:5px 0">Leases and PPAs still benefit indirectly from the 30% Section 48E commercial credit through end of 2027.</li><li style="margin:5px 0">Nearly 50% of new residential solar installs in Q1 2026 were paired with batteries, a record attach rate.</li><li style="margin:5px 0">State incentives, utility rebates, and net metering rules now matter far more than they did a year ago.</li></ul></div>
-
 
 ## The Lease/PPA Loophole Is Real (With Caveats)
 
 Here's the part that genuinely surprised me when I went looking. Third-party-owned systems, meaning [solar leases](/solar-leases-are-back-how-to-get-30-off-without-owning/) and power purchase agreements, still qualify for a 30% tax credit in 2026. It's just a different credit. Section 48E is a commercial investment tax credit, and because the installer or leasing company owns the equipment, they claim it. The savings theoretically flow to you through lower monthly lease rates or PPA pricing. NuWatt's analysis from June 2026 lays this out clearly: the 48E credit remains available through at least end of 2027, and companies marketing leases are already using it as a selling point.
 
-The catch, and there are a few, is that you don't own the system. You can't claim depreciation. You may face complications when you sell your house. And the "savings passed to you" claim deserves serious scrutiny. Get a quote in writing that shows you exactly what rate you're locking in, what escalator clauses apply year over year, and what happens at lease end. I've seen 20-year agreements with 2.9% annual escalators that look fine on day one and ugly by year 12.
+The catch, and there are a few, is that you don't own the system. You can't claim depreciation. You may face complications when you sell your house. And the "savings passed to you" claim deserves serious scrutiny. Get a quote in writing that shows you exactly what rate you're locking in, what escalator clauses apply year over year, and what happens at lease end. A 20-year agreement with 2.9% annual escalators may look fine on day one but can become expensive by year 12.
 
 That said, for renters-turned-homeowners with no [federal tax](/solar-batteries-are-rising-even-as-the-federal-tax-credit-is-gone/) liability, or anyone who simply can't absorb a $20,000+ upfront cost, the lease/PPA structure is now genuinely more competitive relative to ownership than it's been in years.
 
 ## The Buy vs. Lease Math Has Shifted
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Before December 31, 2025, the standard advice was almost always: buy if you can, because the 30% credit made ownership the clear financial winner for anyone with sufficient tax appetite. That calculus is more complicated now.
 
@@ -64,9 +60,7 @@ What surprised me most in the Q1 2026 data wasn't the credit expiration fallout.
 
 The broader storage market reflects this. Wood Mackenzie and the American Clean Power Association reported 3.3 GW and 8.4 GWh of total energy storage deployed in Q1 2026 alone, with all three segments setting quarterly records, per Utility Dive's June 2026 coverage. Residential was part of that record sweep.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">U.S. Energy Storage Deployed, Q1 2026 (GWh by segment)</div><div class="sc-row"><span class="sc-label">Residential</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">1.4 GWh</span></div><div class="sc-row"><span class="sc-label">Commercial</span><span class="sc-track"><span class="sc-bar" style="width:35%"></span></span><span class="sc-val">1.8 GWh</span></div><div class="sc-row"><span class="sc-label">Utility-Scale</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">5.2 GWh</span></div><div class="sc-src">Source: Wood Mackenzie / ACPA via Utility Dive, June 2026</div></div>
-
 
 If you're buying solar in 2026, the battery question deserves a real answer, not a sales pitch. Get quotes with and without storage. Run the numbers on your specific utility's time-of-use rates.
 

@@ -14,7 +14,7 @@ slug: "solaredge-nexis-is-now-available-in-the-us-what-homeowners-should-know"
 affiliate_disclosure: true
 ---
 
-Most homeowners shopping for solar right now are making a decision they probably don't fully realize they're making: not just about panels, but about which battery platform they're locking into for the next decade or more. SolarEdge just made that choice a lot more interesting. On July 13, 2026, the company opened nationwide U.S. orders for its Nexis residential solar-plus-storage system, a modular platform it first launched in Germany in March 2026 to what the company called record order volumes, with over 2,000 installations deployed in the months since. I'll be honest, I expected this to be a minor product refresh. It's not.
+Most homeowners shopping for solar right now are making a decision they probably don't fully realize they're making: not just about panels, but about which battery platform they're locking into for the next decade or more. SolarEdge just made that choice a lot more interesting. On July 13, 2026, the company opened nationwide U.S. orders for its Nexis residential solar-plus-storage system, a modular platform it first launched in Germany in March 2026 to what the company called record order volumes, with over 2,000 installations deployed in the months since.
 
 ## What Nexis Actually Is (and Why the Modular Part Matters)
 
@@ -27,8 +27,6 @@ What surprised me was how cleanly this maps onto real homeowner upgrade patterns
 ## The Tax Credit Angle You Need to Understand Right Now
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where things get genuinely consequential for anyone shopping in mid-2026. SolarEdge manufactures Nexis in the U.S., which means projects using it can qualify for the domestic content bonus under the clean energy tax credit rules updated by the One Big Beautiful Bill. Those FEOC (Foreign Entity of Concern) requirements have been reshaping which products actually pencil out financially, and not every battery on the market can clear that bar.
 
@@ -54,9 +52,7 @@ Here's where I'll try to give you something more useful than marketing copy. The
 
 The off-grid output number for Nexis is legitimately strong. 14.5 kW covers most homes running AC, a well pump, and a handful of major appliances simultaneously. That's a real spec, not a cherry-picked lab figure.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Max off-grid output (kW)</div><div class="sc-row"><span class="sc-label">SolarEdge Nexis</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">14.5 kW</span></div><div class="sc-row"><span class="sc-label">Tesla Powerwall 3</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">11.5 kW</span></div><div class="sc-row"><span class="sc-label">Enphase IQ 5P (2-unit)</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">7.7 kW</span></div><div class="sc-src">Source: Manufacturer specs, July 2026</div></div>
-
 
 ## Red Flags and Open Questions to Watch
 

@@ -58,11 +58,11 @@ Different panel technologies respond to diffuse light differently. This actually
 
 If you're in a consistently overcast climate and choosing between two panels with similar pricing, this is actually worth asking your installer about rather than defaulting to whatever they have in the warehouse.
 
-Bifacial panels are another consideration. They capture reflected light from below as well as direct light from above. In snowy climates specifically, the albedo from snow on the ground can meaningfully improve winter production from bifacial panels. I've seen quoted estimates of 10-20% additional yield in the right conditions. The research is mixed depending on mounting height and ground surface, but it's real.
+Bifacial panels are another consideration. They capture reflected light from below as well as direct light from above. In snowy climates specifically, the albedo from snow on the ground can meaningfully improve winter production from bifacial panels. Estimates of 10-20% additional yield in the right conditions are commonly quoted for bifacial panels in snowy climates. The research is mixed depending on mounting height and ground surface, but it's real.
 
 ## The Monitoring Data Doesn't Lie
 
-If you already have solar, pull up your monitoring app right now. I use the Enphase Enlighten app for most of my clients' systems; SolarEdge has their own monitoring platform too. On your next cloudy day, watch what happens. You won't see zero. You'll see reduced output, probably a flattened bell curve instead of the sharp peak you get on a clear day, but the system is working.
+If you already have solar, check your monitoring app on a cloudy day. Most systems will still generate output during cloud cover, typically showing a flattened curve rather than the sharp peak of a clear day. Common monitoring platforms include Enphase Enlighten and SolarEdge's system.
 
 One thing I tell everyone: get a home energy monitor if you don't have panel-level monitoring already. Something like the [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=contentportfo-20) (around $80-100) gives you real-time whole-home data and lets you correlate your solar production against weather events. *(Note: this site may earn a commission on qualifying Amazon purchases.)* Watching that data through the seasons teaches you more about your system than any installer conversation will.
 
@@ -97,7 +97,6 @@ Don't let a string of gray days convince you your system isn't doing its job. Wa
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

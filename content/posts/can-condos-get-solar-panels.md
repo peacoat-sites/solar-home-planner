@@ -42,7 +42,7 @@ The core issue isn't technology. Solar panels work fine on flat roofs, pitched r
 
 When you own a condo, you typically own the airspace inside your unit. The roof, the exterior walls, the structural elements, and the common areas belong to the homeowners association collectively. Your HOA board has fiduciary and legal authority over that shared property. So even if a panel could physically be mounted above your unit, you don't own that surface. You need permission from an entity that answers to dozens or hundreds of other owners. That's a genuinely harder problem than calling up a solar contractor and scheduling a site visit.
 
-There's also the electrical side. A rooftop solar system for a single-family home connects at the main panel in that home. In a condo building, the electrical infrastructure is shared, metered separately per unit, and often runs through common electrical rooms. Figuring out where your system connects, how net metering credits flow back to your specific meter, and whether the building's main service can handle additional generation requires coordination with your HOA, your utility, and likely a licensed electrician who knows commercial and multi-family wiring. I've seen installs get derailed not because the HOA said no, but because nobody could figure out the interconnection logistics until months into the process.
+There's also the electrical side. A rooftop solar system for a single-family home connects at the main panel in that home. In a condo building, the electrical infrastructure is shared, metered separately per unit, and often runs through common electrical rooms. Figuring out where your system connects, how net metering credits flow back to your specific meter, and whether the building's main service can handle additional generation requires coordination with your HOA, your utility, and likely a licensed electrician who knows commercial and multi-family wiring. Installs often get derailed not because the HOA said no, but because interconnection logistics aren't resolved early enough in the process.
 
 ## What the Law Actually Says: Solar Access Rights and Condo Associations
 
@@ -97,7 +97,7 @@ This is called a "building-wide" or "multi-tenant" solar installation. It's far 
 
 The financial case here is actually strong. A larger shared system benefits from better economies of scale. The HOA can potentially use commercial financing, C-PACE (Commercial Property Assessed Clean Energy) financing, or a solar lease/PPA arrangement where a developer installs and owns the system and the building pays a below-market rate for the electricity.
 
-If you want to advocate for this kind of project, your leverage point isn't "I want solar for my unit." It's "here's how the whole building could reduce operating costs and potentially increase property values." Frame it as a community financial decision, not a personal request. Bring a proposal that includes at least one preliminary quote from a commercial solar installer experienced in multi-family buildings. I've watched this approach succeed where individual unit applications completely stalled. One building I consulted on in the mid-Atlantic region had rejected three individual owner requests over two years, then approved a full building 72 kW installation in four months once the board understood it would reduce HOA common area electricity costs by roughly 40 percent.
+When advocating for a building-wide project, frame it as a community financial decision rather than a personal request. Bring a proposal that includes at least one preliminary quote from a commercial solar installer experienced in multi-family buildings. This approach tends to succeed where individual unit applications have stalled. Buildings that have adopted this approach have moved from repeated rejections of individual owner requests to approving a full building installation once the board understood it would reduce HOA common area electricity costs by roughly 40 percent.
 
 ## Comparing Your Options Side by Side
 
@@ -122,7 +122,6 @@ Condos and solar are genuinely complicated, but they're not incompatible. The pa
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
 - are among the
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

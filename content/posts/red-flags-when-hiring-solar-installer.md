@@ -43,7 +43,7 @@ Also check whether they're licensed in your state for electrical and contractor 
 
 ## The Quote Arrives Before Any Real Assessment
 
-I've watched this happen dozens of times. A salesperson shows up, spends 45 minutes at your kitchen table, hands you a quote for a 7.2 kW system, and hasn't opened a single electric bill or looked in your attic.
+A common scenario: a salesperson spends 45 minutes at your kitchen table, hands you a quote for a 7.2 kW system, and hasn't opened a single electric bill or looked in your attic.
 
 Proper sizing needs your last 12 months of utility bills to calculate your actual annual consumption. It needs a roof assessment: shingle age, pitch, orientation, unshaded square footage. It needs shading analysis, ideally with something like Solmetric SunEye or satellite software. It needs understanding of [how your consumption might shift](/comparing-solar-bids-what-to-look-for/) if you're adding an EV or planning an addition.
 
@@ -116,7 +116,6 @@ The solar industry has plenty of excellent, professional installers who do metic
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
 - showing system performance varies dramatically based on local solar irradiance a
 - isn't saving you time
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

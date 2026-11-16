@@ -56,8 +56,6 @@ The warranty itself is 10 years with a 60% capacity guarantee. Standard for the 
 
 > **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I'll be direct: the RESU's Achilles heel is [whole-home backup](/whole-home-solar-backup-system/), specifically the continuous power output.
 
 The RESU10H delivers 5 kW continuous power output. That sounds fine until you start adding up what's actually running in your house during an outage. A central air conditioner alone pulls 3-5 kW depending on tonnage. Add a refrigerator (150-400W), a few lights, phone chargers, and maybe a medical device, and you're right at the edge of what a single RESU10H can deliver. The startup (surge) demand is even higher. LG Chem rates the peak power at 7 kW for 3 seconds, which handles most motor startups, but just barely.
@@ -74,11 +72,11 @@ The RESU16H Prime, released more recently, is a notable upgrade. 16 kWh usable, 
 
 The high-voltage RESU units require a compatible hybrid inverter. This isn't optional or flexible. LG Chem publishes a compatibility list, and as of July 2026, the main partners are SolarEdge (the StorEdge inverter), Sungrow (the SH series), and Solax. Fronius Symo hybrids worked with earlier RESU units but compatibility has been inconsistent with firmware updates, so verify before committing.
 
-What most people don't realize is that if you already have a grid-tied solar system with a non-compatible inverter, adding a RESU often means replacing the inverter. That's a $1,500-$3,000 add-on that doesn't show up in the battery sticker price. I've watched homeowners get quote shock when they realize the $8,500 battery quote actually costs $11,000 installed once you factor in the inverter swap, permit revision, and utility interconnection amendment.
+If you already have a grid-tied solar system with a non-compatible inverter, adding a RESU often means replacing the inverter. That's a $1,500-$3,000 add-on that doesn't show up in the battery sticker price. An $8,500 battery quote can easily reach $11,000 installed once you factor in the inverter swap, permit revision, and utility interconnection amendment.
 
 For a permit perspective: most jurisdictions require a separate permit for battery storage even if you have an existing solar permit. The RESU's documentation is solid, with a UL9540 listing and UL1973 certification, which makes the permit process smoother than some competing products. I've personally pulled permits for RESU installations in Sacramento County and Placer County in California, and the plan check reviewers were familiar with the product. That familiarity matters for turnaround time.
 
-A note on installation clearances: LG Chem requires the RESU to be installed in a location between -10°C and 45°C (14°F to 113°F). In hotter climates, that rules out an unshaded south-facing garage wall. I've seen inspectors flag installations on thermal grounds, which causes permit holds. Shade the unit or put it on a north-facing interior wall.
+LG Chem requires the RESU to be installed in a location between -10°C and 45°C (14°F to 113°F). In hotter climates, that rules out an unshaded south-facing garage wall. Inspectors may flag installations on thermal grounds, causing permit holds. Shade the unit or put it on a north-facing interior wall.
 
 ---
 
@@ -115,7 +113,6 @@ Vague answers about commissioning. The RESU requires proper commissioning with t
 - California Energy Commission (CEC) Approved Battery Storage List (2026): State-specific compliance resource used by California installers and plan check reviewers.
 
 ---
-
 
 ---
 

@@ -46,7 +46,7 @@ Pre-installed MC4 connectors with enough lead wire to give you slack. Some budge
 
 Bypass diodes on all three cell strings. Non-negotiable. Partial shading on a two-diode panel drops output harder than it should.
 
-UL 1703 or UL 61730 listed. If a panel doesn't have one of those marks, it won't pass inspection in any jurisdiction I've worked in. This eliminates a lot of the cheap Alibaba stuff people try to source directly.
+UL 1703 or UL 61730 listed. If a panel doesn't have one of those marks, it won't pass inspection. This eliminates a lot of the cheap Alibaba stuff people try to source directly.
 
 ---
 
@@ -62,13 +62,11 @@ UL 1703 or UL 61730 listed. If a panel doesn't have one of those marks, it won't
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 As of July 2026, the 400-430W monocrystalline PERC format has basically won the residential market. You're not going to find a compelling reason to buy 380W panels anymore unless they're deeply discounted.
 
 **Rec Alpha Pure-R series.** My top pick for someone who wants premium and can afford it. These run around $280-320 per panel through authorized distributors. The frameless back-contact design sounds scary for DIY, but REC sells them with a dedicated mounting system that's actually easier to handle than traditional framed panels once you understand it. High efficiency (22.3%), and the 30-year product warranty is real, not marketing.
 
-**Q CELLS Q.PEAK DUO BLK ML-G10+.** This is what I'd put on my own house today if I weren't going premium. Street price around $210-240 per panel. Weighs 46 lbs. The all-black aesthetic doesn't hurt with HOA types. Q CELLS' anti-LID (light-induced degradation) treatment is legitimately better than most at this price, and their degradation warranty is one of the tighter ones I've seen: 0.54% per year max, 86% retained at year 25.
+**Q CELLS Q.PEAK DUO BLK ML-G10+.** This is a solid choice for homeowners not pursuing premium panels. Street price around $210-240 per panel. Weighs 46 lbs. The all-black aesthetic doesn't hurt with HOA types. Q CELLS' anti-LID (light-induced degradation) treatment is legitimately better than most at this price, and their degradation warranty is one of the tighter ones I've seen: 0.54% per year max, 86% retained at year 25.
 
 **Silfab SIL-410 BK.** North American manufactured (Ontario, then Washington state cells), which matters for Buy American provisions if you're applying for certain utility rebates. Around $200-220 per panel. The frames are 35mm exactly, which plays nicely with all major rail hardware. I've handled these on three different jobs and they're consistently well-packaged, which matters more than people admit. Damaged panels mid-install are a special kind of frustrating.
 
@@ -118,7 +116,7 @@ For DIY installs specifically, I'd push hard toward microinverters (Enphase IQ8 
 
 Enphase IQ8M microinverters run about $170-190 each through distribution. Not cheap, but they also eliminate DC wiring on your roof, which reduces both fire risk and installation complexity meaningfully.
 
-String inverters alone are fine and cheaper. But when something goes wrong (and with any system over a decade, something eventually does), diagnosing a string inverter system without panel-level data is an exercise in frustration. I've been on those calls. It's not fun for anyone.
+String inverters alone are fine and cheaper. But when something goes wrong (and with any system over a decade, something eventually does), diagnosing a string inverter system without panel-level data is an exercise in frustration. Diagnosing problems without panel-level data becomes time-consuming and frustrating.
 
 ---
 
@@ -143,7 +141,6 @@ Production guarantees without a monitoring agreement. Guaranteeing 9,200 kWh/yea
 - [Q CELLS Product Warranty Documentation](https://us.qcells.com/): Specific degradation warranty language referenced in panel comparison above.
 
 ---
-
 
 ---
 

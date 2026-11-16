@@ -25,7 +25,7 @@ faqs:
     a: "For one person with basic construction skills, plan for 4–6 days: one day for layout, post holes, and concrete; one to two days for racking assembly; one day for panel installation; and one to two days for electrical. Add time for permit review, which typically runs 2–6 weeks depending on your jurisdiction."
 ---
 
-[Most homeowners](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) who call a solar company get quoted $3,000 to $6,000 in labor alone for a ground mount system, and that number still stings every time I hear it, because I've watched people do this themselves for under $800 in hardware and a long weekend.
+[Most homeowners](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) who call a solar company get quoted $3,000 to $6,000 in labor alone for a ground mount system, though ground mounts can be installed for under $800 in hardware with a long weekend of work.
 
 I'll be honest: I came to ground mounts skeptical. My background is rooftop work, and for years I assumed ground mounts were the "easy mode" that anyone could figure out. Then I actually tried to spec one out myself for a client in rural Montana who had a terrible south-[facing roof](/solar-on-north-facing-roof-worth-it/), and I realized how much could go wrong if you didn't know what you were doing, from undersized pier footings to conduit that fails inspection. There's a real learning curve here. But it's a learnable one.
 
@@ -45,7 +45,7 @@ For racking, IronRidge and Unirac are the two brands you'll see most on resident
 
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-I don't know a single inspector who's going to wave through a ground mount without documentation. The Solar Energy Industries Association [notes that local permitting is one of the top cost drivers](https://www.seia.org/) for residential solar, and in my experience that's as true for DIY as it is for contractors.
+I don't know a single inspector who's going to wave through a ground mount without documentation. The Solar Energy Industries Association [notes that local permitting is one of the top cost drivers](https://www.seia.org/) for residential solar, and
 
 Here's what you'll typically need:
 

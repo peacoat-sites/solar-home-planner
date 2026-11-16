@@ -33,7 +33,7 @@ I'll be honest: I used to tell people that [going solar](/going-solar-without-th
 
 ## How Much Power Does a Small House Actually Use?
 
-This is where most calculators fail you. The average U.S. household uses roughly 900 kWh per month, according to the U.S. Energy Information Administration. But a well-insulated 800-square-foot house with one or two occupants? My clients typically land between 300 and 550 kWh per month, sometimes lower if they've done basic efficiency upgrades. That's less than half the national average.
+This is where most calculators fail you. The average U.S. household uses roughly 900 kWh per month, according to the U.S. Energy Information Administration. A well-insulated 800-square-foot house with one or two occupants typically uses between 300 and 550 kWh per month, sometimes lower if basic efficiency upgrades have been done. That's less than half the national average.
 
 Run that through the math. At 400 kWh/month in, say, central Texas with about 5.5 peak sun hours per day, you need roughly 2.4 kW of installed capacity to cover your usage. That's six standard 400-watt panels. Six. Not sixteen.
 
@@ -79,7 +79,7 @@ Small home doesn't mean small bureaucracy. Every grid-tied system in the U.S. re
 
 In my experience, jurisdictions with online permit portals (most cities with populations over 100,000 now have these) run 2–4 weeks from application to approval. Rural counties can take 6–10 weeks, and a few still require paper applications submitted in person. I've had a project stall 11 weeks in rural East Texas because the county assessor's office processed permits on Thursdays only, and two of those Thursdays fell on holidays. Knowing that ahead of time would have changed the project timeline completely.
 
-HOA rules are their own thing. Since 2024, 26 states have solar access laws that limit (or outright prohibit) HOAs from blocking solar installations, though they can still regulate placement and aesthetics. If you're in one of the remaining states without protections, you need to get HOA approval in writing before you spend a dollar with a contractor. I've seen two homeowners in Arizona get stuck mid-project because they assumed their HOA would approve and didn't get it confirmed first.
+HOA rules are their own thing. Since 2024, 26 states have solar access laws that limit (or outright prohibit) HOAs from blocking solar installations, though they can still regulate placement and aesthetics. If you're in one of the remaining states without protections, get HOA approval in writing before you spend a dollar with a contractor. Proceeding without written approval risks becoming stuck mid-project if the HOA denies the installation.
 
 For a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=) (the site may earn a commission), the Emporia Vue 2 at around $79 is the one I recommend to small-home owners who want to baseline their actual consumption before sizing a solar system. Knowing your real usage pattern, not just your average kWh, can save you from a badly sized system.
 

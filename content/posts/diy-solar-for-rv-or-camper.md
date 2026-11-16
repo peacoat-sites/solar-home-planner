@@ -34,11 +34,11 @@ That's the starting point for most RV solar projects. Good intentions, incomplet
 
 Every functional RV solar system has four parts: panels, a charge controller, a battery bank, and an inverter if you want to run AC loads. That's it. Everything else is optional or situational.
 
-Panels are the easy part. For rooftop mounting on a camper or travel trailer, I'd point most people toward rigid monocrystalline panels in the 175W to 200W range per panel. Renogy and Newpowa are the two brands I've seen hold up reliably over multiple seasons. Renogy's 200W Rigid Monocrystalline Panel runs about $130 on [Amazon](https://www.amazon.com/s?k=renogy+200w+solar+panel&tag=contentportfo-20) and it's a reasonable buy. Flexible panels are tempting because they conform to curved roofs, but I've watched too many of them delaminate within two years. Unless you have a genuinely curved surface that rules out rigid panels, skip flexible.
+Panels are the easy part. For rooftop mounting on a camper or travel trailer, go with rigid monocrystalline panels in the 175W to 200W range per panel. Renogy and Newpowa are reliable choices. Renogy's 200W Rigid Monocrystalline Panel runs about $130 on [Amazon](https://www.amazon.com/s?k=renogy+200w+solar+panel&tag=contentportfo-20) and it's a reasonable buy. Flexible panels are tempting because they conform to curved roofs, but they often delaminate within two years. Unless you have a genuinely curved surface that rules out rigid panels, skip flexible.
 
-The charge controller is where people make expensive mistakes. There are two types: PWM (pulse-width modulation) and MPPT (maximum power point tracking). [MPPT controllers are more efficient](/diy-solar-with-battery-storage/), especially in partial shade and during morning and evening hours. The efficiency difference is real: MPPT typically pulls 10-30% more energy from the same panels under real-world conditions. If your system is 400W or larger, get an MPPT controller. The Victron SmartSolar 100/30 (around $130) is what I'd put in my own rig. Victron's Bluetooth app is also genuinely useful for monitoring without buying a separate display.
+The charge controller choice affects system efficiency and lifespan. There are two types: PWM (pulse-width modulation) and MPPT (maximum power point tracking). [MPPT controllers are more efficient](/diy-solar-with-battery-storage/), especially in partial shade and during morning and evening hours. MPPT typically pulls 10-30% more energy from the same panels under real-world conditions. If your system is 400W or larger, get an MPPT controller. The Victron SmartSolar 100/30 (around $130) is a solid choice. Victron's Bluetooth app is also genuinely useful for monitoring without buying a separate display.
 
-For batteries: [lithium wins](/diy-solar-with-battery-storage/). I know that's a slightly contentious take because AGM batteries cost less upfront, but a 100Ah lithium (LiFePO4) battery delivers about 100Ah of usable capacity. A 100Ah AGM gives you maybe 50Ah before you're damaging it with deep discharge. You end up buying twice as much AGM battery weight to get the same usable storage. Over four or five years, lithium is cheaper. Battle Born 100Ah LiFePO4 batteries are well-documented and worth the price. Budget lithium options from brands like Ampere Time have gotten better; I've seen a few hold up fine over two seasons, though I'd still rather have Battle Born in a rig I depend on.
+For batteries: [lithium wins](/diy-solar-with-battery-storage/). AGM batteries cost less upfront, but a 100Ah lithium (LiFePO4) battery delivers about 100Ah of usable capacity. A 100Ah AGM gives you maybe 50Ah before you're damaging it with deep discharge. You end up buying twice as much AGM battery weight to get the same usable storage. Over four or five years, lithium is cheaper. Battle Born 100Ah LiFePO4 batteries are well-documented and worth the price. Budget lithium options from brands like Ampere Time have improved, though Battle Born remains the more dependable choice for systems you rely on.
 
 Skip the inverter if you can live without 120V AC. Running AC through an inverter eats battery fast. If you're boondocking and trying to stretch three days of power, ask yourself whether you actually need to plug in a regular appliance or whether a 12V version of that device would work. For laptops, a USB-C 65W car charger is more efficient than running an inverter. That said, if you need to charge power tools or run a CPAP without a DC adapter, a 1000W pure sine wave inverter (not modified sine, which will damage some electronics) is a reasonable addition.
 
@@ -55,8 +55,6 @@ Skip the inverter if you can live without 120V AC. Running AC through an inverte
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's the math most people skip. Figure out your daily amp-hour consumption first, then work backward to panels and batteries.
 
 Make a list of everything you run: the 12V fan (2-3A), LED lighting (maybe 3A total), a 12V refrigerator like the Iceco or BougeRV (3-5A average), phone charging (0.5A). Multiply each by hours per day. Add it up. Most weekend campers land between 40 and 80Ah per day. Serious full-timers with fridges, laptops, and occasional inverter use might hit 120-150Ah.
@@ -71,7 +69,7 @@ Short runs are forgiving. Longer runs are not. Undersized wire is the number one
 
 Use a wire sizing calculator (the Blue Sea Systems amp capacity calculator is free and accurate) and always size for the maximum current your [charge controller can output](/diy-solar-panel-system-sizing/), not just what you expect to pull. Use marine-grade tinned copper wire. It costs a little more than standard automotive wire and it's worth it in a high-vibration environment.
 
-Every circuit needs a fuse as close to the battery as possible. The fuse protects the wire, not the device. Put a 40A fuse within 18 inches of your battery bank on the positive lead to your charge controller. Put another appropriately sized fuse on any other branch circuit. This is non-negotiable. It's also where I see the most DIY shortcuts, and it's the thing that burned my friend's wire harness.
+Every circuit needs a fuse as close to the battery as possible. The fuse protects the wire, not the device. Put a 40A fuse within 18 inches of your battery bank on the positive lead to your charge controller. Put another appropriately sized fuse on any other branch circuit. This is non-negotiable. This is also where the most DIY shortcuts tend to appear.
 
 For panel connections, MC4 connectors are standard. Don't crimp them with a regular wire stripper. Get a proper [MC4 crimping tool](https://www.amazon.com/s?k=mc4+connector+crimping+tool&tag=contentportfo-20); a decent one runs $25-30 and a bad crimp is a potential arc fault. Run your panel wires through a weatherproof grommet where they enter the roof. Dicor sealant around any roof penetration, applied generously.
 
@@ -87,7 +85,6 @@ A [home energy monitor](https://www.amazon.com/s?k=rv+battery+monitor+shunt&tag=
 
 ---
 
-
 ---
 
 Get the fusing right, size your wire honestly, and don't rush the battery selection. Those three things separate a system that works reliably for years from one that causes a roadside crisis. The rest you can figure out as you go.
@@ -101,7 +98,6 @@ Get the fusing right, size your wire honestly, and don't rush the battery select
 - [MC4 crimping tool](https://www.amazon.com/s?k=mc4+connector+crimping+tool&tag=contentportfo-20)
 - [consistently shows](https://news.energysage.com/)
 - [home energy monitor](https://www.amazon.com/s?k=rv+battery+monitor+shunt&tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

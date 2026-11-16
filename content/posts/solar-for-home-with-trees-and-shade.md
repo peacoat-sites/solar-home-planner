@@ -29,11 +29,11 @@ You've got a beautiful mature oak in the backyard, maybe a row of pines along th
 
 ## How Shade Actually Kills Solar Production (The Physics, Briefly)
 
-Traditional string inverter systems wire panels together in a series circuit. Think of it like a chain: one weak link drags down the whole string. A single shaded panel in a string of twelve can cut the output of all twelve panels, not just the one in shadow. I've seen homeowners lose 40 to 60 percent of their expected annual production because one tree branch hits a corner panel for three hours every afternoon in summer.
+Traditional string inverter systems wire panels together in a series circuit. Think of it like a chain: one weak link drags down the whole string. A single shaded panel in a string of twelve can cut the output of all twelve panels, not just the one in shadow.
 
 The technical term is "partial shading loss," and it compounds in ways that aren't obvious. A shadow covering just 10 percent of a panel's surface can reduce that panel's output by 50 percent or more, depending on where the cells are shaded. That's because most panels use 60 or 72 individual solar cells wired in series within the panel itself.
 
-Modern technology has changed the math somewhat, but it hasn't eliminated the problem. Microinverters and DC optimizers allow each panel to operate independently. With either product installed, a shaded panel hurts only itself, not its neighbors. SolarEdge and Enphase are the two dominant brands you'll see in quotes. That's a real advancement. But even with optimizers or microinverters, a panel that's in full shade for six hours a day still produces almost nothing during those six hours. Technology can isolate the damage. It can't manufacture electricity from shadow.
+Modern technology has changed the math somewhat, but it hasn't eliminated the problem. Microinverters and DC optimizers allow each panel to operate independently. With either product installed, a shaded panel hurts only itself, not its neighbors. SolarEdge and Enphase are the two dominant brands you'll see in quotes. But even with optimizers or microinverters, a panel that's in full shade for six hours a day still produces almost nothing during those six hours. Technology can isolate the damage. It can't manufacture electricity from shadow.
 
 ## Mapping Your Shade: Do This Before Talking to Any Contractor
 
@@ -112,7 +112,6 @@ Shade doesn't disqualify your home from solar. It just means you need to be more
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

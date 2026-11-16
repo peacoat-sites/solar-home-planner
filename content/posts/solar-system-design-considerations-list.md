@@ -31,23 +31,19 @@ Here's what I tell people at that stage: the confusion usually isn't about solar
 
 Good system design starts with your real electricity consumption, not your roof. It ends with a number that makes financial sense for your specific situation, not someone else's case study. Everything in between is tradeoffs.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Size your system to your actual 12-month kWh usage, not just last month's bill.</li><li style="margin:5px 0">South-facing roof at 15-40° tilt is ideal, but east/west splits can get you 80-85% of that output.</li><li style="margin:5px 0">A 7kW system in Phoenix costs roughly $21,000 before incentives; the same system in Seattle produces about 30% less power.</li><li style="margin:5px 0">The 30% federal tax credit (ITC) applies through 2032, but you must have sufficient tax liability to use it.</li><li style="margin:5px 0">Battery storage adds $10,000-$18,000 and only pencils out in specific grid/utility scenarios.</li></ul></div>
-
 
 ## Start With Your Bills, Not Your Roof
 
 Pull twelve months of electricity bills before you talk to anyone. Not just the totals. The kilowatt-hour (kWh) numbers. There's a real difference between a household using 800 kWh in January and one using 800 kWh in August, because your [solar production](/solar-production-vs-consumption-tracking/) peaks in summer whether you need it or not, and that timing mismatch shapes how much you'll actually offset versus export to the grid.
 
-The average U.S. household uses around 10,500 kWh per year according to [EnergySage's market data](https://news.energysage.com/), but I've worked with homes in Phoenix running 24,000 kWh because of pool pumps and two electric vehicles, and homes in Vermont at 5,800 kWh. National averages are almost useless at the individual level. Your number is your number.
+The average U.S. household uses around 10,500 kWh per year according to [EnergySage's market data](https://news.energysage.com/), but homes in Phoenix with pool pumps and two electric vehicles may run 24,000 kWh, while homes in Vermont might use as little as 5,800 kWh. National averages are almost useless at the individual level. Your number is your number.
 
 One thing that trips people up here: if you're planning to add an EV in the next two years, build that load into your design now. A Tesla Model 3 adds roughly 3,000-4,500 kWh per year depending on your commute. Undersizing your system to match today's usage and then adding charging later means paying for two rounds of design and permitting. I've watched people make this mistake, including one reader from Sacramento who emailed me earlier [this year](/should-you-go-solar-this-year/) after adding a Ford F-150 Lightning and realizing her 5.4kW system couldn't cover it.
 
 ## What Your Roof Actually Tells You
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where the design gets physical. Roof orientation, tilt, and shading aren't abstract. They're the numbers your installer should be pulling from a shade analysis tool like Aurora Solar or PVWatts, not estimating by eye.
 
@@ -84,13 +80,11 @@ Worked example: a San Diego homeowner with a 9kW system under NEM 3.0, adding on
 
 Your installer should pull the permit. If they're suggesting you skip it, or "it's just a small system, we don't need it," walk away. That's not a minor red flag. It's a disqualifying one. An unpermitted system creates problems when you sell the house, can void your homeowner's insurance, and may not qualify for net metering with your utility.
 
-Permit timelines vary wildly. In San Jose, I've seen approvals in 72 hours through the city's automated portal. In some rural counties, the same paperwork takes 8-12 weeks because a human reviews every submission and the department is understaffed. Ask your installer specifically what their average permit timeline is in your jurisdiction, not some general answer.
+Permit timelines vary wildly. In San Jose, approvals can come in 72 hours through the city's automated portal. In some rural counties, the same paperwork takes 8-12 weeks because a human reviews every submission and the department is understaffed. Ask your installer specifically what their average permit timeline is in your jurisdiction, not some general answer.
 
-HOA restrictions are a real issue in maybe 20-30% of the neighborhoods I've dealt with. Here's what most homeowners don't know: 26 states currently have solar access laws that limit HOAs from prohibiting solar outright, though they can often regulate placement, visibility, and aesthetics. California, Florida, and Texas all have strong protections. Always request written approval in advance and document everything. I've seen HOA battles delay installations by four months.
-
+HOA restrictions affect a significant portion of neighborhoods. 26 states currently have solar access laws that limit HOAs from prohibiting solar outright, though they can often regulate placement, visibility, and aesthetics. California, Florida, and Texas all have strong protections. Always request written approval in advance and document everything.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average installed solar cost per watt by state (2026)</div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">3.2 $/W</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">2.7 $/W</span></div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">2.9 $/W</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">3.5 $/W</span></div><div class="sc-row"><span class="sc-label">Arizona</span><span class="sc-track"><span class="sc-bar" style="width:73%"></span></span><span class="sc-val">2.6 $/W</span></div><div class="sc-row"><span class="sc-label">Massachusetts</span><span class="sc-track"><span class="sc-bar" style="width:96%"></span></span><span class="sc-val">3.4 $/W</span></div><div class="sc-src">Source: EnergySage 2026 market data</div></div>
-
 
 ## Panel and Inverter Selection
 
@@ -109,7 +103,6 @@ Inverters are where I'd spend the extra attention. A string inverter failure on 
 - California Public Utilities Commission, NEM 3.0 Decision (2022): Regulatory framework for California net metering that reshaped battery economics statewide
 
 ---
-
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

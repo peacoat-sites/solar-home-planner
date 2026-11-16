@@ -15,7 +15,7 @@ lastmod: 2026-07-08
 ---
 There's something satisfying about looking up at a two-story home and knowing those rooftop panels are quietly powering the dishwasher, the air conditioner, the kids' gaming setups, everything. Two-story homes are actually some of the best candidates for solar, and if you've been hesitant, this guide walks you through roof suitability, system sizing, installation realities, and what you'll realistically save.
 
-Here's the thing: two-story homes have smaller roof footprints relative to their square footage compared to single-story ranches. That means planning matters more. But most two-story homes have more than enough usable roof space to power the entire house, and many generate surplus electricity to sell back to the grid.
+Two-story homes have smaller roof footprints relative to their square footage compared to single-story ranches. That means planning matters more. But most two-story homes have more than enough usable roof space to power the entire house, and many generate surplus electricity to sell back to the grid.
 
 ---
 

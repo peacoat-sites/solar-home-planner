@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most homeowners shopping for solar-plus-storage think "backup" means the whole house stays on. It doesn't. What you actually get with a standard battery install, unless someone specifically sets up a critical loads panel, is a dead house during an outage even if you have a fully charged battery sitting right there in your garage. I've watched this happen to a reader named Marcus from Sacramento who installed a 10 kWh system in 2024, lost power in a grid outage, and his battery did absolutely nothing for him. His installer never explained the difference.
+Most homeowners shopping for solar-plus-storage think "backup" means the whole house stays on. It doesn't. What you actually get with a standard battery install, unless someone specifically sets up a critical loads panel, is a dead house during an outage even if you have a fully charged battery sitting right there in your garage. For example, without a critical loads panel, a fully charged battery won't power the house during a grid outage. Many installers don't explain this distinction upfront.
 
 That's the gap this article closes.
 
@@ -49,8 +49,6 @@ The hardware itself isn't exotic. You're typically looking at a 100A or 125A sub
 | Powerwall 3 or Enphase IQ 5P | 13.5 kWh | 3,500W startup surge | Continuous | Well pump operation | Rural Vermont |
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where I see the most expensive mistakes. People overload their critical loads panel because they treat it like an opportunity to back up everything "important." Then they wonder why their battery drains in three hours.
 
@@ -82,7 +80,7 @@ As of June 2026, a typical critical loads panel install, including subpanel, wir
 
 The battery brand you choose largely determines how your critical loads panel behaves, so this decision matters more than most salespeople let on.
 
-Tesla Powerwall 3 integrates the inverter into the battery unit, which simplifies installation but means you're locked into Tesla's ecosystem. The Gateway 3 (the external transfer switch unit) handles grid-disconnect automatically and cleanly. I've seen these work very smoothly in outage situations.
+Tesla Powerwall 3 integrates the inverter into the battery unit, which simplifies installation but means you're locked into Tesla's ecosystem. The Gateway 3 (the external transfer switch unit) handles grid-disconnect automatically and cleanly.
 
 Enphase's IQ system uses microinverters on the panels and a separate IQ Battery for storage. The backup system requires their IQ System Controller 3, which manages the transfer. It's reliable, but the install is more component-heavy.
 
@@ -99,7 +97,6 @@ The practical difference in most outage scenarios is small. Where it matters: if
 - Enphase IQ System Controller 3 Installation and Operation Manual (2025): Covers microgrid interconnection, backup circuit configuration, and multi-battery expansion.
 
 ---
-
 
 ---
 

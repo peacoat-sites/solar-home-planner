@@ -73,7 +73,7 @@ There's also an NEC code angle that doesn't get talked about enough. [Rapid shut
 
 SolarEdge has built significant market share around this and I think it's worth being direct about what it actually is. A DC optimizer is not a microinverter. It's a panel-level device that does maximum power point tracking and sends optimized DC down to a central inverter. You get the shade tolerance and panel-level monitoring of a micro system, with slightly lower hardware cost and the central inverter's simplicity for the AC conversion side.
 
-The tradeoff is you still have a single central inverter that can take down the whole system. SolarEdge's HD-Wave inverters are genuinely good products, but I've seen enough failed units to know that central point of failure matters.
+The tradeoff is you still have a single central inverter that can take down the whole system. SolarEdge's HD-Wave inverters are good products, but a central inverter remains a single point of failure for the whole system.
 
 The SEIA reports that SolarEdge and Enphase together hold the majority of the U.S. residential inverter market. But "most popular" isn't the same as "right for your specific situation."
 
@@ -83,7 +83,7 @@ If I were advising a friend with a moderately complex roof who wanted panel moni
 
 Watch out for any quote that doesn't specify the inverter model, not just the brand. "Enphase microinverters" on a proposal could mean IQ7A units (fine but older) or IQ8H units (current gen, better for high-wattage panels). Those aren't the same product and they're not the same price. Make them put the model number in writing.
 
-Be skeptical of any rep who says your roof "needs" microinverters without actually measuring your shading. I've been on roofs that looked complicated from the street and were completely clean from a shade standpoint. I've also been on plain-looking ranch roofs with a massive oak tree that makes microinverters the obvious call. The rep should be doing a shade analysis, whether that's with a Solmetric SunEye, a drone survey, or at minimum a detailed look at your property on Google Earth with sun angles calculated for your latitude.
+Be skeptical of any rep who says your roof "needs" microinverters without actually measuring your shading. A property that looks complicated from the street might be completely clear of shade, while a simple-looking roof can have substantial shading from trees. The rep should be doing a shade analysis, whether that's with a Solmetric SunEye, a drone survey, or at minimum a detailed look at your property on Google Earth with sun angles calculated for your latitude.
 
 If someone is pushing you hard toward one inverter type without asking about your roof, your energy goals, or your budget, they're probably selling inventory, not solving your problem.
 
@@ -98,7 +98,6 @@ Get this decision right before you sign anything. The inverter choice is one you
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

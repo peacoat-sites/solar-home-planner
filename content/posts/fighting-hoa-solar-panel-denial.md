@@ -26,17 +26,15 @@ Forty-seven states currently have some form of [solar access law](/right-to-sola
 
 Here's what to do first. Pull up your state's solar access law and read it yourself. The Solar Energy Industries Association maintains a state-by-state policy tracker at [seia.org](https://www.seia.org/) that's actually useful for this, not just marketing material. Look specifically for language like "void and unenforceable" applied to HOA restrictions. If your state statute says HOA rules that prohibit solar are void, your HOA just sent you an unenforceable letter. They may not know that. Many HOA boards genuinely don't.
 
-Some states allow HOAs to impose "reasonable restrictions" but can't ban panels entirely. That's a grayer zone, but it still gives you leverage. A restriction is generally considered unreasonable if it increases your system cost by more than a defined percentage (California's threshold is 10%) or significantly reduces output.
+Some states allow HOAs to impose "reasonable restrictions" but can't ban panels entirely. That's a grayer zone, but it still gives you grounds to challenge a restriction. A restriction is generally considered unreasonable if it increases your system cost by more than a defined percentage (California's threshold is 10%) or significantly reduces output.
 
 ## Read Your CC&Rs Like You're Going to Court
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Once you know your state's position, go read your [HOA's CC&Rs](/hoa-solar-panel-rules/) (Covenants, Conditions, and Restrictions) and any architectural guidelines they've sent you. Read them carefully, not just the section they cited in the denial letter.
 
-Look for these things specifically: Does the language say "prohibit" or does it say "require approval"? Those are very different. Many HOA denials are actually procedural, not substantive. The board may be saying your application was incomplete, or that you didn't submit the right documents, not that solar is banned. I've seen homeowners panic over denial letters that were really just "please resubmit with a roof plan." That's fixable in a week.
+Look for these things specifically: Does the language say "prohibit" or does it say "require approval"? Those are very different. Many HOA denials are actually procedural, not substantive. The board may be saying your application was incomplete, or that you didn't submit the right documents, not that solar is banned. A denial letter may actually be a request to resubmit with additional documents like a roof plan. That's fixable in a week.
 
 Also look for how old the restriction is. If your CC&Rs haven't been updated in fifteen years and your state passed a solar access law since then, the state law typically supersedes the older private agreement. HOAs don't get to grandfather in rules that a legislature has since made unenforceable.
 
@@ -60,7 +58,7 @@ One option a lot of people don't know about: many states have a Department of Co
 
 ## The Contrarian Take on Compromise
 
-Here's something I believe that not everyone agrees with: don't refuse to negotiate on placement just to make a point. I've seen homeowners dig in on front-facing panels when a rear-facing system would actually perform better and cost less in permitting headaches, and they do it out of principle. I get it. But if your roof geometry means a south-facing rear installation captures 95% of the output you'd get from a front installation, the practical argument for fighting over panel visibility isn't there.
+Don't refuse to negotiate on placement just to make a point. If your roof geometry means a south-facing rear installation captures 95% of the output you'd get from a front installation, the practical argument for fighting over panel visibility isn't there.
 
 Pick your battles. Fight hard on the legal right to install. Be more flexible on placement if the system still pencils out. You're trying to get solar on your house, not win an argument.
 
@@ -99,7 +97,6 @@ Your state solar access statute (printed, with the relevant sections highlighted
 - [EnergySage's market data](https://news.energysage.com/)
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

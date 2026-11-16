@@ -29,9 +29,7 @@ Most [solar inverter troubleshooting](/solar-inverter-troubleshooting-guide/) gu
 
 Inverters are the brains of your solar setup. Panels make DC power; the inverter converts it to AC your house can use and syncs it with the utility grid. When something goes wrong anywhere in that chain, the inverter throws a code. The code isn't always pointing at the obvious culprit, which is where [most homeowners](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) get tripped up.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most inverter error codes fall into 4 categories: grid faults, isolation faults, temperature faults, and communication errors.</li><li style="margin:5px 0">A single error that clears itself is often harmless; the same code appearing 3+ times in 24 hours needs attention.</li><li style="margin:5px 0">Grid faults (often F01, E01, or "Grid Lost") don't always mean your inverter is broken, utility voltage swings cause roughly 60% of them.</li><li style="margin:5px 0">Isolation/ground faults (ID, ISO, GFDI) can indicate dangerous leakage current and should stop production until diagnosed.</li><li style="margin:5px 0">Most string inverter manufacturers log error history in the app or local display; pulling that log before calling support saves significant time.</li></ul></div>
-
 
 ## The Four Error Categories That Cover 90% of What You'll See
 
@@ -41,15 +39,13 @@ Walk through any brand's error code documentation and the list looks overwhelmin
 
 **Isolation/ground faults** are a different animal. These codes (look for "ISO," "GFDI," "Isolation Fault," "Ground Fault," or "Riso Low") mean the inverter detected current leaking between your PV array and ground. This is a fire and shock hazard. The National Electrical Code requires inverters to shut down on a ground fault, which is exactly what they do. Don't just reset and move on. You need to find the leak.
 
-**Temperature faults** usually mean the inverter got too hot and throttled output or shut down. An inverter in full sun on a south-facing wall in Phoenix in July will do this. It's not failing; it's protecting itself. If you're seeing temperature faults regularly, check that the ventilation clearances from installation are still intact (nobody blocked the air gap with stored boxes, right?).
+**Temperature faults** usually mean the inverter got too hot and throttled output or shut down. An inverter in full sun on a south-facing wall in Phoenix in July will do this. The inverter is protecting itself. If you're seeing temperature faults regularly, check that the ventilation clearances from installation are still intact (nobody blocked the air gap with stored boxes, right?).
 
 **Communication and firmware errors** are the fourth bucket. These include MPPT errors, display faults, data logger disconnections, and RS485/Modbus communication failures if you have monitoring hardware. Often annoying, rarely urgent.
 
 ## Reading the Code Your Inverter Actually Threw
 
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where I'll be honest about a frustration: error code numbering is completely non-standardized. A "F01" on a Growatt means something different than "F01" on a Sungrow. You need your specific brand's error code document, not a generic list.
 
@@ -61,7 +57,7 @@ Same code 3 or more times in 24 hours: Pull the event log from the app (Fronius 
 
 Code that won't clear on restart: Don't keep mashing the reset button. One reset attempt is reasonable. More than that and you're potentially masking a real fault.
 
-Here's the thing I got wrong when I first started doing solar work: I assumed ground fault codes meant the ground wiring was the problem. It's not always. I've tracked down ISO faults to a pinhole in conduit where a wire rubs against a sharp metal edge, a corroded MC4 connector letting moisture in, and once, memorably, a dead bird that had gotten into a junction box and created a carbon path. The inverter just knows *that* leakage exists; finding *where* is the diagnostic work.
+Ground fault codes don't always point to the ground wiring itself. ISO faults can originate from pinholes in conduit where wires rub against sharp edges, corroded MC4 connectors allowing moisture in, or other sources like debris in junction boxes creating carbon paths. The inverter just knows *that* leakage exists; finding *where* is the diagnostic work.
 
 ## Common Codes by Brand
 
@@ -115,7 +111,6 @@ If your inverter is under warranty (SolarEdge and Enphase both offer 25-year war
 - [Solar Energy Industries Association (SEIA), Residential Solar Market Data](https://www.seia.org): Industry installation and service statistics
 
 ---
-
 
 *Photo: [Michael Pointner](https://www.pexels.com/@michael-pointner-134459625) via Pexels*
 

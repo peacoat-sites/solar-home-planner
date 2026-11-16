@@ -17,7 +17,7 @@ lastmod: 2026-07-08
 
 If you bought solar through Freedom Forever, you already know something is wrong. Maybe your installer stopped returning calls. Maybe your system never got its final inspection. Or maybe you just saw the headlines: Freedom Forever, the company that Solar Power World ranked as the #1 residential solar contractor in the country in 2025, filed for Chapter 11 bankruptcy on April 15, 2026 (case 26-10522, D. Del.) with liabilities estimated between $500 million and $1 billion. They were operating in more than 30 states. Hundreds of thousands of homeowners are now in some version of the same situation, and the honest answer to "what do I do?" is more complicated than anyone wants to admit.
 
-I'll be honest: I've been in and around the solar industry long enough to have seen individual installer failures before. But what's happening right now is categorically different. Freedom Forever is just the latest in a collapse wave that includes SunPower (August 2024), Sunnova (June 2025), Titan Solar Power, and solar lender Mosaic, which had financed over $15 billion in home energy loans before it unraveled. Solar Insure has logged over 100 solar bankruptcies to date, a number their analysts describe as "unseen before" in nearly 20 years in the sector. The California Solar & Storage Association has counted more than 17,000 industry layoffs and thousands of stalled installations in California alone. This isn't a blip.
+What's happening right now is categorically different from typical installer failures. Freedom Forever is just the latest in a collapse wave that includes SunPower (August 2024), Sunnova (June 2025), Titan Solar Power, and solar lender Mosaic, which had financed over $15 billion in home energy loans before it unraveled. Solar Insure has logged over 100 solar bankruptcies to date, a number their analysts describe as "unseen before" in nearly 20 years in the sector. The California Solar & Storage Association has counted more than 17,000 industry layoffs and thousands of stalled installations in California alone. This isn't a blip.
 
 ## What You Actually Lose When Your Installer Goes Under
 
@@ -30,8 +30,6 @@ Here's the gap that surprises people: that manufacturer warranty covers the equi
 ## If Your Installation Is Incomplete, Move Immediately
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 A stalled installation is a different and more urgent problem than a warranty gap. If Freedom Forever or another bankrupt installer left your project mid-stream, you may have panels on your roof that aren't connected, wiring in conduit that hasn't been terminated, or a permit that's open and expiring. An open permit is a serious issue. Many jurisdictions will require a full re-inspection or even a tear-down and restart if work stalls too long without a final inspection sign-off.
 

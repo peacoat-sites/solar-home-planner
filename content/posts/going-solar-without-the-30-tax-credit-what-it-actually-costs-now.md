@@ -16,7 +16,7 @@ lastmod: 2026-07-07
 ---
 You pull up a solar quote in June 2026, see a $30,000 system price, and mentally subtract that $9,000 federal tax credit you've been hearing about for years. That's the problem. The credit is gone. It ended December 31, 2025, with no phase-down, no grace period, no grandfather clause for systems in progress. The One Big Beautiful Bill Act, signed July 4, 2025, killed Section 25D outright. What you owe is what you see on the quote.
 
-I've seen the confusion firsthand in online buyer communities where people are still referencing articles from 2024 and early 2025. Many of the solar cost calculators plastered across company websites still flash the post-credit price as the default. They're not lying, exactly. They just haven't updated, and that's costing homeowners real money when they sit down at a kitchen table with a contract.
+The confusion persists in online buyer communities, where people often reference older articles from 2024 and early 2025. Many of the solar cost calculators plastered across company websites still flash the post-credit price as the default. They're not lying, exactly. They just haven't updated, and that's costing homeowners real money when they sit down at a kitchen table with a contract.
 
 ## The Real Sticker Shock: What a $30,000 System Costs Now
 
@@ -27,8 +27,6 @@ For a lot of households, this changes the math significantly. A 10-year payback 
 ## Who's Still Buying, and Why
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's what most people don't realize about the current market: the homeowners still going solar in 2026 are largely motivated by something other than simple ROI. SEIA's Q2 2026 report found that 45% of new residential installs in the first quarter were paired with [battery storage](/solar-batteries-are-now-standard-what-the-45-pairing-rate-means-for-yo/), up from 35% in 2025. That's a striking number. People are buying resilience. Backup power during grid outages, protection against utility rate spikes, energy independence. These aren't the motivations that pencil out cleanly on a spreadsheet, but they're real, and they're driving real purchasing decisions.
 

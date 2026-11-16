@@ -82,7 +82,7 @@ You've got choices in how panels physically connect to your home, and they're no
 
 Rack-mounted systems on new construction are almost always the best value. They're more efficient, easier to service, and cheaper per watt than integrated options. BIPV products have improved, but the efficiency gap between something like the Tesla Solar Roof and a standard monocrystalline panel is still significant, and you pay a substantial premium for the aesthetics.
 
-If you're set on a BIPV product for aesthetic or HOA reasons, get the whole-roof quote in writing and compare the cost per watt to a conventional system. I've seen clients pay $6 to $8 per watt installed for a Solar Roof when a comparable conventional system would've cost $3 to $4 per watt.
+If you're set on a BIPV product for aesthetic or HOA reasons, get the whole-roof quote in writing and compare the cost per watt to a conventional system. BIPV products typically cost $6 to $8 per watt installed, compared to $3 to $4 per watt for comparable conventional systems.
 
 ## What to Build In Even If You're Not Installing Solar Yet
 
@@ -111,7 +111,7 @@ One timing note: some states require a final electrical inspection before the sy
 
 ---
 
-Building new with solar is one of the most financially sound energy decisions you can make, but only if you plan it deliberately. The window where walls are open and trades are on site is brief. Use it. Every decision you make now, from conduit runs to roof orientation to panel choice, gets locked in concrete, literally and figuratively, once construction closes. The homeowners I've watched get the best outcomes treated solar as part of the home's design, not as an accessory bolted on after the fact.
+Building new with solar is one of the most financially sound energy decisions you can make, but only if you plan it deliberately. The window where walls are open and trades are on site is brief. Use it. Every decision you make now, from conduit runs to roof orientation to panel choice, gets locked in concrete, literally and figuratively, once construction closes. Treating solar as part of the home's design, rather than as an accessory bolted on after the fact, typically produces better outcomes.
 
 ## Sources
 
@@ -119,7 +119,6 @@ Building new with solar is one of the most financially sound energy decisions yo
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 - broken down by climate zone and home type
-
 
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

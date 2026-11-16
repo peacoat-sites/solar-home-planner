@@ -83,7 +83,7 @@ Bid A is the largest system and makes sense if you're planning to add EV chargin
 
 ## Contractor Vetting: The Stuff That Doesn't Show Up in the Bid
 
-The proposal is only as good as the company behind it. I've seen beautifully formatted proposals from fly-by-night outfits and messy bids from excellent local installers. Don't judge the company entirely by the paper.
+The proposal is only as good as the company behind it. Beautifully formatted proposals can come from unreliable installers, while excellent local companies may submit less polished bids. Don't judge the company entirely by the paper.
 
 **[Check the license](/is-my-solar-installer-legit/).** Every state has a contractor licensing database. Your installer needs to be licensed in your state. In California, that's the CSLB. In Texas, TDLR. Look them up. It takes three minutes.
 
@@ -129,7 +129,6 @@ Getting three bids and picking the middle one is a strategy. Just not a good one
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

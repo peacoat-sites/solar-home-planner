@@ -40,8 +40,6 @@ The result is a panel that was rated at 400 watts when new might produce 392 wat
 
 > **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 I'll be honest: the 0.5% annual degradation rate you see in most sales presentations is real, but it describes premium monocrystalline panels made by reputable manufacturers under good conditions. The National Renewable Energy Laboratory (NREL) has published field studies showing median degradation rates around 0.5% to 0.6% per year across thousands of systems, but the range in that data runs from roughly 0.3% to over 1.0% depending on panel type, climate, and installation quality. That tail matters.
 
 Older polycrystalline panels, some thin-film technologies, and panels manufactured in facilities with looser quality control tend to land toward the higher end. What surprised me when I dug into this was how much climate plays into it. Desert climates with extreme UV and heat accelerate degradation, particularly in the encapsulant. Coastal environments introduce salt and humidity stress. The Pacific Northwest sounds gentle, but freeze-thaw cycling does real microcrack damage over time. Nowhere is completely easy on panels.
@@ -69,7 +67,7 @@ My honest take: buy a panel where the degradation warranty is almost irrelevant 
 
 Panel choice accounts for maybe half the degradation story. The other half is installation.
 
-Roof temperature is a big one. Panels mounted flush against a dark roof with no air gap underneath run hotter, and heat accelerates degradation. A 10 degree Celsius increase in operating temperature can meaningfully shorten panel lifespan. I've seen installs where the mounting system left less than an inch of clearance above the shingles, which is bad practice. Proper racking keeps panels 3 to 4 inches off the roof surface minimum.
+Roof temperature is a big one. Panels mounted flush against a dark roof with no air gap underneath run hotter, and heat accelerates degradation. A 10 degree Celsius increase in operating temperature can meaningfully shorten panel lifespan. Mounting systems that leave less than an inch of clearance above shingles are poor practice. Proper racking keeps panels 3 to 4 inches off the roof surface minimum.
 
 Soiling is technically separate from degradation, but accumulated dirt, bird droppings, and pollen reduce output in ways that compound with real cell degradation. A dirty panel running inefficiently also runs slightly hotter. Keeping panels clean matters more in some climates than others; if you're in a dusty or agricultural area and it hasn't rained in six weeks, output can drop 5% to 10% from soiling alone. A decent [solar panel cleaning kit](https://www.amazon.com/s?tag=contentportfo-20&k=solar+panel+cleaning+kit) (the site may earn a commission on that link) makes this a Saturday-morning job rather than a contractor call.
 
@@ -85,7 +83,6 @@ Then apply a degradation factor for how old the system is. After 10 years at 0.5
 
 ---
 
-
 ---
 
 ## Sources
@@ -95,7 +92,6 @@ Then apply a degradation factor for how old the system is. After 10 years at 0.5
 - [Emporia Vue](https://www.amazon.com/s?tag=contentportfo-20&k=emporia+vue+home+energy+monitor)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

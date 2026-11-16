@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-A softball-sized hailstone can crack tempered glass. Most homeowners don't realize that until they're standing in their driveway the morning after a storm, squinting up at their roof and wondering if those new dark spots on their panels mean anything. I've been through this twice with clients in Colorado, and the experience taught me more about insurance claims than I ever wanted to know.
+A softball-sized hailstone can crack tempered glass. Most homeowners don't realize hail risk until after a storm, when dark spots appear on panels. Hail damage and insurance claims can be complex to navigate.
 
 Here's what makes solar hail claims different from a standard roof claim: you've got two separate systems sitting on top of your house, and your insurer may treat them completely differently. Getting this wrong costs real money.
 
@@ -34,7 +34,7 @@ Here's what makes solar hail claims different from a standard roof claim: you've
 
 Tempered glass on modern solar panels is genuinely tough. Most residential panels are rated to withstand 1-inch hailstones at 50 mph, which covers the vast majority of storms. But "rated to withstand" means the glass doesn't shatter. It doesn't mean there's no damage.
 
-What I've seen after severe storms is a spectrum. On one end, you get cosmetic micro-cracks in the anti-reflective coating, barely visible unless you're up close with the right lighting angle. On the other end, you get spiderwebbed glass, cracked cells, and panels that are essentially destroyed. In between sits the category that causes the most headaches: internal cell damage with no obvious external sign.
+Hail damage typically falls into several categories. On one end, you get cosmetic micro-cracks in the anti-reflective coating, barely visible unless you're up close with the right lighting angle. On the other end, you get spiderwebbed glass, cracked cells, and panels that are essentially destroyed. In between sits the category that causes the most headaches: internal cell damage with no obvious external sign.
 
 That middle category is the one that'll cost you. A panel with hairline internal cracks may still produce power, just less of it. Your inverter dashboard might show a 10-15% production drop that you'd probably attribute to cloud cover or dirty panels if you weren't looking carefully. Over months, those micro-cracks spread due to thermal cycling (hot days, cold nights), and a panel that was 85% functional in October might be at 60% by spring. By then, connecting it to a hail event becomes almost impossible from an insurance standpoint.
 
@@ -43,8 +43,6 @@ The practical lesson: inspect and document immediately after any significant hai
 ## Before You Call Your Insurance Company
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Do this first. I mean before you even open the insurance app.
 
@@ -107,7 +105,6 @@ One more thing: if your roof needs replacement too (which is common after seriou
 
 ---
 
-
 ---
 
 ## Sources
@@ -117,7 +114,6 @@ One more thing: if your roof needs replacement too (which is common after seriou
 - [U.S. Department of Energy's solar homeowner guidance](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

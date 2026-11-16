@@ -29,7 +29,7 @@ Your electric bill drops in month one, and you feel great. Month two, still good
 
 That's where most people are when they find me. And here's what I tell them: monitoring your solar output isn't optional. It's the single most important habit you can build as a solar homeowner.
 
-I've seen systems run at 60% capacity for six months before anyone noticed. A loose MC4 connector on one string. A shading issue that developed after a neighbor's tree grew in. A failed microinverter quietly taking two panels offline. None of these showed up as obvious problems. The homeowners just kept paying a little more on their electric bills and assuming it was normal seasonal variation.
+Systems can run at 60% capacity for months without obvious red flags. Common culprits include a loose MC4 connector on one string, shading from nearby vegetation, or a failed microinverter silently taking panels offline. Homeowners may not notice the gradual loss, attributing the rise in electric bills to normal seasonal variation.
 
 ---
 
@@ -51,7 +51,7 @@ This is your starting point. Every major inverter brand has one.
 
 If you have Enphase microinverters, you're using Enlighten. SolarEdge systems use the SolarEdge Monitoring Portal. SMA has Sunny Portal. Fronius uses Solar.web. If your installer put in a no-name string inverter from a brand you've never heard of, you might have a very basic app or nothing at all, which is its own problem.
 
-Enphase Enlighten is the gold standard for residential monitoring right now. Because microinverter systems put a small inverter on each panel, Enlighten shows you per-panel production in real time. You can see exactly which panel is underperforming and by how much. I've used it to pinpoint a bird dropping that was shading a cell enough to drop output by 11% on that panel. Sounds trivial until you realize that panel was dragging down four others with it in the same string.
+Enphase Enlighten offers per-panel production data in real time because microinverter systems put a small inverter on each panel. This level of visibility makes it possible to identify underperforming panels quickly. For example, a small obstruction like a bird dropping can shade a single cell enough to reduce that panel's output by 11%, which then affects the performance of other panels in the same string.
 
 SolarEdge does something similar if you have their optimizers installed, which most residential SolarEdge systems do. The monitoring portal shows per-panel data, alerts for underperforming modules, and historical production graphs.
 
@@ -100,7 +100,7 @@ Numbers without context are just numbers. Here's the framework I use.
 
 **Inverter error codes.** Both Enphase and SolarEdge will generate alerts and error codes when something's wrong. Don't ignore them because the system seems to still be running. A grid frequency fault, a ground fault, an arc fault detection event. These have meaning. Look up the specific code in your installer's documentation or the manufacturer's support site before calling anyone, because half the time it's a transient issue that self-cleared.
 
-**Panel-level anomalies.** If you have per-panel monitoring and one panel consistently produces 20-30% less than its neighbors in similar conditions, you have a problem. It might be soiling (a good clean with a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit) is worth trying first), or shading from a newly installed roof vent or antenna, or a failing panel. I've seen brand-new panels fail within 18 months. Manufacturers cover this under product warranty, but you have to catch it first.
+**Panel-level anomalies.** If you have per-panel monitoring and one panel consistently produces 20-30% less than its neighbors in similar conditions, you have a problem. It might be soiling (a good clean with a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit) is worth trying first), or shading from a newly installed roof vent or antenna, or a failing panel. Brand-new panels can fail within 18 months. Manufacturers cover this under product warranty, but you have to catch it first.
 
 ---
 
@@ -125,7 +125,6 @@ A system you can see is a system you can trust. That's really the whole point. Y
 - [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit)
 - [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

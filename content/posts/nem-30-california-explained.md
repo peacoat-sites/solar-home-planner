@@ -45,7 +45,7 @@ Here's the reality: exporting solar power at noon on a sunny weekday in June is 
 
 This time-of-export variability is the defining feature of NEM 3.0. Your system's value is no longer about how many kilowatt-hours you generate in total. It's about when you send power to the grid. A south-facing array that dumps everything at noon is now less financially productive than an array with west-facing panels that catches afternoon sun and can push power closer to the evening peak.
 
-I've seen clients with 7 kW systems that were originally well-sized for NEM 2.0 now finding their annual bill offset is significantly lower than projected, purely because nobody redesigned the export strategy when the rules changed.
+A 7 kW system that was well-sized for NEM 2.0 may see significantly lower annual bill offset than originally projected if the export strategy isn't redesigned when rules change.
 
 ## The Battery Storage Equation Has Completely Changed
 
@@ -127,7 +127,6 @@ NEM 3.0 is a real shift, not a minor tweak, and the homeowners who do well under
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
-
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169). Complete beginner solar kit with 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99). Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

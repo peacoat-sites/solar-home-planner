@@ -29,7 +29,6 @@ Your electric bill arrives and you think: solar makes sense, but I rent. Or you 
 
 Let me fix that.
 
-
 <div class="value-module">
   <div class="vm-head">Community Solar Savings Breakdown Example</div>
   <div class="vm-body">
@@ -87,7 +86,7 @@ Community solar also won't help you during a grid outage unless you separately h
 
 If you own your home, have a south or west-facing roof with minimal shading, and you plan to stay put for 10+ years, rooftop solar will almost certainly beat community solar financially over the long run. But if you rent, if your roof situation is poor, if you're not ready to tie up capital or take on a loan, or if you just want the simplest possible way to support solar and cut your bill without any installation complexity, community solar is genuinely worth it.
 
-I've helped people go both routes. Neither is wrong.
+Both approaches work for different situations. Neither is wrong.
 
 The honest truth is that community solar flies under the radar in a lot of energy conversations, and it shouldn't. For anyone who's been told solar isn't an option for them, it's worth an hour of your time to find out what's available in your area, read one contract carefully, and do the math on your current bill. Sometimes the answer really is that simple.
 
@@ -98,7 +97,6 @@ The honest truth is that community solar flies under the radar in a lot of energ
 - [The National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -56,7 +56,7 @@ Forget generic averages. These factors swing your payback period by years in eit
 
 **Net metering policy.** If your utility buys back excess solar production at the full retail rate, you get maximum value from every panel. If they pay you the wholesale rate (sometimes as low as $0.03/kWh), the math changes dramatically. California's NEM 3.0 overhaul in 2023 cut the export rate for new customers significantly, which lengthened payback periods for systems without battery storage. Know your state's rules before you sign anything.
 
-**System cost and installation quality.** The national average sits around $3.00 to $3.50 per watt installed, so a 10 kW system runs $30,000 to $35,000 before incentives. But I've seen quotes range from $2.60 to $4.80 per watt for comparable equipment in the same zip code. [Get at least three quotes](/comparing-solar-bids-what-to-look-for/). The cheapest isn't always wrong, but a quote that's 30% below the others usually reflects something: cheaper panels, a subcontractor crew, or shaky workmanship.
+**System cost and installation quality.** The national average sits around $3.00 to $3.50 per watt installed, so a 10 kW system runs $30,000 to $35,000 before incentives. Quotes for comparable equipment in the same zip code typically range from $2.60 to $4.80 per watt. [Get at least three quotes](/comparing-solar-bids-what-to-look-for/). The cheapest isn't always wrong, but a quote that's 30% below the others usually reflects something: cheaper panels, a subcontractor crew, or shaky workmanship.
 
 **Roof orientation and shading.** South-facing, unshaded roof planes at a 30-35 degree pitch are ideal for most of the continental U.S. East or west-facing systems typically produce 10-20% less. A single large tree shading your array from 2 to 5 p.m. can knock production down more than you'd expect, especially on older string inverter systems where one shaded panel drags down the whole string. [Microinverters or DC optimizers](/best-solar-inverter-brands-reviewed/) fix this, at a cost.
 
@@ -93,7 +93,7 @@ Paying cash is the cleanest path to the shortest payback. Every dollar you borro
 
 A $14,000 net-cost system financed at 6.99% over 12 years costs you closer to $19,800 total. Your "payback period" now has to be measured against the loan cost, not the system cost. In that scenario, the panels might produce enough to cover the monthly payment and feel like a wash, but you're not actually cash-positive until the loan is done.
 
-Solar loans with rates below 4% can still make financial sense, especially if you have other uses for capital. Leases and power purchase agreements (PPAs) are a different animal entirely: you don't own the panels, you don't get the ITC, and you're essentially renting electricity from someone else's equipment on your roof. I've watched clients sign 25-year PPAs thinking they were getting a great deal, then discover how painful those contracts are when they try to sell their house. Some buyers won't assume the lease; others will negotiate it against your sale price.
+Solar loans with rates below 4% can still make financial sense, especially if you have other uses for capital. Leases and power purchase agreements (PPAs) are a different animal entirely: you don't own the panels, you don't get the ITC, and you're essentially renting electricity from someone else's equipment on your roof. A 25-year PPA can become problematic when you sell your house. Some buyers won't assume the lease; others will negotiate it against your sale price.
 
 If you do finance, look for solar-specific loans from credit unions or green energy lenders. Standard home equity products work too, and the interest may be deductible if the loan is secured by your home.
 
@@ -117,7 +117,6 @@ And if an installer tells you permits are optional or suggests you skip them to 
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
 - from the National Renewable Energy Laboratory
 - for your location
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

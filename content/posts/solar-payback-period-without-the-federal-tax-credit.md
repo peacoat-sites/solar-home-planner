@@ -32,7 +32,7 @@ I'll be honest: the answer is messier than either the solar salespeople or the s
 
 *Estimated based on regional patterns; consult local utility rates.
 
-What surprised me when I started running the real numbers was how dramatically geography dominates this calculation. We're not talking about a 20% swing. We're talking about payback periods that range from roughly 7 years to over 20 years depending entirely on where you live.
+Geography dominates this calculation. We're not talking about a 20% swing. We're talking about payback periods that range from roughly 7 years to over 20 years depending entirely on where you live.
 
 California and Massachusetts remain strong markets. High retail electricity rates, net metering policies that still credit excess generation at reasonable rates, and state-level rebates compress payback to roughly 7 to 9 years even without the federal credit. That's still a reasonable return on a 25-year asset.
 
@@ -46,11 +46,9 @@ The average 12 kW system costs around $30,500 installed in 2026, near historic l
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's the one federal pathway that survived: third-party ownership. Installers who own the system themselves can still claim the Section 48E commercial investment tax credit, which runs through end of 2027. They pass some of that value to you through a [lease or power purchase agreement](/solar-lease-and-ppa-surge-what-the-new-math-means-for-you/). EnergySage has been tracking this shift closely, and the share of homeowners going the lease or PPA route has climbed noticeably in early 2026 as cash-purchase economics softened.
 
-The tradeoff is real, though, and I've seen installers gloss over it. You don't own the equipment. That matters when you sell your house, because the lease transfers with the sale and some buyers don't want the obligation. It matters for maintenance decisions. And it matters for the economics: you're locking in a rate, not banking the long-term upside. If your utility rates spike in year 8, the installer captures much of that windfall, not you.
+The tradeoff is real, though, and installers sometimes gloss over it. You don't own the equipment. That matters when you sell your house, because the lease transfers with the sale and some buyers don't want the obligation. It matters for maintenance decisions. And it matters for the economics: you're locking in a rate, not banking the long-term upside. If your utility rates spike in year 8, the installer captures much of that windfall, not you.
 
 Leases aren't bad products. They're just different products. If you're in a marginal-payback state and you need to reduce your monthly electricity bill without a large capital outlay, a well-structured PPA might be the right call. If you're in California and you can buy the system outright, the math still favors ownership.
 

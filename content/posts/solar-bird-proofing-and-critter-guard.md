@@ -45,15 +45,13 @@ Your solar array creates a gap between the panels and your roof deck, typically 
 
 Pigeons are the most common culprit in most of the U.S. They're not just a nuisance. Pigeon nests hold moisture against your roofing material, and their droppings are acidic enough to degrade shingles over time. The nests themselves can block airflow under the panels, and the droppings accumulate on panel surfaces and reduce output. A study from the University of Waterloo found that sustained soiling from bird droppings can cut panel efficiency by 15% or more in affected areas. You probably won't notice that on your monitoring app because the degradation is gradual.
 
-Squirrels are a different problem entirely. They don't nest as dramatically as pigeons, but they chew. Every wire under your panels, the DC cabling, the conduit, the micro-inverter leads, all of it is attractive to them. I've seen squirrel damage that required pulling the entire array for a rewire. That job cost the homeowner about $2,400 in labor alone because the damage wasn't caught until the [system started throwing fault codes](/my-solar-panels-stopped-working-what-to-do/).
+Squirrels are a different problem entirely. They don't nest as dramatically as pigeons, but they chew. Every wire under your panels, the DC cabling, the conduit, the micro-inverter leads, all of it is attractive to them. Squirrel damage can be severe enough to require pulling the entire array for a rewire. Such repairs can cost around $2,400 in labor alone if the damage isn't caught until the [system starts throwing fault codes](/my-solar-panels-stopped-working-what-to-do/).
 
 Roof rats and starlings show up less often but can cause the same category of damage.
 
 ## What Critter Guard Actually Is (And What It Isn't)
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Critter guard is a galvanized steel mesh that's attached around the perimeter of your solar array, between the panel edge and the roof surface, to physically close off that gap. That's it. It's not high-tech. It doesn't require electricity or maintenance. It just removes the opening.
 
@@ -83,7 +81,6 @@ For squirrels and rats, the nest removal and exclusion process is the same, but 
 
 ---
 
-
 ---
 
 The honest summary of all of this is that critter guard is inexpensive insurance against a repair bill that almost certainly costs more than you'd expect. The Solar Energy Industries Association [has noted](https://www.seia.org/) that proper system maintenance, including physical protection of the array, extends system life and protects your investment over the 25 to 30 year lifespan of a modern installation. Closing off that gap under your panels is one of the few preventive measures with almost no downside and a very clear upside. Get it done at installation if you can, retrofit it if you can't, and don't wait for the scratching to start.
@@ -97,7 +94,6 @@ The honest summary of all of this is that critter guard is inexpensive insurance
 - [This type of mesh roll kit on Amazon](https://www.amazon.com/s?k=solar+panel+critter+guard+mesh+roll&tag=contentportfo-20)
 - [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20)
 - [has noted](https://www.seia.org/)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

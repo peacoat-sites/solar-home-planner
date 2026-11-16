@@ -85,7 +85,7 @@ Cash is cleanest if you have the capital. You own the system outright, you captu
 
 Solar loans are the next best option for most homeowners. Rates vary widely, from around 3.99% to 9.99% or higher depending on credit score and lender. Watch for "dealer fees" baked into the loan principal. Some installers mark up the system price by 20-30% to cover the financing company's fee, then advertise a low interest rate. Ask for the "cash price" versus the "financed price" and calculate what you're actually paying over the life of the loan.
 
-Leases and PPAs have their place, but understand what you're signing. A 2.9% annual escalator on a PPA sounds small, but over 20 years your per-kWh rate roughly doubles. And when you go to sell your house, the buyer has to qualify to take over that agreement. Some buyers walk. I've seen deals fall through at closing because of a PPA.
+Leases and PPAs have their place, but understand what you're signing. A 2.9% annual escalator on a PPA sounds small, but over 20 years your per-kWh rate roughly doubles. And when you go to sell your house, the buyer has to qualify to take over that agreement. Some buyers walk. Deals can fall through at closing because of a PPA, since buyers may be unwilling or unable to qualify to take over the agreement.
 
 ## Red Flags That Should End the Conversation
 
@@ -120,7 +120,6 @@ Choosing a solar company isn't glamorous work, but it's the part of going solar 
 - [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

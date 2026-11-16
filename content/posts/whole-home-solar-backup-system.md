@@ -31,7 +31,7 @@ Your neighbor's lights are on. Yours aren't. You've got a solar array on your ro
 
 Let's be precise. A whole home solar backup system keeps your entire house running on solar and stored energy when the grid fails. Not just a few circuits. Not a "[critical loads panel](/critical-loads-panel-solar-backup/)" with your fridge and one outlet. Everything: HVAC, well pump, electric range, EV charger, all of it.
 
-That's the goal. The reality is more complicated.
+That's the goal.
 
 True whole home backup is technically achievable for most houses but can be financially painful. A 2,000 square foot home running central air, a well pump, and typical appliances can pull 3 to 5 kilowatts continuously during the day and spike to 7 or 8 kW when compressors start. Your battery bank has to handle those peaks without tripping, and your solar array has to replenish what you use fast enough to last through multiple cloudy days if that's what you're after.
 
@@ -60,7 +60,7 @@ What whole home backup is *not*: a [generator with a transfer switch](/generator
 | Permitting Timeline | Retrofit vs. new installation | New: single permit package; retrofit: 6-12 weeks additional |
 | Load Management | Peak startup current vs. continuous draw | Well pump: 1.5 kW running, 4 kW startup spike |
 
-I've seen clients handed quotes for a 10 kWh battery and told it would handle whole home backup. It might. For about four hours, at night, if they don't run the AC. That's not whole home backup, that's a marketing claim wearing a technical costume.
+A 10 kWh battery quoted as whole home backup often falls short. It might run essential loads for about four hours at night without air conditioning. That's not whole home backup, that's a marketing claim.
 
 Size your system in this order:
 
@@ -116,7 +116,7 @@ I've reviewed a lot of proposals on behalf of homeowners. Here's what I actually
 
 **"This system will eliminate your electric bill."** Maybe. But that claim depends on your utility's net metering policy, your consumption, and shading analysis. A contractor making that promise without seeing your bills and running shading software is guessing.
 
-**Unbranded or unfamiliar inverters.** The inverter is the most failure-prone component. Brands matter here. I've seen homeowners stranded with failed inverters from manufacturers that no longer have U.S. service support.
+**Unbranded or unfamiliar inverters.** The inverter is the most failure-prone component. Brands matter here. Failed inverters from manufacturers without U.S. service support can leave homeowners without recourse.
 
 **Lowball battery quotes that don't include installation labor, permits, or utility fees.** The equipment cost is roughly half the total project cost. A 20 kWh LFP battery might be $8,000 in parts and $8,000 to $12,000 in labor, permits, and interconnection. Anyone quoting you the equipment price as the total is setting you up for a surprise invoice.
 
@@ -133,7 +133,6 @@ The grid isn't getting more reliable. Extreme weather events are longer and more
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-
 
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you.*
 

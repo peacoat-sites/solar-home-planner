@@ -31,9 +31,7 @@ That gap between "installed in a day" and "operational after months of waiting" 
 
 Here's what I tell people when they sit down with me: plan for two months as your best-case scenario and four as your likely reality. If your installer promises you'll be [producing power](/why-are-my-solar-panels-not-producing-power/) in three weeks, ask them what utility they're working with, because I've never seen that timeline hold.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Full timeline from contract to live system: 2-4 months on average, up to 6+ months in slow markets</li><li style="margin:5px 0">Physical rooftop installation takes 1-3 days for most residential systems</li><li style="margin:5px 0">Permitting and utility interconnection approval account for 80-90% of total project time</li><li style="margin:5px 0">California and New York tend to run slower; Texas and Florida often move faster</li><li style="margin:5px 0">Choosing an installer who handles permitting in-house can trim 2-4 weeks off your timeline</li></ul></div>
-
 
 ## The Two Days You Actually See vs. the Months You Don't
 
@@ -47,13 +45,11 @@ But here's the thing nobody in the sales meeting emphasizes: that one or two day
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 I want to walk through every stage because each one has a different cause of delay, and knowing which stage you're in helps you ask the right questions.
 
-**Site assessment and system design** usually takes one to two weeks after you sign the contract. Your installer sends someone (or uses satellite imagery, which has gotten remarkably accurate) to evaluate your roof pitch, shading, available square footage, and electrical panel situation. If you need a panel upgrade, tack on another week or two, and sometimes more if there's a permit required for that separately. I've seen a needed panel upgrade add six weeks to a project in older Chicago-area homes.
+**Site assessment and system design** usually takes one to two weeks after you sign the contract. Your installer sends someone (or uses satellite imagery, which has gotten remarkably accurate) to evaluate your roof pitch, shading, available square footage, and electrical panel situation. If you need a panel upgrade, tack on another week or two, and sometimes more if there's a permit required for that separately. A needed panel upgrade can add six weeks or more to a project, especially in older homes.
 
-**Permit submission and approval** is where the wide variation lives. Some jurisdictions, like Maricopa County in Arizona, have streamlined online systems that turn permits around in three to five business days. Others, like many boroughs in New Jersey or neighborhoods in Los Angeles County, are running eight to twelve weeks. That's not an exaggeration. I've had permits pending in LA for eleven weeks. The permit examiner will want to see stamped structural and electrical drawings, which your installer should be producing, so if they're not providing engineered drawings, that's a red flag worth raising before you sign.
+**Permit submission and approval** is where the wide variation lives. Some jurisdictions, like Maricopa County in Arizona, have streamlined online systems that turn permits around in three to five business days. Others, like many boroughs in New Jersey or neighborhoods in Los Angeles County, are running eight to twelve weeks. That's not an exaggeration. Permits in some LA areas have been known to take eleven weeks or longer. The permit examiner will want to see stamped structural and electrical drawings, which your installer should be producing, so if they're not providing engineered drawings, that's a red flag worth raising before you sign.
 
 **Installation day(s)** happen once permits are approved. This is the fast part.
 
@@ -71,13 +67,11 @@ I want to walk through every stage because each one has a different cause of del
 
 This is the variable I wish more articles spent time on. The Solar Energy Industries Association has tracked significant regional differences in soft costs, which include permitting and interconnection time, and they're substantial. A streamlined market like Texas (particularly Austin Energy's territory) can get you from contract to power in six to eight weeks. Compare that to parts of New England or California's more congested utility territories, where four to six months is routine and nobody bats an eye.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average weeks from contract to live system by state</div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">8 weeks</span></div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">10 weeks</span></div><div class="sc-row"><span class="sc-label">Arizona</span><span class="sc-track"><span class="sc-bar" style="width:45%"></span></span><span class="sc-val">9 weeks</span></div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">18 weeks</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">20 weeks</span></div><div class="sc-row"><span class="sc-label">Massachusetts</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">16 weeks</span></div><div class="sc-src">Source: SEIA and NREL installer surveys, 2025-2026</div></div>
-
 
 These numbers are consistent with what NREL's soft cost research has shown for years, and my own experience installing in the Midwest and advising homeowners nationwide lines up. California and New York aren't slow because installers there are lazy. They're slow because they have more layers of local jurisdiction review, stricter utility interconnection rules, and in California specifically, the CPUC's processes add compliance steps that simply don't exist in faster states.
 
-A reader named Denise in Westchester emailed me last spring because her installer had been "in permitting" for fourteen weeks. I asked her which utility. She said Con Edison. I wasn't surprised. Con Edison's interconnection queue has been notoriously backed up, and unless you have an installer who knows how to navigate their specific process and submits complete applications the first time, resubmissions add weeks each time.
+Con Edison's interconnection queue has been notoriously backed up, and unless your installer knows how to navigate their specific process and submits complete applications the first time, resubmissions add weeks each time.
 
 ## Worked Examples From Real Projects
 
@@ -89,9 +83,9 @@ A reader named Denise in Westchester emailed me last spring because her installe
 
 ## What Slows It Down (and What You Can Actually Control)
 
-Honestly, most of the timeline is outside your hands. But a few things genuinely help.
+Most of the timeline is outside your hands. But a few things genuinely help.
 
-Choose an installer who handles permitting in-house with dedicated permit technicians, not one who outsources it to a third-party permit service that treats your project like one of hundreds in a pile. Ask directly: "Who submits our permit and how do they track its status?" A good installer should be able to name a person. In my experience, in-house permitting teams cut two to four weeks off timelines compared to outsourced services, mostly because they catch issues and resubmit faster.
+Choose an installer who handles permitting in-house with dedicated permit technicians, not one who outsources it to a third-party permit service that treats your project like one of hundreds in a pile. Ask directly: "Who submits our permit and how do they track its status?" A good installer should be able to name a person. In-house permitting teams typically cut two to four weeks off timelines compared to outsourced services, mostly because they catch issues and resubmit faster.
 
 If you have an HOA, get your application in before you even sign with an installer. Most HOA architectural review committees only meet monthly. Missing one meeting date costs you 30 days right there. California's AB 2188 limited HOA's ability to block solar for aesthetic reasons, so if you're in California and getting HOA pushback, know your rights.
 
@@ -106,7 +100,6 @@ Get your electrical panel situation assessed early. If you need a panel upgrade,
 - California Public Utilities Commission (CPUC) interconnection proceeding records: State-specific interconnection timeline documentation
 
 ---
-
 
 *Photo: [Vladimir Srajber](https://www.pexels.com/@vladimirsrajber) via Pexels*
 

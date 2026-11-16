@@ -48,7 +48,7 @@ Before you review a single line item, you need to know which type of contract yo
 
 **Lease:** Similar to a PPA in that you don't own the panels, but instead of paying per kilowatt-hour, you pay a flat monthly fee (sometimes with that escalator clause I mentioned above).
 
-Each structure has legitimate use cases. But I've seen clients sign a lease thinking they were buying, because the salesperson used the word "go solar" instead of "lease solar." Get clear on ownership from line one.
+Each structure has legitimate use cases. But it's easy to mix up the two: a salesperson might use the phrase "go solar" when discussing a lease, leaving you uncertain about ownership. Get clear on ownership from line one.
 
 ## Production Guarantees and System Sizing: What the Numbers Actually Mean
 
@@ -137,7 +137,6 @@ The goal isn't to make you suspicious of the industry. Most solar companies are 
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

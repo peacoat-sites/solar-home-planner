@@ -27,13 +27,13 @@ faqs:
 
 My first solar site visit on a 1952 ranch house in Pasadena ended with me standing in the attic, flashlight in hand, staring at knob-and-tube wiring running between joists like it was still 1952. Which, electrically speaking, it kind of was. The homeowner had already gotten a quote from a solar company. The company hadn't mentioned the wiring. They were ready to put panels on the roof and collect a check, and this guy would've had a serious problem on his hands within a year.
 
-That experience is why I want to have this conversation honestly. Older homes, meaning anything built in the 1950s or 1960s, can absolutely support solar. I've helped dozens of owners get them done successfully. But there are real complications that most solar salespeople either don't know about or don't volunteer, and working through them before you sign anything will save you thousands of dollars and a lot of aggression.
+Older homes, meaning anything built in the 1950s or 1960s, can absolutely support solar. But there are real complications that most solar salespeople either don't know about or don't volunteer, and working through them before you sign anything will save you thousands of dollars and a lot of headache.
 
 ## The electrical system is where it starts (and where it usually hurts)
 
 Homes from this era were typically wired for 60-amp service. Some larger homes had 100-amp panels, but 60-amp was standard in the postwar building boom, and it's genuinely insufficient for modern solar interconnection. Most utilities require a minimum 200-amp service to connect a grid-tied solar system. That upgrade alone, a full service panel replacement including the meter base, runs $3,500 to $7,000 depending on your region and how much the utility's line crew has to do on their end.
 
-Knob-and-tube wiring is a separate issue. It's not automatically a dealbreaker for solar, but if your attic has it, your homeowner's insurance company may have opinions once they find out you've added a solar system and are doing electrical work. I've seen insurers in the Midwest flat-out non-renew policies on homes with active knob-and-tube when a permit was pulled for a solar installation. Get clarity from your insurer before you pull the permit, not after.
+Knob-and-tube wiring is a separate issue. If your attic has it, your homeowner's insurance company may non-renew your policy once they find out you've added a solar system and are doing electrical work. Get clarity from your insurer before you pull the permit, not after.
 
 What most people don't realize is that aluminum branch circuit wiring, which became common in the mid-1960s as copper prices spiked, is a separate concern from aluminum service entrance conductors (which are still used today and are fine). The branch circuit aluminum wiring in outlets and switches requires anti-oxidant compound and proper terminations at every connection point. A good solar installer should flag this. Most don't.
 
@@ -77,7 +77,7 @@ The vintage home isn't impossible. The math just takes longer.
 
 If you're in a neighborhood with an HOA, 1950s and 1960s subdivisions can be tricky. Many of these neighborhoods were developed with deed restrictions that predate state solar rights laws, and the interaction between those old restrictions and newer state-level solar access protections varies significantly by state. California, Texas, and Florida have strong solar access laws that generally override HOA aesthetic objections. But in some states, particularly in the Southeast and parts of the Midwest, HOA authority over older deed restrictions is more complicated.
 
-What I'd tell anyone in this situation: get the HOA's written approval process in writing before you sign a solar contract. Some HOAs have a 60-90 day review period. If your solar loan rate lock expires before the HOA approves, you have a problem. I've seen this blow up deals.
+Get the HOA's written approval process in writing before you sign a solar contract. Some HOAs have a 60-90 day review period. If your solar loan rate lock expires before the HOA approves, you have a problem.
 
 Historic districts are a separate layer. If your 1950s neighborhood has been designated a local historic district (not the same as being on the National Register, which doesn't restrict what you do privately), you may need a Certificate of Appropriateness before pulling any permits. That process can take months and occasionally results in a flat denial for visible rooftop panels. In those cases, some homeowners have had success with ground-mounted systems in rear yards, but that depends on lot size and local setback rules.
 

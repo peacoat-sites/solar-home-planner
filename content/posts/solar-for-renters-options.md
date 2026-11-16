@@ -35,7 +35,7 @@ You don't need to own property to cut your electricity bill with solar. You have
 
 If you're paying full retail rates to a utility and community solar is available in your state, stop reading right now and go sign up for it. Seriously. This is the one I push hardest for renters because you don't touch any hardware, you don't need landlord permission, and the savings are real.
 
-Here's how it works: a solar farm gets built somewhere in your utility territory, often on farmland or a commercial rooftop. You subscribe to a share of its output. The energy feeds into the grid, and your utility credits your bill for your portion. You pay the solar operator a rate that's typically 5 to 15 percent below your utility's retail rate. EnergySage's market data shows that community solar subscribers save an average of $150 to $200 per year, though I've seen higher depending on your state's program structure and how aggressive the project pricing is.
+Here's how it works: a solar farm gets built somewhere in your utility territory, often on farmland or a commercial rooftop. You subscribe to a share of its output. The energy feeds into the grid, and your utility credits your bill for your portion. You pay the solar operator a rate that's typically 5 to 15 percent below your utility's retail rate. EnergySage's market data shows that community solar subscribers save an average of $150 to $200 per year, though savings vary depending on your state's program structure and how competitive the project pricing is.
 
 The catch: availability is patchy. Strong in New York, Massachusetts, Illinois, Minnesota, and a handful of other states with decent policy support. Texas, Florida, most of the Southeast? Community solar is thin to nonexistent right now. Check your utility's website or run a zip code search on EnergySage directly to see what's in your area.
 
@@ -96,7 +96,6 @@ Your electricity bill doesn't care whether you own the roof.
 - [Amazon](https://www.amazon.com/s?k=portable+solar+generator+kit)
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

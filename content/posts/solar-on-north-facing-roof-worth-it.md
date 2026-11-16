@@ -27,7 +27,7 @@ faqs:
 
 Most installers won't tell you this upfront: a north-[facing roof](/do-solar-panels-work-on-a-north-facing-roof/) in the continental U.S. produces roughly 30% less electricity annually than the same system on a south-facing roof. Thirty percent. That's not a rounding error. That's the difference between a system that pays for itself in 8 years and one that takes 11 or 12. Before you let a sales rep sketch out a quote on your kitchen table for those northern slopes, you need to understand what that number actually means for your specific situation.
 
-I'll be honest: when I first started doing solar installs after years of residential electrical work, I assumed north-facing roof solar was basically a non-starter. Waste of racking hardware, waste of a customer's money. Then I started running actual production estimates in PVWatts for homeowners who had no other option, and what surprised me was how often the math still worked out. Not always. But more often than I expected.
+North-facing roof solar is often assumed to be impractical, but production estimates frequently show viable payback periods. This isn't true in every case, but many situations where a north-facing roof is the only option can still pencil out financially.
 
 The answer to whether it's "worth it" is real, but it's conditional. The conditions matter a lot.
 
@@ -47,7 +47,7 @@ Seattle is where things get rough. Under 4,000 kWh annually from a north-facing 
 
 This is the detail that most online calculators gloss over. Roof pitch has an outsized effect on north-facing systems compared to south-facing ones.
 
-A north-facing roof at a shallow 10-degree pitch loses less to orientation than a north-facing roof pitched at 35 degrees, because a flatter surface captures more diffuse light from the sky rather than being pointed directly away from the sun. This actually surprised me when I first modeled it. The steep north-facing pitch is the worst-case scenario, not just because of orientation, but because the angle actively works against you.
+A north-facing roof at a shallow 10-degree pitch loses less to orientation than a north-facing roof pitched at 35 degrees, because a flatter surface captures more diffuse light from the sky rather than being pointed directly away from the sun. The steep north-facing pitch is the worst-case scenario, not just because of orientation, but because the angle actively works against you.
 
 | Roof configuration | Relative annual output (vs. optimal south-facing) |
 | --- | --- |
@@ -82,7 +82,7 @@ I don't have good data on how every state's net metering changes will shake out 
 
 ## The Contractor Red Flags
 
-One thing I want to be direct about: some installers will happily put panels on a north-facing roof without explaining the production penalty because their commission depends on the sale, not your payback period. Red flags I've seen personally:
+Some installers will happily quote north-facing roof installations without explaining the production penalty, since their commission depends on the sale rather than your payback period. Red flags to watch for:
 
 Ask any installer to show you the PVWatts report for your specific system, with your specific roof orientation and tilt entered correctly. If they resist, deflect to "proprietary software," or show you a number that seems suspiciously close to what a south-facing system would produce, walk away. The production estimate is the foundation of every ROI claim they're making. You have a right to see the inputs.
 

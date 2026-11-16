@@ -31,9 +31,7 @@ Here's what I tell people: the combination absolutely works, and it can be genui
 
 The good news is that Tesla designed the Powerwall and its Wall Connector to talk to each other through the Tesla app, and as of August 2026, that integration has gotten meaningfully better with the Powerwall 3 rollout. The less good news is that "works together" doesn't mean "automatically does what you'd want."
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A single Powerwall 2 stores 13.5 kWh; charging a Model Y from 20% to 80% uses roughly 18–22 kWh, so one unit alone won't cover it.</li><li style="margin:5px 0">Tesla's "Storm Watch" and "Time-Based Control" modes can conflict with EV charging schedules ,  you need to set priority rules manually.</li><li style="margin:5px 0">Powerwall 3 includes an integrated 11.5 kW solar inverter, which changes the sizing math significantly compared to Powerwall 2.</li><li style="margin:5px 0">Grid-tied systems with a Powerwall can use off-peak rates for EV charging while keeping the battery reserved for backup ,  but this requires a TOU rate plan.</li><li style="margin:5px 0">Two Powerwalls plus a rooftop solar system can realistically cover most daily EV charging needs without drawing from the grid.</li></ul></div>
-
 
 ## Why the Math Gets Tricky Fast
 
@@ -41,17 +39,13 @@ Let's put real numbers on the table. A Powerwall 2 holds 13.5 kWh of usable capa
 
 Where I see people go wrong is assuming the Powerwall exists to charge the car. It doesn't, not primarily. Its job is home backup and solar storage. The car charges best from [solar production](/solar-production-vs-consumption-tracking/) during the day, or from the grid on a time-of-use rate overnight, with the Powerwall stepping in for home loads when the grid's expensive or unavailable. Once you reframe it that way, the system makes a lot more sense.
 
-The scenario that actually works well: 8–10 kW solar array, two Powerwalls, a Wall Connector set to charge between 11 PM and 6 AM on a TOU rate. On a good production day, the batteries absorb excess solar, power the house through the evening peak, and the car charges cheap overnight from the grid. In the Southwest especially, that math works out to $0.04–0.08 per mile for fuel, depending on your utility rate. I've seen homeowners in Phoenix running that exact setup for under $40/month in total electricity costs, car included.
-
+The scenario that actually works well: 8–10 kW solar array, two Powerwalls, a Wall Connector set to charge between 11 PM and 6 AM on a TOU rate. On a good production day, the batteries absorb excess solar, power the house through the evening peak, and the car charges cheap overnight from the grid. In the Southwest especially, that math works out to $0.04–0.08 per mile for fuel, depending on your utility rate.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Usable storage vs. EV daily charge need (kWh)</div><div class="sc-row"><span class="sc-label">Powerwall 2 (single)</span><span class="sc-track"><span class="sc-bar" style="width:28%"></span></span><span class="sc-val">13.5 kWh</span></div><div class="sc-row"><span class="sc-label">Powerwall 2 (two units)</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">27 kWh</span></div><div class="sc-row"><span class="sc-label">Powerwall 3 (single)</span><span class="sc-track"><span class="sc-bar" style="width:28%"></span></span><span class="sc-val">13.5 kWh</span></div><div class="sc-row"><span class="sc-label">Model 3 LR (20–80%)</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">36.9 kWh</span></div><div class="sc-row"><span class="sc-label">Model Y (20–80%)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">48.6 kWh</span></div><div class="sc-src">Source: Tesla specs and EV database, 2026</div></div>
-
 
 ## Powerwall 2 vs. Powerwall 3: Which One You Have Changes Everything
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 If you've got a Powerwall 2 installed pre-2024, your system uses a separate [solar inverter](/solar-inverter-troubleshooting-guide/). The Powerwall just stores and dispatches DC power through its own inverter. Fine system, but the EV integration is entirely managed through the app and the Wall Connector's scheduling features.
 
@@ -82,8 +76,6 @@ One non-obvious thing: the Wall Connector and the Powerwall don't directly negot
 
 Costs here reflect post-federal-tax-credit pricing (the 30% ITC is still in place as of August 2026), using EnergySage's current market data for installed system costs. Individual quotes vary by region, roof complexity, and panel brand. Don't let anyone quote you over $3.20/watt for a straightforward rooftop install in a competitive market without a good explanation.
 
-Three worked examples from setups I've been involved with:
-
 **Suburban Phoenix, 2 Powerwalls + 10 kW solar + Model Y** → Configured Time-Based Control with 25% reserve, Wall Connector set to charge midnight to 6 AM → Average monthly electricity bill dropped from $310 to $47, including all EV charging, over a 12-month period.
 
 **Portland homeowner, 1 Powerwall 3 + 7 kW solar + Model 3** → Set Self-Powered mode, 20% reserve, departure time 7 AM daily → Covers about 65% of home load from solar on average, but winter production (November through February) drops to 30–40% ,  the Powerwall runs out most evenings by 9 PM during those months. She supplements with a TOU rate overnight.
@@ -105,7 +97,6 @@ The Solar Energy Industries Association tracks incentive updates regularly and t
 - [EV Database (ev-database.org)](https://ev-database.org/): Battery capacity and real-world efficiency data for Tesla Model 3 and Model Y used in kWh calculations.
 
 ---
-
 
 *Photo: [Makara Heng](https://www.pexels.com/@makara-heng-255743246) via Pexels*
 

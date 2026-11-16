@@ -41,7 +41,7 @@ It's the oldest technology. Still gets used. A well-kept FLA bank with Trojan T-
 
 **AGM (Absorbed Glass Mat)**
 
-Sealed. No maintenance. Handles temperature swings better than flooded cells. Good for a weekend cabin or RV where the system isn't running 24/7. Budget $200 to $400 per 100Ah 12V battery. Cycle life at 50% depth of discharge sits around 400 to 600 cycles, which is shorter than well-maintained FLA or any lithium option. I've watched clients pick AGM for the "maintenance-free" angle, then face replacement shopping after three years of full-time use.
+Sealed. No maintenance. Handles temperature swings better than flooded cells. Good for a weekend cabin or RV where the system isn't running 24/7. Budget $200 to $400 per 100Ah 12V battery. Cycle life at 50% depth of discharge sits around 400 to 600 cycles, which is shorter than well-maintained FLA or any lithium option. AGM batteries chosen primarily for their maintenance-free appeal often need replacement after three years of full-time use, making them a poor choice for continuous off-grid systems.
 
 **Lithium Iron Phosphate (LiFePO4)**
 
@@ -90,7 +90,7 @@ Your panels need to recharge the bank from 50% in one solid solar day. If your b
 | Big Battery Rhino | LiFePO4 | 200Ah @ 12V or 48V | $1,200-$1,800 | 4,000+ cycles | Mid-range whole-home |
 | Rolls S-550 | Flooded Lead-Acid | 428Ah @ 6V | $350-$500 | 1,200 cycles @50% DoD | Long-term serious FLA builds |
 
-If you're going whole-home, 48V server-rack lithium from EG4, REC Alpha, or Pylontech deserves serious consideration. They stack, they talk to compatible inverters (Victron, SolarEdge, Sol-Ark) via CAN bus or RS485, and they expand in a single rack instead of chaining a dozen floor units together. I've seen cleaner installs, cleaner monitoring, and smoother troubleshooting with rack systems once you hit about 20kWh of storage.
+If you're going whole-home, 48V server-rack lithium from EG4, REC Alpha, or Pylontech deserves serious consideration. They stack, they talk to compatible inverters (Victron, SolarEdge, Sol-Ark) via CAN bus or RS485, and they expand in a single rack instead of chaining a dozen floor units together. Rack systems tend to offer cleaner installations, simpler monitoring, and easier troubleshooting once storage reaches about 20kWh.
 
 For real-time system tracking, a home energy monitor like the [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) plugs into your panel and shows granular load data.
 
@@ -121,7 +121,6 @@ No accessible BMS data or app integration. Can't see cell voltage and temperatur
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -31,17 +31,15 @@ Here's the honest picture.
 
 ## Cold Weather Is Not Your Enemy
 
-This surprises almost everyone, including me when I first started doing installs. Photovoltaic panels are semiconductor devices. Like most semiconductors, they perform *better* in cold temperatures than in heat. The technical reason: lower temperatures reduce electron resistance in the silicon cells, which means the voltage output actually increases slightly on a crisp 25°F day compared to a sweltering 95°F afternoon.
+This surprises many people new to solar. Photovoltaic panels are semiconductor devices. Like most semiconductors, they perform *better* in cold temperatures than in heat. The technical reason: lower temperatures reduce electron resistance in the silicon cells, which means the voltage output actually increases slightly on a crisp 25°F day compared to a sweltering 95°F afternoon.
 
-SunPower, LG (before they exited the market), and Panasonic all publish temperature coefficient specs for this reason. A typical monocrystalline panel loses about 0.3% to 0.5% of peak output for every degree Celsius above 25°C (77°F). Flip that around: a cold day in January in Minneapolis, with a clear blue sky, can push output *above* the rated wattage. I've seen this on my own monitoring data during a February cold snap in Oregon. Sunny and 28°F? That system ran hot. Figuratively.
+SunPower, LG (before they exited the market), and Panasonic all publish temperature coefficient specs for this reason. A typical monocrystalline panel loses about 0.3% to 0.5% of peak output for every degree Celsius above 25°C (77°F). Flip that around: a cold day in January in Minneapolis, with a clear blue sky, can push output *above* the rated wattage.
 
 The enemy in winter isn't cold. It's reduced daylight hours and low sun angles.
 
 ## The Real Winter Problem: Geometry and Hours
 
 > **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Your panels are sized for a certain number of "peak sun hours" (PSH) per day. In Phoenix in July, you might see 6.5 PSH. In Seattle in December, you're looking at 1.5 to 2.5 PSH on a decent day. That's not a conservative estimate, that's what the NREL data actually shows for high-latitude locations. And some days you simply don't clear the clouds at all.
 
@@ -86,7 +84,7 @@ The worked example that makes this concrete:
 
 Denver homeowner, 9 kW system, net metering at retail rate → Summer months (May-August) generate 1,350 kWh/month average, household uses 900 kWh, banking 450 kWh surplus each month → Winter months (November-February) produce 550 kWh/month average, household uses 1,100 kWh, drawing 550 kWh from the grid, offset by credits → Net annual bill: roughly $200-300/year in true-up, compared to $2,100+ before solar. Winter didn't eliminate the benefit. It just shifted when the benefit is delivered.
 
-Another scenario worth knowing: if you add a heat pump or EV charger, winter consumption spikes. I've seen homes that went solar in March, added an EV in November, and wondered why their December bill looked strange. The system wasn't sized for the added load. Always model the full year with realistic consumption.
+Another scenario worth knowing: if you add a heat pump or EV charger, winter consumption spikes. For example, a home that went solar in March and added an EV in November might see an unexpected December bill. The system wasn't sized for the added load. Always model the full year with realistic consumption.
 
 ## What to Actually Monitor
 
@@ -103,7 +101,6 @@ The SEIA recommends homeowners review their production data monthly for the firs
 - SunPower and manufacturer panel datasheets: Temperature coefficient and output rating data referenced for cold-weather performance
 
 ---
-
 
 ---
 

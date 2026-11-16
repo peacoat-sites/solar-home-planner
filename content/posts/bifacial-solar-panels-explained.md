@@ -52,11 +52,9 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has don
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Ground-mount systems. Full stop. If you're installing on the ground with a light-colored gravel bed or bare soil, elevated at least 18 inches off the surface, oriented correctly, and with no shading on the rear, bifacial panels are the right call. The rear exposure is real, the albedo contribution is meaningful, and the incremental cost makes sense.
 
-Flat commercial roofs also work well, especially with white membrane roofing and a ballasted racking system that tilts panels at 10-15 degrees and keeps them off the deck enough to let reflected light reach the rear cells. I've seen well-designed flat-roof commercial systems hit 12-18% rear-side gains consistently.
+Flat commercial roofs also work well, especially with white membrane roofing and a ballasted racking system that tilts panels at 10-15 degrees and keeps them off the deck enough to let reflected light reach the rear cells. Well-designed flat-roof commercial systems can achieve 12-18% rear-side gains consistently.
 
 Carport canopies and pergola-style installations are another legitimate bifacial application. The underside of the panels is fully exposed, and you can use light-colored concrete or pavers below them to maximize albedo.
 
@@ -70,7 +68,7 @@ In those conditions, you're paying for bifacial technology and getting monofacia
 
 The panels themselves are still high quality. Most bifacial modules today use an [N-type cell architecture](/monocrystalline-vs-polycrystalline-panels/) (TOPCon or heterojunction) which carries real advantages: lower temperature coefficients, better low-light performance, longer useful cell life, and lower degradation rates (typically 0.25-0.4% per year versus 0.5-0.7% for older P-type panels). Those are legitimate reasons to buy certain bifacial panels. Just don't pay the premium expecting ground-mount-level rear gain from a roof-mount application.
 
-I've had homeowners come to me with quotes where the installer upsold bifacial panels for a flush-mount roof job at $0.40/W more per panel, with the rear-side gain baked into the projected savings. That's not an honest calculation. Push back on it.
+Watch for quotes that upsell bifacial panels for flush-mount roof jobs at $0.40/W more per panel, with rear-side gain already baked into projected savings. That's not an honest calculation. Push back on it.
 
 ## Dual Glass vs. Glass-Backsheet Bifacial
 
@@ -88,7 +86,6 @@ For monitoring, a home energy monitor like the [Emporia Vue](https://www.amazon.
 
 ---
 
-
 ---
 
 ## Sources
@@ -98,7 +95,6 @@ For monitoring, a home energy monitor like the [Emporia Vue](https://www.amazon.
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)
 - [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

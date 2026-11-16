@@ -31,13 +31,11 @@ Let me back up and give you the actual picture.
 
 [Solar panels](/solar-panels-for-new-construction-homes/) do generate electricity in winter and through snowfall. What they don't do well is produce power when they're buried under six inches of wet, dense snow. Those are two separate problems, and most marketing materials blur them together or ignore them entirely. The good news: the first problem (winter production) is smaller than you think, and the second (snow coverage) is more manageable than installers often admit.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Solar panels produce electricity in winter and through light snow, cloud cover matters more than cold temperatures.</li><li style="margin:5px 0">Panels typically self-clear within 1-3 days in moderate snow climates; wet, heavy snow is the real problem.</li><li style="margin:5px 0">Cold temperatures actually improve panel efficiency; a sunny February day can outperform a hot August afternoon.</li><li style="margin:5px 0">Tilt angle and roof pitch significantly affect snow shedding, a 30-40° tilt clears far faster than a flat mount.</li><li style="margin:5px 0">A well-designed system in Buffalo or Denver still offsets 60-75% of annual electricity use.</li></ul></div>
-
 
 ## Cold is Actually Your Friend
 
-Here's the thing I got wrong for a long time: I assumed colder weather meant worse [solar production](/why-is-my-solar-production-low-today/). It doesn't. Silicon-based photovoltaic cells (which is almost every residential panel on the market) perform better in cold temperatures. The physics is real. Heat degrades electron flow; cold sharpens it.
+A common misconception is that colder weather reduces [solar production](/why-is-my-solar-production-low-today/). It doesn't. Silicon-based photovoltaic cells (which is almost every residential panel on the market) perform better in cold temperatures. The physics is real. Heat degrades electron flow; cold sharpens it.
 
 The technical figure is called temperature coefficient, and for most standard panels it runs around -0.3% to -0.4% per degree Celsius above 25°C (77°F). Flip that around: when your panels are sitting at 5°C on a clear January day, they're operating more efficiently than they would on an 85°F July afternoon under direct sun.
 
@@ -49,9 +47,7 @@ The catch is sunlight hours. January in Minneapolis means 8-9 hours between sunr
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Light, dry snow at temperatures well below freezing: mostly not a problem. The panels still absorb some radiation, warm slightly, and the snow often slides off or sublimates within hours. I've seen 2-inch snowfalls clear on their own by noon on a cold but sunny day.
+Light, dry snow at temperatures well below freezing: mostly not a problem. The panels still absorb some radiation, warm slightly, and the snow often slides off or sublimates within hours. Two-inch snowfalls often clear on their own by noon on a cold but sunny day.
 
 The villain is wet, heavy snow at temperatures right around 30-34°F. That stuff sticks. It insulates the panel surface, cuts production to near zero, and can sit for 2-4 days if temperatures don't climb. If you're in a climate that regularly sees that kind of snow (coastal New England, the Great Lakes region, parts of the Cascades), you need to factor that into your production estimates.
 
@@ -76,7 +72,7 @@ A panel installed at 10° tilt on a low-slope roof will hold snow for days. The 
 
 The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) recommends tilt angles between 30-45° for most northern U.S. climates, both for optimizing year-round production and for promoting self-clearing. If an installer quotes you a flat or near-flat mount in Buffalo and never mentions snow shedding, ask them about it directly. If they wave it off, that's a red flag.
 
-One worked example: A reader named Carl from Madison, Wisconsin emailed me in March after his first winter with a 7.2 kW system. He had panels mounted at 18° tilt on a low-slope garage roof. He lost 11 days of meaningful production to stuck snow. His neighbor's identical system, mounted on a steeper-pitch main house at 36°, lost maybe 3 days. Same snowfall totals. Same sun exposure. About $280 difference in estimated production value over that one winter.
+For example, a system mounted at 18° on a low-slope roof might lose 11 days of meaningful production to stuck snow over a winter, while an identical system mounted at 36° on a steeper pitch could lose only 3 days in the same snowfall. The difference in estimated production value could reach around $280 over that winter.
 
 ## Should You Rake Your Panels?
 
@@ -86,7 +82,7 @@ The practical problems: most panels are installed 15-25 feet off the ground. Sno
 
 My general rule: if the snow will clear within 48-72 hours on its own (which it will in most moderate events), leave it alone. If you're facing a sustained cold snap with fresh snow stacking on old snow and you're losing a full week of production, a careful, light rake from ground level on a low-mounted array might make sense. Otherwise, let physics do the work.
 
-One exception worth mentioning: ground-mounted systems. If your system is mounted 18-24 inches off the ground on a properly tilted frame, you can often clear the bottom panels with a soft broom from a safe standing position. Several of my clients with ground mounts in Vermont do this routinely with zero panel damage.
+One exception worth mentioning: ground-mounted systems. If your system is mounted 18-24 inches off the ground on a properly tilted frame, you can often clear the bottom panels with a soft broom from a safe standing position. Ground-mounted systems in snowy climates can be cleared this way routinely with zero panel damage.
 
 ## Sizing Honestly for a Snow Climate
 

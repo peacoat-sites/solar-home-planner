@@ -40,7 +40,7 @@ Let me walk you through how I actually think about this problem.
 | Bird droppings | Disproportionately high; can affect entire string | Visual inspection; hard shadow on panels |
 | Seasonal shade shift | Varies by obstruction | Compare panel shadows across seasons; check roof vents, chimneys, neighboring structures |
 
-This sounds condescending, but stick with me, because I've seen homeowners call their installers in a panic over a cloudy Tuesday. Weather is the single biggest driver of day-to-day production swings, and most monitoring apps don't give you great context for it.
+Weather is the single biggest driver of day-to-day production swings, and most monitoring apps don't give you great context for it. Weather is the single biggest driver of day-to-day production swings, and most monitoring apps don't give you great context for it.
 
 A fully overcast sky can cut your production by 70 to 90 percent compared to a clear day. Partial cloud cover is trickier because it's inconsistent and can produce weird spikes and drops throughout the day that look alarming on a graph. A hazy summer day, think wildfire smoke or heavy humidity, can chop 20 to 40 percent off your output without a single cloud in sight.
 
@@ -66,7 +66,7 @@ If you're comfortable on a roof (and have the right footwear and safety setup), 
 
 Here's something installers often fail to explain at the sale: your shade situation changes throughout the year. A tree that wasn't a problem in December can absolutely hammer your production in June because the sun is at a higher angle and the shadow falls differently.
 
-I've seen this specifically with roof vents, chimneys, and neighboring homes. A chimney that sits behind your panels in winter can throw a long shadow directly across them at 9 a.m. in June because of how the sun arc shifts. If you installed in the fall or winter and are now hitting your first full summer, this is worth investigating carefully.
+Roof vents, chimneys, and neighboring homes can all cause shading issues. A chimney that sits behind your panels in winter can throw a long shadow directly across them at 9 a.m. in June because of how the sun arc shifts. If you installed in the fall or winter and are now hitting your first full summer, this is worth investigating carefully.
 
 The fix here isn't always obvious. If it's a tree you own, trimming is straightforward. If it's a neighbor's tree or a structural element of your house, you may need to look at whether microinverters like the Enphase IQ8 series or power optimizers (SolarEdge is the dominant player) were installed. These technologies mitigate shade impact at the individual panel level. If your system uses a traditional string inverter without optimizers and you've got partial shading, you're leaving significant production on the table and you were probably undersold.
 
@@ -82,7 +82,7 @@ Enphase systems report per-microinverter, so if you've got 18 panels and 3 micro
 
 SolarEdge string inverter systems show string-level production, and if an entire string is down, you'll see a dramatic drop in daily output. Sometimes this is a tripped DC disconnect. Sometimes it's a failed optimizer on one panel dragging the string down. Sometimes the inverter itself has a fault.
 
-A reader emailed me last month about a Fronius Primo that was throwing a "Grid Fault" error and producing nothing for three days while she waited for her installer to respond. That error, in her case, meant her utility had briefly changed the grid frequency during local infrastructure work, the inverter detected it as an anomaly, and it never fully reset. The fix was a manual restart. Three minutes. If she'd known to check the Fronius error codes herself, she wouldn't have lost three days of production in July.
+A Fronius Primo displaying a "Grid Fault" error may indicate that the utility briefly changed grid frequency during infrastructure work, triggering the inverter to detect it as an anomaly and fail to fully reset. The fix is often a manual restart, which takes just a few minutes. Checking the Fronius error codes yourself can help you resolve this without waiting for installer support.
 
 This is why I strongly recommend a home energy monitor like the Emporia Vue or Sense alongside your inverter's native monitoring. A second data source helps you triangulate whether the problem is the solar system, the inverter reporting, or something downstream in your home's electrical panel.
 
@@ -101,7 +101,6 @@ I'd recommend pulling up PVWatts, NREL's free calculator at pvwatts.nrel.gov, an
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

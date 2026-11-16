@@ -16,13 +16,11 @@ affiliate_disclosure: true
 
 Your neighbor just walked over with a single [solar panel](/solar-panel-cracked-what-to-do/) propped against his fence and asked if he could "just plug it in." Six months ago, the honest answer was "sort of, but you're in a gray area." As of July 15, 2026, the answer is finally a clean yes, at least if he's running a Hoymiles HiFlow Pro.
 
-Hoymiles launched the HiFlow Pro this month as the first microinverter in the US certified to UL 3700, which is the first dedicated North American safety standard built specifically for plug-in photovoltaic systems. That distinction matters more than it might sound. Before UL 3700 existed, plug-in solar products in the US were either untested against any relevant standard or shoehorned into certifications designed for different equipment. Electricians like me lost sleep over those setups. A product that carries UL 3700 has been tested for anti-islanding, output limits, and the kind of backfeed scenarios that worry utilities and fire marshals. According to the [Hoymiles official product release](https://www.hoymiles.com/product-release/hoymiles-introduces-hiflow-pro-the-first-ul-3700-compliant-plug-in-microinverter-in-the-us-to-boost-diy-solar.html), setup runs through Bluetooth and Wi-Fi in under 60 seconds. I've seen people spend longer arguing with a GFCI outlet.
+Hoymiles launched the HiFlow Pro this month as the first microinverter in the US certified to UL 3700, which is the first dedicated North American safety standard built specifically for plug-in photovoltaic systems. That distinction matters more than it might sound. Before UL 3700 existed, plug-in solar products in the US were either untested against any relevant standard or shoehorned into certifications designed for different equipment. Those setups raised serious safety concerns. A product that carries UL 3700 has been tested for anti-islanding, output limits, and the kind of backfeed scenarios that worry utilities and fire marshals. According to the [Hoymiles official product release](https://www.hoymiles.com/product-release/hoymiles-introduces-hiflow-pro-the-first-ul-3700-compliant-plug-in-microinverter-in-the-us-to-boost-diy-solar.html), setup runs through Bluetooth and Wi-Fi in under 60 seconds.
 
 The timing here is not accidental. [SEIA's Q2 2026 report](https://seia.org/research-resources/solar-market-insight-report-q2-2026/) showed residential solar installations dropped 15% quarter-over-quarter after the Section 25D federal tax credit expired at the end of 2025. That credit was covering 30% of system costs for millions of homeowners. Without it, a full rooftop install is suddenly a much harder financial case to make, and a lot of people who were on the fence are now looking for cheaper entry points.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The HiFlow Pro is the first US microinverter certified to UL 3700, the dedicated plug-in solar safety standard.</li><li style="margin:5px 0">Eight states have plug-in solar laws signed; New York's bill is on the governor's desk as of July 2026.</li><li style="margin:5px 0">One unit produces up to 300W; four in parallel reach 1,200W total from standard household outlets.</li><li style="margin:5px 0">APsystems launched a competing EZ1-LV (900 VA) in May 2026, giving buyers two certified options.</li><li style="margin:5px 0">Residential solar fell 15% in Q2 2026 after the Section 25D tax credit expired, boosting plug-in appeal.</li></ul></div>
-
 
 ## Why UL 3700 Actually Changes Things
 
@@ -35,8 +33,6 @@ The unit can run up to four inverters in parallel across separate outlets, scali
 ## The State Legislation Map Right Now
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Eight states have signed plug-in solar legislation into law as of this month: Utah, Maine, Virginia, Maryland, Colorado, Connecticut, Vermont, and New Hampshire. New York passed its bill and it's sitting on the governor's desk. Each of these laws generally does the same thing: it prevents utilities from blocking small plug-in systems and often requires that landlords allow tenants to install them under reasonable conditions.
 
@@ -61,7 +57,7 @@ If you want to start with one panel and possibly expand later, the HiFlow Pro's 
 
 ## What to Actually Watch Out For
 
-I've seen plug-in solar cause genuine problems, and none of them were electrical. The problems were almost always about where the panel physically mounts. A panel on a balcony railing needs to handle wind loads. A panel propped against a fence is a liability waiting to happen. The HiFlow Pro being UL 3700 certified tells you the inverter is safe. It tells you nothing about whether your mounting setup is engineered.
+Plug-in solar problems typically aren't electrical in nature. The problems were almost always about where the panel physically mounts. A panel on a balcony railing needs to handle wind loads. A panel propped against a fence is a liability waiting to happen. The HiFlow Pro being UL 3700 certified tells you the inverter is safe. It tells you nothing about whether your mounting setup is engineered.
 
 Use a proper mounting rail rated for wind in your area. Don't trust a panel zip-tied to anything. If you're in a multi-story building, check your local fire code, because some jurisdictions have restrictions on panel placement on upper-floor balconies specifically related to egress and firefighter access.
 

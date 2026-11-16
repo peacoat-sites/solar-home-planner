@@ -60,7 +60,7 @@ Panels are actually the cheapest part per watt. A 10 kW array of quality tier-1 
 
 This is where off-grid gets expensive fast. Your battery bank is sized in kilowatt-hours. A typical family home might need 20-40 kWh of usable storage for two to three days of autonomy.
 
-Lithium iron phosphate (LiFePO4) batteries run $800-$1,200 per usable kWh installed. A 30 kWh bank lands at roughly $24,000-$36,000. Lead-acid flooded batteries cost less upfront ($300-$500/kWh), but they only use 50% of their rated capacity safely, require maintenance, and last half as long. Over a 10-year period, lithium is usually cheaper. I've had clients start with lead-acid to save money and replace them inside five years, wiping out the initial savings.
+Lithium iron phosphate (LiFePO4) batteries run $800-$1,200 per usable kWh installed. A 30 kWh bank lands at roughly $24,000-$36,000. Lead-acid flooded batteries cost less upfront ($300-$500/kWh), but they only use 50% of their rated capacity safely, require maintenance, and last half as long. Over a 10-year period, lithium is usually cheaper. Many homeowners start with lead-acid to save money upfront, then replace them within five years, which eliminates the initial cost advantage.
 
 The Solar Energy Industries Association tracks battery storage costs, and while prices have dropped substantially, installed LiFePO4 systems haven't hit the commodity pricing you might see advertised for the cells alone.
 
@@ -134,7 +134,6 @@ I've reviewed a lot of off-grid proposals over the years. Here's what should mak
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
 - consistently shows off-grid quotes running 40-60% higher than comparable grid-ti
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

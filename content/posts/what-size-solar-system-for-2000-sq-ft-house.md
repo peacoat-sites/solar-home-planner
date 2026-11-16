@@ -29,7 +29,7 @@ You just got your electric bill, and somewhere between the total due and the fin
 
 ## Why Square Footage Is Only the Starting Point
 
-I've had clients walk in convinced they needed a certain system size because a neighbor with "the same size house" had it. Square footage tells you something about the thermal envelope of a home, how much space you're heating and cooling. That matters. But it doesn't tell you whether you have electric or gas appliances, whether your HVAC is a 15-year-old energy hog or a new variable-speed heat pump, or whether anyone is home during the day.
+A common mistake is assuming you need a certain system size because a neighbor with a similar-sized house has it. Square footage tells you something about the thermal envelope of a home, how much space you're heating and cooling. That matters. But it doesn't tell you whether you have electric or gas appliances, whether your HVAC is a 15-year-old energy hog or a new variable-speed heat pump, or whether anyone is home during the day.
 
 That said, let's use it as a starting point.
 
@@ -112,11 +112,11 @@ If your utility has poor net metering, or you want backup power, a battery like 
 
 If you're driving an electric vehicle or planning to, [adding a Level 2 EV charger](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=contentportfo-20) to your home is a significant load addition, often 3,000 to 5,000 additional kWh per year depending on how much you drive. Size for it now, not after the system is installed.
 
-A [home energy monitor like the Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) is genuinely worth installing before you get solar quotes. Spending two or three months with a real-time monitor shows you where your energy is actually going. I've had clients discover their old electric water heater or a malfunctioning HVAC unit was responsible for 30% of their bill. Fixing that first shrinks the solar system you need and reduces your upfront cost.
+A [home energy monitor like the Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) is genuinely worth installing before you get solar quotes. Spending two or three months with a real-time monitor shows you where your energy is actually going. For example, an old electric water heater or a malfunctioning HVAC unit might account for 30% of a household's bill. Fixing that first shrinks the solar system you need and reduces your upfront cost.
 
 ## Contractor Red Flags and Getting the Right Quote
 
-I spent years as an electrician before moving into solar installation, and I've seen what a bad install looks like from the inside. Watch for these.
+Watch for these.
 
 **Red flag: The contractor quotes system size based on square footage alone.** A real solar designer asks for your 12-month billing history, does a shading analysis (usually with satellite tools like Aurora Solar or Nearmap), and sizes based on actual consumption and roof conditions.
 
@@ -139,7 +139,6 @@ The right solar system for your 2,000 sq ft home comes down to three things: how
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

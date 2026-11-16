@@ -39,7 +39,7 @@ Also watch how the company responds to negative reviews. A defensive, blame-shif
 
 Some of the most damning review content isn't dramatic. It's quiet. Watch for these specific patterns across multiple reviews:
 
-**Permit and interconnection delays.** If more than two or three reviewers mention waiting four, five, or six months to get their system turned on, that's not bad luck. That's a process problem. A competent installer handles utility interconnection paperwork constantly and knows exactly what each local utility requires. In my experience, systems that stall in the permit phase are almost always stalled because the installer submitted incomplete paperwork or handed the filing off to someone inexperienced.
+**Permit and interconnection delays.** If more than two or three reviewers mention waiting four, five, or six months to get their system turned on, that's not bad luck. That's a process problem. A competent installer handles utility interconnection paperwork constantly and knows exactly what each local utility requires. Systems that stall in the permit phase are almost always stalled because the installer submitted incomplete paperwork or handed the filing off to someone inexperienced.
 
 **Subcontractor surprises.** Some installers sell the job and then hand it off to a subcontractor you've never met. Reviewers who mention "a different crew than who we met with" or "nobody from the company was on-site" are often describing this situation. Subcontracting isn't automatically bad, but if the company never disclosed it and reviews show this happening repeatedly, ask directly [before you sign anything](/solar-contract-what-to-review-before-signing/).
 
@@ -96,7 +96,7 @@ Reading reviews is step one. Verifying them is step two. This takes about 45 min
 
 **Step 4: Ask those references specific questions.** Not "did you like them?" but "what system size did you get, what annual production did the company project, and what are you actually seeing in your monitoring app?" Ask whether anything went wrong and how it was handled. Ask whether they'd use the same company again.
 
-**Step 5: Look up the installation address on Google Maps satellite view.** This sounds odd, but I've had clients do this and confirm the panels are actually installed. You can also see whether the system looks professionally done or haphazardly laid out.
+**Step 5: Look up the installation address on Google Maps satellite view.** You can verify the panels are actually installed by checking satellite view. You can also see whether the system looks professionally done or haphazardly laid out.
 
 **Step 6: Check for open permits.** Some jurisdictions let you search permit records online. An installer who has a cluster of permits that were opened but never closed (meaning the system was never inspected and signed off) is a serious red flag.
 
@@ -119,7 +119,6 @@ The goal isn't to make the vetting process feel intimidating. Solar is a 25-year
 - [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
 - [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20)
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

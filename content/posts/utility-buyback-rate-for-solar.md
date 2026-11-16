@@ -64,11 +64,11 @@ NREL has done solid work on this. Their research shows that state-by-state effec
 
 EnergySage's market data consistently shows that homeowners in [states with full retail NEM](/net-metering-rates-by-state-2026/) see payback periods in the 7-10 year range, while those in states with weakened or pending NEM reforms are looking at 10-15 years. Batteries change this equation, but they also add $10,000-$15,000 to the system cost.
 
-What surprised me when I started digging into utility tariffs specifically was how much variation exists *within* the same utility, depending on your rate class. Some utilities have time-of-use (TOU) rates that can actually benefit solar customers who export in the afternoon peak. Others apply demand charges to residential customers, which solar alone generally can't address effectively. You need to read the actual tariff schedule, not the utility's marketing page.
+Significant variation exists *within* the same utility, depending on your rate class. Some utilities have time-of-use (TOU) rates that can actually benefit solar customers who export in the afternoon peak. Others apply demand charges to residential customers, which solar alone generally can't address effectively. You need to read the actual tariff schedule, not the utility's marketing page.
 
 ## How to Actually Find Your Buyback Rate Before You Sign Anything
 
-Most solar sales reps will show you a production estimate and a savings estimate, often in a slick proposal from Aurora Solar or Energy Toolbase software. That estimate is only as good as the export rate assumption baked into it. I've seen proposals that used retail rate assumptions for utilities that had already switched to avoided-cost compensation.
+Most solar sales reps will show you a production estimate and a savings estimate, often in a slick proposal from Aurora Solar or Energy Toolbase software. That estimate is only as good as the export rate assumption baked into it. Proposals sometimes use retail rate assumptions for utilities that have already switched to avoided-cost compensation.
 
 Here's how to check it yourself:
 
@@ -82,7 +82,7 @@ That last part matters. Several states have pending rate cases that could change
 
 ## Batteries, Self-Consumption, and the New Math
 
-Here's the thing about degraded export rates: they make batteries more financially logical than they used to be.
+Degraded export rates make batteries more financially logical than they used to be.
 
 If you're only getting $0.04/kWh for power you export, but you'd pay $0.14/kWh to buy that same power back at night, a battery that captures that export and feeds it back to your home has an effective return of $0.10/kWh on every kWh it cycles. That math is far more compelling than it was under full retail NEM.
 
@@ -114,7 +114,6 @@ The buyback rate question doesn't have a universal answer, and anyone who tells 
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

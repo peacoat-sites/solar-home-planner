@@ -33,7 +33,7 @@ DIY solar has come a long way. The kits available today are genuinely designed f
 
 This is where a lot of buyers get burned. A solar kit is typically a bundled collection of components: solar panels, a solar inverter (string or microinverter), racking hardware, and sometimes wiring. That's it. Most kits do not include the electrical panel upgrade your home might need, the interconnection application to your utility, the permits, the conduit, or the monitoring hardware.
 
-I've seen clients order a kit, get excited, and then discover their main electrical panel is a Federal Pacific Stab-Lok that can't safely accept a solar backfeed. That's a $3,000 surprise you want to find before you buy panels.
+A common issue is ordering a kit only to discover your main electrical panel is a Federal Pacific Stab-Lok that can't safely accept a solar backfeed. That's a $3,000 surprise you want to find before you buy panels.
 
 Before you buy any kit, you need to know:
 
@@ -144,7 +144,6 @@ DIY solar isn't for everyone. If you're not comfortable on a roof, not willing t
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

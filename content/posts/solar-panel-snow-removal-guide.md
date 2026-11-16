@@ -25,7 +25,7 @@ faqs:
     a: "Yes. Rain-X and similar hydrophobic treatments are sometimes suggested, but they're not formulated for solar glass and can affect light transmission. There are solar-specific anti-soiling and anti-ice coatings (Hydrotect is one brand sometimes used by installers) that are pH neutral and won't degrade the anti-reflective layer. I'd rather you reapply a proper product every few years than improvise with an auto-parts store alternative."
 ---
 
-Three inches of fresh snow on a Monday morning, and your [solar system](/how-to-add-a-battery-to-your-existing-solar-system/) output has dropped to near zero. I've seen this exact situation trigger a full-blown panic call from a homeowner who was convinced their inverter had failed. Turned out the panels were just buried. Happens constantly in the first winter after installation, because most installers spend exactly zero time on snow management during the sales process.
+Three inches of fresh snow on a Monday morning, and your [solar system](/how-to-add-a-battery-to-your-existing-solar-system/) output has dropped to near zero. A common mistake after the first snowfall is assuming a sudden drop in output means the inverter has failed, when buried panels are usually the cause. Happens constantly in the first winter after installation, because most installers spend exactly zero time on snow management during the sales process.
 
 Here's what I want to save you: the time I wasted the first winter I had a system on my own roof in Colorado. I grabbed a standard roof rake, dragged it across the panels, and put a hairline scratch across two cells before I'd even cleared half the array. Not catastrophic, but a dumb and avoidable mistake. Snow removal on [solar panels](/can-solar-panels-power-a-whole-house/) has a few specific rules that differ from clearing your roof shingles, and if nobody's told you those rules, this is that conversation.
 
@@ -90,7 +90,7 @@ Flat roofs and low-pitch installations (under 15 degrees) are the real problem c
 
 **Scenario 2:** Same homeowner, but the system is on a garage with a 10-degree pitch. The 8 inches doesn't move for four days. At an average January production rate of about $3.50/day, that's $14 lost plus the risk of a partial-shading penalty on adjacent strings. Manual clearing on day two would have recaptured roughly $10 of that. This is when the $65 rake earns its keep.
 
-**Scenario 3:** A reader emailed me last spring from Syracuse, New York (one of the snowiest cities in the contiguous U.S.) asking whether panel heaters were worth it on a low-slope roof. Her system loses roughly 6-8% of annual production to snow, which at her system size (9.4 kW) translates to about $180-$220 per year in lost production value. A heating mat system at $2,000 installed would take 9-11 years to pay back in saved production, assuming electricity costs for the heaters stay modest. She went with a combination of steeper racking on a future east-wing addition and a good rake. Right call.
+**Scenario 3:** In one example scenario, a low-slope system losing 6-8% of annual production to snow translates to about $180-$220 per year in lost production value at a 9.4 kW system size. A heating mat system at $2,000 installed would take 9-11 years to pay back in saved production, assuming electricity costs for the heaters stay modest. Steeper racking and seasonal raking can be a more cost-effective alternative.
 
 ## Sources
 

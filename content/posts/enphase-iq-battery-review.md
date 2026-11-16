@@ -29,9 +29,7 @@ Three years ago, I wired a 10 kWh Enphase IQ Battery 10 into a client's new cons
 
 The Enphase IQ Battery line gets a lot of breathless coverage from solar marketers and not enough from people who've actually pulled wire on these systems. So here's what I know from hands-on installs, homeowner check-ins, and two years of watching how these batteries actually perform in the field.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The IQ Battery 10T costs roughly $10,000–$12,000 installed; the smaller 5P runs $5,500–$7,500.</li><li style="margin:5px 0">Enphase uses microinverter-based architecture, which means AC coupling ,  simpler to retrofit, slightly less efficient than DC-coupled competitors.</li><li style="margin:5px 0">Whole-home backup requires a battery system large enough to cover your loads; the 5P alone won't cut it for most homes.</li><li style="margin:5px 0">Enphase's Enlighten monitoring app is the best in the residential space, full stop.</li><li style="margin:5px 0">The 10-year warranty covers 70% capacity retention ,  in line with the industry but not exceptional.</li></ul></div>
-
 
 ## The Product Line, Sorted Out
 
@@ -41,15 +39,11 @@ The 5P delivers 5 kWh usable capacity with 3.84 kW continuous power output. The 
 
 One thing installers know that customers rarely hear: these are AC-coupled batteries. They don't store DC power directly from your panels. Power flows [solar panels](/best-roof-type-for-solar-panels/), microinverters convert to AC, battery inverts back to DC for storage, then inverts again to AC when discharging. Each conversion costs you a few percentage points. In practice, round-trip efficiency on the 10T runs about 89%, compared to roughly 94% on a DC-coupled system like some SolarEdge configurations. Not catastrophic, but real.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Usable Capacity vs. Continuous Power Output</div><div class="sc-row"><span class="sc-label">IQ 5P (kWh)</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">5 kWh / kW</span></div><div class="sc-row"><span class="sc-label">IQ 10T (kWh)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">10.1 kWh / kW</span></div><div class="sc-row"><span class="sc-label">IQ 5P (kW output)</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">3.8 kWh / kW</span></div><div class="sc-row"><span class="sc-label">IQ 10T (kW output)</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">7.7 kWh / kW</span></div><div class="sc-src">Source: Enphase product specs, July 2026</div></div>
-
 
 ## What It Actually Costs
 
 > **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's the table I wish every salesperson handed over before the pitch:
 
@@ -68,13 +62,13 @@ The federal investment [tax credit](/solar-batteries-are-rising-even-as-the-fede
 
 Enphase's approach is modular and stackable. You can start with one 10T and add another later without replacing your microinverters or your IQ System Controller 3 (the brain that manages backup switching). That's genuinely useful for homeowners who want to expand over time.
 
-I thought for years that AC coupling was just a compromise Enphase made because they were already a microinverter company. Partially true. But when you're retrofitting storage onto an existing solar system that uses string inverters from, say, 2018, AC coupling is actually cleaner than a full DC-coupled rip-and-replace. No need to touch the existing inverter or re-run DC home runs. One reader who emailed me last spring, a DIY-leaning guy in Phoenix with a 2017 SMA string system, asked whether he should swap to Enphase or try to add a Powerwall. I told him: if you're keeping that SMA inverter, the Powerwall is AC-coupled too, so you're not giving anything up on efficiency. But Enphase's ecosystem management is tighter.
+When retrofitting storage onto an existing solar system that uses string inverters from, say, 2018, AC coupling is cleaner than a full DC-coupled rip-and-replace. You won't need to touch the existing inverter or re-run DC home runs. If you're keeping an older string inverter, a Powerwall is AC-coupled too, so you're not giving anything up on efficiency. Enphase's ecosystem management is tighter, though.
 
 The IQ System Controller 3 handles whole-home backup isolation. When grid goes down, it disconnects your home from the utility in roughly 200 milliseconds, then the batteries take over. Fast enough that most electronics don't notice. My one nitpick: if you have a well pump or an air compressor, check the startup surge requirements before assuming you'll run them on battery backup. The 10T's 7.68 kW continuous output doesn't mean it can absorb a 12 kW motor startup surge cleanly.
 
 ## Monitoring: This Is Where Enphase Wins, Clearly
 
-The Enlighten app is the honest best consumer-facing energy monitoring platform in residential solar storage right now. You get panel-level production data (because microinverters report individually), battery state of charge, grid import/export, and home consumption, all in real time. NREL's work on solar system performance visibility highlights how panel-level monitoring can cut fault detection time dramatically, and that's been true in my experience: a bad microinverter shows up immediately rather than hiding in aggregated string data.
+The Enlighten app is the honest best consumer-facing energy monitoring platform in residential solar storage right now. You get panel-level production data (because microinverters report individually), battery state of charge, grid import/export, and home consumption, all in real time. NREL's work on solar system performance visibility highlights how panel-level monitoring can cut fault detection time dramatically. A bad microinverter shows up immediately rather than hiding in aggregated string data.
 
 I had a client in Sacramento text me six months after her install because her app showed one microinverter producing 40% less than its neighbors. We replaced it under warranty in two weeks. On a string system, that underperformance would've been invisible until the annual yield report.
 
@@ -101,7 +95,6 @@ Ten years, 70% capacity retention. Every major manufacturer offers essentially t
 - Enphase Enlighten platform documentation: Storm Guard, consumption monitoring, IQ System Controller 3 specs
 
 ---
-
 
 *Photo: [Andersen EV](https://www.pexels.com/@andersen-ev-1587213396) via Pexels*
 

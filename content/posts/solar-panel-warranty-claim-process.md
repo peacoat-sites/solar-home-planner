@@ -51,8 +51,6 @@ A few things that genuinely void coverage, depending on the manufacturer: improp
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 I know this is the boring part. Do it anyway.
 
 When your system is installed, you should have: a signed copy of the installation contract, the manufacturer warranty certificates for the panels and inverter (these are usually separate documents), your building permit and final inspection sign-off, photos of the completed installation from multiple angles, the monitoring system baseline data from the first 60 days, and the installer's ROC or contractor license number.
@@ -81,14 +79,13 @@ If the claim is denied and you believe it shouldn't be, request the denial in wr
 
 ## The Contractor Red Flags That Kill Claims Later
 
-I've seen plenty of installations that were technically functional but set the homeowner up for warranty trouble down the road. A few patterns:
+Some installations are technically functional but create warranty problems later. Common patterns include:
 
 Installers who don't register your panels with the manufacturer. Some warranties require product registration within 30 to 90 days of installation to get the full coverage period. If your installer skipped this step, you might be looking at a shorter coverage window without knowing it. Check directly with the manufacturer using your serial numbers.
 
 Panels installed without a permit. If your system didn't go through the building department and get a final inspection, a manufacturer can argue the installation was improper. That's a real exclusion in most warranty documents. Permitted work is documented, inspected, and defensible.
 
 No-name or overly discounted panels from an installer who's pushing you toward something other than the top tier brands. According to [EnergySage's market data](https://news.energysage.com/), the most commonly installed brands in U.S. residential projects are Q CELLS, REC, Canadian Solar, SunPower, and Jinko. Their warranty support infrastructure exists and functions. Some lower-tier manufacturers have warranty terms on paper that they can't actually support because they don't have U.S.-based service operations.
-
 
 ---
 
@@ -103,7 +100,6 @@ The warranty paperwork you shove in a drawer when the installers leave is only a
 - [thermal imaging camera or can rent one](https://www.amazon.com/s?k=thermal+imaging+camera+for+solar+panels&tag=contentportfo-20)
 - [EnergySage's market data](https://news.energysage.com/)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

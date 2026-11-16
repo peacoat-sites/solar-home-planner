@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most people shopping for solar panels in 2026 spend way too much time comparing efficiency ratings and nowhere near enough time asking who's actually going to be around to honor that 25-year warranty. That's the thing nobody puts in the comparison chart.
 
-I've been doing solar installs and consulting for long enough to have watched several "top-tier" brands quietly exit the US market, leaving homeowners with orphaned equipment and voided workmanship warranties. So before I get into who makes a good panel right now, I want to be honest: this market has shifted significantly even in the last 18 months, and some of the brand rankings you'll find from 2023 or 2024 are already outdated.
+Several "top-tier" brands have quietly exited the US market in recent years, leaving homeowners with orphaned equipment and voided workmanship warranties. So before I get into who makes a good panel right now, I want to be honest: this market has shifted significantly even in the last 18 months, and some of the brand rankings you'll find from 2023 or 2024 are already outdated.
 
 Here's where I actually started my research for this piece: [EnergySage's market data](https://news.energysage.com/) on installer preferences, combined with what I'm hearing from other installers in my network about what they're actually willing to put their name behind. Not just what the manufacturers are paying to promote.
 
@@ -35,7 +35,7 @@ Here's where I actually started my research for this piece: [EnergySage's market
 
 You'll see "Tier 1" thrown around constantly in solar marketing. I'll be honest: it means less than you think. The Bloomberg NEF Tier 1 list is primarily a bankability rating. It reflects whether a manufacturer has secured institutional financing for projects. That tells you something about financial scale and production volume. It tells you almost nothing about actual panel quality, customer service, or whether that company will respond when you file a warranty claim in 2034.
 
-What surprised me when I started looking closer is how many genuinely excellent panels come from manufacturers that aren't on the Tier 1 list at all. And how many mediocre panels carry that exact designation.
+Many genuinely excellent panels come from manufacturers that aren't on the Tier 1 list at all. Many mediocre panels carry that exact designation.
 
 The framework I actually use: look at domestic US presence (do they have an office here? US-based warranty support?), degradation rate (power loss per year), [temperature coefficient](/solar-panel-efficiency-ratings-explained/) (output drop in heat), and whether they offer both product warranty and separate performance warranty. Those last two are different things. Most homeowners don't realize it.
 
@@ -50,7 +50,7 @@ The framework I actually use: look at domestic US presence (do they have an offi
 | Canadian Solar | Not specified | Not specified | 25-year | Budget-conscious option | Questions on US warranty support |
 | SunPower | Previously leading | Not specified | Warranty complicated post-2024 | Historical standard (now restructured) | Bankruptcy 2024, restructured |
 
-**REC Group** keeps earning its reputation. The REC Alpha Pure and Alpha Pure RX series hit 430-445W for residential panels, with a temperature coefficient around -0.24%/°C. Genuinely impressive, especially for homeowners in Arizona or Texas where heat kills output. REC has European roots but solid US distribution, and their 25-year product/performance warranty has held up well in the handful of claims I've seen process. Not cheap. Expect to pay a $0.10-0.15 per watt premium over comparable JA Solar or Longi panels. Worth it for most installs? Probably yes, if your installer is comfortable with them.
+**REC Group** keeps earning its reputation. The REC Alpha Pure and Alpha Pure RX series hit 430-445W for residential panels, with a temperature coefficient around -0.24%/°C. Genuinely impressive, especially for homeowners in Arizona or Texas where heat kills output. REC has European roots and solid US distribution, and their 25-year product/performance warranty has a strong track record. Not cheap. Expect to pay a $0.10-0.15 per watt premium over comparable JA Solar or Longi panels. Worth it for most installs? Probably yes, if your installer is comfortable with them.
 
 **Maxeon Solar**, spun off from SunPower, makes panels I've consistently recommended for difficult roofs with limited space. Their Maxeon 7 series hits 24%+ efficiency in a 400W package, which is the best real-world efficiency you'll find outside of research-grade products. The catch is price. You're looking at a significant premium, and Maxeon has had financial turbulence. Their warranty support has remained intact so far. I'd be watching that situation carefully before signing a contract that locks you in.
 
@@ -58,7 +58,7 @@ The framework I actually use: look at domestic US presence (do they have an offi
 
 **Longi Solar (LONGi)** deserves more credit than it gets in US residential circles. They're the largest solar panel manufacturer in the world by volume. Their Hi-MO 6 and Hi-MO X6 series panels are genuinely competitive on efficiency (21-22.8% depending on configuration) at prices that make system economics much more attractive. Some installers worry about warranty claim logistics with a Chinese manufacturer. I think that's legitimate but somewhat overstated for most residential systems, because the 25-year timeline means you're betting on corporate continuity regardless of who made the panel.
 
-**Canadian Solar** sits nearby. Huge manufacturer, solid product, questions about long-term US warranty support infrastructure. Their HiDM 6 and BiHiKu7 series are technically strong. I've seen them installed on hundreds of houses without issues. For a budget-conscious homeowner whose primary goal is maximizing kWh per dollar, Canadian Solar is hard to argue against.
+**Canadian Solar** sits nearby. Huge manufacturer, solid product, questions about long-term US warranty support infrastructure. Their HiDM 6 and BiHiKu7 series are technically strong. These panels have a solid track record in residential installations. For a budget-conscious homeowner whose primary goal is maximizing kWh per dollar, Canadian Solar is hard to argue against.
 
 **SunPower** (distinct from Maxeon now) went through bankruptcy proceedings in 2024 and restructured significantly. This is the cautionary tale I mention to every client. SunPower was the gold standard for years. Their Maxeon cell technology was genuinely ahead of the market. And then the company imploded, leaving some dealers and homeowners in genuinely difficult positions mid-project. The panels themselves still work. But the warranty situation got complicated fast. The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) has been pushing for better warranty protection standards partly because of what happened here.
 
@@ -89,7 +89,6 @@ The brands at the top of the market in 2026 are genuinely better than what was a
 - [a home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=contentportfo-20)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

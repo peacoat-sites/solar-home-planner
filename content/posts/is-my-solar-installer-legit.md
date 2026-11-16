@@ -45,7 +45,7 @@ Separately, look up the company on the Solar Energy Industries Association (SEIA
 
 ## The Permit Problem: What Too Many Installers Skip
 
-This one drives me crazy because I've seen it go badly wrong for homeowners. Solar installations require permits. Full stop. The permit triggers an inspection by your local building or electrical department, which is the official check that the system was installed to code. Skipping it is illegal, and it creates serious problems down the road.
+Skipping permits is a serious mistake. Solar installations require permits. Full stop. The permit triggers an inspection by your local building or electrical department, which is the official check that the system was installed to code. Skipping it is illegal, and it creates serious problems down the road.
 
 If you sell your house, an unpermitted solar system will almost certainly surface during the buyer's inspection or title search. You may be forced to bring it into compliance at your own expense or disclose it as a defect. More immediately, your homeowner's insurance policy may not cover damage related to an unpermitted electrical installation.
 
@@ -124,7 +124,6 @@ The solar industry has plenty of genuinely good installers who will do right by 
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

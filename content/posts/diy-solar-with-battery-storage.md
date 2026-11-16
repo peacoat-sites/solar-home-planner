@@ -49,13 +49,11 @@ The middle ground is a "hybrid" approach: a modest roof array (say, 6 to 10 pane
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Skip this section if you want to, but it will cost you. Not might. Will.
 
 Every grid-tied solar installation in the U.S. requires a permit. The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) is pretty clear on this, and your AHJ (Authority Having Jurisdiction, meaning your local building department) will expect a site plan, electrical diagram, and equipment spec sheets before they'll issue one. If you're connecting to the grid, your utility also requires a separate interconnection application, and some utilities are still running 60 to 90 day backlogs on those approvals.
 
-Here's the part that trips people up: even if you're adding battery storage to an *existing* solar system, most jurisdictions require a new permit for the battery addition. I've seen homeowners get stung on this when they went to sell their house. The inspector found an unpermitted Powerwall, the sale nearly fell through, and they ended up paying to have everything retroactively permitted and inspected, which is more expensive and more stressful than doing it right the first time.
+Here's the part that trips people up: even if you're adding battery storage to an *existing* solar system, most jurisdictions require a new permit for the battery addition. Unpermitted battery additions can create serious problems at resale: inspectors will flag them, sales can stall, and retroactive permitting and inspection costs more and takes longer than doing it right initially.
 
 The good news: if you're a licensed electrician doing work on your own home, many jurisdictions will allow homeowner-pulled permits. If you're not an electrician, you'll need to at least have a licensed electrician sign off on the electrical work in most states. Some states, like California and Florida, have specific solar contractor licensing requirements on top of that. Look this up for your state before you spend a dollar on equipment.
 
@@ -73,7 +71,7 @@ Don't buy panels first and then figure out the battery. Start with the battery t
 
 ## Equipment: Where to Spend and Where Not To
 
-The inverter is not the place to save money. I've watched homeowners order cheap Chinese grid-tie inverters off Amazon to save $300, only to find out those units aren't UL-listed and their utility won't allow them to interconnect. Buy UL-listed, period. For hybrid inverters (the type that handles both grid-tie and battery), the Schneider Electric XW Pro, Sol-Ark 15k, and EG4 6000EX are all legitimate options with actual support behind them. The Sol-Ark in particular has become a favorite in the DIY community because its setup is relatively approachable and the company will actually talk to homeowners.
+The inverter is not the place to save money. Cheap grid-tie inverters from unverified suppliers often aren't UL-listed, and utilities will refuse to interconnect them. Buy UL-listed, period. For hybrid inverters (the type that handles both grid-tie and battery), the Schneider Electric XW Pro, Sol-Ark 15k, and EG4 6000EX are all legitimate options with actual support behind them. The Sol-Ark in particular has become a favorite in the DIY community because its setup is relatively approachable and the company will actually talk to homeowners.
 
 Batteries: I'll be honest, lithium iron phosphate (LFP) is the only real choice for most homeowners today. The safety profile is dramatically better than NMC, the cycle life is typically 3,000 to 6,000 cycles, and prices have dropped enough that lead-acid doesn't make financial sense anymore unless you're in a very specific off-grid situation. Expect to pay $400 to $600 per kWh for quality LFP, though pricing has been volatile.
 
@@ -97,7 +95,6 @@ Don't skip step 7. Without it, you're not legally exporting power, and depending
 
 ---
 
-
 ---
 
 ## Sources
@@ -107,7 +104,6 @@ Don't skip step 7. Without it, you're not legally exporting power, and depending
 - [SEIA](https://www.seia.org/)
 - [Emporia Vue 3](https://www.amazon.com/dp/B0B7RT8DQJ?tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

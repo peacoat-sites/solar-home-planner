@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Your electricity bill is the single most important document in your whole solar project, and most people barely glance at it before calling a contractor.
 
-I get it. You've probably spent the last few weeks getting quotes, reading Reddit threads, maybe watching a few YouTube videos where someone installs 40 panels on their barn roof. It's a lot. And somewhere in all of that noise, you're wondering: how many panels do I actually need? What size system makes sense for my house, my roof, my budget? You're not trying to become a solar engineer. You just don't want to spend $20,000 on the wrong system.
+Getting solar quotes, reading online discussions, and watching installation videos is part of the research process. It's a lot. And somewhere in all of that noise, you're wondering: how many panels do I actually need? What size system makes sense for my house, my roof, my budget? You're not trying to become a solar engineer. You just don't want to spend $20,000 on the wrong system.
 
 Here's what I tell people who come to me at this stage: sizing a solar system is mostly arithmetic, but the inputs matter enormously. Get the inputs wrong and you'll either overbuild (wasting money) or underbuild (still paying a painful electric bill every month). Let me walk you through the actual process.
 
@@ -46,7 +46,7 @@ Here's what I tell people who come to me at this stage: sizing a solar system is
 
 Pull up your utility account online and grab 12 months of usage data. Not just last month. Twelve months, because your summer AC load and winter heating are completely different.
 
-Add up all 12 months of kilowatt-hours (kWh). That's your annual consumption. The average U.S. home uses about 10,500 kWh per year according to the EIA, but that statistic is almost useless for your specific situation. I've seen 1,400 square-foot homes in Phoenix running 22,000 kWh because they're pumping a pool and heating water with electricity. I've seen 2,800 square-foot homes in Oregon at 7,000 kWh because they're on natural gas for everything and obsessive about efficiency.
+Add up all 12 months of kilowatt-hours (kWh). That's your annual consumption. The average U.S. home uses about 10,500 kWh per year according to the EIA, but that statistic is almost useless for your specific situation. A 1,400 square-foot home in a hot climate with a pool and electric water heating might use 22,000 kWh annually, while a 2,800 square-foot home in a cooler climate using natural gas and prioritizing efficiency could use 7,000 kWh.
 
 Your number is your number. Write it down.
 
@@ -139,7 +139,6 @@ The math itself isn't difficult. The hard part is getting accurate inputs and no
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

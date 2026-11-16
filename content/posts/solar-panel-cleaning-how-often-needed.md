@@ -33,7 +33,7 @@ Your panels are outside. They're tilted. Rain hits them. In most of the continen
 
 Dust and pollen are the least of your problems. They're light, they blow off, and a decent rain event resets the situation. The stuff that costs you real output is anything that sits heavy and wet, dries into a crust, or blocks individual cells rather than dimming the whole panel uniformly.
 
-Bird droppings are the classic offender. A single dropping over a cell can kill the output of an entire string in systems without [microinverters or power optimizers](/solar-inverter-troubleshooting-guide/), because shading one cell in a series string drags down the whole chain. I've watched a 6 kW system drop to 4.2 kW output on a clear June day because of maybe a dozen droppings across 18 panels. That's not a rounding error.
+Bird droppings are the classic offender. A single dropping over a cell can kill the output of an entire string in systems without [microinverters or power optimizers](/solar-inverter-troubleshooting-guide/), because shading one cell in a series string drags down the whole chain. Even a small number of droppings scattered across a array can produce a significant output drop on an otherwise clear day. That's not a rounding error.
 
 Wildfire smoke and ash leave a gray film that bakes onto glass in sunlight. If you're in California, Oregon, Washington, or anywhere else that's had fire season nearby in the last few years, inspect your panels immediately after any smoke event. Don't wait for rain. Ash mixed with moisture creates a weak acidic residue that's harder to remove the longer it sits.
 
@@ -100,7 +100,6 @@ The U.S. Department of Energy's homeowner solar resources are pretty clear that 
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

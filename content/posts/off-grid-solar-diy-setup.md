@@ -47,7 +47,7 @@ Grid-tied systems are simpler because the grid acts as infinite backup storage. 
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-I've seen clients undersize their battery banks by 40% because they guessed at their loads. Don't guess. Sit down and do a real load audit.
+Battery banks are often undersized by 40% or more when homeowners guess at their loads instead of measuring them. Don't guess. Sit down and do a real load audit.
 
 For every appliance you plan to run, write down:
 - Wattage (check the label or use a kill-a-watt meter)
@@ -124,7 +124,6 @@ Off-grid solar isn't a product you buy. It's a system you design, build, and man
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

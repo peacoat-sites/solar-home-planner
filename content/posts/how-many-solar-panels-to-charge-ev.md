@@ -25,7 +25,7 @@ author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
 lastmod: 2026-07-08
 ---
-Most people ask their solar installer how many panels they need to run their house. Almost nobody asks how many panels they need to run their *car*. That's a mistake. I've worked with homeowners who added an EV to a fully sized solar system and immediately found themselves buying grid power again, confused about why their electric bill came back. The car wasn't in the plan. Adding an EV to your energy load isn't a footnote, it's often a 30 to 50 percent increase in your household electricity consumption. Get the math right before you sign anything.
+Most people ask their solar installer how many panels they need to run their house. Almost nobody asks how many panels they need to run their *car*. That's a mistake. Adding an EV to a fully sized solar system can result in unexpected grid power purchases and higher electric bills. The car wasn't in the plan. Adding an EV to your energy load isn't a footnote, it's often a 30 to 50 percent increase in your household electricity consumption. Get the math right before you sign anything.
 
 ## Why Your EV Is Probably the Biggest Load on Your Roof
 
@@ -33,7 +33,7 @@ Let's put real numbers on this. The average American home uses about 10,500 kWh 
 
 So you're potentially adding the electricity consumption of a small apartment on top of your existing home load. Your installer's original system size had nothing built in for this. That's where the trouble starts.
 
-What surprised me when I started digging into this was how rarely solar sales reps ask about EV ownership upfront, or whether you plan to buy one in the next few years. The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) has pushed for more comprehensive load assessments, but in practice, a lot of quotes are still built around your last 12 months of utility bills, which obviously won't include a car you haven't plugged in yet.
+Solar sales reps often don't ask about EV ownership upfront or plans to buy one in the next few years. The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) has pushed for more comprehensive load assessments, but in practice, a lot of quotes are still built around your last 12 months of utility bills, which obviously won't include a car you haven't plugged in yet.
 
 ## The Core Calculation: Panels Per Mile Driven
 
@@ -112,7 +112,7 @@ Not all Level 2 chargers are created equal when it comes to solar integration. A
 
 Some inverters, like Enphase and SolarEdge, have ecosystem integrations that allow the charger to automatically throttle up when solar is producing excess power and dial back when it isn't. This is called solar-optimized or excess solar charging. It's not magic, just smart scheduling, but it can meaningfully reduce your reliance on grid power without requiring a full battery storage system.
 
-If you're wiring in a new 240V circuit for your charger, pull the permit. I know that sounds obvious, but I've seen plenty of DIY installs where someone ran a 50-amp circuit without permits, which creates real liability issues if you ever have an insurance claim. The charger circuit needs to be on a dedicated breaker, typically 40 amps for a 32-amp charger (per NEC 80 percent continuous load rule). If your panel is already near capacity, you may need a subpanel or a load management device.
+If you're wiring in a new 240V circuit for your charger, pull the permit. Running a 50-amp circuit without permits creates real liability issues if you ever have an insurance claim. The charger circuit needs to be on a dedicated breaker, typically 40 amps for a 32-amp charger (per NEC 80 percent continuous load rule). If your panel is already near capacity, you may need a subpanel or a load management device.
 
 ## Red Flags When You're Getting Quotes for an EV-Ready Solar System
 
@@ -137,7 +137,6 @@ The honest truth is that solar plus EV is one of the most financially powerful c
 - [U.S. Department of Energy's resources for homeowners](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [Emporia Vue or Sense Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)
 - [240V EV charger](https://www.amazon.com/s?k=level+2+ev+charger+home&tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

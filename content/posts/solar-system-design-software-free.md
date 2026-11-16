@@ -29,11 +29,9 @@ faqs:
 
 Real [solar system design](/solar-system-design-considerations-list/) software does something different: it models your roof geometry against actual historical irradiance data, accounts for shading from that oak tree on the southwest corner, calculates string sizing and inverter clipping losses, and produces a production estimate you can hold a contractor accountable to. The good news is that several tools will let you do most or all of this for free, right now, today.
 
-Here's the number that surprised me when I first saw it: according to EnergySage's market data, homeowners who get three or more independent quotes save an average of $5,000 to $10,000 on a typical residential installation. The gap exists largely because most people can't evaluate what they're being sold. Understanding your own system design, even at a basic level, is what closes that gap.
-
+According to EnergySage's market data, homeowners who get three or more independent quotes save an average of $5,000 to $10,000 on a typical residential installation. The gap exists largely because most people can't evaluate what they're being sold. Understanding your own system design, even at a basic level, is what closes that gap.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">PVWatts (NREL) is free, government-backed, and accurate enough for a solid first estimate ,  use it before talking to any contractor.</li><li style="margin:5px 0">Aurora Solar and Helioscope both offer limited free tiers; full access costs $150-$250/month but may be unnecessary for a homeowner doing one system.</li><li style="margin:5px 0">A system modeled in quality design software should produce estimates within 5-10% of actual production ,  anything beyond 15% off is a red flag.</li><li style="margin:5px 0">Shading analysis is where free tools diverge most from paid ones; NREL's System Advisor Model (SAM) handles it better than most at zero cost.</li><li style="margin:5px 0">EnergySage reports homeowners who compare quotes save $5,000–$10,000 on average ,  software literacy is what makes that comparison possible.</li></ul></div>
-
 
 ## PVWatts: Start Here, Every Time
 
@@ -46,8 +44,6 @@ One thing PVWatts doesn't do well is granular shading analysis. It has a shading
 ## NREL's System Advisor Model (SAM)
 
 > **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 SAM is where things get serious. It's free to download (sam.nrel.gov), runs on Windows and Mac, and is honestly the most powerful solar modeling tool available at any price for a residential user who's willing to learn it. NREL has pumped significant federal research money into this thing.
 
@@ -67,9 +63,7 @@ That's the kind of number that makes the time investment worth it.
 
 Aurora Solar and Helioscope are the two dominant professional platforms. Both are subscription-based for contractors, but both offer limited access for homeowners or people evaluating one system.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Monthly cost of solar design software (full access)</div><div class="sc-row"><span class="sc-label">Aurora Solar</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$249</span></div><div class="sc-row"><span class="sc-label">Helioscope</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">$199</span></div><div class="sc-row"><span class="sc-label">PVWatts (NREL)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-row"><span class="sc-label">SAM (NREL)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-row"><span class="sc-label">SolarEdge Designer</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-src">Source: Published vendor pricing, July 2026</div></div>
-
 
 Aurora Solar's free tier lets you model one project at a time and gives you their LiDAR-based 3D roof modeling, which is genuinely impressive. You upload your address, and it pulls satellite and LiDAR data to build a 3D model of your roof automatically. Shading is calculated month by month, hour by hour. For a homeowner, this is probably the most useful free tool after PVWatts, because the visual output is something you can actually show your spouse or your HOA board.
 
@@ -119,7 +113,6 @@ If you're seriously entertaining a battery system, or you have a time-of-use rat
 - [Aurora Solar](https://www.aurorasolar.com/): Professional solar design platform with LiDAR-based 3D modeling; limited free tier available for homeowners as of July 2026
 
 ---
-
 
 *Photo: [Lena Netkach](https://www.pexels.com/@lena-netkach-395486) via Pexels*
 

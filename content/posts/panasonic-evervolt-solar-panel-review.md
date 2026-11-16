@@ -26,9 +26,9 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Panasonic makes really good solar panels. That's not the whole story, but it's where I'd start if a neighbor asked me over the fence.
+Panasonic makes really good solar panels. That's not the whole story, but it's a reasonable starting point for anyone considering options.
 
-I've been in and around residential solar since I left licensed electrical work full time in 2019, and Panasonic's EverVolt line comes up constantly. Homeowners email me asking whether they're worth the premium. Installers ask me what I'd put on my own roof. And increasingly, people who bought them a few years ago are checking in on whether the panels held up the way they were promised. So let me give you the honest, detailed answer I'd give a friend sitting at my kitchen table.
+Panasonic's EverVolt line is frequently discussed among installers and homeowners evaluating premium panel options. Buyers often want to know whether the higher cost delivers on its promises, especially after a few years of real-world use. Here's a detailed look at what matters.
 
 ---
 
@@ -54,8 +54,6 @@ You're probably wondering: does it matter? For the warranty and long-term perfor
 | Module-Level Premium | - | +$0.85-$1.10/W | ~$5,950-$7,700 net after 30% tax credit |
 
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's what I tell people who are drowning in spec sheets: the three numbers that really affect your payback period are efficiency, [temperature coefficient](/solar-panel-efficiency-ratings-explained/), and the degradation guarantee.
 
@@ -129,7 +127,6 @@ For the expansion I'm doing now, I'm actually going with a different panel becau
 - [Lawrence Berkeley National Laboratory "Tracking the Sun" Report](https://emp.lbl.gov/tracking-the-sun): Annual report on U.S. residential solar system pricing, equipment trends, and installer data
 
 ---
-
 
 ---
 

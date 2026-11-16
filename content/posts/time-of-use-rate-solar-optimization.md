@@ -25,15 +25,13 @@ faqs:
     a: "Some inverters with battery integration, like the SolarEdge Home Hub or Enphase IQ8 with an Encharge battery, have built-in TOU scheduling. You can program peak windows directly into the system so it automatically shifts to battery discharge during expensive hours. Without a battery, the inverter doesn't have much to optimize since the panels just produce whatever the sun provides."
 ---
 
-Your utility company is making an extra $1,200 a year off solar homeowners who don't understand time-of-use pricing. That's not a scare tactic. That's what I've watched happen, repeatedly, when someone installs a perfectly good 8kW system and then exports power at 3 cents per kWh while buying it back at 42 cents six hours later. The math hurts.
+Your utility company is making an extra $1,200 a year off solar homeowners who don't understand time-of-use pricing. This isn't a scare tactic. A homeowner with a perfectly good 8kW system who exports power at 3 cents per kWh while buying it back at 42 cents six hours later is handing that extra money to the utility. The math hurts.
 
 Time-of-use (TOU) rates are the single biggest variable most solar installers don't explain clearly, and I say that as someone who has been on both sides of this. When I ran electrical for new construction, the utility rate structure was someone else's problem. Now that I'm helping homeowners size and optimize systems, I spend more time on TOU strategy than on almost anything else. Getting it wrong is expensive. Getting it right can dramatically change your payback timeline.
 
 The core idea is simple enough: your utility charges different prices for electricity depending on when you use it. Peak hours (usually late afternoon through evening) cost more. Off-peak hours (nights and early mornings) cost less. On-peak rates in states like California and Arizona currently run anywhere from 38 to 55 cents per kWh, while off-peak rates might be 11 to 18 cents. Your [solar panels](/how-to-clean-solar-panels-safely/), meanwhile, produce the most power between 10 a.m. and 2 p.m., which is exactly when demand is moderate and rates are only middling. This mismatch is the whole problem.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">TOU peak rates (4–9 PM) can be 3–4x higher than off-peak; solar alone doesn't fix this mismatch.</li><li style="margin:5px 0">Battery storage paired with TOU optimization can cut net electricity costs by $800–$1,400/year in high-rate states.</li><li style="margin:5px 0">A solar-only system exporting midday power earns credits at low or moderate rates, then buys back at expensive peak rates.</li><li style="margin:5px 0">Shifting just 2–3 high-draw appliances (dishwasher, EV charging, laundry) out of peak hours saves $300–$600/year without batteries.</li><li style="margin:5px 0">Check your utility's specific TOU schedule before sizing any battery ,  peak windows vary wildly by utility.</li></ul></div>
-
 
 ## Why the Solar Production Window Is the Wrong Window
 
@@ -46,8 +44,6 @@ I thought for years that a well-sized solar system would more or less handle TOU
 ## What Battery Storage Actually Does Here
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 A battery doesn't just give you backup power. In a TOU context, it's a financial arbitrage tool. You charge it when electricity is cheap (or free, from your panels), and you discharge it when electricity is expensive. Done right, this is worth real money.
 
@@ -86,9 +82,7 @@ This is where it gets genuinely complicated, because there's no national standar
 
 What jumps out: Arizona has the most punishing TOU spread (roughly 5:1 ratio), and it has a narrow peak window that barely overlaps with peak solar production. Massachusetts has a wide on-peak window but a smaller rate differential. These differences completely change the battery ROI calculation.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">TOU Peak-to-Off-Peak Rate Ratio by Utility</div><div class="sc-row"><span class="sc-label">APS Arizona</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">4.8 x</span></div><div class="sc-row"><span class="sc-label">NV Energy Nevada</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">2.9 x</span></div><div class="sc-row"><span class="sc-label">PG&amp;E California</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">1.6 x</span></div><div class="sc-row"><span class="sc-label">Eversource MA</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">1.6 x</span></div><div class="sc-row"><span class="sc-label">Austin Energy TX</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">2.9 x</span></div><div class="sc-row"><span class="sc-label">Georgia Power</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">2.4 x</span></div><div class="sc-src">Source: Utility rate schedules, August 2026</div></div>
-
 
 ## Actually Reading Your Rate Schedule
 
@@ -96,7 +90,7 @@ This is where people's eyes glaze over, but it's a 20-minute task that can refra
 
 Go to your utility's website and find the residential rate schedules page. You're looking for the tariff sheet (often a PDF), not the marketing summary. The marketing summary will say something cheerful like "save during off-peak hours!" The actual tariff sheet will tell you: exact peak windows (including whether they change by season), whether weekends and holidays are treated differently, and what the net metering or export credit rate actually is. These are different things. A lot of homeowners don't realize their utility has a separate, lower "export rate" for solar that's distinct from the retail rate they'd pay to buy that same power back.
 
-In my experience, about 60% of the homeowners I've talked to don't know what their current rate schedule is named, let alone what the peak window hours are. Your installer should walk you through this. If they don't ask which rate plan you're on during the consultation, that's a red flag worth noting.
+Many homeowners don't know what their current rate schedule is named or when peak window hours occur. Your installer should walk you through this. If they don't ask which rate plan you're on during the consultation, that's a red flag worth noting.
 
 ## Sources
 
@@ -107,7 +101,6 @@ In my experience, about 60% of the homeowners I've talked to don't know what the
 - [CPUC NEM 3.0 Decision (D.22-12-056)](https://docs.cpuc.ca.gov/): The California ruling that restructured export compensation and made battery storage economics far more important.
 
 ---
-
 
 ---
 

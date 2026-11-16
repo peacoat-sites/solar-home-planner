@@ -18,9 +18,7 @@ My phone started blowing up in January with texts from homeowners who were furio
 
 Here's the part that surprised even me, though: while new panel installations dropped sharply in early 2026, home [battery storage](/diy-solar-with-battery-storage/) just posted its biggest quarter in history. Not a modest uptick. Eighty-six percent year-over-year growth in the residential segment, according to the ACP and Wood Mackenzie U.S. Energy Storage Monitor released June 23, 2026. Bloomberg reported on July 1 that U.S. homeowners installed a record 673 MW of residential battery storage in Q1 2026 alone, citing fresh EIA data. The solar industry didn't collapse. It split in two, and understanding which side you're on right now could save you tens of thousands of dollars.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Residential battery storage hit 1.3 GWh installed in Q1 2026, up 86% year-over-year.</li><li style="margin:5px 0">The 30% Section 25D tax credit is gone for new solar installs in 2026.</li><li style="margin:5px 0">Nearly 50% of new residential solar systems now pair with a battery.</li><li style="margin:5px 0">Section 48E commercial ITC for batteries via lease or PPA remains active through 2032.</li><li style="margin:5px 0">Wood Mackenzie forecasts 12% average annual battery growth over the next four years.</li></ul></div>
-
 
 ## Why Panels Slowed and Batteries Didn't
 
@@ -34,8 +32,6 @@ What most people don't realize is that many homeowners with existing solar syste
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where you need to sit down and actually run the numbers for your situation, because the answer genuinely varies by state. The states driving the battery boom are ones with strong local incentives: California's SGIP program, New York's Con Edison and PSEG storage rebates, Texas net metering policy shifts that punished daytime solar exporters, and several others. Bloomberg specifically noted state incentives as the primary accelerant in their July 1 report.
 
 Here's a simplified comparison of the main paths a homeowner is looking at right now:
@@ -47,15 +43,13 @@ Here's a simplified comparison of the main paths a homeowner is looking at right
 | Battery via lease or PPA | Section 48E ITC (through 2032) | $0–$2,000 typically | Those who want backup without capital outlay |
 | Existing solar, no battery | No new incentive | $0 | Already installed, evaluating retrofit |
 
-The lease and PPA route sounds attractive right now, and for some people it is. But I've seen too many homeowners sign 20-year PPA agreements without reading what happens when they sell the house. The contract transfers to the buyer, and that can complicate your sale. Get a real estate attorney to look at that paperwork before you sign.
+The lease and PPA route sounds attractive right now, and for some people it is. But many homeowners sign 20-year PPA agreements without reading what happens when they sell the house. The contract transfers to the buyer, and that can complicate your sale. Get a real estate attorney to look at that paperwork before you sign.
 
 ## What 86% Growth Actually Looks Like on the Ground
 
 The overall U.S. battery storage market, all segments combined, hit a record 3.3 GW and 8.4 GWh installed in Q1 2026, up 54% over the prior Q1 record, per the same ACP and Wood Mackenzie monitor. Residential was the fastest-growing piece of that. According to the SEIA's Q2 2026 Market Insight Report, nearly 50% of all new residential solar installations in Q1 2026 were paired with a battery system, compared to well under 20% just a few years ago.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Residential battery storage growth (GWh installed, Q1)</div><div class="sc-row"><span class="sc-label">Q1 2024</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">0.3 GWh</span></div><div class="sc-row"><span class="sc-label">Q1 2025</span><span class="sc-track"><span class="sc-bar" style="width:54%"></span></span><span class="sc-val">0.7 GWh</span></div><div class="sc-row"><span class="sc-label">Q1 2026</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">1.3 GWh</span></div><div class="sc-src">Source: ACP + Wood Mackenzie U.S. Energy Storage Monitor, June 2026</div></div>
-
 
 That 50% attach rate is the number that should stick with you. It means the industry has fundamentally shifted its sales model. Batteries aren't the add-on anymore. For new installs, they're increasingly the default.
 

@@ -14,7 +14,7 @@ slug: "solar-panel-cracked-what-to-do"
 affiliate_disclosure: true
 lastmod: 2026-07-08
 ---
-A cracked solar panel is one of those things that looks worse than it sometimes is, and also sometimes way worse than it looks. I've seen both.
+A cracked solar panel is one of those things that looks worse than it sometimes is, and also sometimes way worse than it looks.
 
 The call I get most often goes something like this: homeowner goes up on the roof to clean their panels (or, more often, their kid throws a baseball, a hailstorm rolls through, or a roofer drops something), and now there's a visible crack running across one of the cells. The immediate panic is understandable. These things cost money. But before you call your installer in a spiral, there are a few things you need to check first, because the right response depends entirely on what kind of crack you're dealing with.
 
@@ -34,13 +34,11 @@ There are three basic scenarios:
 
 **Visible cell cracks** are the ones homeowners actually call me about. You can see them: a line or spider-web pattern across one or more cells beneath the glass. The glass itself may still be intact. If that's the case, the panel might still be producing power, but it's compromised. Rain, thermal expansion, and UV exposure will make it worse.
 
-**Shattered or breached glass** is the urgent one. If the tempered outer glass is broken through, that panel needs to come offline. Full stop. Water intrusion into the laminate leads to delamination, internal arcing, and in bad cases, fire. I've seen an insurance adjuster's photos from a roof fire traced back to a cracked panel that the homeowner decided to "monitor for a while." Don't do that.
+**Shattered or breached glass** is the urgent one. If the tempered outer glass is broken through, that panel needs to come offline. Full stop. Water intrusion into the laminate leads to delamination, internal arcing, and in bad cases, fire. A cracked panel left unrepaired can lead to internal arcing and potentially fire. Don't put off repair.
 
 ## How to Check Output Without Climbing on the Roof
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where a [home energy monitor](/solar-inverter-troubleshooting-guide/) earns its keep. If you have a system with module-level monitoring (Enphase microinverters or SolarEdge optimizers give you per-panel data), go check your app right now. A cracked panel will show reduced output relative to its neighbors, often 10-30% lower on a clear day.
 
@@ -51,8 +49,6 @@ If you want to do a quick sanity check yourself, a [home energy monitor like the
 Worked example: A homeowner in Phoenix contacted me after [hail in April](/hail-damage-solar-panels-insurance-claim/). One panel had a visible crack across two cells, glass intact. His Enphase app showed that panel producing 22% less than the adjacent panels on a 78-degree clear morning. After replacement, his system output recovered exactly that delta. Total cost: one panel at $310 plus $180 labor.
 
 ## Do Not Do This
-
-I want to be direct here because I've watched people make these mistakes, including, honestly, myself early on.
 
 Don't seal a cracked panel with caulk, epoxy, tape, or any DIY patch. I understand the impulse. It looks like it should work. It doesn't. The glass isn't the structural issue, the cell degradation underneath is, and you've now potentially trapped moisture inside the laminate and voided any remaining warranty in one move. I tried a "temporary" silicone seal on a cracked test panel about eight years ago just to see. Within two months, the cell beneath had developed black spots from moisture intrusion. The panel was dead.
 

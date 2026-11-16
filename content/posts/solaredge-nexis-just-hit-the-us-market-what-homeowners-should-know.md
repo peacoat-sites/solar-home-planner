@@ -14,13 +14,11 @@ slug: "solaredge-nexis-just-hit-the-us-market-what-homeowners-should-know"
 affiliate_disclosure: true
 ---
 
-SolarEdge opened nationwide U.S. orders for its Nexis residential solar-plus-storage platform on July 13, 2026, and if you've been sitting on a solar decision since the federal 30% Investment Tax Credit expired, this launch is worth your full attention. I've watched homeowners delay installations for months waiting for "the next big thing," and I usually tell them to stop waiting. This time, though, the timing actually matters. The ITC is gone, your [payback period](/solar-payback-period-without-the-federal-tax-credit/) just got longer, and the hardware you choose now has to work harder to justify itself. Nexis is entering the market at exactly that inflection point.
+SolarEdge opened nationwide U.S. orders for its Nexis residential solar-plus-storage platform on July 13, 2026, and if you've been sitting on a solar decision since the federal 30% Investment Tax Credit expired, this launch is worth your full attention. Many homeowners delay installations for months waiting for "the next big thing." This time, though, the timing actually matters. The ITC is gone, your [payback period](/solar-payback-period-without-the-federal-tax-credit/) just got longer, and the hardware you choose now has to work harder to justify itself. Nexis is entering the market at exactly that inflection point.
 
 The platform debuted in Germany back in March 2026, where it generated record order volumes and was deployed in over 2,000 installations before SolarEdge ever announced a single U.S. [zip code](/solar-panel-angle-calculator-by-zip-code/). That's not a paper launch. By the time SolarEdge held its "Takeover Day" livestream on July 15 from its Milpitas, California headquarters, the product already had a real-world track record in a market with demanding grid codes and professional installers who don't tolerate flaky equipment.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">SolarEdge opened U.S. orders for Nexis on July 13, 2026, after 2,000+ installs in Germany.</li><li style="margin:5px 0">Modular LFP battery scales from 5 kWh to 80 kWh with no wiring between modules.</li><li style="margin:5px 0">Inverter delivers 13 kW grid-tied and 14.5 kW in backup/off-grid mode.</li><li style="margin:5px 0">The IslandDER adapter can eliminate a backup loads panel, saving $1,500–$4,000.</li><li style="margin:5px 0">U.S. manufacturing positions Nexis to meet 2026 FEOC domestic-content requirements.</li></ul></div>
-
 
 ## What the "LEGO-like" Battery Actually Means for Installation
 
@@ -31,8 +29,6 @@ I've personally spent three-plus hours on some battery installs just managing ca
 ## The Tax Credit Reality and How It Changes Your Math
 
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's the part nobody wants to hear plainly. The 30% federal residential clean energy credit is gone. It expired at the end of 2025, and the One Big Beautiful Bill that passed in 2026 did not restore it for residential customers. That means a $30,000 solar-plus-storage system that cost you effectively $21,000 last year now costs $30,000. Full stop. A lot of homeowners are still quoting old payback math in their heads, and contractors aren't always rushing to correct them.
 

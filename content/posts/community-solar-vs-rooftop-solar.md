@@ -59,11 +59,11 @@ If you own your home, plan to stay there at least 7-10 years, have an unshaded s
 
 Here's why: once you've paid off the system, you're generating electricity at close to zero marginal cost. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has done extensive levelized cost of energy (LCOE) modeling showing that residential rooftop systems, over their full lifetime, produce energy at roughly $0.06 to $0.10 per kWh once you account for the ITC and net metering. Your utility is probably charging you $0.12 to $0.18 per kWh right now, and that number trends upward over time.
 
-That spread compounds hard. A homeowner who installs a well-sized system today, uses net metering, and stays in the house for 20 years can realistically see $40,000 to $60,000 in cumulative utility bill savings, depending on their market and usage. That's what I've seen in post-install reviews for systems I've had a hand in.
+That spread compounds hard. A homeowner who installs a well-sized system today, uses net metering, and stays in the house for 20 years can realistically see $40,000 to $60,000 in cumulative utility bill savings, depending on their market and usage.
 
 But here's what surprised me: rooftop pencils out worse than that math suggests far more often than anyone admits. Because the math assumes a roof in good condition (not needing replacement in the next 5 years), enough usable unshaded roof space for the system you actually need, a utility with fair net metering policy, and you staying put. When those assumptions fail, rooftop's advantages erode fast.
 
-I've seen people put solar on a 15-year-old roof, pull it all off two years later for a re-roof, pay $2,500 to $4,500 for the panel removal and reinstallation, and completely blow their payback calculation. That's a real thing that happens. Most installers won't volunteer the information.
+A homeowner might install solar on an aging roof, then need to remove and reinstall the panels a few years later for a re-roof. Removal and reinstallation costs typically run $2,500 to $4,500 and can significantly extend payback timelines. Most installers won't volunteer the information.
 
 ## The Case for Community Solar
 
@@ -77,7 +77,7 @@ For renters, obviously, it's the only real option short of asking a landlord to 
 
 The savings are real but modest, typically $100 to $300 annually on a standard residential subscription. That's not $40,000 over 20 years. It's also not nothing, and the risk profile is totally different. If you move, you typically cancel or transfer the subscription. If your roof develops a leak near a penetration point, it's not your problem.
 
-One thing to watch carefully with community subscriptions: contract length and termination terms. Some projects lock you in for 20 years with steep early termination fees. I've seen $1,500 to $3,000 penalties buried in the fine print. Read that contract looking for bad news, because sometimes it's there.
+One thing to watch carefully with community subscriptions: contract length and termination terms. Some projects lock you in for 20 years with steep early termination fees. Early termination penalties can range from $1,500 to $3,000 and may be buried in the fine print. Read that contract looking for bad news, because sometimes it's there.
 
 ## The Net Metering Variable Nobody Talks About Enough
 
@@ -87,7 +87,7 @@ Net metering policy varies wildly by state and utility. In California, NEM 3.0 d
 
 Why does this matter? Because community solar projects typically sell you energy at a fixed discount to retail rate, regardless of what your utility's net metering policy looks like. If your utility has weakened or eliminated net metering for new customers, community solar can actually outperform a rooftop system on a 10-year financial basis. The community project's economics aren't depending on retail-rate net metering to make the math work.
 
-I didn't expect that when I started looking at this more carefully. It's one of those cases where the "inferior" product is better suited to a specific regulatory environment.
+Community solar can be better suited to specific regulatory environments, making it the practical choice even when rooftop systems might seem superior on paper.
 
 ## Making the Decision: A Practical Framework
 
@@ -110,7 +110,6 @@ The honest answer is there's no universal winner. What surprised me most is how 
 - [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [Amazon](https://amzn.to/3example)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -31,9 +31,7 @@ I learned this the hard way watching a homeowner in Tucson redo three days of wo
 
 If you're planning a DIY solar install, this is where I'd focus your energy first. The racking and mounting system is the backbone of everything, and it's also where most first-timers underestimate the complexity. Let me walk you through what actually matters.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Incorrect lag bolt placement into rafters is the #1 cause of failed solar inspections on DIY installs.</li><li style="margin:5px 0">Roof mounts must hit rafters, not just sheathing, 1.5" minimum embedment into rafter wood is standard, and 2.5" is better.</li><li style="margin:5px 0">A typical DIY mounting system (racking, flashing, hardware) runs $800–$1,400 for a 6kW system before panels.</li><li style="margin:5px 0">Most jurisdictions require a structural letter or engineer stamp on your racking plan, budget $150–$400 for that.</li><li style="margin:5px 0">DIY labor savings on a 6kW install average $4,000–$7,000 compared to full contractor pricing.</li></ul></div>
-
 
 ## Why the Roof Attachment Is Everything
 
@@ -41,21 +39,17 @@ Here's what most people don't realize: the panels themselves are relatively forg
 
 The National Renewable Energy Laboratory (NREL) has documented that structural failures in residential solar are almost always at the roof penetration points, not in the panels or inverters. That's because a standard asphalt-shingle roof was engineered for a specific load, and adding 3–4 pounds per square foot of [solar panels](/do-solar-panels-need-maintenance/) (typical for residential systems) requires that load to transfer cleanly into the rafters, not just the decking.
 
-Before you buy a single piece of racking hardware, you need to find your rafters. Not estimate them. Find them. Use a reliable stud finder (I've had good luck with the [Zircon MultiScanner i520](https://www.amazon.com/s?k=Zircon+MultiScanner+i520) -- Amazon affiliate link, site may earn a commission), then verify with a small nail poke at the eave line where the rafter tails are exposed. Write down the actual spacing. Most homes are 24" on center, but I've seen 16" and even some older construction at irregular spacing. Your racking plan depends on this number.
+Before you buy a single piece of racking hardware, you need to find your rafters. Not estimate them. Find them. Use a reliable stud finder like the [Zircon MultiScanner i520](https://www.amazon.com/s?k=Zircon+MultiScanner+i520) (Amazon affiliate link, site may earn a commission), then verify with a small nail poke at the eave line where the rafter tails are exposed. Write down the actual spacing. Most homes are 24" on center, though some have 16" spacing or irregular spacing in older construction. Your racking plan depends on this number.
 
 ## Choosing the Right Racking System
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 There are three dominant racking systems for residential asphalt-shingle roofs: IronRidge XR100, Unirac SolarMount, and Renogy's mounting hardware for smaller DIY arrays. Each works, but they're not interchangeable in terms of what skill level they assume.
-
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical DIY Racking System Cost for 6kW Array (2026)</div><div class="sc-row"><span class="sc-label">IronRidge XR100</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,150</span></div><div class="sc-row"><span class="sc-label">Unirac SolarMount</span><span class="sc-track"><span class="sc-bar" style="width:85%"></span></span><span class="sc-val">$980</span></div><div class="sc-row"><span class="sc-label">Renogy DIY Kit</span><span class="sc-track"><span class="sc-bar" style="width:54%"></span></span><span class="sc-val">$620</span></div><div class="sc-row"><span class="sc-label">Ecofasten Rock-It</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">$870</span></div><div class="sc-src">Source: Manufacturer pricing and installer quotes, August 2026</div></div>
 
-
-IronRidge is what most professional installers use. The XR100 rail system is over-engineered in the best way possible, and their [design software](/solar-system-design-software-free/) (called Aurora or their own Design Assistant) will actually generate a racking plan with engineered specs for your specific location's wind and snow loads. That plan is often what your building department wants to see. I've used IronRidge on probably 30+ residential jobs and the hardware tolerances are tight. Nothing wiggles.
+IronRidge is what most professional installers use. The XR100 rail system is over-engineered in the best way possible, and their [design software](/solar-system-design-software-free/) (called Aurora or their own Design Assistant) will actually generate a racking plan with engineered specs for your specific location's wind and snow loads. That plan is often what your building department wants to see. The hardware tolerances are tight and reliable.
 
 Renogy's kit is more approachable if you're doing a small array (4–6 panels) and your jurisdiction has a simpler permit process. I wouldn't put a 20-panel system on Renogy hardware, but for a 400-watt off-grid garage setup, it's fine.
 
@@ -77,13 +71,13 @@ This is the part where I'll be specific, because vague advice on roof penetratio
 
 **Step 2: Lay out your L-foot or standoff locations on paper first.** Your racking manufacturer's span tables will tell you how far apart your attachments can be. For IronRidge XR100 with most 60-cell panels, you're looking at a maximum 48" rail cantilever and a maximum 72" span between feet. Work backwards from those numbers to confirm your rafter spacing lines up. If it doesn't, you adjust panel layout, not the rafter spacing (that's not an option).
 
-**Step 3: Install flashing before L-feet, not after.** This is the one that gets skipped. The correct sequence is: remove the shingle above your penetration point, slide the flashing (a StealthMount or a standard DeckMount flashing) up under the shingle, then install your L-foot bolt through the flashing into the rafter. The shingle lays back down over the top of the flashing. No exposed hole, no sealant as your only waterproofing. I've seen installs where the only thing keeping water out was a tube of Geocel 2315. That will fail.
+**Step 3: Install flashing before L-feet, not after.** This is the one that gets skipped. The correct sequence is: remove the shingle above your penetration point, slide the flashing (a StealthMount or a standard DeckMount flashing) up under the shingle, then install your L-foot bolt through the flashing into the rafter. The shingle lays back down over the top of the flashing. No exposed hole, no sealant as your only waterproofing. Relying on sealant alone as the only waterproofing will eventually fail.
 
 **Step 4: Lag bolts into rafters.** Minimum 5/16" diameter structural lag screw, minimum 1.5" embedment into the rafter itself (not the sheathing). I use 3" lags, which gives me about 2" of embedment after passing through sheathing, which is comfortable. Pre-drill with a 3/16" bit to avoid splitting. Torque to 16–18 ft-lbs. Don't eyeball this, use a torque wrench.
 
 **Step 5: Rail installation.** Rails attach to L-feet with T-bolts. Set them, level them across the array, then snug the bolts. Don't fully tighten until all rails are laid out, small adjustments matter. A 1" error in rail height at one end becomes a 1" shim problem for every panel.
 
-**Step 6: Panel clamps.** End clamps on the outer panels, mid clamps between them. Standard torque for most aluminum racking mid-clamps is 8–10 ft-lbs. Under-torqued clamps have let panels slide in high winds. I've seen it.
+**Step 6: Panel clamps.** End clamps on the outer panels, mid clamps between them. Standard torque for most aluminum racking mid-clamps is 8–10 ft-lbs. Under-torqued clamps can let panels slide in high winds.
 
 Worked example: A homeowner in Phoenix installed a 7.2kW array (18 x 400W panels) using IronRidge XR100 on a standard 4/12-pitch shingle roof. Rafter spacing was 24" on center, array footprint was 35 feet wide by 10 feet tall. Total racking hardware: $1,180. Structural letter from an engineer (required by Maricopa County): $220. Total mounting labor (himself plus one helper, two weekends): 26 hours. He passed inspection first try.
 
@@ -103,7 +97,7 @@ One thing I didn't know my first time through this: most building departments wi
 
 Let me give you two more concrete scenarios because I think they're instructive.
 
-Scenario 1: A reader emailed me last spring after his array developed a leak two years post-install. He'd used sealant-only penetrations (no flashing), which held fine in year one but failed when a small tree branch disturbed one of the L-feet during a storm. The repair required removing four panels, pulling the L-feet, properly installing flashing, and reinstalling. Cost: $900 in labor because he couldn't get back on the roof safely alone. If the flashing had gone in correctly the first time, the storm would have been a non-event.
+For example, an array using sealant-only penetrations (no flashing) might hold fine initially but could fail when an L-foot is disturbed during a storm. Repairing such a leak requires removing multiple panels, pulling the L-feet, properly installing flashing, and reinstalling everything - an expensive fix that proper installation would have prevented.
 
 Scenario 2: A 10kW array installed on a 3/12-pitch roof in central Ohio, using Unirac rails. The installer (DIY) didn't account for snow load in his span calculations and used 84" spans between attachment points. After a 14-inch snowfall, two rails deflected enough to shift panel alignment. Nothing fell, but it failed a reinspection. He had to add four additional L-foot attachment points mid-array. Painful, slow, expensive. Unirac's span tables for that region at that pitch called for 60" max spacing under Ohio snow loads. The table was in the installation manual.
 
@@ -116,7 +110,6 @@ Scenario 2: A 10kW array installed on a 3/12-pitch roof in central Ohio, using U
 - [Unirac SolarMount Installation Manual](https://www.unirac.com/): Span tables, attachment torque specs, and load ratings for residential arrays.
 
 ---
-
 
 *Photo: [Lena Netkach](https://www.pexels.com/@lena-netkach-395486) via Pexels*
 

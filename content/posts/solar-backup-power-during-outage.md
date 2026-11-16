@@ -35,7 +35,7 @@ The culprit is something called anti-islanding protection, and it's not a bug. I
 
 Standard grid-tied solar systems, which represent the overwhelming majority of residential installations, use a string inverter or microinverters connected directly to the utility grid. No grid signal, no power output. Your panels could be soaking up every photon of a perfect June afternoon and your house is still dark.
 
-What surprised me when I started digging into this was how many homeowners I spoke with had no idea this was the case. They paid $25,000 for a solar system and genuinely believed they had backup power. They didn't. They had a grid-tied system that offsets their electricity bill beautifully and produces exactly zero watts during a blackout.
+A common misconception is that a grid-tied solar system provides backup power during blackouts. In reality, grid-tied systems offset your electricity bill but produce zero watts when the grid goes down. Many homeowners discover this only after investing $25,000 or more in a system.
 
 The fix is battery storage, or a specific type of inverter configuration. Let's talk about both.
 
@@ -92,7 +92,7 @@ Where it breaks down: cloud cover days, high heat loads, or an array that's unde
 
 ## The Permit and Utility Side Nobody Warns You About
 
-Adding battery storage to an existing solar system is almost never plug-and-play, and I've seen homeowners get blindsided by this. In most jurisdictions, adding a battery to an existing permitted solar system requires a new permit and inspection. The utility often needs to be notified, and in some cases they require an updated interconnection agreement.
+Adding battery storage to an existing solar system is almost never plug-and-play. In most jurisdictions, adding a battery to an existing permitted solar system requires a new permit and inspection. The utility often needs to be notified, and in some cases they require an updated interconnection agreement.
 
 If you're adding a generator to the mix, your jurisdiction may require a transfer switch or the equivalent functionality that your hybrid inverter provides, documented clearly in the permit drawings. Don't skip this step. An unpermitted battery system may not be covered by your homeowner's insurance if something goes wrong, and some utilities reserve the right to disconnect systems that weren't properly interconnected.
 
@@ -124,7 +124,6 @@ Solar backup power is one of those topics where the gap between what people expe
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

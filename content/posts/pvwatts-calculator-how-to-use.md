@@ -31,9 +31,7 @@ That's a mistake I've watched cost people real money. A reader emailed me last s
 
 Here's what you actually need to know to use this tool correctly.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">PVWatts is NREL's free, publicly available solar production calculator used by utilities and installers, not just homeowners.</li><li style="margin:5px 0">A south-facing roof at a tilt equal to your latitude is the baseline; every degree of deviation costs you measurable output.</li><li style="margin:5px 0">The default DC-to-AC derate factor (0.86) is reasonable for new systems but may be too optimistic for systems over 8-10 years old.</li><li style="margin:5px 0">PVWatts uses 30-year average weather data (TMY3 or TMY4), so a single bad weather year won't tank your estimate.</li><li style="margin:5px 0">Always run PVWatts before accepting a contractor's production guarantee; discrepancies over 10% deserve an explanation.</li></ul></div>
-
 
 ## What PVWatts Actually Does (and Doesn't Do)
 
@@ -47,9 +45,7 @@ It also doesn't model battery storage. If you're sizing a system for self-consum
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Go to pvwatts.nrel.gov. You'll see a map and an address bar. Type in your exact street address. This matters: PVWatts pulls the nearest TMY weather station and your exact roof coordinates. I've seen estimates differ by 4-6% just from entering a ZIP code versus the actual street address, especially in hilly areas where nearby stations vary.
+Go to pvwatts.nrel.gov. You'll see a map and an address bar. Type in your exact street address. This matters: PVWatts pulls the nearest TMY weather station and your exact roof coordinates. Estimates can differ by 4-6% between using a ZIP code and entering the actual street address, especially in hilly areas where nearby weather stations vary.
 
 **Step 1: Confirm your weather station.** After you enter your address, PVWatts shows you which weather data station it's using and your annual average solar resource in kWh/m²/day. For context, Phoenix, AZ runs around 5.5-6.0. Seattle hovers closer to 3.7-4.0. Boston lands around 4.3. If your station looks wildly off (like it's pulling data from 60 miles away in a different climate zone), click "Change weather data source" and select a closer option if one's available.
 
@@ -70,9 +66,7 @@ Go to pvwatts.nrel.gov. You'll see a map and an address bar. Type in your exact 
 
 Azimuth and tilt have more impact than most salespeople admit. NREL's own modeling data shows that a south-facing array at latitude tilt is roughly the optimum. Deviating 45° east or west (facing southeast or southwest) costs you 5-8% annual production. Deviating 90° (full east or west) costs 15-20%. A flat roof (0° tilt) in a northern climate like Chicago or Minneapolis loses 10-15% compared to the latitude-optimized tilt.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Annual production loss by azimuth deviation (Chicago, IL, 10kW system)</div><div class="sc-row"><span class="sc-label">Due South (baseline)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0 kWh/year</span></div><div class="sc-row"><span class="sc-label">SE or SW (45° off)</span><span class="sc-track"><span class="sc-bar" style="width:31%"></span></span><span class="sc-val">1,050 kWh/year</span></div><div class="sc-row"><span class="sc-label">East or West (90° off)</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">2,100 kWh/year</span></div><div class="sc-row"><span class="sc-label">North-facing (180° off)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">3,400 kWh/year</span></div><div class="sc-src">Source: NREL PVWatts modeling, 2026</div></div>
-
 
 The real surprise is how much temperature matters. High-efficiency panels like the REC Alpha 430W have a lower temperature coefficient (-0.26%/°C) than generic poly panels (-0.40%/°C). In Phoenix summers where rooftop temps regularly exceed 65°C, that difference adds up to 200-400 kWh annually on a mid-sized system, worth $40-80 at typical Arizona rates. PVWatts handles this automatically based on module type selection, which is why choosing "Premium" for high-efficiency panels isn't just flattery.
 
@@ -95,8 +89,6 @@ That spread between best-case and worst-case is 3,100 kWh per year. At $0.14/kWh
 The DC-to-AC derate factor is PVWatts' shorthand for all the real-world losses between what your panels produce and what your meter sees. NREL provides a component-by-component breakdown tool in the "Advanced" losses section if you want to get specific.
 
 The default 14.08% assumes new equipment with no degradation. But panels degrade roughly 0.5% per year (the [Solar Energy Industries Association (SEIA)](https://www.seia.org/) cites this as the industry-accepted baseline for tier-1 manufacturers). By year 10, your system is running at about 95% of original capacity, which translates to roughly 0.5 percentage points of additional annual loss. For a 10-year payback period calculation, ignoring degradation overstates your lifetime production by about 3%.
-
-I made this mistake myself on my own home system sizing back when I first transitioned out of electrical contracting. Ran PVWatts with default losses, calculated a tidy 7.2-year payback, bought the system. The payback is closer to 8.1 years after accounting for actual degradation and two years of slightly below-TMY weather. Not catastrophic, but I'd have done it anyway knowing the real number.
 
 The lesson: use default losses for comparing systems or auditing a contractor's quote, but for your own financial modeling, add 1-2% to system losses to stay conservative.
 
@@ -121,7 +113,6 @@ If you want to go deeper on the installation side of things, NREL's own [PVWatts
 - NREL, Typical Meteorological Year (TMY) Data documentation: Explains how the 30-year weather averages used in PVWatts are constructed and their regional limitations
 
 ---
-
 
 *Photo: [Trinh Trần](https://www.pexels.com/@trinh-tr-n-191284110) via Pexels*
 

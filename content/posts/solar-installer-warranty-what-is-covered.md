@@ -31,9 +31,7 @@ I'll be honest: when I got into solar installation after 12 years doing resident
 
 This is the breakdown I wish I'd had before I installed my first system.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Solar systems come with 3 to 5 separate warranties from different parties, not one.</li><li style="margin:5px 0">Panel performance warranties typically guarantee 80% output at 25 years, but degradation claims are hard to prove without monitoring data.</li><li style="margin:5px 0">Workmanship warranties from installers average 5-10 years, but some budget contractors offer as little as 1 year.</li><li style="margin:5px 0">If your installer goes out of business, their workmanship warranty is often unenforceable without a third-party bond.</li><li style="margin:5px 0">Equipment warranties from manufacturers remain valid even if your installer folds, as long as you registered the equipment.</li></ul></div>
-
 
 ## The Five Warranties You Actually Have
 
@@ -55,8 +53,6 @@ The panel product warranty and panel performance warranty are two entirely diffe
 
 > **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where I see the most confusion, and where I made my own mistake early on.
 
 When a panel manufacturer says they guarantee 80% output at year 25, they mean relative to the panel's rated wattage, not your bill. So a 400W panel is warrantied to produce at least 320W after 25 years. The catch: how do you prove it's underperforming? You need historical production data, ideally from a home energy monitor that's been logging continuously. Without that data, it's almost impossible to make a performance claim stick.
@@ -65,9 +61,7 @@ The National Renewable Energy Laboratory has published data showing average [pan
 
 A home energy monitor like the [Emporia Vue or similar whole-home monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) (the site may earn a commission on purchases through this link) is one of the smartest $150 investments you can make alongside a solar install, specifically because it creates the paper trail that makes warranty claims provable.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical installer workmanship warranty length by company tier</div><div class="sc-row"><span class="sc-label">Budget/discount installers</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">2 years</span></div><div class="sc-row"><span class="sc-label">Mid-tier regional</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">5 years</span></div><div class="sc-row"><span class="sc-label">Major national companies</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">10 years</span></div><div class="sc-row"><span class="sc-label">Premium full-service</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">12 years</span></div><div class="sc-src">Source: SEIA installer survey 2025</div></div>
-
 
 ## The Workmanship Warranty Problem Nobody Talks About
 
@@ -75,7 +69,7 @@ Here's where the real money is at risk. Panel manufacturers are large, establish
 
 The Solar Energy Industries Association has tracked installer business closures for years, and the pattern is consistent: companies enter the market during boom cycles and disappear when incentives shift or interest rates climb. What surprised me when I dug into this was the cascade effect. When an installer closes, their workmanship warranty typically becomes unenforceable. There's no parent company to honor it.
 
-Some worked examples from situations I've seen or consulted on:
+Some worked examples:
 
 Homeowner in Phoenix, 2023, used a regional installer with a 10-year workmanship warranty. Installer filed for bankruptcy 14 months later. Roof penetration started leaking in year 3. Because there was no surety bond requirement in that state, the homeowner paid $1,847 in roof repairs out of pocket. The equipment warranties from LG and Enphase were perfectly valid and would have covered electronics, but the roof leak was labor-only, and that warranty was gone.
 
@@ -114,7 +108,6 @@ The third question separates real full-service companies from ones that will lea
 - California Contractors State License Board (CSLB): Bond requirements and license verification for California solar contractors.
 
 ---
-
 
 *Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*
 

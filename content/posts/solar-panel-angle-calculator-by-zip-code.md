@@ -37,19 +37,17 @@ The shorthand that's been floating around the solar industry for decades is "set
 
 NREL's PVWatts Calculator, which the [National Renewable Energy Laboratory](https://www.nrel.gov/) has been refining since 2014, shows that the true optimal annual tilt angle runs about 1-3° lower than latitude for most U.S. locations. The reason is atmospheric: more solar radiation reaches panels at lower angles during summer's long days than the latitude rule assumes, which nudges the true optimum slightly downward. For someone in Denver (latitude 39.7°), the difference between 40° and 37° tilt might be 2-3% in annual production. Small, but real.
 
-I made the latitude-equals-tilt mistake on my second consulting job, a 12-panel system on a garage in Albuquerque. We set the mounts at 35° to match the latitude. When I ran it through PVWatts afterward out of curiosity, 32° would've captured about 1.8% more annual output. On a 5.4kW system in a high-sun market, that's roughly 90 kWh per year, or about $13 at New Mexico's average residential rate. Doesn't sound catastrophic, but it's free money left on the table because of a rule of thumb.
+A common mistake is setting mounts at latitude to match a rule of thumb. For example, a 5.4kW system in a high-sun market like Albuquerque set at 35° latitude might capture about 1.8% less annual output than the optimal 32° angle. That's roughly 90 kWh per year, or about $13 at New Mexico's average residential rate. It's free money left on the table because of a rule of thumb.
 
 ## How to Use a Solar Panel Angle Calculator by Zip Code
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 There are three tools worth your time. Everything else is either a lead-gen form dressed up as a calculator or a simplified version of one of these.
 
 **PVWatts Calculator (NREL):** The actual standard. Enter your zip code, it drops a pin on a weather station with TMY (Typical Meteorological Year) data, and you get optimal tilt, azimuth, and projected output for any panel configuration. It uses real irradiance data, not generic latitude math. Free. No account needed.
 
-**SolarEdge Designer / Aurora Solar:** These are contractor-facing tools that homeowners can request the output from. If an installer is using one of these, ask them to export the tilt sensitivity report. It'll show you a production curve across a range of tilt angles specific to your address. I've had installers look at me sideways when I ask for this, which tells you something.
+**SolarEdge Designer / Aurora Solar:** These are contractor-facing tools that homeowners can request the output from. If an installer is using one of these, ask them to export the tilt sensitivity report. It'll show you a production curve across a range of tilt angles specific to your address.
 
 **Global Solar Atlas (World Bank):** Less known for residential use, but genuinely excellent for verifying numbers and understanding seasonal variation. Useful if you're in a marginal climate and want a second opinion on annual yield estimates.
 
@@ -67,9 +65,7 @@ That gap is what you're deciding whether to close with tilt mounts or just accep
 
 This is where the generalized advice starts to fracture. A 15° non-optimal tilt penalty in Seattle (cloudy, diffuse light) costs you less in absolute kWh than the same penalty in Tucson (clear skies, high direct normal irradiance). Location-specific data matters enormously here.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Optimal fixed tilt angle by U.S. city</div><div class="sc-row"><span class="sc-label">Miami, FL</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">25 degrees</span></div><div class="sc-row"><span class="sc-label">Atlanta, GA</span><span class="sc-track"><span class="sc-bar" style="width:74%"></span></span><span class="sc-val">31 degrees</span></div><div class="sc-row"><span class="sc-label">Denver, CO</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">37 degrees</span></div><div class="sc-row"><span class="sc-label">Chicago, IL</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">40 degrees</span></div><div class="sc-row"><span class="sc-label">Seattle, WA</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">39 degrees</span></div><div class="sc-row"><span class="sc-label">Phoenix, AZ</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">33 degrees</span></div><div class="sc-row"><span class="sc-label">Minneapolis, MN</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">42 degrees</span></div><div class="sc-src">Source: NREL PVWatts TMY Data, 2026</div></div>
-
 
 A few things jump out when you look at these side by side. Seattle's optimal tilt (39°) runs higher than Phoenix (33°) even though Seattle is cloudier, because in a diffuse-light environment, steeper angles help shed rain and snow and capture low-angle winter sun. Phoenix tilts lower because its summer output is so strong it pulls the annual optimum toward a shallower summer-friendly angle.
 
@@ -120,7 +116,6 @@ The one exception is off-grid cabins and RV/tiny home installs where every kilow
 - Solar Energy Industries Association (SEIA), U.S. Solar Market Insight 2025/2026: Industry production and installation data used for system output benchmarks.
 
 ---
-
 
 ---
 

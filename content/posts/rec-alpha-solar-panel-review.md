@@ -39,17 +39,13 @@ The Alpha line uses heterojunction technology, or HJT. You might be wondering wh
 
 REC claims a first-year degradation of just 2% and an annual degradation of 0.25% afterward. To put that in perspective, standard monocrystalline PERC panels typically degrade at 0.45-0.55% per year. According to data from the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/), panel degradation rates have a compounding effect that can reduce a 25-year system's output by 12-15% more than the spec sheets imply. At 0.25%, the REC Alpha's degradation story is genuinely strong, not just marketing.
 
-The temperature coefficient is where I've seen installers get surprised. The Alpha series comes in at -0.24%/°C, compared to -0.35% to -0.40% for most standard mono panels. On a hot Texas roof hitting 65°C in August, that difference is real money over 20 years.
+The temperature coefficient is worth attention when comparing panels. The Alpha series comes in at -0.24%/°C, compared to -0.35% to -0.40% for most standard mono panels. On a hot Texas roof hitting 65°C in August, that difference is real money over 20 years.
 
 ## The Numbers That Matter for Your Roof
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Panel efficiency comparison (residential premium tier)</div><div class="sc-row"><span class="sc-label">REC Alpha 430W</span><span class="sc-track"><span class="sc-bar" style="width:98%"></span></span><span class="sc-val">22.3%</span></div><div class="sc-row"><span class="sc-label">SunPower Maxeon 6</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">22.8%</span></div><div class="sc-row"><span class="sc-label">Panasonic EverVolt HK</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">21.6%</span></div><div class="sc-row"><span class="sc-label">Jinko Tiger Neo</span><span class="sc-track"><span class="sc-bar" style="width:94%"></span></span><span class="sc-val">21.4%</span></div><div class="sc-row"><span class="sc-label">Canadian Solar HiHero</span><span class="sc-track"><span class="sc-bar" style="width:96%"></span></span><span class="sc-val">22%</span></div><div class="sc-src">Source: Manufacturer spec sheets, verified July 2026</div></div>
-
 
 Efficiency percentage is the figure that determines how much roof space you need. At 22.3% efficiency, the Alpha 430W produces more power per square foot than almost anything outside SunPower's own HJT line. That matters most when your usable roof area is limited, or when your HOA has restricted the number of panels visible from the street (a situation I run into constantly in certain Phoenix and San Diego neighborhoods).
 
@@ -81,7 +77,7 @@ A DIY-leaning homeowner in Colorado tried to source REC Alpha panels directly to
 
 The 25-year ProTrust warranty is legitimately one of the better ones in the residential market right now, but the terms have conditions worth knowing. The output guarantee promises 92% output after year one, and at least 86% of rated power after 25 years. Given the 0.25% annual degradation spec, they're actually promising less degradation than the spec sheet implies, which tells you they have confidence in the numbers.
 
-REC is a Norwegian company, now majority-owned by Reliance Industries. I've had people ask me whether that ownership structure is a concern for long-term warranty claims. Honestly, I don't have a definitive answer on that, and anyone who tells you with certainty that any solar manufacturer will be around in 25 years is guessing. What I can tell you is that REC has been manufacturing panels since 1996 and has a track record that compares favorably to many of the brands that do get pushed hard by commission-hungry sales reps.
+REC is a Norwegian company, now majority-owned by Reliance Industries. Some buyers worry about ownership structure and long-term warranty claims. No one can predict with certainty whether any solar manufacturer will be around in 25 years. REC has been manufacturing panels since 1996 and has a track record that compares favorably to many widely promoted brands.
 
 ## Red Flags When You're Getting Quotes
 
@@ -91,7 +87,7 @@ If the quote doesn't specify installer certification for the ProTrust warranty, 
 
 If the per-watt installed price is below $2.90 for the Alpha line, something's off. Either they're sourcing uncertified product, quoting older Alpha 1 inventory (there are still some floating around in distributor warehouses as of this year), or the margins are being cut somewhere else in the system design. I'm not saying it can't happen, but it should prompt questions.
 
-Also: pay attention to whether they're pairing the Alpha panels with a microinverter or optimizer system. The REC Alpha's strong low-light performance gets partially wasted if you're running a string inverter with no per-panel optimization on a roof that has any shading at all. I've seen installs where the panel choice was excellent and the inverter choice undermined the whole decision.
+Also: pay attention to whether they're pairing the Alpha panels with a microinverter or optimizer system. The REC Alpha's strong low-light performance gets partially wasted if you're running a string inverter with no per-panel optimization on a roof that has any shading at all. Poor inverter choices can undermine an otherwise excellent panel selection.
 
 ## Sources
 
@@ -102,7 +98,6 @@ Also: pay attention to whether they're pairing the Alpha panels with a microinve
 - Lawrence Berkeley National Laboratory "Tracking the Sun" Report: U.S. residential solar pricing and system configuration trends
 
 ---
-
 
 ---
 

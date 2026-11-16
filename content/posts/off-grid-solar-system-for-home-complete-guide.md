@@ -97,7 +97,7 @@ This converts DC power from your batteries into AC power your appliances use. Fo
 
 Off-grid doesn't mean unregulated. Most jurisdictions still require permits for solar installations, especially when the system powers a permitted dwelling. The National Electrical Code (NEC) applies, specifically Articles 690 for solar and 702 for optional standby systems.
 
-Here's what I've seen trip people up repeatedly: they assume that because they're not connecting to the utility, they don't need to involve their local building department. Wrong. If you're building a home or installing electrical systems in one, local code enforcement applies. A system installed without permits can create problems with your homeowner's insurance, your ability to sell the property, and in some cases, your Certificate of Occupancy.
+A common mistake is assuming that because you're not connecting to the utility, you don't need to involve your local building department. Wrong. If you're building a home or installing electrical systems in one, local code enforcement applies. A system installed without permits can create problems with your homeowner's insurance, your ability to sell the property, and in some cases, your Certificate of Occupancy.
 
 EnergySage's market data shows that permitted systems also tend to be better-installed systems, which isn't surprising. The permit process forces documentation of system design, and that documentation protects you.
 
@@ -150,7 +150,6 @@ Going off-grid isn't for everyone, and there's no shame in deciding that a grid-
 - [DIY solar installation guide](https://www.amazon.com/s?k=diy+solar+installation+guide+book&tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

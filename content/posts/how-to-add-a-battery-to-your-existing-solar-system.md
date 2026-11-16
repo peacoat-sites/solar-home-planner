@@ -31,13 +31,11 @@ Meanwhile, Lawrence Berkeley National Laboratory estimates that fewer than 10% o
 
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where most homeowners get confused, and understandably so. When you're retrofitting a battery onto an existing solar system, the fundamental question is whether your new battery talks to your existing system through AC wiring (AC-coupled) or bypasses your current inverter to connect directly on the DC side (DC-coupled).
 
 For the vast majority of retrofit situations, AC-coupled is the right answer. Here's why: your existing string inverter or microinverters stay in place. You're adding a new piece of equipment, not replacing the heart of your system. The battery has its own inverter built in, it connects to your main panel or a critical loads panel, and the two systems operate somewhat independently. Tesla Powerwall 3 and the [Enphase IQ Battery lineup](/enphase-iq9n-microinverter-what-gan-technology-means-for-your-roof/) are the most common retrofit products going this route, and installers are comfortable with them. The average installed cost for a 10 to 13.5 kWh AC-coupled retrofit runs $12,000 to $18,000 before state and local incentives, which is real money but a fraction of replacing your entire system.
 
-DC-coupled retrofits are more efficient in theory (you lose less energy in conversion steps) but they typically require replacing your existing inverter with a hybrid unit that can manage both the solar and the battery on the DC side. If your inverter is five years old and due for replacement anyway, this can make financial sense. If it was installed last year, you're throwing away working equipment for a marginal efficiency gain. I've seen homeowners get talked into DC-coupled retrofits they didn't need because the installer had a preferred hybrid inverter they wanted to sell. Ask directly: why are we replacing my existing inverter?
+DC-coupled retrofits are more efficient in theory (you lose less energy in conversion steps) but they typically require replacing your existing inverter with a hybrid unit that can manage both the solar and the battery on the DC side. If your inverter is five years old and due for replacement anyway, this can make financial sense. If it was installed last year, you're throwing away working equipment for a marginal efficiency gain. Some installers may recommend DC-coupled retrofits primarily because they have a preferred hybrid inverter to sell rather than because your setup actually needs one. Ask directly: why are we replacing my existing inverter?
 
 ## New Products Actually Built for Retrofit
 

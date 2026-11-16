@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Something that almost no one told me when I got into residential solar consulting: the rate your utility pays you for excess power matters as much as the panels themselves. I'll be honest, I assumed net metering was a settled thing. A law. A right. After spending most of my career doing electrical work and then making the shift into solar, I figured the policy framework was stable enough to plan around. I was wrong about that, and it's cost some of my clients real money.
+The rate your utility pays you for excess power matters as much as the panels themselves. Many people assume net metering is a settled policy, but the framework can shift and affect projected returns significantly. It's worth verifying the current export rate with your utility rather than assuming it matches the consumption rate you pay.
 
 Net metering changes are quietly dismantling the ROI math that sold millions of Americans on solar over the past decade. And the solar industry, for understandable business reasons, isn't exactly leading with that in their pitch meetings.
 
@@ -52,15 +52,13 @@ What surprised me was how quickly other states started watching California and t
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Let me work through what this actually means for a homeowner.
 
 **Scenario 1:** A homeowner in Sacramento installed 8 kW of panels in early 2022, under NEM 2.0. Annual production roughly 11,200 kWh. Household uses about 8,500 kWh, exports around 2,700 kWh. At the old retail export rate of ~$0.28/kWh, those exports were worth about $756 per year. Under NEM 3.0 rates, that same export earns maybe $135. That's a $620/year swing. On a 25-year system, that's over $15,000 in expected return just gone.
 
 **Scenario 2:** I worked with a couple in Phoenix who were comparing quotes in late 2025. Their utility, APS, had already moved to a demand-charge-based rate structure that penalizes solar households who don't have storage. Without a battery, their calculated payback period stretched from 9 years to over 14. With a Tesla Powerwall added (call it $12,000 installed), the payback dropped back to about 11 years. Annoying math. They bought the battery.
 
-**Scenario 3:** A reader in North Carolina emailed me this spring asking why her solar company's quote looked rosier than what her neighbor (who went solar two years prior) was actually experiencing. When I looked at the quote, the installer was using the current retail rate for both consumption offset and export credit. North Carolina's Duke Energy has a separate, lower export rate for new customers. The difference in projected 10-year savings was about $4,200. Not nothing.
+**Scenario 3:** In North Carolina, Duke Energy offers a separate, lower export rate for new customers compared to the retail rate. An installer might quote using the current retail rate for both consumption offset and export credit, inflating projected savings. This discrepancy can amount to approximately $4,200 over a 10-year period.
 
 ---
 
@@ -97,7 +95,6 @@ Third, check whether your state is in an active net metering proceeding. If it i
 - National Conference of State Legislatures: Ongoing tracking of state-level energy legislation including net metering reform proceedings
 
 ---
-
 
 ---
 

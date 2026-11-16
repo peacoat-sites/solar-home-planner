@@ -14,7 +14,7 @@ author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 lastmod: 2026-07-08
 ---
-Most homeowners sign a solar proposal they don't fully understand. I didn't either, and I was already a licensed electrician when I started reviewing them. The language is built to impress, not inform. That's deliberate.
+Most homeowners sign a solar proposal they don't fully understand. The language is built to impress, not inform. The language is built to impress, not inform. That's deliberate.
 
 Let's fix it.
 
@@ -65,7 +65,7 @@ Once you know the tool, run the numbers yourself or cross-check with PVWatts. Pl
 
 Check the **degradation assumption**. Solar panels lose output over time, typically 0.5% per year (good panels) to 0.8% per year (cheaper ones). A 25-year estimate that doesn't account for degradation overstates what you'll actually generate by year 20. Some proposals include this; many don't.
 
-A reader emailed me last month after signing a contract where the proposal showed 105% offset. Sounded great. The installer hadn't mentioned that the estimate assumed she'd buy a battery (not included in the quote) and that the offset calculation used only her summer bills, not her annual average. Her real offset would be closer to 78%. Different conversation entirely.
+Offset calculations can be misleading if they don't account for the full picture. For example, a proposal might show 105% offset by assuming a battery purchase (not included in the quote) and using only summer bills instead of annual average consumption. The actual offset could be significantly lower, like 78%. Always ask installers to clarify what assumptions go into their offset numbers and whether they're based on year-round usage.
 
 ## The Financial Page: Read Every Line
 
@@ -132,7 +132,6 @@ Take the proposal home. Give it two days. Run the PVWatts check, look up the pan
 - [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

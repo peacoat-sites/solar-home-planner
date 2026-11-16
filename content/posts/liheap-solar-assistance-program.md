@@ -31,9 +31,7 @@ LIHEAP (Low Income Home Energy Assistance Program) gets covered almost exclusive
 
 The practical question is whether your state and county have actually activated the solar pathway, because LIHEAP is a block grant: the federal government sends money, then states write the actual rules. Wide variation isn't a quirk of the system, it's the whole system.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">LIHEAP's solar assistance is real but state-dependent; roughly 17 states have active solar-linked programs as of 2026.</li><li style="margin:5px 0">Income eligibility is typically 150% of the federal poverty level, or 60% of your state's median income, whichever is higher.</li><li style="margin:5px 0">Average solar-related LIHEAP benefits range from $500 one-time equipment grants to $3,200 in states with robust weatherization crossover funding.</li><li style="margin:5px 0">Applications open on a rolling basis by county; waiting until winter often means the solar-specific funds are already spent.</li><li style="margin:5px 0">LIHEAP solar funds can stack with the 30% federal Residential Clean Energy Credit and state-level rebates.</li></ul></div>
-
 
 ## What LIHEAP Actually Covers (Solar Edition)
 
@@ -47,8 +45,6 @@ What doesn't get covered anywhere: labor-only contracts with no equipment compon
 
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The federal income floor is 150% of the Federal Poverty Level or 60% of your state's median income, whichever is higher. That's a meaningful distinction. In Massachusetts, 60% of state median income pushes the qualifying threshold to around $56,000 for a family of three, which is higher than 150% FPL would get you. Know which benchmark your state uses.
 
 Beyond income, states add their own filters for solar-specific benefits. Common ones:
@@ -58,7 +54,7 @@ Beyond income, states add their own filters for solar-specific benefits. Common 
 - Prior participation in energy efficiency audits through Weatherization Assistance Program (WAP)
 - Geographic targeting toward high energy-burden census tracts
 
-EnergySage's market data on solar adoption patterns by income bracket reinforces something I've seen firsthand when I've helped lower-income clients work through these programs: the administrative complexity itself creates a real access gap. The people who most need these programs are least likely to have four hours to spend cross-referencing state websites and waiting on hold. Which is why I always recommend starting with your local Community Action Agency rather than the state LIHEAP portal. CAA staff know the local funding calendar and can flag whether solar-specific allocations are still available.
+EnergySage's market data on solar adoption patterns by income bracket confirms that administrative complexity creates a real access gap. The people who most need these programs are least likely to have four hours to spend cross-referencing state websites and waiting on hold. Start with your local Community Action Agency rather than the state LIHEAP portal. CAA staff know the local funding calendar and can flag whether solar-specific allocations are still available.
 
 ## The Numbers: State Program Comparison
 
@@ -76,9 +72,7 @@ Here's what benefit levels look like across states with active solar-adjacent LI
 
 These are estimates based on current program documentation and intake worker reports. Not state-guaranteed caps. Actual awards depend on remaining fund allocation at the time of application, and these buckets go dry faster than anyone admits publicly.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Max LIHEAP solar-adjacent benefit by state (2026)</div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$3,200</span></div><div class="sc-row"><span class="sc-label">Colorado</span><span class="sc-track"><span class="sc-bar" style="width:78%"></span></span><span class="sc-val">$2,500</span></div><div class="sc-row"><span class="sc-label">New Mexico</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">$1,800</span></div><div class="sc-row"><span class="sc-label">Arizona</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">$1,200</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:28%"></span></span><span class="sc-val">$900</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:23%"></span></span><span class="sc-val">$750</span></div><div class="sc-row"><span class="sc-label">Georgia</span><span class="sc-track"><span class="sc-bar" style="width:16%"></span></span><span class="sc-val">$500</span></div><div class="sc-src">Source: State LIHEAP program documentation, July 2026</div></div>
-
 
 ## How to Actually Apply
 
@@ -117,7 +111,7 @@ LIHEAP solar funds attract a specific category of contractor that I've started c
 Red flags to watch for:
 
 - Contractor pushes you to apply for maximum grant before quoting you a system. The quote should come first.
-- Quote doesn't itemize equipment by model number. If they won't tell you the brand and spec of the panels and inverter, walk away. In my experience, legitimate installers name their equipment upfront: they'll say "SunPower Maxeon 6, 400W modules with an Enphase IQ8 microinverter," not just "high-quality panels."
+- Quote doesn't itemize equipment by model number. If they won't tell you the brand and spec of the panels and inverter, walk away. Legitimate installers name their equipment upfront: they'll specify "SunPower Maxeon 6, 400W modules with an Enphase IQ8 microinverter," not just "high-quality panels."
 - Contractor claims your LIHEAP grant covers a system that would otherwise be out of your price range with no explanation of how the economics work post-grant. This usually means the grant is just covering their margin, not reducing your real cost.
 - No mention of permits. Any grid-tied solar install requires a building permit and utility interconnection approval. If the contractor is suggesting otherwise to speed up a grant-tied install, that's a problem you'll own for decades.
 
@@ -132,7 +126,6 @@ A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=conte
 - HHS LIHEAP Clearinghouse State Program Reports (2025-2026): State-by-state benefit cap documentation and eligibility summaries
 
 ---
-
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

@@ -31,9 +31,7 @@ If you're living off-grid, or building a system right now, you've probably alrea
 
 I made this mistake myself on my first serious off-grid build. I bought a nice Victron MultiPlus and assumed the built-in reporting would be enough. It wasn't. I had no visibility into what my Renogy charge controller was doing independently, no way to correlate PV input with battery state of charge in real time, and zero historical data when my battery capacity started dropping mysteriously six months in. That gap cost me a battery bank, and about $1,200 I didn't need to spend.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Victron's GX devices (Cerbo GX, ~$189) are the gold standard for multi-source off-grid monitoring as of 2026.</li><li style="margin:5px 0">A shunt-based battery monitor (like the Victron BMV-712, ~$109) is non-negotiable for accurate state-of-charge readings.</li><li style="margin:5px 0">Free cloud platforms like Victron VRM give you historical data, alerts, and remote access without a subscription.</li><li style="margin:5px 0">Your inverter's built-in app is usually not enough, it misses PV input, load trends, and battery cycle counts.</li><li style="margin:5px 0">For systems under 2kW, a standalone monitor like the Renogy ONE Core (~$149) may be all you need.</li></ul></div>
-
 
 ## Why Off-Grid Monitoring Is Completely Different from Grid-Tied
 
@@ -47,8 +45,6 @@ One thing that trips up almost everyone: voltage is not the same as state of cha
 
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Let me give you the realistic field view here, because the marketing materials for all of these are pretty optimistic.
 
 **Victron VRM + Cerbo GX** is the ecosystem most serious off-grid installers use. The Cerbo GX (~$189) acts as a communication hub, pulling data from Victron components via VE.Can or VE.Direct and pushing it to the free Victron Remote Monitoring (VRM) portal. You get historical graphs, configurable alerts via email or SMS, remote inverter control, and a genuinely clean interface. The catch: it works best with an all-Victron system. You can add non-Victron devices, but it requires extra adapters and some patience.
@@ -59,9 +55,7 @@ Let me give you the realistic field view here, because the marketing materials f
 
 **Simarine PICO** is worth mentioning for boat and RV off-grid systems specifically. It's a beautiful tank and battery monitor that handles up to four battery banks. About $249. If you're monitoring a complex liveaboard or overlander build with multiple battery banks and freshwater tanks, it fills a niche nothing else does as cleanly.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Approximate retail price of common off-grid monitors (Aug 2026)</div><div class="sc-row"><span class="sc-label">Victron BMV-712</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">$109</span></div><div class="sc-row"><span class="sc-label">Victron Cerbo GX</span><span class="sc-track"><span class="sc-bar" style="width:57%"></span></span><span class="sc-val">$189</span></div><div class="sc-row"><span class="sc-label">Renogy ONE Core</span><span class="sc-track"><span class="sc-bar" style="width:45%"></span></span><span class="sc-val">$149</span></div><div class="sc-row"><span class="sc-label">Simarine PICO</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">$249</span></div><div class="sc-row"><span class="sc-label">Victron Color Control GX</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$329</span></div><div class="sc-src">Source: Amazon and manufacturer websites, August 2026</div></div>
-
 
 | Monitor | Best For | Connectivity | Cloud Access | Approx. Price |
 |---|---|---|---|---|
@@ -87,7 +81,7 @@ The Victron VRM platform (free for any Cerbo GX owner) handles this well. You ca
 
 The honest limitation: this all requires internet connectivity at the site. WiFi via hotspot, cellular router, or satellite (Starlink has made this dramatically more accessible for remote properties). If you have zero connectivity, you're looking at local-only options like the Color Control GX with its onboard screen, or a simple data logger with SD card export. Not ideal, but workable.
 
-For sites with cell service, a 4G router like the GL.iNet GL-X3000 (~$129) paired with a low-data SIM plan is a common and inexpensive solution. I've seen people run VRM monitoring fine on 1-2 GB/month of data.
+For sites with cell service, a 4G router like the GL.iNet GL-X3000 (~$129) paired with a low-data SIM plan is a common and inexpensive solution. VRM monitoring typically runs fine on 1-2 GB/month of data.
 
 ## A Note on DIY Data Logging
 
@@ -104,7 +98,6 @@ It's not for everyone. You need to be comfortable with a Linux command line, at 
 - [Victron BMV-712 Smart Manual](https://www.victronenergy.com/battery-monitors/bmv-712-smart): Technical specifications for shunt-based coulomb counting and Bluetooth integration
 
 ---
-
 
 *Photo: [Los Muertos Crew](https://www.pexels.com/@cristian-rojas) via Pexels*
 

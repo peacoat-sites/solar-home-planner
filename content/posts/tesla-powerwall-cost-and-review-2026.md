@@ -25,7 +25,7 @@ author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
 lastmod: 2026-07-08
 ---
-The Tesla Powerwall 3 starts at $9,200 before installation. That number gets quoted constantly. What rarely gets mentioned is that by the time a licensed electrician pulls the permit, runs conduit, installs a new load center or gateway, and the utility signs off on interconnection, you're realistically looking at $12,000 to $16,000 for a single unit in most U.S. markets. Sometimes more. I've seen quotes come in at $18,500 in California for a single Powerwall 3 with a modest panel system attached, and the homeowner thought the installer was ripping them off. He wasn't.
+The Tesla Powerwall 3 starts at $9,200 before installation. That number gets quoted constantly. What rarely gets mentioned is that by the time a licensed electrician pulls the permit, runs conduit, installs a new load center or gateway, and the utility signs off on interconnection, you're realistically looking at $12,000 to $16,000 for a single unit in most U.S. markets. Sometimes more. Installation costs can reach $18,500 in high-cost markets like California for a single Powerwall 3 with a modest panel system attached, even when the installer is pricing fairly.
 
 So let's talk about what you actually get, what it costs in 2026, whether it's worth it, and where Tesla's battery genuinely wins versus where competitors have quietly closed the gap.
 
@@ -99,7 +99,7 @@ Quotes that don't mention interconnection timeline. Some utility territories tak
 
 No load analysis before recommending units. An installer who suggests two Powerwalls for a 1,200 square foot home without checking your peak loads is upselling, not engineering.
 
-Get at least three quotes. EnergySage's marketplace is legitimately useful. I've seen homeowners save $2,000 to $4,000 on identical systems just by getting competitive bids.
+Get at least three quotes. EnergySage's marketplace is legitimately useful. Homeowners can save $2,000 to $4,000 on identical systems by getting competitive bids.
 
 ## Sources
 
@@ -107,7 +107,6 @@ Get at least three quotes. EnergySage's marketplace is legitimately useful. I've
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

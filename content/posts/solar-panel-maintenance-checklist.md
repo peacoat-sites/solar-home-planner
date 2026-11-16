@@ -25,7 +25,7 @@ author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
 lastmod: 2026-07-08
 ---
-Most homeowners go three or four years without touching their solar panels, then wonder why their production numbers have drifted down 12% and their installer won't return calls. I've seen it more times than I can count.
+Most homeowners go three or four years without touching their solar panels, then wonder why their production numbers have drifted down 12% and their installer won't return calls.
 
 The good news is that solar panels are genuinely low-maintenance. The bad news is that "low maintenance" has been used as a sales tool so often that people mistake it for "no maintenance," and that's where the money starts quietly disappearing.
 
@@ -72,13 +72,13 @@ Twice a year is the right cadence for most climates. I do mine in late spring (a
 
 In most of the country, rain does about 80% of the work for you. If you're in a low-tilt area (panels under 10 degrees of pitch), a dry climate like Phoenix or Albuquerque, or you're under a lot of trees, you'll need to supplement. Otherwise, a good rain and you're mostly fine.
 
-When you do clean, method matters. Use plain deionized or distilled water when possible. Tap water leaves mineral deposits (those white streaks) that accumulate over time. A soft brush or squeegee with a long handle beats a pressure washer every single time. Never use a pressure washer on solar panels. Water can force its way into junction boxes and frame seals, and you can crack cells if you're too close. I've seen warranty claims denied specifically because of pressure washer damage.
+When you do clean, method matters. Use plain deionized or distilled water when possible. Tap water leaves mineral deposits (those white streaks) that accumulate over time. A soft brush or squeegee with a long handle beats a pressure washer every single time. Never use a pressure washer on solar panels. Water can force its way into junction boxes and frame seals, and you can crack cells if you're too close. Warranty claims have been denied because of pressure washer damage.
 
 There are solid purpose-built cleaning kits worth having if you plan to DIY. [A solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) with an extension pole and soft-bristle brush runs about $30-60 on Amazon and makes the job way safer since you can reach panels from the edge of the roof or a ladder without stepping on them. (Full disclosure: the site may earn a small commission on that link.)
 
 Clean in the morning. Panels are cool, which matters because spraying cold water on hot glass can cause thermal shock and micro-cracking. Early morning means the surface hasn't had time to heat up, and you'll also see a production boost during a part of the day when the sun's actually working.
 
-Here's the thing most people miss: cleaning frequency has diminishing returns. EnergySage's market data on solar performance shows that in most U.S. climates, soiling losses average 1-7% annually, and you recover most of that with one or two targeted cleanings per year. You don't need to be out there every month with a brush.
+Cleaning frequency has diminishing returns. EnergySage's market data on solar performance shows that in most U.S. climates, soiling losses average 1-7% annually, and you recover most of that with one or two targeted cleanings per year. You don't need to be out there every month with a brush.
 
 ## The Monitoring Habit That Saves You Real Money
 
@@ -96,7 +96,7 @@ Anything involving your electrical connections at the inverter or combiner box g
 
 For systems more than 10 years old, a thermographic inspection is worth the cost. A technician uses an infrared camera to spot hot spots, failing bypass diodes, and early delamination signs you can't see with your eyes. Expect $150-400 depending on your system size and who you hire. You don't need it every year, but at the 10-year mark and again around year 15, it's money well spent.
 
-Roof penetrations and flashing should be checked by a roofer during your next roof inspection, not just by your solar installer. I've seen installations where the flashing looked beautiful from a solar standpoint but left gaps a roofer would never approve. After major hailstorms or high wind events, get a roofer up there along with your solar inspection.
+Roof penetrations and flashing should be checked by a roofer during your next roof inspection, not just by your solar installer. Flashing that passes a solar installer's review may still have gaps that a roofer would flag. After major hailstorms or high wind events, get a roofer up there along with your solar inspection.
 
 ---
 
@@ -109,7 +109,6 @@ The honest summary: most of your maintenance is really just paying attention. Ch
 - [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

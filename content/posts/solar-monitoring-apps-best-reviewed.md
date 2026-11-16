@@ -47,7 +47,7 @@ This matters because the "best" app depends entirely on what's feeding it. An En
 | Growatt ShinePhone | Budget/DIY systems | Basic production tracking, monthly trends | 2014-era interface, cloud latency, limited diagnostics |
 | Tesla Powerwall app | Battery system management | Energy flow visualization, time-of-use controls | Not a detailed inverter diagnostics tool |
 
-**Enphase Enlighten** is, in my experience, the gold standard for residential panel-level monitoring. It's not the prettiest interface, but it's the most informative if you have microinverters. You get per-panel production data updated every 15 minutes, lifetime energy charts, a system status feed that tells you if an individual microinverter has gone offline, and a reasonably accurate weather overlay so you can cross-check underperformance against cloud cover. The app (iOS and Android, free with Enphase hardware) also gives you a performance ratio metric, which is genuinely useful and underused by homeowners. If yours drops below about 75%, start asking questions.
+**Enphase Enlighten** is a strong choice for residential panel-level monitoring. It's not the prettiest interface, but it's the most informative if you have microinverters. You get per-panel production data updated every 15 minutes, lifetime energy charts, a system status feed that tells you if an individual microinverter has gone offline, and a reasonably accurate weather overlay so you can cross-check underperformance against cloud cover. The app (iOS and Android, free with Enphase hardware) also gives you a performance ratio metric, which is genuinely useful and underused by homeowners. If yours drops below about 75%, start asking questions.
 
 One real limitation: Enlighten's alert system requires you to dig into notification settings. Out of the box it's not aggressive about pushing fault alerts to your phone. Fix this immediately after installation, or you'll miss a microinverter failure for weeks.
 
@@ -101,7 +101,6 @@ The gap between a good monitoring setup and a bad one isn't price. It's attentio
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

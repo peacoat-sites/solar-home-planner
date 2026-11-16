@@ -82,7 +82,7 @@ Scenario: A homeowner in suburban Boston with a north-facing roof that made trad
 
 ## Red flags worth taking seriously
 
-I've seen a few patterns in problematic community solar contracts, and I don't want to skip over this.
+A few patterns appear in problematic community solar contracts worth noting.
 
 Watch for any developer who can't clearly explain how credits appear on your bill. Ask them: "If I move, what happens?" A good answer is specific (transfer to new address if same utility, or cancel with X days notice). A bad answer is vague or redirected.
 

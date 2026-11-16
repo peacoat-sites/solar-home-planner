@@ -51,15 +51,13 @@ If you don't have storage yet, the first move is to understand your specific uti
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 An EV is either a liability or an asset on a TOU plan. Nothing in between.
 
 A 60 kWh battery pack (a standard Model 3 Long Range or a Chevy Equinox EV) that you charge from empty during peak hours at $0.50/kWh costs $30 just for that fill-up. Charge the same car overnight at $0.13/kWh and you spent $7.80. That delta, repeated across a year of commuting, is roughly $800 to $1,100 difference on your electric bill. Annually. For one behavior change.
 
 Every Level 2 charger worth buying has scheduling built in. The [Emporia Vue Level 2 Smart Charger](https://www.amazon.com/s?k=emporia+vue+level+2+ev+charger&tag=contentportfo-20) lets you set charge windows down to 15-minute increments and integrates with home energy monitoring. The ChargePoint Home Flex does the same and connects to most smart home platforms. Set it to start charging at the beginning of your utility's off-peak window and stop before peak returns. Done. This is one of the rare cases where "set it and forget it" is genuinely the right call.
 
-The contrarian take: solar-owners often assume they should charge their EV from solar during the day rather than from the grid overnight. I've seen this advice repeated constantly, and for most people, it's wrong. Here's why. If your net metering rate gives you credit at, say, $0.08/kWh for solar exports, but overnight grid power costs $0.13/kWh, you're better off exporting that solar and charging from cheap off-peak grid power at night. The math closes only if you have battery storage, your export rate is very low (below $0.10), and your overnight rate is not much cheaper than your export rate. Run those specific numbers for your utility before you commit to a daytime EV charging habit.
+The contrarian take: solar-owners often assume they should charge their EV from solar during the day rather than from the grid overnight. However, for most people this approach is wrong. If your net metering rate gives you credit at, say, $0.08/kWh for solar exports, but overnight grid power costs $0.13/kWh, you're better off exporting that solar and charging from cheap off-peak grid power at night. The math closes only if you have battery storage, your export rate is very low (below $0.10), and your overnight rate is not much cheaper than your export rate. Run those specific numbers for your utility before you commit to a daytime EV charging habit.
 
 ## Stacking the Advantages: Solar + Storage + EV on One TOU Plan
 
@@ -72,7 +70,7 @@ Your daily dispatch priority should look roughly like this:
 3. Battery discharges into house loads from 4 p.m. through 9 p.m. (or whatever your peak window is), avoiding grid imports entirely.
 4. EV finishes charging from the grid after peak ends, typically 9 p.m. to midnight.
 
-Most modern inverter/battery systems (the SolarEdge Energy Hub, the Enphase IQ System Controller, the Tesla Powerwall 3) have a "time-based control" or "self-consumption" mode that handles much of this automatically once you program your rate schedule. The Powerwall's app literally lets you input your TOU schedule and it optimizes dispatch accordingly. That said, don't trust the default settings out of the box. Verify the schedule actually matches your utility's current tariff. I've seen installs where the system was still running on a rate schedule from two years ago because nobody updated it after the utility revised its peak hours.
+Most modern inverter/battery systems (the SolarEdge Energy Hub, the Enphase IQ System Controller, the Tesla Powerwall 3) have a "time-based control" or "self-consumption" mode that handles much of this automatically once you program your rate schedule. The Powerwall's app literally lets you input your TOU schedule and it optimizes dispatch accordingly. That said, don't trust the default settings out of the box. Verify the schedule actually matches your utility's current tariff. Systems can end up running on outdated rate schedules if nobody updates them after a utility revises its peak hours.
 
 A [home energy monitor like the Emporia Vue 3](https://www.amazon.com/s?k=emporia+vue+3+energy+monitor&tag=contentportfo-20) (around $90) is worth every cent here. It gives you real-time circuit-level visibility so you can see exactly when and where your household is drawing power. Without it, you're guessing. With it, you can confirm that your battery is actually holding charge through peak hours, that your EV charger kicked on at 9:05 p.m. like scheduled, and that your HVAC isn't spiking during the expensive window.
 
@@ -82,10 +80,9 @@ EnergySage's market data shows the average [solar-plus-storage system](/solar-ev
 
 Switching to a TOU rate isn't always a win, even with solar and an EV. Some households have flat usage patterns that can't easily shift: medical equipment running continuously, elderly family members home during peak hours, a home-based business operating 9 to 5. A household pulling 2 kWh during peak hours on a flat rate at $0.28/kWh might do better than the same household pulling the same load at $0.52/kWh on TOU, even if they save a little overnight.
 
-Request 12 months of interval usage data from your utility (most provide this now as a downloadable CSV or through Green Button Connect) and model it against your TOU options before switching. California utilities are required to give you this. Many others are too, under FERC Order 878. If your utility offers an online rate comparison tool, use it, but also verify the underlying assumptions, because I've seen those tools undercount peak loads.
+Request 12 months of interval usage data from your utility (most provide this now as a downloadable CSV or through Green Button Connect) and model it against your TOU options before switching. California utilities are required to give you this. Many others are too, under FERC Order 878. If your utility offers an online rate comparison tool, use it, but also verify the underlying assumptions, as these tools can undercount peak loads.
 
 ---
-
 
 ---
 
@@ -96,7 +93,6 @@ Request 12 months of interval usage data from your utility (most provide this no
 - [home energy monitor like the Emporia Vue 3](https://www.amazon.com/s?k=emporia+vue+3+energy+monitor&tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

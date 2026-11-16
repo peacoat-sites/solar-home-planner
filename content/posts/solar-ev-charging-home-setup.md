@@ -73,7 +73,7 @@ Budget around $800 to $1,500 for the charger, plus $200 to $600 for electrical w
 
 ## Battery Storage: Do You Actually Need It?
 
-Battery storage, primarily the Tesla Powerwall, Enphase IQ Battery, and Franklin WH series, is the most frequently oversold add-on in residential solar. I've seen installers push it on every single customer regardless of whether it makes financial sense. Here's an honest framework.
+Battery storage, primarily the Tesla Powerwall, Enphase IQ Battery, and Franklin WH series, is the most frequently oversold add-on in residential solar. Many installers push it on every customer regardless of whether it makes financial sense. Here's a framework to evaluate it honestly.
 
 You probably benefit from battery storage if your utility has reduced or eliminated net metering (check your utility's current tariff, because policies have changed significantly in California, Nevada, and other states in the last two years), you have frequent grid outages and want backup power, or you're on a time-of-use rate where electricity costs significantly more in the evening than midday.
 
@@ -121,7 +121,6 @@ Getting solar and EV charging right is one of those projects that rewards patien
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

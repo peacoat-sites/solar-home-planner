@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most homeowners spend weeks comparing solar panels and almost no time thinking about the inverter. That's backwards. The inverter is where your system can quietly bleed efficiency for years, and [string inverter sizing](/microinverter-vs-string-inverter-comparison/) is the piece that trips up even experienced installers.
 
-I'll be honest: when I first started doing solar installations after 15 years as an electrician, I assumed inverter sizing was straightforward math. Panels generate X watts, inverter handles X watts, done. What surprised me was how wrong that assumption is, and how much money people lose by following it.
+Inverter sizing is often treated as straightforward math: panels generate X watts, inverter handles X watts, done. In practice, this assumption costs homeowners real money.
 
 ---
 
@@ -56,8 +56,6 @@ Get your temperature correction factor from the [U.S. Department of Energy's sol
 | U.S. Average (residential) | - | 1.2-1.25 | Industry standard per EnergySage market data |
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where the conventional advice gets genuinely interesting. The standard rule says your inverter's AC output rating should match your total panel DC wattage. A 6,000W (DC) array gets a 6,000W inverter. Clean and simple.
 
@@ -117,7 +115,6 @@ Test your contractor's proposal against PVWatts before you sign anything.
 
 ---
 
-
 ---
 
 The inverter spec sheet isn't the most exciting document you'll read during your solar research. But spending 30 minutes understanding your string configuration, your temperature-corrected voltages, and your DC/AC ratio will tell you more about whether a proposal is solid than any number of panel efficiency comparisons. That's the part nobody puts in the brochure.
@@ -131,7 +128,6 @@ The inverter spec sheet isn't the most exciting document you'll read during your
 - [EnergySage's market data](https://news.energysage.com/)
 - [on Amazon](https://www.amazon.com/s?k=home+energy+monitor)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

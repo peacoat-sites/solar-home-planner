@@ -39,7 +39,7 @@ This is the number one culprit I see, and it's almost embarrassing how often it 
 
 Most installers size a solar system based on your last 12 months of utility bills. That sounds reasonable until you realize: your utility history doesn't know you're about to buy an electric vehicle. It doesn't know you finished your basement and added 600 square feet of heated and cooled space. It doesn't know your kid moved back home or that you replaced your gas stove with an induction range.
 
-When I first started doing solar consultations after my electrician years, I used the same trailing-12-months method without asking enough questions. I sized a system for a couple in suburban Phoenix, they added a Level 2 EV charger six months later, and their summer bills were $200 more than they expected. The system was correctly sized for their old life. It just wasn't sized for their new one.
+A common mistake is sizing a system based only on trailing-12-months usage without asking about planned changes. If a household adds a Level 2 EV charger six months after installation, for example, a system that was correctly sized for their old usage pattern won't be sized for their new one, potentially leaving summer bills $200 or more higher than expected.
 
 If your energy consumption has grown since your system was designed, you're generating the same amount as before but consuming more. The math doesn't lie.
 
@@ -50,8 +50,6 @@ Pull your utility account portal right now and compare your actual kilowatt-hour
 ## Net Metering Math Is Not What the Sales Brochure Implied
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 You might be wondering why you're generating kilowatt-hours but still paying a lot. Net metering is usually the answer nobody fully explained.
 
@@ -74,15 +72,13 @@ As of July 2026, several other states have been updating their net metering stru
 
 ## Time-of-Use Rates Are Quietly Eating Your Savings
 
-This one is sneaky, and I'll admit it took me longer than it should have to fully understand the impact on my own clients.
-
 Many utilities have moved customers onto Time-of-Use (TOU) pricing, where what you pay per kilowatt-hour depends on what time of day you use it. Peak hours, typically 4-9 PM in most markets, can run $0.35-0.45 per kWh. Off-peak might be $0.10-0.13.
 
 Your solar panels generate the most power from roughly 9 AM to 3 PM. Your household probably uses the most power from 5-9 PM, when people are cooking, running the dishwasher, watching TV, and charging phones. You're selling cheap, buying expensive. Even if your system produces exactly as much as you consume annually, TOU pricing can leave you with a real net cost.
 
 The fix: shift loads. Run your dishwasher at 10 AM instead of after dinner. Set your EV to charge at midnight if your utility has a true off-peak window. Use a home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20) (around $60-80, and genuinely useful) to see exactly when and where your home is pulling peak power. *(Disclosure: the site may earn a commission on purchases made through links in this article.)*
 
-A reader in Sacramento, Claudia, emailed me last spring after her bills stayed stubbornly high even after installing a 7.2 kW system. One look at her TOU data showed she was importing 18 kWh per day during peak hours at $0.42/kWh and exporting 22 kWh during off-peak hours at $0.05/kWh. The system was working. The rate structure was the problem. We shifted her pool pump and EV charging schedule, and her bill dropped $140/month without touching the panels at all.
+High bills after solar installation can point to rate structure mismatches rather than undersizing. For example, with time-of-use rates, importing 18 kWh per day at peak rates of $0.42/kWh while exporting 22 kWh at off-peak rates of $0.05/kWh means the system is working but the load timing is inefficient. Shifting high-draw appliances like pool pumps and EV charging to off-peak hours can reduce bills by $140/month without any panel changes.
 
 ---
 
@@ -128,7 +124,6 @@ Ask your utility to itemize your bill. You might find that $40-60 of your monthl
 - [California Public Utilities Commission NEM 3.0 Decision (2023)](https://docs.cpuc.ca.gov/): Regulatory filings documenting the shift to avoided-cost compensation for residential solar exports in California.
 
 ---
-
 
 ---
 

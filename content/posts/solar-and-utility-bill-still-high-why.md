@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You went solar to cut your electric bill. Your bill is still embarrassing. Here's what's actually going on.
 
-Most troubleshooting advice online is either too vague ("check your inverter!") or written by someone who's never actually read a utility statement. I've spent enough time on roofs and inside electrical panels to tell you the real reasons bills stay high after solar, and most of them have nothing to do with the panels themselves.
+Most troubleshooting advice online is either too vague ("check your inverter!") or misses common causes entirely. Bills often stay high after solar for reasons that have nothing to do with the panels themselves.
 
 ## Your System Might Be Undersized, and Nobody Told You That Directly
 
@@ -92,7 +92,7 @@ Your inverter might've been throwing fault codes for three months. If you never 
 
 Check your monitoring platform monthly, minimum. Compare production to the same month the prior year. EnergySage's market data shows that a well-maintained 7 kW system in a moderate-sun climate should produce around 9,000 to 10,000 kWh annually. Running 20 percent below that without a clear weather explanation means something is wrong.
 
-Also check whether your system is actually turned on. This sounds absurd, but it happens. A grid outage, a tripped breaker on the AC disconnect, or a utility worker who switched something off and didn't restore it can leave a system offline indefinitely if nobody's monitoring. I've seen homeowners go six months paying full utility bills because a breaker tripped and the system was silently offline.
+Also check whether your system is actually turned on. This sounds absurd, but it happens. A grid outage, a tripped breaker on the AC disconnect, or a utility worker who switched something off and didn't restore it can leave a system offline indefinitely if nobody's monitoring. For example, a system can sit offline for months if a breaker trips and goes unnoticed, leaving the owner paying full utility bills the whole time.
 
 ---
 
@@ -105,7 +105,6 @@ A high bill after solar isn't always a tragedy. Sometimes it's just information.
 - [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

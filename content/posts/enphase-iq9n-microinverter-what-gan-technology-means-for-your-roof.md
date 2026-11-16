@@ -14,7 +14,7 @@ slug: "enphase-iq9n-microinverter-what-gan-technology-means-for-your-roof"
 affiliate_disclosure: true
 lastmod: 2026-07-07
 ---
-Most homeowners shopping for solar right now assume the inverter is the boring part of the decision. Pick a brand, check the warranty, move on. I'll be honest: I thought the same thing for years as an electrician. Then Enphase dropped the IQ9N on June 23, 2026, and the technology inside it forced me to actually pay attention.
+Most homeowners shopping for solar right now assume the inverter is the boring part of the decision. Pick a brand, check the warranty, move on. That changed when Enphase dropped the IQ9N on June 23, 2026, and the technology inside it demanded closer attention.
 
 This isn't a minor spec bump. Enphase built the IQ9N around gallium nitride semiconductors, and if you've been following what GaN has done to laptop chargers and EV power systems over the last few years, you already know why that matters. For everyone else, let's dig into what this actually means for a system on your roof, in your specific financial situation, right now in mid-2026.
 
@@ -37,8 +37,6 @@ What surprised me was how much the switching efficiency compounds over time. A h
 ## The Tax Credit Situation Changes the Math Completely
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where the timing gets genuinely uncomfortable for homeowners. The Section 25D residential solar tax credit, that 30% federal credit that made a $20,000 system effectively cost $14,000, expired on December 31, 2025. It's gone. There's no phase-down, no extension as of now. You're paying full price.
 

@@ -38,7 +38,7 @@ Most people don't realize this isn't a loophole. It's exactly how the commercial
 
 The overall residential solar market is struggling. BloombergNEF projects the U.S. will add only 4.1 GW of residential solar in 2026, the lowest level in five years, with the broader market contracting roughly 21% this year. That context matters. We're not in a solar boom. Installers are competing hard for fewer customers, and smaller companies that rode the 25D wave are quietly shutting down.
 
-Against that backdrop, 45% battery attachment is striking. It tells you something specific: the lease and PPA model, which benefits from Section 48E and almost always bundles storage, is capturing a larger share of a shrinking pie. I've seen this locally too. The [cash-purchase, panels-only deal](/going-solar-without-the-30-tax-credit-what-it-actually-costs-now/) that used to be the bread and butter for mid-sized residential installers is getting harder to justify to customers who can't claim any federal credit. The lease-plus-battery pitch has a cleaner story right now, even if the long-term economics are more complicated.
+Against that backdrop, 45% battery attachment is striking. It tells you something specific: the lease and PPA model, which benefits from Section 48E and almost always bundles storage, is capturing a larger share of a shrinking pie. The [cash-purchase, panels-only deal](/going-solar-without-the-30-tax-credit-what-it-actually-costs-now/) that used to be the bread and butter for mid-sized residential installers is getting harder to justify to customers who can't claim any federal credit. The lease-plus-battery pitch has a cleaner story right now, even if the long-term economics are more complicated.
 
 ## State Rebates Are Real, But You Have to Hunt for Them
 
@@ -50,11 +50,11 @@ Most state rebates apply regardless of ownership. Read the fine print on your sp
 
 ## Red Flags to Watch for Right Now
 
-The lease-plus-battery model being the financially logical path for many people in 2026 doesn't mean every lease offer is good. I've seen proposals with 10-year agreements that include escalator clauses raising your monthly payment 2-3% annually, which can erode those early savings depending on what actually happens to utility rates. Ask for a 25-year cost projection and compare it against your current utility bill trajectory honestly.
+The lease-plus-battery model being the financially logical path for many people in 2026 doesn't mean every lease offer is good. Some lease proposals include 10-year agreements with escalator clauses raising your monthly payment 2-3% annually, which can erode those early savings depending on what actually happens to utility rates. Ask for a 25-year cost projection and compare it against your current utility bill trajectory honestly.
 
 Also watch for installers who are vague about which tax credit they're claiming on your behalf. If someone quotes you a lease without clearly explaining that the Section 48E commercial ITC is how they're pricing the system, force that conversation. Ask directly: "What tax credits is your company claiming on this installation, and how are those reflected in my lease rate?" A good installer will have a clean answer.
 
-On the equipment side, [battery pairing rates being up](/how-to-add-a-battery-to-your-existing-solar-system/) doesn't mean every battery is appropriate for every home. I've seen proposals pushing a 10 kWh battery on a house using 600 kWh a month with a small panel array. The sizing math matters. Don't let the lease model's monthly payment framing distract you from asking whether the actual system makes sense for your usage and your goals.
+On the equipment side, [battery pairing rates being up](/how-to-add-a-battery-to-your-existing-solar-system/) doesn't mean every battery is appropriate for every home. For example, a 10 kWh battery may be proposed for a house using 600 kWh a month with a small panel array. The sizing math matters. Don't let the lease model's monthly payment framing distract you from asking whether the actual system makes sense for your usage and your goals.
 
 ## What This Moment Actually Means If You're Shopping Now
 

@@ -25,7 +25,7 @@ author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
 lastmod: 2026-07-08
 ---
-Most homeowners spend more time researching a $600 dishwasher than a $25,000 solar system. I've watched people sign contracts after a single sales pitch, then call me six months later wondering why their electricity bill barely moved. Getting solar quotes isn't just about finding the lowest price. It's about gathering enough structured information to make a comparison that actually means something.
+Most homeowners spend more time researching a $600 dishwasher than a $25,000 solar system. A common mistake is signing a contract after a single sales pitch, then discovering months later that the electricity bill barely moved. Getting solar quotes isn't just about finding the lowest price. It's about gathering enough structured information to make a comparison that actually means something.
 
 ## Know What You Need Before You Call Anyone
 
@@ -43,7 +43,7 @@ You've got several channels available, and they're not equally good.
 
 **National lead aggregators** like EnergySage or the Solar-Estimate marketplace let you enter your information once and receive multiple quotes. Convenient, and the bids come in a standardized format you can actually compare. The catch? You're working with whichever installers have paid to be on that platform in your area, and the "compare" interface sometimes flattens differences that really matter.
 
-**Local installers** are often a better starting point if you can find them. A company that's been pulling permits in your county for 8 years knows your AHJ (Authority Having Jurisdiction), your utility's interconnection requirements, and the specific quirks that slow down a project. I've seen national installers quote a job in 2 weeks and take 5 months because they underestimated the local inspection process.
+**Local installers** are often a better starting point if you can find them. A company that's been pulling permits in your county for 8 years knows your AHJ (Authority Having Jurisdiction), your utility's interconnection requirements, and the specific quirks that slow down a project. National installers sometimes quote a job in 2 weeks but take 5 months because they underestimate the local inspection process.
 
 **[Your utility's approved vendor list](/is-my-solar-installer-legit/)** is an underused resource. Many utilities publish lists of contractors who have successfully interconnected systems through their process. Starting there doesn't limit you, but it gives you a vetted starting pool.
 
@@ -96,8 +96,6 @@ The U.S. Department of Energy's [homeowner guide to going solar](https://www.ene
 
 ## Red Flags That Should Stop You Cold
 
-I've been doing this long enough to have a mental list of contractor behaviors that predict problems.
-
 **High-pressure deadlines.** "This price is only good through the end of the month" or "we only have one crew slot left for your area." This is a sales tactic. Solar prices don't work that way. A good installer doesn't need to manufacture urgency.
 
 **No physical site visit before the final quote.** Some contractors will quote entirely from satellite imagery. Satellite analysis is fine for an initial estimate, but a proper quote requires someone on your roof checking actual conditions, validating the structural attachment points, and confirming the main service panel can handle the interconnection.
@@ -121,7 +119,6 @@ Getting solar quotes is a skill, not just a task. The homeowners who end up with
 - [Emporia Vue](https://amzn.to/emporiavue)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

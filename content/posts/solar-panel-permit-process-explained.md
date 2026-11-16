@@ -25,7 +25,7 @@ author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
 lastmod: 2026-07-08
 ---
-Most homeowners sign a contract, assume the solar company handles everything, and expect panels on the roof in six weeks. Then they get a call: the permit's delayed, the utility needs more documentation, or building department wants revised structural drawings. Suddenly it's four months. I've watched this happen dozens of times, and here's what I've learned, understanding the permit process yourself, even if your installer's managing it, puts you in control and helps you catch problems before they spiral into expensive delays.
+Most homeowners sign a contract, assume the solar company handles everything, and expect panels on the roof in six weeks. Then they get a call: the permit's delayed, the utility needs more documentation, or building department wants revised structural drawings. Suddenly it's four months. Understanding the permit process yourself, even if your installer's managing it, puts you in control and helps you catch problems before they spiral into expensive delays.
 
 ## Why Solar Permits Exist and What They Actually Cover
 
@@ -95,7 +95,7 @@ The biggest mistake: treating the permit as entirely the installer's problem. It
 
 Second mistake: not asking for copies of the permit and inspection records. You're entitled to these. File them with your home records like you would a roof warranty or HVAC service history.
 
-Third mistake: assuming a permit was actually pulled. I've seen cases where homeowners were told the permit was "in process" for weeks. They called the building department directly and there was no application on file. Call and verify. Give them your address, not just the contractor's name.
+Third mistake: assuming a permit was actually pulled. Homeowners are sometimes told a permit is "in process" for weeks. They called the building department directly and there was no application on file. Call and verify. Give them your address, not just the contractor's name.
 
 If you want to know what else to watch for when evaluating a contractor, the checklist at [is my solar installer legit](/is-my-solar-installer-legit/) is worth reading before you sign anything.
 
@@ -112,7 +112,6 @@ The permit process isn't exciting, but getting it right protects your investment
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

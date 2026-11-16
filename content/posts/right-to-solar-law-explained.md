@@ -107,7 +107,7 @@ You've submitted your solar installation application and they've denied it or lo
 
 **Step 6: Consult a real estate attorney.** Many will do a free or low-cost initial consultation. If your state law has an attorney's fees provision, some attorneys will take these cases on contingency because the HOA is on the hook if you win.
 
-**Step 7: Don't install yet.** I've seen homeowners just put the panels up anyway and then face fines and forced removal orders. Even if you're confident you're legally right, don't create a compliance crisis while the legal question is pending.
+**Step 7: Don't install yet.** Homeowners who install panels before approval can face fines and forced removal orders. Even if you're confident you're legally right, don't create a compliance crisis while the legal question is pending.
 
 ## What Right to Solar Laws Don't Cover
 
@@ -132,7 +132,6 @@ Right to solar laws are genuinely powerful protections, but they're not magic sh
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

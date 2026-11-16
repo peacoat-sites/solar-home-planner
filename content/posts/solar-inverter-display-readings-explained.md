@@ -42,7 +42,7 @@ Every residential inverter, whether you're running a SolarEdge HD-Wave, a Froniu
 
 **Total Lifetime Energy (kWh).** Cumulative production since commissioning. This number is what your utility may ask for during audits, and it's what your installer used to estimate your system's expected output over 25 years.
 
-**Grid Voltage (V).** Your inverter is constantly checking grid voltage before it syncs. In the U.S., residential systems run at 240V split-phase. Acceptable range is roughly 211 to 264V. If you're regularly seeing readings outside that band, log them and call your utility. High grid voltage causes inverters to derate or trip offline, and I've seen this kill production by 10 to 15 percent on installs near the end of a distribution line.
+**Grid Voltage (V).** Your inverter is constantly checking grid voltage before it syncs. In the U.S., residential systems run at 240V split-phase. Acceptable range is roughly 211 to 264V. If you're regularly seeing readings outside that band, log them and call your utility. High grid voltage causes inverters to derate or trip offline, which can reduce production by 10 to 15 percent, especially on systems near the end of a distribution line.
 
 **Grid Frequency (Hz).** Should read 59.97 to 60.03 Hz almost always. If it's drifting, something unusual is happening on the grid side.
 
@@ -53,8 +53,6 @@ Every residential inverter, whether you're running a SolarEdge HD-Wave, a Froniu
 ## The Readings That Actually Reveal Problems
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The AC wattage and daily kWh get all the attention. The numbers that actually catch problems early are the ones people ignore.
 
@@ -82,7 +80,7 @@ Here's a scenario I walked a reader through last spring:
 
 Her Enphase system displayed 6.8 kWh at end of day when she expected 38+ kWh. The physical display looked fine, no fault lights. But logging into Enlighten showed 11 of 18 microinverters offline with a communication fault that had cascaded from one bad IQ7+ unit. Total production loss over the 10 days before she noticed: roughly $23 at her retail rate. Caught it faster after she bookmarked the Enlighten panel-level view and started checking it weekly.
 
-**String inverter, 10-panel array, one panel affected by new partial shading from neighbor's addition** → Checked daily kWh tracking and noticed a consistent 17 percent shortfall on sunny days → Pulled DC input voltage, found string voltage 22V below expected MPPT range → Located shading source, added a power optimizer to that panel → Production returned to within 3 percent of pre-shade baseline.
+**String inverter, 10-panel array, one panel affected by new partial shading** → Daily kWh tracking shows a consistent 17 percent shortfall on sunny days → DC input voltage check finds string voltage 22V below expected MPPT range → Shading source identified and a power optimizer added to that panel → Production returns to within 3 percent of baseline.
 
 ---
 
@@ -117,7 +115,6 @@ The [U.S. Department of Energy's homeowner guide to going solar](https://www.ene
 - [Enphase Enlighten Manager Help Center](https://enphase.com/homeowners/resources): Panel-level monitoring documentation and microinverter fault diagnosis.
 
 ---
-
 
 ---
 

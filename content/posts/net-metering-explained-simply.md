@@ -33,7 +33,7 @@ Here's the simple version: when your solar panels produce more electricity than 
 
 The thing most installers don't spell out clearly is that net metering is a *policy*, not a technology. Your panels don't care about net metering. Your inverter doesn't either. It's a billing agreement between you and your utility company, and it exists only because a state law, a utility tariff, or a public utilities commission ruling requires it. That distinction matters enormously, because it means the terms can change. And they have changed, in some states quite dramatically.
 
-I'll be honest: when I first started consulting on residential solar, I assumed net metering was more standardized than it is. It's not. A homeowner in Arizona lives in a completely different financial reality than one in California, even if they have identical 8 kW systems on identical roofs.
+Net metering rules vary significantly by state and utility. A homeowner in Arizona lives in a completely different financial reality than one in California, even if they have identical 8 kW systems on identical roofs.
 
 ## How the Credits Actually Get Calculated
 
@@ -113,7 +113,6 @@ Net metering is the piece of the solar equation that deserves as much attention 
 - [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

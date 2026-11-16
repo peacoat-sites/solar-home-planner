@@ -64,17 +64,17 @@ Here's where I get opinionated. The single biggest ongoing production killer I s
 
 If you have a string inverter without panel-level power optimizers, a single shaded panel drags down every panel in that string. String behavior is the weak-link problem: the lowest-performing panel sets the ceiling for the whole group. This is why SolarEdge optimizers or Enphase microinverters add real value in shaded environments, not just as marketing.
 
-Go outside at solar noon (roughly 1 p.m. local time in summer) and look at your array from the ground. Any shadows at all? Now do the same at 10 a.m. and 3 p.m. A tree branch that seems harmless might be throwing a shadow across two panels during peak production hours. I've seen installations where a neighbor's new fence addition cut system production by 18% because it shaded the bottom row of panels for two hours every afternoon. The homeowner didn't notice for three months.
+Go outside at solar noon (roughly 1 p.m. local time in summer) and look at your array from the ground. Any shadows at all? Now do the same at 10 a.m. and 3 p.m. A tree branch that seems harmless might be throwing a shadow across two panels during peak production hours. For example, a new fence addition that shades the bottom row of panels for two hours every afternoon can cut system production by 18%, and the impact might go unnoticed for months.
 
 ## Soiling, debris, and what to actually do about it
 
 Rain cleans panels reasonably well in most climates, but not perfectly. In areas with heavy pollen (Atlanta in April is genuinely brutal), near agricultural fields with dust, or under trees with sticky residue from aphids, production losses from soiling can hit 5% to 15% annually according to research cited by the Solar Energy Industries Association (SEIA). In desert climates without rainfall, unclean panels can lose 25% or more.
 
-What surprised me when I looked into this more carefully is that panel cleaning frequency matters less than most people assume. The research here is genuinely mixed. Some studies show diminishing returns from cleaning more than twice a year. Others, in high-soiling environments, show monthly cleaning is justified. Your specific microclimate matters more than any general rule.
+Panel cleaning frequency matters less than most people assume. The research here is genuinely mixed. Some studies show diminishing returns from cleaning more than twice a year. Others, in high-soiling environments, show monthly cleaning is justified. Your specific microclimate matters more than any general rule.
 
 If you're in a region with mild rainfall and no heavy pollen or dust, annual cleaning is probably fine. A simple rinse with a garden hose (no pressure washer, no abrasive scrubbing, don't use soap unless it's specifically formulated for panels) handles most deposits. For anything more serious, a [solar panel cleaning kit](https://www.amazon.com/s?k=solar+panel+cleaning+kit&tag=contentportfo-20) with a soft brush and extension pole runs $40 to $80 and gets the job done from the ground on a single-story installation. Don't go on the roof if you don't have to. Site may earn a commission.
 
-One thing only someone who's done this knows: clean in the early morning or evening, never midday. Cold water on a hot panel creates thermal stress. I've seen microcracks develop from exactly this, and while it's not guaranteed damage, it's not worth the risk.
+Clean in the early morning or evening, never midday. Cold water on a hot panel creates thermal stress. Cold water on a hot panel can cause thermal stress and microcracks, so it's not worth the risk.
 
 ## Why the numbers don't add up: a common causes comparison
 
@@ -100,13 +100,13 @@ Three real scenarios I've personally walked through:
 
 A homeowner in suburban Philadelphia with a 9.6 kW system noticed production dropped from roughly 1,100 kWh/month in August to 610 kWh in October. She called panicking. We checked the monitoring data: two microinverters had faulted out in September and hadn't been noticed. Combined loss across two months: approximately 180 kWh, which at $0.16/kWh was about $29 in unproduced value. Not catastrophic, but real. Enphase warranty covered the replacement units.
 
-A reader emailed me last spring after his SolarEdge system flatlined completely. Error code on the display: "Grid Fault." His utility had done maintenance the previous day and the reconnection pushed voltage out of spec. System wouldn't re-energize automatically. Simple fix: cycle the AC disconnect, wait ten minutes, call the utility to verify grid voltage. Back online within an hour.
+A "Grid Fault" error sometimes occurs after utility maintenance, when a reconnection pushes voltage out of spec and the system won't re-energize automatically. Try cycling the AC disconnect, waiting ten minutes, and calling the utility to verify grid voltage; this often restores operation within an hour.
 
 A new build in Arizona installed panels on a south-facing roof, looked perfect on paper. Six months later the owner noticed underperformance specifically in late afternoon. An HVAC company had added a rooftop unit that now threw a shadow across the bottom two rows of panels between 3 and 5 p.m. Production loss calculated from monitoring data: roughly 14% of daily output. Fix: two SolarEdge optimizers retrofitted to the affected panels for about $380 installed, recovering most of the loss.
 
 ## When to actually call someone
 
-I'm not going to tell you to always call a pro immediately, because frankly, a lot of the most common issues are DIY-diagnosable in under an hour. But some situations genuinely require a licensed electrician or certified solar technician:
+Many common issues are DIY-diagnosable in under an hour. But some situations genuinely require a licensed electrician or certified solar technician:
 
 Any fault that involves DC-side wiring. DC current from a solar array doesn't trip breakers the same way AC does and can maintain an arc that causes fires. Don't touch the wiring between panels and the inverter yourself unless you're licensed.
 

@@ -58,8 +58,6 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has pub
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 I expected the savings to be either impressive or fake. What I found was something more boring and more honest: they're usually modest and real.
 
 A typical subscriber scenario plays out something like this: 5 kW subscription at a garden in Colorado producing 6,500 kWh/year, credited at $0.13/kWh. That's $845 in annual credits. If the subscription fee is $750/year (around $62.50/month), your net savings are roughly $95. Not nothing, but not a solar revolution either.
@@ -72,7 +70,7 @@ But here's the scenario where the [garden subscription actually wins](/community
 
 Or a homeowner with a heavily shaded roof, a north-facing pitch, or an HOA that bans visible solar equipment. The garden subscription is often their only practical path to any solar participation at all. For those people, $95 to $200/year in savings beats zero.
 
-I tested this comparison with four readers who emailed me over the past year asking whether they should subscribe or install. Three of them were renters or had roof issues. For all three, the subscription was the right call. The fourth owned a clear south-facing roof. I told him to get quotes for installation and stop overthinking it.
+Subscriptions work best for renters and homeowners with roof constraints like shade or structural issues. Those with unobstructed south-facing roofs typically benefit more from direct installation, which avoids long-term fee escalators.
 
 ## The Contract Details That Actually Matter
 
@@ -114,7 +112,6 @@ If you want to track your actual savings precisely after enrolling, a home energ
 - [Solar Energy Industries Association (SEIA), Community Solar State Policy Tracker](https://www.seia.org/initiatives/community-solar): State-by-state overview of enabling legislation and credit rate structures, updated regularly.
 
 ---
-
 
 ---
 

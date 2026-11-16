@@ -92,7 +92,7 @@ You might be wondering why I'm bringing up installation logistics in a charger a
 
 **Panel proximity.** The closer your charger mounts to your main panel, the cheaper the installation. A charger on an exterior wall adjacent to the panel might cost $200 to install. A charger on the far side of a detached garage might require trenching conduit underground, easily $800 to $1,500.
 
-**Internet connectivity.** Solar-aware charging requires your charger to communicate with something, whether that's your inverter, an energy monitor, or a cloud service. Make sure you have reliable WiFi within range of your charger location. I've seen this get overlooked constantly.
+**Internet connectivity.** Solar-aware charging requires your charger to communicate with something, whether that's your inverter, an energy monitor, or a cloud service. Make sure you have reliable WiFi within range of your charger location.
 
 **Permit requirements.** Yes, EV charger installations require a permit in most jurisdictions. Any electrician who tells you to skip it is waving a red flag in your face. The permit protects you at resale and ensures the work meets code. Budget $50 to $150 for the permit fee.
 
@@ -105,7 +105,6 @@ The Solar Energy Industries Association has been tracking the growth of solar-pl
 - [on Amazon](https://www.amazon.com/s?k=emporia+smart+ev+charger&tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

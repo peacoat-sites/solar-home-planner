@@ -47,13 +47,13 @@ For a solar home setup, V2H is where most people end up. It's practical today.
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-Here's something I got wrong for about a year when I started looking into this: I assumed any EV + any charger could do this. That's completely false. Both the vehicle and the charging equipment have to support the bidirectional standard, and they have to match.
+A common misconception is that any EV + any charger can handle bidirectional charging. That's completely false. Both the vehicle and the charging equipment have to support the bidirectional standard, and they have to match.
 
 Currently, the vehicles with real, deployable V2H or V2G capability (not just a "coming soon" firmware update) include the Ford F-150 Lightning, Ford Escape Plug-In Hybrid (limited), Nissan Leaf (older CHAdeMO models only, which is increasingly awkward), Hyundai Ioniq 5 and 6, Kia EV6, and the Genesis GV60. The Rivian R1T and R1S have Camp & Kitchen mode but that's V2L only. Tesla still doesn't support V2H or V2G as of this writing, despite having the most popular home battery product on the market, which I find genuinely frustrating.
 
 The charger side is equally specific. The Ford Charge Station Pro (made by Sunrun, sold through Ford dealers, around $1,310 installed) works with the F-150 Lightning. The Wallbox Quasar 2 supports CCS (the more common North American DC standard) and costs roughly $3,500 before installation. Fermata Energy's FE-15 is another CCS option aimed more at commercial installs but showing up in residential projects. SolarEdge and Enphase are both working on bidirectional integration at the inverter level, though the Enphase IQ EV Charger Bidirectional is one to watch if you're already on an Enphase system.
 
-Installation cost for a proper V2H setup runs $3,000 to $8,000 total depending on whether you need a new electrical panel, transfer switch, and how far the charger is from your panel. I've seen quotes go higher in older homes with 100-amp services that need upgrading to 200-amp first.
+Installation cost for a proper V2H setup runs $3,000 to $8,000 total depending on whether you need a new electrical panel, transfer switch, and how far the charger is from your panel. Costs can run higher in older homes with 100-amp services that need upgrading to 200-amp first.
 
 ## Pairing It With Solar: Where It Gets Interesting
 
@@ -81,7 +81,7 @@ Numbers are estimates as of July 2026 and vary by region, utility, and home conf
 
 ## The Permit and Utility Side (Don't Skip This)
 
-I've seen homeowners buy the Quasar 2, hire an electrician, and get the whole thing installed before anyone talked to the utility. Two of those installs had to be partially redone because the utility required a specific disconnect configuration that wasn't in the original plan.
+Coordinating with your utility before installation is important. Some utilities require a specific disconnect configuration that may not be part of a standard install plan, which can mean rework if missed upfront.
 
 For V2H, your local building department usually wants a permit for the charger installation (same as any hardwired EV charger) plus a permit for the transfer switch or automatic transfer relay. In most jurisdictions, that's a standard electrical permit. Budget $150 to $500 in permit fees.
 
@@ -91,7 +91,7 @@ One thing that catches people: some utility tariffs have clauses about exporting
 
 ## Battery Degradation: The Honest Part
 
-You're probably thinking: if I'm cycling my EV battery as a home storage device every day, won't I wear it out faster? This is a fair concern and the answer is "somewhat, yes, but probably less than you fear."
+A natural concern: if you cycle your EV battery as a home storage device every day, won't you wear it out faster? This is a fair concern and the answer is "somewhat, yes, but probably less than you fear."
 
 Modern lithium battery management systems are designed to handle partial state-of-charge cycling pretty well. The degradation culprit in EV batteries is primarily high temperatures, fast DC charging at high states of charge, and deep discharges. A well-designed V2H system keeps the battery operating in the 20 to 80% range, which is actually gentler on cells than a lot of regular driving charge patterns. Ford's warranty language specifically covers the Lightning's bidirectional use, which is telling.
 

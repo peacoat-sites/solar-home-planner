@@ -42,7 +42,7 @@ After the 30% federal Investment Tax Credit (which is still in place for 2026, t
 
 You might be wondering: why such a wide range? A few factors swing it hard.
 
-Roof pitch matters more than most people realize. A steeper pitch slows installers down, increases the number of safety setups required, and sometimes requires specialized mounting hardware. Labor on a 12/12 pitch can run 20-30% more than on a gentle 4/12. I've seen bids on identical system sizes differ by $3,000 based on roof angle alone.
+Roof pitch matters more than most people realize. A steeper pitch slows installers down, increases the number of safety setups required, and sometimes requires specialized mounting hardware. Labor on a 12/12 pitch can run 20-30% more than on a gentle 4/12. Bids on identical system sizes can differ by $3,000 based on roof angle alone.
 
 Panel brand is another variable people underestimate. There's a real difference between a system built around **SunPower Maxeon or REC Alpha panels** (premium efficiency, often $0.30-$0.50/watt more) versus mid-tier panels like **Jinko Solar or LONGi**, which are solid workhorses and where I'd tell most homeowners their money is well spent. Unless you have severe shading or very limited roof space where you genuinely need maximum watts per square foot, the premium efficiency panels rarely pencil out over the payback period.
 
@@ -52,15 +52,13 @@ Panel brand is another variable people underestimate. There's a real difference 
 
 > **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I want to get specific, because this part gets glossed over in most cost guides.
 
 Asphalt shingle installations use what's called a **flashed roof mount**. Installers drill through your shingles into the rafters, seal each penetration with flashing, and attach rails. Done correctly, this is watertight and durable. Done sloppily, it's a future leak waiting to happen. This is genuinely the part I'd scrutinize most on any installer proposal.
 
 The mount hardware itself (typically **IronRidge XR or Unirac SolarMount systems**) runs $0.20-$0.35 per watt, depending on configuration. That's usually baked into the installed price, but if you're comparing itemized quotes, it's worth checking what racking system each installer is specifying.
 
-Age and condition of your shingles also changes the math. If your roof is 15+ years old, many installers will recommend replacement before installation. Honest ones will tell you upfront. Less scrupulous ones will install on a marginal roof, pocket the install fee, and leave you dealing with a complicated warranty situation when your roof starts failing under the panels three years later. A reader emailed me last spring after exactly this happened to him in suburban Phoenix. The installer had noted the roof condition in fine print, but never flagged it verbally.
+Age and condition of your shingles also changes the math. If your roof is 15+ years old, many installers will recommend replacement before installation. Honest ones will tell you upfront. Less scrupulous ones will install on a marginal roof, pocket the install fee, and leave you dealing with a complicated warranty situation when your roof starts failing under the panels three years later. This can happen when an installer notes roof condition in fine print but doesn't flag it verbally.
 
 One more thing on the shingle side: if you have **architectural shingles** (the dimensional/laminate style), flashing compatibility is slightly different than with 3-tab shingles. It's not a dealbreaker, but it does affect which flashing kits are appropriate. Good installers know this. Rushed ones sometimes don't.
 
@@ -98,7 +96,7 @@ A few real-world scenarios that illustrate how these variables play out:
 
 **Scenario 2:** Same-sized system, but steeper 10/12 pitch with a 22-year-old shingle roof. Installer flagged the roof; homeowner replaced it first (Owens Corning Duration, $9,800). Combined project: $33,200 gross, $23,240 after credit (only the solar portion is credit-eligible). Payback stretched to 11.4 years, but they're not staring down a roof replacement mid-solar-system-life.
 
-**Scenario 3:** A homeowner who skipped the re-roof, went with a budget installer, and had two flashing leak points develop 18 months later. Repair cost: $1,400. That's not a catastrophe, but it erased almost two years of electricity savings. I've seen this play out enough times that I tell people: the $200 difference between a careful installer and a rushed one is the worst trade you can make.
+**Scenario 3:** A homeowner who skipped the re-roof, went with a budget installer, and had two flashing leak points develop 18 months later. Repair cost: $1,400. That's not a catastrophe, but it erased almost two years of electricity savings. The $200 difference between a careful installer and a rushed one is the worst trade you can make.
 
 ---
 
@@ -125,7 +123,6 @@ According to the [Solar Energy Industries Association (SEIA)](https://www.seia.o
 - [Database of State Incentives for Renewables & Efficiency (DSIRE)](https://www.dsireusa.org/): Comprehensive state-by-state solar incentive and rebate programs
 
 ---
-
 
 ---
 

@@ -27,7 +27,6 @@ lastmod: 2026-07-08
 ---
 Most homeowners walk into solar quotes with zero leverage. They hand the salesperson a utility bill, nod along while someone explains "peak sun hours," and end up with a system somebody else sized for them. I've watched this happen dozens of times. The salesperson isn't necessarily lying, but they have every incentive to round up. A bigger system means a bigger commission. What I want to show you is that sizing a solar system yourself isn't that complicated, and doing it before you ever talk to a contractor changes the entire conversation.
 
-
 <div class="value-module">
   <div class="vm-head">System Sizing Worked Example</div>
   <div class="vm-body">
@@ -67,7 +66,7 @@ The National Renewable Energy Laboratory's PVWatts calculator is the tool I reco
 
 The math is straightforward. You need 12,000 kWh per year. PVWatts tells you a 1 kW system in your location produces about 1,400 kWh per year. Divide 12,000 by 1,400 and you get 8.57. Round up and you need roughly a 9 kW system. That's your target.
 
-What surprised me when I started doing this regularly was how much roof orientation matters. A south-facing roof at a 30-degree pitch in the mid-Atlantic can outperform an east-facing roof in Arizona. Azimuth angle can swing production by 15 to 20 percent. PVWatts lets you model this, and you absolutely should.
+Roof orientation matters significantly. A south-facing roof at a 30-degree pitch in the mid-Atlantic can outperform an east-facing roof in Arizona. Azimuth angle can swing production by 15 to 20 percent. PVWatts lets you model this, and you absolutely should.
 
 ## Panel Count and Real-World Roof Constraints
 
@@ -141,7 +140,6 @@ Do this homework before you request a single quote, and you'll walk into every c
 - [Emporia Vue or Sense](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

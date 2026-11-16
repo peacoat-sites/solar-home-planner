@@ -29,7 +29,7 @@ I parked a 200-square-foot tiny home on rural Tennessee land once (well, helped 
 
 ## Why Tiny Homes Are Actually Ideal for Solar
 
-Here's the thing most solar salespeople won't tell you: the smaller your load, the easier and cheaper it is to go solar. A conventional 2,000-square-foot house might consume 10,000 to 14,000 kWh per year. A well-built tiny home? Often under 2,000 kWh annually. Sometimes as low as 1,200 if you've swapped out energy hogs for efficient alternatives.
+Most solar salespeople focus on larger installations, but the smaller your load, the easier and cheaper it is to go solar. A conventional 2,000-square-foot house might consume 10,000 to 14,000 kWh per year. A well-built tiny home? Often under 2,000 kWh annually. Sometimes as low as 1,200 if you've swapped out energy hogs for efficient alternatives.
 
 That smaller load translates directly to a smaller, cheaper system. You're not looking at a 20-panel, 8 kW rooftop array with a $30,000 price tag. A typical off-grid tiny home setup runs somewhere between 800W and 2,400W of solar panels paired with 100 to 300 amp-hours of lithium battery storage. [DIY, the whole thing costs](/cheapest-way-to-go-solar-diy/) $3,000 to $7,000 depending on battery chemistry and panel brand.
 
@@ -125,7 +125,6 @@ Going solar in a tiny home is one of the few situations where the DIY path genui
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -25,7 +25,7 @@ author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
 lastmod: 2026-07-08
 ---
-Sixty percent of the homeowners I talk to have the same misconception locked in their heads: higher efficiency equals better panels. Full stop. And I get it, that's how most appliances work. A more efficient refrigerator uses less electricity. A more efficient furnace wastes less gas. So it feels logical that a 22% efficient solar panel is just... better than a 19% one. But that framing causes real problems when you're spending $15,000 to $30,000 on a system, and I've watched people pay thousands extra for efficiency they didn't actually need.
+A common misconception is that higher efficiency always equals better panels. Full stop. That logic makes sense with most appliances. A more efficient refrigerator uses less electricity. A more efficient furnace wastes less gas. A 22% efficient panel isn't automatically better than a 19% one. This misconception causes real problems when you're spending $15,000 to $30,000 on a system, since it can lead to paying thousands extra for efficiency that doesn't match your actual needs.
 
 Let me back up and explain what the number actually means, because the solar industry does a terrible job of this.
 
@@ -115,7 +115,6 @@ The efficiency number on a spec sheet is a starting point, not a purchase decisi
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-
 
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

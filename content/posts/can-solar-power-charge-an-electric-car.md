@@ -86,7 +86,7 @@ Level 1 uses a regular 120V outlet and delivers about 1.4 kW, adding maybe 4 to 
 
 Level 2 runs on a dedicated 240V circuit, typically 32 to 48 amps. A 32-amp unit delivers about 7.7 kW, roughly 25 miles of range per hour. A 48-amp charger like the [ChargePoint Home Flex](https://www.amazon.com/s?k=chargepoint+home+flex+level+2+charger) (affiliate link, site may earn a commission) hits 11.5 kW and fully charges most EV batteries in 4 to 8 hours overnight.
 
-Here's the catch: a 7.7 kW charger running 4 hours uses 30.8 kWh. That's often more than your entire system produces in a full day, especially winter. "Charging from solar in real time" is frequently marketing fluff. Unless your system is huge and you're charging at midday, you're really grid-assisted charging with solar offsetting total usage.
+The catch: a 7.7 kW charger running 4 hours uses 30.8 kWh. That's often more than your entire system produces in a full day, especially winter. "Charging from solar in real time" is often marketing fluff. Unless your system is huge and you're charging at midday, you're really grid-assisted charging with solar offsetting total usage.
 
 That's still genuinely valuable. Financially and environmentally. But know what's actually happening so you can design and operate the system intelligently.
 
@@ -106,7 +106,7 @@ Home consumption plus projected EV consumption.
 Input your roof's tilt, azimuth, and local climate. Get expected production for your location.
 
 **4. Check your electrical panel.**
-A 200-amp panel usually handles Level 2 charging and solar without upgrades. A 100-amp panel needs work. I've seen panel upgrades run $2,500 and eat into savings. Know this cost before signing.
+A 200-amp panel usually handles Level 2 charging and solar without upgrades. A 100-amp panel needs work. Panel upgrades typically run $2,500 and can eat into savings. Know this cost before signing.
 
 **5. Confirm your net metering policy.**
 Some utilities switched to "net billing" where they credit you wholesale rates (3 to 5 cents per kWh) for exported power but charge you retail (15 to 30 cents per kWh) for imports. If yours does this, oversizing your system loses money. Produce what you use.
@@ -150,7 +150,6 @@ The math is solid. The technology is proven. The federal tax credit window is op
 - [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
 - [ChargePoint Home Flex](https://www.amazon.com/s?k=chargepoint+home+flex+level+2+charger)
 - [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
