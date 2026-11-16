@@ -29,9 +29,7 @@ The Ford F-150 Lightning can power your house for up to 10 days on a single char
 
 Before we talk about pairing the Lightning with [solar panels](/can-condos-get-solar-panels/), let's be clear about what this truck already does on its own. The standard Lightning Pro comes with a 98 kWh battery. The extended-range pack bumps that to 131 kWh. For reference, the average U.S. household uses about 29 kWh per day, according to the U.S. Energy Information Administration. So yeah, 10 days is theoretically on the table if you're careful. More realistically, with normal consumption, you're looking at 3-5 days before you'd want a recharge source. That source, ideally, is your solar array.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The F-150 Lightning extended-range pack holds 131 kWh, enough for 3-5 days of average home use.</li><li style="margin:5px 0">Ford's Intelligent Backup Power requires a ~$3,895 Ford Charge Station Pro and a $1,310 home integration system.</li><li style="margin:5px 0">Pairing a 10-15 kW solar array with the Lightning eliminates the "recharge the truck" problem during extended outages.</li><li style="margin:5px 0">The 30% federal solar tax credit (ITC) applies to your solar installation but NOT to the truck purchase itself.</li><li style="margin:5px 0">Bidirectional charging (V2H) requires a dedicated transfer switch and licensed electrician work, plan $2,000-$4,500 for that piece alone.</li></ul></div>
-
 
 ## What "Home Backup" Actually Means for This Truck
 
@@ -45,8 +43,6 @@ The Pro Power Onboard outlets are simpler and cheaper but manual. You're essenti
 
 > **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's what most people don't realize: the Lightning doesn't have native bidirectional solar charging. You can't just plug your solar inverter output directly into the truck and call it done. The solar panels charge the house battery or feed the grid (depending on your setup), and the truck charges from the house system like any other load. The magic happens when you design the system so that during an outage, your solar keeps producing, feeds critical loads, and simultaneously trickles charge back into the Lightning so it doesn't drain down to zero over a week-long event.
 
 Getting this right requires a solar inverter that supports "grid-forming" or "islanding" capability. Standard string inverters shut down during an outage as a safety measure. You need either a hybrid inverter with backup functionality (brands like SolarEdge, Enphase, SMA, or Victron are what I'd be looking at) or a battery-buffered system. The Lightning's IBP system and your solar system need to be coordinated so they're not fighting each other for control of your panel. This is genuinely a design problem, not just a gear-buying problem, and I'd be skeptical of any installer who gives you a quote without a load calculation and a single-line diagram.
@@ -58,10 +54,6 @@ My experience with a client in Pflugerville, Texas: 10 kW solar array, SolarEdge
 This is where I see the most mistakes. People size their solar for normal daily production and assume it'll keep the truck topped up during an outage. It won't, not reliably, unless you account for winter sun hours and your actual daily load.
 
 The National Renewable Energy Laboratory (NREL) publishes solar irradiance data by ZIP code, and you should use it. A 10 kW system in Phoenix produces roughly 44 kWh per day on average. That same 10 kW system in Seattle produces closer to 27 kWh. If your household uses 35 kWh/day and you want to also recharge the truck, you need to account for charging efficiency losses too. The Lightning charges at roughly 80-85% efficiency, meaning for every 10 kWh you push into it, you recover about 8.5 kWh of usable power.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Daily solar output by region (10 kW system)</div><div class="sc-row"><span class="sc-label">Phoenix, AZ</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">44 kWh/day</span></div><div class="sc-row"><span class="sc-label">Dallas, TX</span><span class="sc-track"><span class="sc-bar" style="width:84%"></span></span><span class="sc-val">37 kWh/day</span></div><div class="sc-row"><span class="sc-label">Atlanta, GA</span><span class="sc-track"><span class="sc-bar" style="width:73%"></span></span><span class="sc-val">32 kWh/day</span></div><div class="sc-row"><span class="sc-label">Denver, CO</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">35 kWh/day</span></div><div class="sc-row"><span class="sc-label">Seattle, WA</span><span class="sc-track"><span class="sc-bar" style="width:61%"></span></span><span class="sc-val">27 kWh/day</span></div><div class="sc-row"><span class="sc-label">Boston, MA</span><span class="sc-track"><span class="sc-bar" style="width:66%"></span></span><span class="sc-val">29 kWh/day</span></div><div class="sc-src">Source: NREL PVWatts Calculator, 2025 averages</div></div>
-
 
 For home backup planning purposes, the Solar Energy Industries Association (SEIA) recommends sizing your backup-capable system for 120% of your average daily load. I'd go higher if grid outages in your area tend to be weather-related (winter or hurricane season), when solar production is also likely depressed.
 
@@ -111,7 +103,6 @@ To track how your solar and the truck interact day-to-day, a home energy monitor
 - [DSIRE (Database of State Incentives for Renewables & Efficiency)](https://www.dsireusa.org/): State-level solar incentive and rebate tracking, managed by NREL
 
 ---
-
 
 *Photo: [Harry Tucker](https://www.pexels.com/@harry-tucker-1863749148) via Pexels*
 

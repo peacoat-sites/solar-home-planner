@@ -47,12 +47,6 @@ The devil is in the contract terms. I've reviewed a dozen of these agreements ov
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated community solar subscribers by state (2025)</div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">310 subscrib</span></div><div class="sc-row"><span class="sc-label">Minnesota</span><span class="sc-track"><span class="sc-bar" style="width:63%"></span></span><span class="sc-val">195 subscrib</span></div><div class="sc-row"><span class="sc-label">Massachusetts</span><span class="sc-track"><span class="sc-bar" style="width:52%"></span></span><span class="sc-val">160 subscrib</span></div><div class="sc-row"><span class="sc-label">Illinois</span><span class="sc-track"><span class="sc-bar" style="width:45%"></span></span><span class="sc-val">140 subscrib</span></div><div class="sc-row"><span class="sc-label">Maryland</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">85 subscrib</span></div><div class="sc-row"><span class="sc-label">Colorado</span><span class="sc-track"><span class="sc-bar" style="width:23%"></span></span><span class="sc-val">72 subscrib</span></div><div class="sc-src">Source: SEIA State Community Solar Survey 2025</div></div>
-
-
 Minnesota was actually the first state to pass a community solar statute, back in 2013, and its program is still one of the best-run in the country. New York's NY-Sun program has the highest subscriber count largely because utilities there are mandated to facilitate enrollment. Illinois launched its Community Renewable Energy Act (CREA) program in 2022 and has been playing catch-up fast.
 
 If you're in a state without a formal shared solar program, it doesn't mean you have no options. Some utilities run their own opt-in green tariff programs that function similarly. Xcel Energy's Renewable*Connect is one example. They're usually less savings-focused and more about matching your consumption with renewable generation on paper, but they exist and they're real.
@@ -105,7 +99,6 @@ Also: if someone is cold-calling you about community solar and creating urgency 
 - Illinois Power Agency, Community Renewable Energy Act program documentation, 2026 enrollment data
 
 ---
-
 
 ---
 

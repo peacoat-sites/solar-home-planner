@@ -29,9 +29,7 @@ Three years ago I pulled up a homeowner's monitoring app in the middle of a site
 
 That's the thing about microinverter failures: they're sneaky. A [string inverter](/string-inverter-sizing-guide/) goes down and your whole system stops. Hard to miss. Microinverters fail one at a time, so the system keeps humming, your app still shows green, and the underperformance gets swallowed up in normal daily variation. I've seen systems limp along at 60% capacity for six months before anyone noticed. If you have Enphase IQ7s, SolarEdge optimizers, or any other module-level power electronics, you need to know what silent failure actually looks like.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A single failed microinverter typically costs $15-$40/month in lost production on a 350W panel.</li><li style="margin:5px 0">Most failures show up first in monitoring data, not visible damage, check your app weekly.</li><li style="margin:5px 0">Enphase microinverters carry a 25-year warranty; most failures under year 10 should be covered at zero cost.</li><li style="margin:5px 0">Heat stress and moisture ingress are the top two causes; improper installation accelerates both.</li><li style="margin:5px 0">Don't wait for zero output, intermittent dips below 60% of neighbors' panels is an early warning sign.</li></ul></div>
-
 
 ## What the monitoring data actually tells you
 
@@ -47,8 +45,6 @@ One thing that only makes sense once you've seen it in person: when you're looki
 
 > **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 You're not going to diagnose a failed microinverter by eyeballing it. But there are physical clues worth checking if you're already on the roof for another reason (and please, use proper fall protection, not flip flops and confidence).
 
 Burn marks or discoloration on the microinverter housing are a late-stage sign, meaning the unit probably already failed hard. Corrosion around the cable connectors, especially the MC4 connectors where they mate to the panel's leads, points to moisture ingress. A microinverter that's warm to the touch while neighboring units feel hot is actually potentially fine; one that's at ambient temperature during peak production hours when everything else is hot might have shut down entirely.
@@ -58,10 +54,6 @@ I don't have great data on failure rates by brand for units installed post-2023,
 ## Failure patterns and what they cost
 
 Not all microinverter failures look the same, and the financial hit varies a lot depending on how long the failure has been running undetected.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated monthly production loss per failed 350W panel</div><div class="sc-row"><span class="sc-label">1 failed unit (350W)</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">51 kWh</span></div><div class="sc-row"><span class="sc-label">3 failed units</span><span class="sc-track"><span class="sc-bar" style="width:43%"></span></span><span class="sc-val">153 kWh</span></div><div class="sc-row"><span class="sc-label">5 failed units</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">255 kWh</span></div><div class="sc-row"><span class="sc-label">7 failed units</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">357 kWh</span></div><div class="sc-src">Source: Morgan Johnson, field estimates based on 5-peak-sun-hour average and $0.14/kWh utility rate</div></div>
-
 
 Here's a scenario that plays out more often than it should:
 
@@ -108,7 +100,6 @@ The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/e
 - APsystems DS3 Installation and User Manual (2024): Warranty scope and exclusion terms for dual-module microinverters.
 
 ---
-
 
 *Photo: [Elite Power Group](https://www.pexels.com/@elite-power-group-661996115) via Pexels*
 

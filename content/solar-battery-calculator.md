@@ -12,13 +12,13 @@ tags: ["battery storage", "solar battery", "battery backup", "Powerwall", "home 
 image: "https://images.pexels.com/photos/9875441/pexels-photo-9875441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
-Adding battery storage to a solar system changes what solar can do for you. Instead of exporting excess power to the grid and buying it back at night, a battery lets you store that energy at home and use it when the sun is not shining — or when the grid goes down. The challenge most homeowners face is figuring out **how much battery capacity they actually need**.
+Adding battery storage to a solar system changes what solar can do for you. Instead of exporting excess power to the grid and buying it back at night, a battery lets you store that energy at home and use it when the sun is not shining, or when the grid goes down. The challenge most homeowners face is figuring out **how much battery capacity they actually need**.
 
 The answer is not always intuitive. A single 13.5 kWh Powerwall sounds like a lot, but if you run a window AC unit, a refrigerator, lights, and phone chargers during a two-day summer outage, you could easily need 30 to 40 kWh of storage. This calculator helps you size your battery system before you talk to installers.
 
 ## How Battery Sizing Works
 
-Battery capacity is measured in kilowatt-hours (kWh). But usable capacity is not the same as rated capacity. Lithium iron phosphate (LFP) and lithium nickel manganese cobalt (NMC) batteries are typically rated at 80 to 90% depth of discharge (DoD) — meaning you should not drain them completely if you want a long battery life.
+Battery capacity is measured in kilowatt-hours (kWh). But usable capacity is not the same as rated capacity. Lithium iron phosphate (LFP) and lithium nickel manganese cobalt (NMC) batteries are typically rated at 80 to 90% depth of discharge (DoD), meaning you should not drain them completely if you want a long battery life.
 
 The sizing formula is straightforward:
 
@@ -28,7 +28,7 @@ If you need 15 kWh per day for two days at 80% DoD, you need 37.5 kWh of install
 
 ## What Counts as a Critical Load?
 
-When we talk about critical loads in a battery context, we mean the appliances you genuinely cannot do without for 24 to 72 hours. Refrigerators are almost always on the list — a fridge running 24 hours uses roughly 1.5 kWh per day. Lighting adds another 0.3 to 0.5 kWh per day for LED bulbs. Medical equipment such as CPAP machines or home oxygen concentrators may add 0.5 to 2 kWh per day.
+When we talk about critical loads in a battery context, we mean the appliances you genuinely cannot do without for 24 to 72 hours. Refrigerators are almost always on the list, a fridge running 24 hours uses roughly 1.5 kWh per day. Lighting adds another 0.3 to 0.5 kWh per day for LED bulbs. Medical equipment such as CPAP machines or home oxygen concentrators may add 0.5 to 2 kWh per day.
 
 The biggest wildcard is air conditioning. A window AC unit running four to six hours uses 4 to 8 kWh per day. A central AC system can use 20 to 40 kWh per day. Many homeowners choose to run ceiling fans and open windows during outages rather than include AC in their battery sizing, which significantly reduces the number of batteries required.
 

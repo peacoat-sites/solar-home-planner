@@ -43,8 +43,6 @@ One more thing while we're in the panel: fused load centers. If your home still 
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's something I used to get wrong: I assumed that a roof that looked solid from the ground was solid enough for panels. The first time I got a drone inspection report back on a 1961 bungalow in Phoenix, the decking was a mix of 1x6 skip sheathing and later plywood patches, with some rafter tail rot that wasn't visible from outside. That roof needed $4,200 in carpentry before anyone put a single rack foot through it.
 
 Typical roof decking in these homes is 1x6 or 1x8 board sheathing, not the plywood or OSB you'll find in newer construction. It can support panels just fine, but solar racking manufacturers design their lag bolt specs for plywood. When you're going into board sheathing, your installer needs to locate and hit the rafters precisely, because the boards themselves don't provide the same pullout strength. Ask your installer specifically how they handle board sheathing. If they look at you blankly, find someone else.
@@ -95,10 +93,6 @@ One more worked example worth knowing:
 
 Reader in Savannah contacted me in early 2026, 1963 split-level in a local historic district → Company #1 quoted $18,400, never mentioned the historic district → Company #2 flagged the district issue, helped her apply for a Certificate of Appropriateness, proposed rear-yard ground mount at $22,100 → She got approval in 11 weeks, system installed, now generating 88% of her annual usage. Company #1 would've had her pulling an unpermittable permit on a protected structure.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical pre-work costs before solar: vintage vs. modern homes</div><div class="sc-row"><span class="sc-label">1950s-60s home (avg pre-work)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$9,400</span></div><div class="sc-row"><span class="sc-label">1970s-80s home (avg pre-work)</span><span class="sc-track"><span class="sc-bar" style="width:34%"></span></span><span class="sc-val">$3,200</span></div><div class="sc-row"><span class="sc-label">1990s-2000s home (avg pre-work)</span><span class="sc-track"><span class="sc-bar" style="width:9%"></span></span><span class="sc-val">$800</span></div><div class="sc-src">Source: Rachel Kim field estimates, July 2026</div></div>
-
-
 ## Sources
 
 - [U.S. Department of Energy, Homeowner's Guide to Going Solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar): Official overview of solar incentives, ITC eligibility, and installation considerations for residential homeowners.
@@ -107,7 +101,6 @@ Reader in Savannah contacted me in early 2026, 1963 split-level in a local histo
 - [Federal Pacific Electric / Stab-Lok Panel Documentation, ESFi (Electrical Safety Foundation International)](https://www.esfi.org/): Background on problematic panel brands common in mid-century homes.
 
 ---
-
 
 ---
 

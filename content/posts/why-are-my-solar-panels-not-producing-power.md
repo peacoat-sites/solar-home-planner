@@ -43,8 +43,6 @@ Also check your monitoring software. Enphase, SolarEdge, and SMA all offer apps 
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Your panels themselves almost never fail outright. The cells are solid-state, no moving parts, and quality panels carry 25-year production warranties. What does fail, more often than the industry likes to advertise, is the inverter.
 
 String inverters (one central box, usually in your garage or utility room) have a rated lifespan of 10 to 15 years. Microinverters mounted under each panel tend to last longer, but they can still fault out individually. A failed string inverter takes your entire system offline. A failed microinverter only kills one panel, which is why that architecture is actually better for diagnosing problems.
@@ -96,10 +94,6 @@ Current as of July 2026, based on installer pricing in mid-Atlantic and Southwes
 
 ## Production by month: setting realistic expectations
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average monthly solar production (kWh) for a 8 kW system, mid-Atlantic U.S.</div><div class="sc-row"><span class="sc-label">January</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">480 kWh</span></div><div class="sc-row"><span class="sc-label">March</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">720 kWh</span></div><div class="sc-row"><span class="sc-label">May</span><span class="sc-track"><span class="sc-bar" style="width:96%"></span></span><span class="sc-val">1,040 kWh</span></div><div class="sc-row"><span class="sc-label">July</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">1,080 kWh</span></div><div class="sc-row"><span class="sc-label">September</span><span class="sc-track"><span class="sc-bar" style="width:81%"></span></span><span class="sc-val">880 kWh</span></div><div class="sc-row"><span class="sc-label">November</span><span class="sc-track"><span class="sc-bar" style="width:52%"></span></span><span class="sc-val">560 kWh</span></div><div class="sc-src">Source: NREL PVWatts Calculator, typical meteorological year data</div></div>
-
-
 That July peak versus January baseline is a nearly 2x swing, and it catches a lot of new solar owners off guard. A system producing 400 kWh in February isn't broken. It might be performing exactly as modeled. Pull up your original installation proposal. It should include a monthly production estimate. If actual production is within 10% of that estimate, your system is likely fine. If you're 25% or more below the modeled number for multiple consecutive months, that's worth investigating.
 
 Three real scenarios I've personally walked through:
@@ -131,7 +125,6 @@ If your installer is still under their workmanship warranty (typically 5 to 10 y
 - NREL "Inverter Performance and Reliability" research: Underlying basis for inverter lifespan estimates and failure-mode frequency data.
 
 ---
-
 
 ---
 

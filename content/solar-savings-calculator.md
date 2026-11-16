@@ -29,7 +29,7 @@ For a 6 kW system in Texas (5.2 peak sun hours), that works out to roughly 9,110
 
 ## The 30% Federal Solar Tax Credit (ITC)
 
-The Inflation Reduction Act extended the Investment Tax Credit (ITC) at 30% through 2032. This is not a rebate — it reduces your federal income tax liability dollar for dollar. If your system costs $18,000, the ITC cuts your effective cost to $12,600. You claim it on IRS Form 5695 in the tax year your system is placed in service.
+The Inflation Reduction Act extended the Investment Tax Credit (ITC) at 30% through 2032. This is not a rebate, it reduces your federal income tax liability dollar for dollar. If your system costs $18,000, the ITC cuts your effective cost to $12,600. You claim it on IRS Form 5695 in the tax year your system is placed in service.
 
 The calculator applies the ITC to your gross system cost before calculating payback period. If you enter an installer quote, we use that. If you leave the quote field blank, we estimate system cost at $2,800 per installed kilowatt, which is close to the national average for a fully installed residential system in 2024 to 2025.
 
@@ -48,7 +48,7 @@ Many states also offer additional incentives: property tax exemptions, sales tax
 
 ## Getting the Most Accurate Estimate
 
-For the sharpest numbers, find your actual electricity rate on a recent utility bill rather than using the default. Your rate per kWh is usually listed in the usage summary section. Also consider getting at least three installer quotes before committing — prices vary by 20% or more between installers in the same market.
+For the sharpest numbers, find your actual electricity rate on a recent utility bill rather than using the default. Your rate per kWh is usually listed in the usage summary section. Also consider getting at least three installer quotes before committing, prices vary by 20% or more between installers in the same market.
 
 If you are also considering battery backup, check out our [solar battery sizing calculator](/solar-battery-calculator/) to estimate how much storage you need to cover your essential loads during an outage.
 

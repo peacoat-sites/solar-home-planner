@@ -31,9 +31,7 @@ I'll be honest: when I first started doing solar installs after years of residen
 
 The answer to whether it's "worth it" is real, but it's conditional. The conditions matter a lot.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">North-facing roofs produce ~30% less power annually than south-facing roofs in the continental U.S.</li><li style="margin:5px 0">In high-electricity-cost states (CA, MA, NY, CT), north-facing solar still frequently achieves payback under 12 years.</li><li style="margin:5px 0">Steeper pitches (over 30°) on north-facing roofs are significantly worse than low-pitch or flat orientations.</li><li style="margin:5px 0">With net metering intact, the production gap matters less than your utility's retail rate per kWh.</li><li style="margin:5px 0">Battery storage changes the calculus: less daily generation means you cycle more deeply, which can shorten battery lifespan.</li></ul></div>
-
 
 ## The Production Math
 
@@ -41,17 +39,11 @@ Let's get specific. The National Renewable Energy Laboratory's PVWatts calculato
 
 Now run that same scenario in Phoenix, Arizona. South-facing: approximately 10,400 kWh. North-facing: around 7,300 kWh. The percentage gap is similar, but the raw kilowatt-hours are higher in both cases because Arizona gets significantly more sun hours. This matters because at Phoenix's average residential rate of about $0.13/kWh (which is low by national standards), even the north-facing system is generating real bill savings.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">North-facing 6kW annual output by city (kWh)</div><div class="sc-row"><span class="sc-label">Phoenix AZ</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">7,300 kWh</span></div><div class="sc-row"><span class="sc-label">San Diego CA</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">6,800 kWh</span></div><div class="sc-row"><span class="sc-label">Denver CO</span><span class="sc-track"><span class="sc-bar" style="width:84%"></span></span><span class="sc-val">6,100 kWh</span></div><div class="sc-row"><span class="sc-label">Columbus OH</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">4,900 kWh</span></div><div class="sc-row"><span class="sc-label">Seattle WA</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">3,900 kWh</span></div><div class="sc-src">Source: NREL PVWatts estimates, July 2026</div></div>
-
-
 Seattle is where things get rough. Under 4,000 kWh annually from a north-facing 6 kW array, in a city that already has some of the worst solar irradiance in the lower 48. I've walked away from quoting north-facing installs in the Pacific Northwest more than once. The numbers just don't pencil.
 
 ## Tilt Angle Changes Everything
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is the detail that most online calculators gloss over. Roof pitch has an outsized effect on north-facing systems compared to south-facing ones.
 
@@ -107,7 +99,6 @@ Also worth checking: if you're in an HOA, some governing documents prohibit pane
 - Lawrence Berkeley National Laboratory, "Tracking the Sun" (annual report): Real transaction data on installed system costs and performance across U.S. residential solar.
 
 ---
-
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

@@ -31,9 +31,7 @@ I don't mean that metaphorically. A single tree branch shading one corner of one
 
 If you're reading this, you're probably somewhere in the early stages: maybe you've gotten a quote or two, maybe you've noticed that big oak on the south side of your house and you're wondering whether it matters. Here's what I tell people in that spot: the shade analysis is the single most important technical step in sizing a residential [solar system](/how-to-size-solar-system-for-ev/), and it's also the step most installers rush through or skip entirely when they're trying to close a sale fast.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Shade from even one obstruction can cut solar output 30-50%, making analysis the most critical pre-install step.</li><li style="margin:5px 0">Professional shade tools (Solmetric SunEye, Aurora Solar) have 2-5% error margins vs. 15-20% for eyeball estimates.</li><li style="margin:5px 0">Free tools like Google's Project Sunroof give a useful first pass, but they miss seasonal variation and localized obstructions.</li><li style="margin:5px 0">A proper shade analysis costs $0 (DIY with a $200 tool) to $500 for a professional site assessment.</li><li style="margin:5px 0">Microinverters and DC optimizers (like Enphase IQ8 or SolarEdge P370) can recover 15-25% of shade losses when positioned correctly.</li></ul></div>
-
 
 ## What a Shade Analysis Actually Measures
 
@@ -46,8 +44,6 @@ The SAV isn't one number for the whole roof, though. The south-facing slope behi
 ## The Tools, From Free to Serious
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me walk through what's actually out there, because the range is wide.
 
@@ -71,10 +67,6 @@ Let me walk through what's actually out there, because the range is wide.
 | Solmetric SunEye 210 | ~$1,500 new / ~$700 used | DIY or pro on-site analysis | ±2-5% | Full annual sky path |
 | Drone + LIDAR survey | $300-$600 professional | Complex roofs, heavy tree cover | ±2-4% | Excellent |
 | Eyeball estimate | Free | Nothing serious | ±20-40% | No |
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical shade analysis accuracy by tool type</div><div class="sc-row"><span class="sc-label">Eyeball Estimate</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">30 % error </span></div><div class="sc-row"><span class="sc-label">Google Project Sunroof</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">18 % error </span></div><div class="sc-row"><span class="sc-label">PVWatts (self-input)</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">10 % error </span></div><div class="sc-row"><span class="sc-label">Aurora Solar</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">5 % error </span></div><div class="sc-row"><span class="sc-label">Solmetric SunEye 210</span><span class="sc-track"><span class="sc-bar" style="width:10%"></span></span><span class="sc-val">3 % error </span></div><div class="sc-row"><span class="sc-label">Drone + LIDAR</span><span class="sc-track"><span class="sc-bar" style="width:10%"></span></span><span class="sc-val">3 % error </span></div><div class="sc-src">Source: Industry experience and installer testing, 2026</div></div>
-
 
 ## When the Numbers Get Complicated: Three Real Scenarios
 
@@ -104,7 +96,6 @@ One thing I'll say clearly: if your installer hands you a proposal without showi
 - NREL Technical Report: "Shading Losses in Solar PV Systems" (NREL/TP-6A20-xxx): Industry-referenced analysis of how partial shading affects string vs. module-level inverter systems
 
 ---
-
 
 *Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
 

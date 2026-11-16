@@ -31,9 +31,7 @@ I'll be honest: I came to ground mounts skeptical. My background is rooftop work
 
 What surprised me was how much the permitting and structural side trips people up relative to the actual wiring. The electrical is, in many ways, the simpler part if you have any background there. The civil side, footings, setbacks, soil conditions, that's where most DIYers get humbled.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">DIY ground mount labor savings often run $2,500–$5,000 compared to full contractor installs.</li><li style="margin:5px 0">Most jurisdictions require permits for ground mounts over 10 sq ft; always pull one before digging.</li><li style="margin:5px 0">Post depth depends on frost line: in Minnesota, you may need footings 54 inches deep.</li><li style="margin:5px 0">Galvanized steel racking from IronRidge or Unirac typically runs $0.15–$0.25 per watt for hardware.</li><li style="margin:5px 0">A 6kW DIY ground mount (12 x 500W panels) realistically takes 3–5 days for one experienced person.</li></ul></div>
-
 
 ## What You're Actually Building
 
@@ -46,8 +44,6 @@ For racking, IronRidge and Unirac are the two brands you'll see most on resident
 ## Permits and Setbacks: The Part That Bites People
 
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I don't know a single inspector who's going to wave through a ground mount without documentation. The Solar Energy Industries Association [notes that local permitting is one of the top cost drivers](https://www.seia.org/) for residential solar, and in my experience that's as true for DIY as it is for contractors.
 
@@ -105,10 +101,6 @@ The distance from your array to your main panel matters more than most people pl
 
 If your array is 150+ feet from the panel, use a licensed electrician for that wire run even if you do everything else yourself. The voltage drop math gets complicated fast, and an inspector will scrutinize that conduit run.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated DIY savings by system size (vs. contractor install)</div><div class="sc-row"><span class="sc-label">4kW system</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">$4,200</span></div><div class="sc-row"><span class="sc-label">6kW system</span><span class="sc-track"><span class="sc-bar" style="width:64%"></span></span><span class="sc-val">$6,100</span></div><div class="sc-row"><span class="sc-label">8kW system</span><span class="sc-track"><span class="sc-bar" style="width:82%"></span></span><span class="sc-val">$7,800</span></div><div class="sc-row"><span class="sc-label">10kW system</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$9,500</span></div><div class="sc-src">Source: Industry labor estimates, July 2026</div></div>
-
-
 ## Sources
 
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/): Industry data on permitting costs and residential solar installation trends
@@ -118,7 +110,6 @@ If your array is 150+ feet from the panel, use a licensed electrician for that w
 - NRCA/IBHS Frost Depth Map (2023 update): Regional soil frost line data for footing depth planning across US climate zones
 
 ---
-
 
 *Photo: [Hoan Ngọc](https://www.pexels.com/@hoan-ng-c-510735) via Pexels*
 

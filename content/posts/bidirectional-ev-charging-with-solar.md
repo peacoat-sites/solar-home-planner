@@ -47,8 +47,6 @@ For a solar home setup, V2H is where most people end up. It's practical today.
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's something I got wrong for about a year when I started looking into this: I assumed any EV + any charger could do this. That's completely false. Both the vehicle and the charging equipment have to support the bidirectional standard, and they have to match.
 
 Currently, the vehicles with real, deployable V2H or V2G capability (not just a "coming soon" firmware update) include the Ford F-150 Lightning, Ford Escape Plug-In Hybrid (limited), Nissan Leaf (older CHAdeMO models only, which is increasingly awkward), Hyundai Ioniq 5 and 6, Kia EV6, and the Genesis GV60. The Rivian R1T and R1S have Camp & Kitchen mode but that's V2L only. Tesla still doesn't support V2H or V2G as of this writing, despite having the most popular home battery product on the market, which I find genuinely frustrating.
@@ -91,10 +89,6 @@ For V2G, you're in interconnection agreement territory. That means utility notif
 
 One thing that catches people: some utility tariffs have clauses about exporting from "storage devices" that weren't on the original interconnection agreement. Your EV battery might technically qualify. Worth one phone call to your utility's interconnection department before you buy anything.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated annual savings with V2H + solar by scenario</div><div class="sc-row"><span class="sc-label">V2L only</span><span class="sc-track"><span class="sc-bar" style="width:6%"></span></span><span class="sc-val">$120</span></div><div class="sc-row"><span class="sc-label">V2H, no solar</span><span class="sc-track"><span class="sc-bar" style="width:15%"></span></span><span class="sc-val">$280</span></div><div class="sc-row"><span class="sc-label">V2H + solar, poor TOU</span><span class="sc-track"><span class="sc-bar" style="width:29%"></span></span><span class="sc-val">$540</span></div><div class="sc-row"><span class="sc-label">V2H + solar, good TOU</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">$1,240</span></div><div class="sc-row"><span class="sc-label">V2G + solar, utility program</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,850</span></div><div class="sc-src">Source: Tom Bradley field estimates, July 2026</div></div>
-
-
 ## Battery Degradation: The Honest Part
 
 You're probably thinking: if I'm cycling my EV battery as a home storage device every day, won't I wear it out faster? This is a fair concern and the answer is "somewhat, yes, but probably less than you fear."
@@ -114,7 +108,6 @@ If this is a major concern for your situation, a dedicated home battery (LFP che
 - [Wallbox, Quasar 2 Technical Specifications](https://wallbox.com/): Installer and homeowner documentation for CCS bidirectional charger.
 
 ---
-
 
 ---
 

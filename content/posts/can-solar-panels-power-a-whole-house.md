@@ -31,9 +31,7 @@ Yes, solar panels can power a whole house. In practice, whether they *do* depend
 
 I've sized systems for everything from a 900-square-foot bungalow in Phoenix to a 3,400-square-foot house in western Washington with a heat pump, an EV, and a hot tub. The process is the same; the numbers are wildly different.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A typical U.S. home uses 10,500 kWh/year; a properly sized system (8-12 kW) can offset 90-100% of that.</li><li style="margin:5px 0">Battery storage is what determines true whole-home coverage at night, not just panel count.</li><li style="margin:5px 0">Shading, roof orientation, and local utility rates change the math more than most installers admit.</li><li style="margin:5px 0">System cost runs $18,000-$35,000 installed before the 30% federal tax credit (current as of July 2026).</li><li style="margin:5px 0">Net metering policies vary by state and utility; in some markets they've gotten significantly worse since 2023.</li></ul></div>
-
 
 ## What "powering a whole house" actually means
 
@@ -47,8 +45,6 @@ So when I say a system can "power a whole house," I mean it can offset 100% of a
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) puts U.S. average household consumption at about 10,500 kWh per year. Divide that by your location's peak sun hours (available in NREL's PVWatts calculator, which I use on every single project), account for a 15-20% system efficiency loss from inverter conversion, wiring, and temperature derating, and you get your required panel wattage.
 
 A rough formula: Annual kWh needed / (365 days × peak sun hours) × 1.2 efficiency factor = system size in kW.
@@ -56,10 +52,6 @@ A rough formula: Annual kWh needed / (365 days × peak sun hours) × 1.2 efficie
 For a house in Dallas (5.5 peak sun hours): 10,500 / (365 × 5.5) × 1.2 = roughly 6.3 kW. In Portland, Oregon (4.0 peak sun hours): 10,500 / (365 × 4.0) × 1.2 = roughly 8.6 kW. Same house, same usage, 37% more panel capacity required. That's not a marginal difference.
 
 Here's what I got wrong early in my career: I used average annual sun hours instead of seasonal production curves. A system sized for Portland's annual average will chronically underperform November through February, when cloud cover is persistent and days are short, and over-produce in July. If you're on good net metering, that seasonal imbalance washes out over 12 months. If you're not, you need either more panels or more batteries.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">System size needed to cover 10,500 kWh/year by city</div><div class="sc-row"><span class="sc-label">Phoenix, AZ</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">5.8 kW</span></div><div class="sc-row"><span class="sc-label">Dallas, TX</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">6.3 kW</span></div><div class="sc-row"><span class="sc-label">Denver, CO</span><span class="sc-track"><span class="sc-bar" style="width:73%"></span></span><span class="sc-val">6.9 kW</span></div><div class="sc-row"><span class="sc-label">Chicago, IL</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">8.1 kW</span></div><div class="sc-row"><span class="sc-label">Portland, OR</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">8.6 kW</span></div><div class="sc-row"><span class="sc-label">Seattle, WA</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">9.4 kW</span></div><div class="sc-src">Source: NREL PVWatts estimates, July 2026</div></div>
-
 
 ## Real costs, right now
 
@@ -101,7 +93,6 @@ A practical example: a 3-bedroom house in rural Vermont, no natural gas, all-ele
 - [U.S. Department of Energy, Homeowner's Guide to the Federal Tax Credit for Solar](https://www.energy.gov/eere/solar/homeowners-guide-federal-tax-credit-solar-photovoltaics): Current credit rate and eligible expenses, 2026
 
 ---
-
 
 *Photo: [Melike  B](https://www.pexels.com/@mlkbnl) via Pexels*
 

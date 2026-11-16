@@ -29,9 +29,7 @@ Most solar advice assumes you're sizing a system for a 2,400-square-foot house w
 
 I'll be honest: I used to tell people that [going solar](/going-solar-without-the-30-tax-credit-what-it-actually-costs-now/) on a small home was almost always worth it. I believed that. Then I started doing more consultations on sub-1,000-square-foot homes and kept finding the same uncomfortable pattern: payback periods stretched out longer than expected, roof space was the binding constraint rather than budget, and a surprising number of homeowners ended up oversized because contractors defaulted to their standard three-bedroom system package. So I went deep on this. What I found challenges a lot of what's floating around out there.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A small house typically needs 3-6 panels (1.2–2.4 kW) to cover most of its load, not the 10-panel systems often quoted.</li><li style="margin:5px 0">Roof size and shading matter more than budget on sub-1,000 sq ft homes ,  many have less than 300 sq ft of usable south-facing space.</li><li style="margin:5px 0">Payback period on a properly sized small system runs 6–9 years today, longer if the contractor oversizes you.</li><li style="margin:5px 0">The 30% federal tax credit applies regardless of system size ,  a $6,000 install still earns an $1,800 credit.</li><li style="margin:5px 0">Renters and those with HOA restrictions have viable options: community solar subscriptions can cut bills 10–15% with zero installation.</li></ul></div>
-
 
 ## How Much Power Does a Small House Actually Use?
 
@@ -44,8 +42,6 @@ What surprised me was how rarely installers actually do this calculation with th
 ## The Roof Problem Nobody Talks About
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's the constraint that bites small homeowners hardest. You might have only 400 square feet of total roof area, and after accounting for setbacks (most jurisdictions require 18 inches minimum from the ridge line and rakes, and that's a real rule the inspector enforces during final), shading from neighboring trees or a chimney, and suboptimal orientation, your usable south-facing space might be 150–220 square feet.
 
@@ -77,10 +73,6 @@ If you lose power twice a year for 12 hours each time, the math on $7,500 in bat
 
 Where batteries do make sense on small homes: if you're in a state like California or Nevada where net metering has been significantly reduced (California's NEM 3.0 pays exported power at roughly 25–75% less than the retail rate, depending on time of day), then self-consuming your solar via a battery starts penciling out. The Solar Energy Industries Association (SEIA) has been tracking this shift state by state, and it's genuinely changed the math in a handful of markets.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated payback period by system size (small home, 400 kWh/mo avg)</div><div class="sc-row"><span class="sc-label">1.6 kW (no battery)</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">9.2 years</span></div><div class="sc-row"><span class="sc-label">2.4 kW (no battery)</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">8.1 years</span></div><div class="sc-row"><span class="sc-label">3.2 kW (no battery)</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">9.8 years</span></div><div class="sc-row"><span class="sc-label">2.4 kW + battery</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">18.4 years</span></div><div class="sc-src">Source: Industry estimates, August 2026</div></div>
-
-
 ## Permits, HOAs, and the Paperwork Nobody Warns You About
 
 Small home doesn't mean small bureaucracy. Every grid-tied system in the U.S. requires a permit, an inspection, and utility interconnection approval. The U.S. Department of Energy's homeowner solar guide lays out the general framework, but the real variation is local.
@@ -100,7 +92,6 @@ For a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=)
 - Lawrence Berkeley National Laboratory, *Tracking the Sun* report: Annual dataset on installed solar system costs by state, system size, and sector.
 
 ---
-
 
 *Photo: [Ollie Craig](https://www.pexels.com/@olliecraig1) via Pexels*
 
