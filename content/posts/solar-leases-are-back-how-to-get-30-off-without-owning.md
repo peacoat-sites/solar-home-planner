@@ -1,6 +1,7 @@
 ---
 title: "Solar Leases Are Back: How to Get 30% Off Without Owning"
 date: 2026-07-18T23:24:38.030211+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Solar Leases Are Back: How to Get 30% Off Without Owning. Discover affordable solar options without purchasing. Learn lease benefits and savings today."
 image: "/img/heroes/29206488.jpg"

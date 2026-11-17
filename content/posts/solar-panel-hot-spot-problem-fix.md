@@ -23,7 +23,7 @@ faqs:
    a: "They don't prevent the underlying thermal event, but they dramatically reduce the string-level production loss from a partially shaded or failing panel. They also give you panel-level monitoring, which means you catch hot spots faster. Earlier detection means less thermal cycling and less cumulative cell damage."
  - q: "How often should I check my panels for hot spots?"
    a: "A visual inspection once or twice a year is reasonable for most climates. If you're in a high-dust or high-bird-activity area, every few months. If your system has monitoring, set a monthly alert for any panel running more than 10% below its string average. Catching it in June rather than October can mean the difference between a $15 diode fix and a panel replacement."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Hot spots kill solar panels quietly. No alarm goes off, no warning light blinks, you just watch your production numbers slowly bleed out while a cell or two on one panel bake themselves into permanent failure. A hot spot that goes undetected for years can reduce a panel's output by 15-20%.

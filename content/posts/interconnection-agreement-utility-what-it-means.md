@@ -23,7 +23,7 @@ faqs:
    a: "Your solar installer handles this in the vast majority of residential cases. It's part of the permitting and utility coordination process they're supposed to manage. If a contractor tells you to submit it yourself, that's unusual and worth asking about."
  - q: "What if the utility denies my interconnection application?"
    a: "Denials happen, usually for one of three reasons: the local grid circuit is at capacity for distributed generation, the application had errors, or the system doesn't meet technical requirements. Capacity-based denials are harder to fight, though an appeal process exists in most states. Technical or paperwork denials are usually fixable with a resubmission."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most solar articles spend three paragraphs explaining net metering and skip the document that actually controls whether you can use it. The interconnection agreement is that document, and most homeowners sign it without reading a word.

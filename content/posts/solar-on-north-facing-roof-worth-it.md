@@ -1,6 +1,7 @@
 ---
 title: "North Facing Solar Panels: 30% Less Efficient Than South?"
 date: 2026-07-15T23:29:37.016888+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn if north-facing solar panels are worth installing. See efficiency rates, cost comparisons, and when they make financial sense."
 image: "/img/heroes/9875411.jpg"

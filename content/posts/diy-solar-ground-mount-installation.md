@@ -1,6 +1,7 @@
 ---
 title: "DIY Solar Ground Mount Installation: Step-by-Step Guide"
 date: 2026-07-23T23:30:02.239044+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to install a solar ground mount yourself. Step-by-step instructions, tools needed, and expert tips for a secure foundation setup."
 image: "/img/heroes/6961122.jpg"

@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You got your solar quote in early 2023, felt pretty good about the numbers, and then your installer mentioned something about "NEM 3.0" in passing, like it was a footnote. Six months later you're reading your neighbor's utility bill and wondering why their solar system seems to be performing so differently from yours, even though you bought similar setups. That's NEM 3.0 doing its thing, and if nobody has sat down and explained it to you plainly, that's a real problem, because it changes the math on residential solar in California more than anything in the last decade.
 

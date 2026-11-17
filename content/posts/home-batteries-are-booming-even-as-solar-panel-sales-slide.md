@@ -1,6 +1,7 @@
 ---
 title: "Home Batteries Are Booming Even as Solar Panel Sales Slide"
 date: 2026-08-10T23:05:47.981201+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Home battery systems surge in popularity while solar panel installations decline. Explore the trends reshaping residential energy storage and why homeowners are"
 image: "/img/heroes/20046691.jpg"

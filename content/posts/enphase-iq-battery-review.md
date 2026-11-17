@@ -1,6 +1,7 @@
 ---
 title: "Enphase IQ Battery Review: Performance and Reliability"
 date: 2026-07-31T23:29:15.880977+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Comprehensive review of the Enphase IQ battery system, covering features, efficiency, installation, and real-world performance for home energy storage."
 image: "/img/heroes/27355839.jpg"

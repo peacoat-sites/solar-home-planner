@@ -1,6 +1,7 @@
 ---
 title: "Solar Installer Warranty: What 80% of Homeowners Don't Know"
 date: 2026-07-21T23:30:17.732880+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand what solar installer warranties actually cover. Learn protection limits, exclusions, and how to maximize your coverage for long-term savings."
 image: "/img/heroes/12243093.jpg"

@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners spend more time researching a $600 dishwasher than a $25,000 solar system. A common mistake is signing a contract after a single sales pitch, then discovering months later that the electricity bill barely moved. Getting solar quotes isn't just about finding the lowest price. It's about gathering enough structured information to make a comparison that actually means something.
 

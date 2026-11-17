@@ -1,6 +1,7 @@
 ---
 title: "SolarEdge Nexis Just Hit the US Market: What Homeowners Should Know"
 date: 2026-07-15T23:27:41.288653+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "SolarEdge Nexis is now available in the US. Learn what homeowners need to know about this new solar inverter technology, pricing, benefits, and installation req"
 image: "/img/heroes/12444980.jpg"

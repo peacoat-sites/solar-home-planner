@@ -1,6 +1,7 @@
 ---
 title: "Best Solar Monitoring Systems for Off-Grid Living"
 date: 2026-08-13T23:12:12.831920+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare top solar monitoring solutions designed for off-grid systems. Track battery health, power generation, and consumption in real time."
 image: "/img/heroes/8853509.jpg"

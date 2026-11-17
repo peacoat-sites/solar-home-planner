@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 The federal solar tax credit gets all the headlines, but it's completely useless if you don't owe enough in federal taxes to claim it. Low-income homeowners are sometimes pitched a 30% "discount" that they may never actually claim, because their tax situation wasn't assessed first. That single detail, the difference between a refundable and non-refundable credit, disqualifies a huge slice of the people who need solar savings the most.
 

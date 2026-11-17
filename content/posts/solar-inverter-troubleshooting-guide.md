@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most solar inverter problems aren't actually inverter problems. That's the thing nobody tells you upfront, and I learned it the hard way after spending three hours on a roof in July convinced I had a failed SMA Sunny Boy, only to trace the fault back to a loose MC4 connector that cost about forty cents to fix.
 

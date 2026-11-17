@@ -1,6 +1,7 @@
 ---
 title: "Solar Installer Background Checks: What Companies Must Verify"
 date: 2026-08-04T23:32:42.375369+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what background checks solar installers need, why they matter for homeowners, and what to expect during the vetting process."
 image: "/img/heroes/33379360.jpg"

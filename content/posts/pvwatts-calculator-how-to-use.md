@@ -1,6 +1,7 @@
 ---
 title: "PVWatts Calculator: Use 9.6 kW Systems to Estimate Solar Output"
 date: 2026-07-20T23:30:17.811970+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to use PVWatts calculator to estimate your solar panel system's energy production and savings with real-world examples."
 image: "/img/heroes/11645008.jpg"

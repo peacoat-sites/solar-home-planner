@@ -23,7 +23,7 @@ faqs:
     a: "SolarEdge optimizers do per-panel DC power optimization but still feed a single central inverter. Microinverters convert DC to AC at each panel individually. Both handle shading better than a basic string inverter, but microinverters eliminate a single point of failure for the whole array. Optimizers cost less and are easier to service; microinverters offer slightly more redundancy."
   - q: "Can I install a solar inverter myself?"
     a: "In most jurisdictions, connecting a grid-tied inverter requires a licensed electrician and a utility interconnection permit. The installation itself isn't technically exotic for someone with electrical background, but skipping the permit means your system won't qualify for net metering or tax incentives, and your homeowner's insurance likely won't cover it. Some hybrid and off-grid inverters in a battery-only configuration have more flexibility, but anything grid-tied: get the permit."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your inverter will outlast most of the other decisions you make on your solar project, and most people spend about four minutes researching it. Many homeowners spend weeks choosing a panel brand, then accept whatever inverter the installer recommends without much scrutiny. That's backwards. Panels are commodities at this point. Inverters are where the real differences live.
 

@@ -1,6 +1,7 @@
 ---
 title: "Solar Without the 30% Tax Credit: What Homeowners Can Still Get"
 date: 2026-07-26T23:28:24.577748+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Solar Without the 30% Tax Credit: What Homeowners Can Still Get. Explore alternative incentives, rebates, and financing options available to homeowners consider"
 image: "/img/heroes/6814522.jpg"

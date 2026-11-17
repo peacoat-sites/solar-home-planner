@@ -23,7 +23,7 @@ faqs:
     a: "Use your inverter's monitoring app and compare output on clear days over time. A consistent underperformance of one panel or one string relative to its neighbors on sunny days is your signal. Visual inspection from the ground is not reliable enough for anything except obvious bird fouling."
   - q: "Is there a solar panel coating that reduces how often I need to clean?"
     a: "Yes, hydrophobic coatings exist, and some panel manufacturers apply them at the factory. Aftermarket versions like Rain-X variants formulated for solar glass are available, though long-term data on how much they actually reduce cleaning frequency is mixed. They help most in moderate-dust environments where rain is still doing much of the work."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most cleaning advice for solar panels is either so conservative it's useless ("clean them twice a year!") or written by someone trying to sell you a cleaning service contract. Here's what actually matters.
 

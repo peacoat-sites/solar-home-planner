@@ -1,6 +1,7 @@
 ---
 title: "Solar System Design: 8 Key Considerations for Your Home"
 date: 2026-07-20T23:32:56.686407+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Plan your solar installation wisely. Learn the critical design factors that impact efficiency, cost, and long-term performance of residential solar systems."
 image: "/img/heroes/9875683.jpg"

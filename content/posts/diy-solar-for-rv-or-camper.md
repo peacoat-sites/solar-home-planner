@@ -23,7 +23,7 @@ faqs:
    a: "Your roof panels will charge anytime there's sun, driving or not. Many people also add a DC-DC charger (like the Victron Orion-Tr Smart) to charge the house battery from the alternator while driving. That's a separate circuit from solar and a smart addition if you do a lot of daytime driving between campsites."
  - q: "How do I keep my panels clean enough to perform well?"
    a: "Dust and grime can cut output by 10-25% over a season. A simple rinse with water and a soft brush handles most of it. Avoid abrasive cleaners. If you want a proper kit, there are dedicated solar panel cleaning tools that attach to a garden hose and work well without scratching the glass."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A friend texted me a photo last spring: a brand-new 200-watt panel zip-tied to his camper roof, wires hanging loose, no fuse anywhere in sight. "I watched three YouTube videos," he said. "Should be fine, right?" It was not fine. He melted a wire harness two days into a desert trip and spent an afternoon in Flagstaff waiting for an auto parts store to open.

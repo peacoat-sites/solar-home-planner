@@ -1,6 +1,7 @@
 ---
 title: "Solar Panels for Mid-Century Homes: Retrofitting 1950s-60s Houses"
 date: 2026-07-13T23:25:51.124603+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to install solar panels on older homes from the 1950s and 1960s. Structural considerations, roof compatibility, and modern solutions for vintage house"
 image: "/img/heroes/6493442.jpg"

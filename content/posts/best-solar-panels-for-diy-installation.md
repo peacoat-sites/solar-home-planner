@@ -23,7 +23,7 @@ faqs:
     a: "The honest answer: most panels from reputable manufacturers will still produce meaningful power at 25-30 years. Degradation rates are typically 0.5-0.7% per year, so a panel producing 410W at install produces roughly 370-380W at year 25. The inverter will almost certainly fail before the panels do, usually around year 10-15."
   - q: "Is it worth buying used solar panels for a DIY system?"
     a: "Rarely. Used panels have unknown degradation history, voided manufacturer warranties, and often non-standard connectors. The price gap between used and new has narrowed enough that it's hard to justify the risk unless you can test each panel with a clamp meter before purchase and you're doing a non-permitted off-grid build."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most "best solar panels" articles are written by people who've never been on a roof. They rank modules by efficiency percentage and wattage as if those numbers tell you anything useful about actually installing the things yourself. They don't.

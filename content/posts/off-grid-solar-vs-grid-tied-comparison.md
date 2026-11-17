@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 When comparing quotes for solar installation, you'll often hear two conflicting pitches: one company promises a grid-tied system with a shiny app and a $0 electric bill, while another pushes off-grid independence without discussing real tradeoffs. Choosing between off-grid and grid-tied solar isn't just a technical decision. It's a lifestyle decision, a budget decision, and depending on where you live, sometimes a legal one.
 

@@ -23,7 +23,7 @@ faqs:
     a: "They should, and a good one will show you production estimates that reflect it. But not all will, especially if they're compensating for poor orientation by upsizing the system. Always ask for a PVWatts or Aurora Solar report showing projected annual kWh before signing anything."
   - q: "Is a ground-mount solar system a good alternative to a north-facing roof install?"
     a: "Often, yes. Ground mounts add $0.25 to $0.75 per watt to installation costs, but you get full orientation control, easier cleaning access, and no roof penetrations. If you have even a modest open area in your yard with southern exposure, it's worth pricing out before committing to a compromised rooftop install."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Three years ago, a homeowner in Asheville, North Carolina called me in a panic. She'd already signed a contract with a solar installer who'd told her, flat out, that her north-facing roof was "fine." I pulled up her address on Google Maps satellite view before she even finished the sentence. The main roof slope faced almost due north. I told her to pause the contract. She was about 10 days away from a $28,000 mistake.

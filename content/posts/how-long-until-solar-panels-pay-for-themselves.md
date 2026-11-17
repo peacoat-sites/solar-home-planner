@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most solar quotes you'll see online toss out "6 to 12 years" like it means something. It doesn't, not without knowing your utility rate, your roof's solar access, your state's [net metering policy](/community-solar-how-it-works/), and what you actually paid for the system. A homeowner in Massachusetts paying $0.29/kWh who got a $2,000 cash incentive from their utility might break even in 7 years. The same system on a house in Idaho at $0.10/kWh might take 14. Same panels, wildly different math.
 

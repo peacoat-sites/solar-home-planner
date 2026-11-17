@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You bought your condo with solar in mind. The roof exposure is perfect, your utility bills are painful, and you've watched your neighbor in the single-family house next door cut their electric bill by 80 percent. Then you ask your HOA about installing panels, and suddenly you're in a committee meeting being told it's "not that simple." They're right, honestly. But that doesn't mean it's impossible.
 

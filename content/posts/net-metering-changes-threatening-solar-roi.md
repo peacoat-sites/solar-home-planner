@@ -23,7 +23,7 @@ faqs:
     a: "Ask the installer to show you a scenario where the export rate drops to $0.04 to $0.06/kWh (the low-end 'avoided cost' rate that several states now use) and recalculate the payback period from there. If the system still pencils out within 15 years under that conservative assumption, you have a more durable investment. If it only works at current retail export rates, you're taking on policy risk."
   - q: "Are there solar financing structures that reduce my exposure to net metering changes?"
     a: "A fully owned system (cash or loan) gives you the most flexibility to adapt as policies change, because you control the hardware. PPAs and leases lock you into a third-party arrangement where the solar company captures the export credits, which may or may not be favorable depending on future rate environments. I generally recommend ownership unless the upfront cost is genuinely prohibitive."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 The rate your utility pays you for excess power matters as much as the panels themselves. Many people assume net metering is a settled policy, but the framework can shift and affect projected returns significantly. It's worth verifying the current export rate with your utility rather than assuming it matches the consumption rate you pay.

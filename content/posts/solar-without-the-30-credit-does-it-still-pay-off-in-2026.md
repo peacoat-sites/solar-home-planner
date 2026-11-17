@@ -1,6 +1,7 @@
 ---
 title: "Solar Without the 30% Credit: Does It Still Pay Off in 2026"
 date: 2026-07-09T23:45:03.661928+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Wondering if solar panels are worth it without the 30% tax credit in 2026? Explore costs, savings, and payback periods to make an informed decision."
 image: "/img/heroes/9875679.jpg"

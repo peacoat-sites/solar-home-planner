@@ -1,6 +1,7 @@
 ---
 title: "Why Your Electric Bill Is Still High With Solar Panels"
 date: 2026-07-08T23:38:22.262277+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Solar panels but still paying too much? Discover the most common reasons your electric bill stays high and what you can do to fix it fast."
 image: "/img/heroes/9875442.jpg"

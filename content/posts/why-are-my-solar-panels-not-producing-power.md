@@ -1,6 +1,7 @@
 ---
 title: "20% Power Loss? Why Solar Panels Stop Producing"
 date: 2026-07-09T23:47:29.565847+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the most common reasons your solar panels aren't producing power and how to fix them fast before losing hundreds in energy savings."
 image: "/img/heroes/6961122.jpg"

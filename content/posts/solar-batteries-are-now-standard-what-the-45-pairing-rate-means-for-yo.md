@@ -12,7 +12,7 @@ author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
 slug: "solar-batteries-are-now-standard-what-the-45-pairing-rate-means-for-yo"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you've been putting off the solar decision, or you got a quote last year and set it aside, you might be wondering whether the math still works without that 30% federal tax credit. That's a fair question, and it's where a lot of homeowners are sitting right now. Here's what I tell people: the game has genuinely changed, but not necessarily in the way you'd expect.
 

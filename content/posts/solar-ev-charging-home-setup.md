@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You bought the EV first. Or maybe you're about to. And now someone, a neighbor, a coworker, a YouTube rabbit hole at midnight, has convinced you that free solar charging is possible. It is. But it's not as simple as bolting panels to your roof and plugging in the car.
 

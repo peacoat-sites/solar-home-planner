@@ -1,6 +1,7 @@
 ---
 title: "SolarEdge Nexis Just Launched in the US: What Homeowners Should Know"
 date: 2026-07-12T23:24:32.129209+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "SolarEdge Nexis is now available in the US. Learn about this innovative home energy system, its features, benefits, and what it means for homeowners considering"
 image: "/img/heroes/36594160.jpg"

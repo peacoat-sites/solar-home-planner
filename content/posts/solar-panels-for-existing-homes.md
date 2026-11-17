@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your electric bill arrives in July, and it's $340. Central AC running, a couple teenagers, maybe a home office humming all day. You glance at the neighbors' roof, see those panels gleaming, and think: *could I actually do that?* The answer's yes. But there's a canyon between "thinking about solar" and "having a system that actually saves you money," and most installers won't walk you through it honestly. Let's fix that.
 

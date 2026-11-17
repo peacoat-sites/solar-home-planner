@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You just got three solar bids back. One's $28,000, another's $19,500, the last one's $23,000. The cheapest one looks tempting. But here's what nobody tells you: they might not even be quoting the same system. Different panel brands, different inverter types, different warranty terms, different assumptions about your roof's actual usable space. Without a framework, comparing solar bids is like comparing grocery receipts where one store lists items by weight and another by volume. Apples to mangoes. Installers know this.
 

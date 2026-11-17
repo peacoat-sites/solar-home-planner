@@ -1,6 +1,7 @@
 ---
 title: "Solar Inverter Error Codes: What They Mean and How to Fix Them"
 date: 2026-08-12T23:09:45.562975+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Decode common solar inverter error codes and learn what each one indicates about your system's performance and maintenance needs."
 image: "/img/heroes/18306342.jpg"

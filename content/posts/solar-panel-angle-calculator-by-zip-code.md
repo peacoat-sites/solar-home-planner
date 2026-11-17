@@ -1,6 +1,7 @@
 ---
 title: "Solar Panel Angle Calculator: Find Your Optimal Tilt by Zip Code"
 date: 2026-07-14T23:24:48.069809+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Calculate the best solar panel angle for your location using your zip code. Maximize energy production with precision angle recommendations."
 image: "/img/heroes/12224996.jpg"

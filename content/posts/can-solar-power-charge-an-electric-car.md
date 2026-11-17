@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've just leased a new EV and watched your electric bill jump $80 higher than last month. Your neighbor casually mentions their solar panels cover most of their car charging. Now you're stuck in a spreadsheet, calculating kilowatt-hours, inverter sizes, and whatever "[net metering](/solar-ev-charging-cost-savings/)" actually means. I've walked through this math with dozens of homeowners, and the answer is straightforward: yes, solar can absolutely charge your EV. The trap most people fall into is sizing wrong. Too small and you're still writing checks to the utility. Too big and you're looking at a 12-year payoff instead of 7. Let me show you how to actually get this right.
 

@@ -1,6 +1,7 @@
 ---
 title: "DIY Solar Installation: Legal Requirements You Must Know"
 date: 2026-07-28T23:29:20.491017+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover permit requirements, inspection rules, and regulations for installing solar panels yourself. Know the legal steps before you start."
 image: "/img/heroes/38041368.jpg"

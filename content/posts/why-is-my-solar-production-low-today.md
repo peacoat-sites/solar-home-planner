@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You checked your monitoring app this morning and your system produced 4.2 kWh yesterday when it normally does 28. Now you're second-guessing every decision you made signing those installation contracts. I've been there, and I've gotten this panicked message from readers more times than I can count. The good news: low production is almost never the disaster it feels like in the moment. The bad news: finding the root cause requires actually looking at a few different things, not just refreshing the app and hoping the number changes.
 

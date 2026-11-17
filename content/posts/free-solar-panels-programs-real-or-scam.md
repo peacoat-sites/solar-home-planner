@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've seen the ads. "Get solar panels installed on your home for FREE." Maybe it was a Facebook post, a mailer with a suspiciously professional logo, or a neighbor who swears she's getting solar at zero cost. And now you're sitting here wondering if you missed something, or if the whole thing is a trap.
 

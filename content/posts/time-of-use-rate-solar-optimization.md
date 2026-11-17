@@ -1,6 +1,7 @@
 ---
 title: "Save $1,200 Yearly: Time of Use Rates With Solar"
 date: 2026-08-02T23:28:39.745268+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Optimize your solar system for time of use electricity rates. Learn how to maximize savings during peak pricing hours."
 image: "/img/heroes/20433881.jpg"

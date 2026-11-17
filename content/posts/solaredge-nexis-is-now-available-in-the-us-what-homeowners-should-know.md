@@ -1,6 +1,7 @@
 ---
 title: "SolarEdge Nexis Is Now Available in the US: What Homeowners Should Know"
 date: 2026-07-13T23:28:21.194448+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "SolarEdge Nexis hybrid inverter is now available in the US. Learn how this advanced technology can maximize your solar energy storage and home power independenc"
 image: "/img/heroes/4792512.jpg"

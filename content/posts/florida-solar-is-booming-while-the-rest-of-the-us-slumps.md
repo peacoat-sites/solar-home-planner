@@ -1,6 +1,7 @@
 ---
 title: "Florida Solar Is Booming While the Rest of the US Slumps"
 date: 2026-07-29T23:30:14.620961+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Florida's solar industry is thriving as installations surge statewide, while solar growth slows across the rest of the United States. Discover why."
 image: "/img/heroes/6961110.jpg"

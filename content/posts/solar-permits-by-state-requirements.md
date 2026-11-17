@@ -1,6 +1,7 @@
 ---
 title: "Solar Permits by State: Requirements & Process"
 date: 2026-08-03T23:34:19.677325+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Navigate solar permitting requirements across states. Learn what documentation, fees, and timelines you'll need before installing residential solar panels."
 image: "/img/heroes/12243093.jpg"

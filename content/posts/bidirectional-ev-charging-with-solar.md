@@ -1,6 +1,7 @@
 ---
 title: "Bidirectional EV Charging With Solar: Power Your Home Both Ways"
 date: 2026-07-14T23:27:07.095500+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how bidirectional EV charging combined with solar panels lets you store energy, reduce grid dependency, and power your home during outages."
 image: "/img/heroes/27355835.jpg"

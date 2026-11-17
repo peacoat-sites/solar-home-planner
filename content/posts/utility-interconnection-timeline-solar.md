@@ -1,6 +1,7 @@
 ---
 title: "Solar Interconnection Takes 183 Days: What Delays Your System"
 date: 2026-07-30T23:31:38.731252+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Solar interconnection timelines can stretch 183 days. Learn what causes delays and how to speed up utility approval for your installation."
 image: "/img/heroes/9875415.jpg"

@@ -23,7 +23,7 @@ faqs:
    a: "Sizing matters more for system safety and production. But brand affects reliability, warranty support, and monitoring quality. SMA, Fronius, and SolarEdge have strong long-term track records in the U.S. residential market. Be cautious with lesser-known brands that can't demonstrate installed base and service infrastructure."
  - q: "Why does my installer's proposal show a different panel count than I calculated?"
    a: "String sizing constraints often dictate the final panel count more than your energy goals do. If you need exactly 10 panels per string to hit the voltage window on a specific inverter, you might end up with 20 panels instead of 19, or 18 instead of 19. The inverter's MPPT operating range and max input specs are frequently the binding constraint."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most homeowners spend weeks comparing solar panels and almost no time thinking about the inverter. That's backwards. The inverter is where your system can quietly bleed efficiency for years, and [string inverter sizing](/microinverter-vs-string-inverter-comparison/) is the piece that trips up even experienced installers.

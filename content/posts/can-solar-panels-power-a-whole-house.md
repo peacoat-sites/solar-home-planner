@@ -1,6 +1,7 @@
 ---
 title: "Can Solar Panels Power a Whole House? What You Need to Know"
 date: 2026-07-16T23:24:13.619069+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn whether solar panels can power an entire home, what factors affect coverage, and how to determine your home's solar needs."
 image: "/img/heroes/20433881.jpg"

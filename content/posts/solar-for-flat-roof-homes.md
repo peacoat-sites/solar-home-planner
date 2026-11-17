@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've got a flat roof and you're thinking about solar. Maybe a contractor already told you it's "complicated" or quoted you a price that felt suspiciously high. Flat roofs are actually one of the better candidates for solar installation when it's done right. Unlike a steep pitched roof where panel angle is locked in by the structure, a flat roof gives you control. You can orient panels for maximum production, point them true south, dial in the tilt angle for your latitude, and space them to avoid self-shading. The "complication" most installers mention is real, but it's manageable, and understanding it puts you in a much stronger negotiating position.
 

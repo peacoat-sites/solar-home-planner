@@ -23,7 +23,7 @@ faqs:
     a: "No, and this is a real limitation. As of 2026, roughly 20 states have meaningful community solar markets. Many states in the Southeast and parts of the Midwest have little to no community solar development due to utility opposition and state policy gaps. Check your state's energy office or EnergySage's community solar map for current availability."
   - q: "Do I need good credit to subscribe to community solar?"
     a: "Most community solar providers do a soft credit check, but requirements are generally less stringent than solar loans or leases. Some programs specifically target low-to-moderate income households with additional discounts. If rooftop financing isn't available to you due to credit, community solar is often still accessible."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners treat "going solar" as a single binary decision: put panels on the roof, or don't. That framing misses half the picture, and it's costing people real money.
 

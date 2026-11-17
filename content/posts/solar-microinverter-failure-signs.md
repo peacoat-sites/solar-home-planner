@@ -1,6 +1,7 @@
 ---
 title: "5 Warning Signs Your Solar Microinverter Is Failing"
 date: 2026-08-07T01:37:27.511820+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to spot a failing solar microinverter before it stops producing power. Common signs, what they mean, and when to call for repair."
 image: "/img/heroes/38171120.jpg"

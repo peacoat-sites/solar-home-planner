@@ -1,6 +1,7 @@
 ---
 title: "Solar for Seniors: How to Go Solar on a Fixed Income"
 date: 2026-07-17T23:17:40.321095+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore affordable solar options for senior citizens on fixed incomes, including financing programs, tax credits, and installation assistance."
 image: "/img/heroes/8791184.jpg"

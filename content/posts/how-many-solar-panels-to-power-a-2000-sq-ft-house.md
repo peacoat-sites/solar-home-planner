@@ -1,6 +1,7 @@
 ---
 title: "How Many Solar Panels Does a 2000 Sq Ft House Need?"
 date: 2026-07-10T23:28:01.342406+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Find out exactly how many solar panels power a 2000 sq ft home, what affects the count, and how to size your system for maximum savings."
 image: "/img/heroes/29206488.jpg"

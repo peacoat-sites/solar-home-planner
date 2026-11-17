@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Installation Expert"
 author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 The Tesla Powerwall 3 starts at $9,200 before installation. That number gets quoted constantly. What rarely gets mentioned is that by the time a licensed electrician pulls the permit, runs conduit, installs a new load center or gateway, and the utility signs off on interconnection, you're realistically looking at $12,000 to $16,000 for a single unit in most U.S. markets. Sometimes more. Installation costs can reach $18,500 in high-cost markets like California for a single Powerwall 3 with a modest panel system attached, even when the installer is pricing fairly.
 

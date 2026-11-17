@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Here's something most solar installers won't tell you upfront: the best solar programs in the country aren't the ones advertised on late-night TV. They're the ones buried in state utility commission filings and county housing authority websites that most homeowners never find.
 

@@ -23,7 +23,7 @@ faqs:
     a: "Yes, Panasonic's EverVolt warranty is transferable to subsequent homeowners, which adds real value if you sell before the warranty expires. Make sure your installer registers the panels with Panasonic at installation (not all do this automatically) and keep the documentation. A transferable 25-year warranty is a legitimate selling point on a home."
   - q: "What's the realistic payback period for EverVolt panels?"
     a: "It depends heavily on your electricity rate, local sun hours, and whether you're comparing against a budget panel or a mid-tier Tier 1. In high-rate markets (California, Massachusetts, Hawaii), total system payback including installation typically runs 7 to 10 years. The premium you pay for EverVolt over a mid-tier alternative may take 15 to 25 years to recover through extra production alone, so the financial case strengthens when you factor in the full warranty period and plan to stay in the home."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Panasonic makes really good solar panels. That's not the whole story, but it's a reasonable starting point for anyone considering options.

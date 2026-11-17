@@ -11,7 +11,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 There's something satisfying about looking up at a two-story home and knowing those rooftop panels are quietly powering the dishwasher, the air conditioner, the kids' gaming setups, everything. Two-story homes are actually some of the best candidates for solar, and if you've been hesitant, this guide walks you through roof suitability, system sizing, installation realities, and what you'll realistically save.
 

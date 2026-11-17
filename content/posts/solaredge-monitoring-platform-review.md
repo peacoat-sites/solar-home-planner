@@ -23,7 +23,7 @@ faqs:
     a: "Expect a 2-5% variance between SolarEdge-reported production and your utility's net meter reading. This is common across inverter-based monitoring, not unique to SolarEdge. If you're billing or reconciling against net metering credits, use your utility meter as the authoritative number."
   - q: "Can I grant my installer or a third party access to monitor my system?"
     a: "Yes. SolarEdge allows site sharing, and installers with a professional SolarEdge account can add your system to their fleet monitoring dashboard. You control this through the monitoring portal's site settings. If you want your installer to proactively flag issues, confirm they're actually monitoring and ask what their alert response process looks like."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 My first SolarEdge installation was a 7.2 kW system on a split-level in suburban Columbus, and I'll be honest: I oversold the monitoring platform to the homeowner. I told her it was "like having a window into every panel." That's technically true. What I didn't tell her was that window occasionally fogs up, sometimes shows the wrong view, and every so often just refuses to open.

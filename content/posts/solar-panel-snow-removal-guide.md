@@ -1,6 +1,7 @@
 ---
 title: "Solar Panel Snow Removal: Safe Methods That Protect Your System"
 date: 2026-07-25T23:29:36.073146+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to safely remove snow from solar panels without causing damage. Practical techniques to maintain winter energy production."
 image: "/img/heroes/15922991.jpg"

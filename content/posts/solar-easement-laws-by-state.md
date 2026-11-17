@@ -1,6 +1,7 @@
 ---
 title: "Solar Easement Laws: Protection in 38 States"
 date: 2026-07-17T23:15:13.824757+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how solar easement laws protect your right to sunlight across 38 states. Requirements, restrictions, and what homeowners need to know."
 image: "/img/heroes/27863809.jpg"

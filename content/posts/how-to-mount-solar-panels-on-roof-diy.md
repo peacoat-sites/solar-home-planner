@@ -1,6 +1,7 @@
 ---
 title: "DIY Solar Panel Mounting: Save $600-$1,400 Installing Yourself"
 date: 2026-08-14T22:48:11.733874+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to mount solar panels on your roof as a DIY project. Step-by-step guide covering materials, tools, and installation techniques for homeowners."
 image: "/img/heroes/38041368.jpg"

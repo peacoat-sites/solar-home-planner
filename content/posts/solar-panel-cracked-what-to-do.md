@@ -12,7 +12,7 @@ author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 slug: "solar-panel-cracked-what-to-do"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A cracked solar panel is one of those things that looks worse than it sometimes is, and also sometimes way worse than it looks.
 

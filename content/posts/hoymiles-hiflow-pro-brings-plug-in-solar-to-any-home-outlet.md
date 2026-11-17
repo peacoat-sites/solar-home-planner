@@ -1,6 +1,7 @@
 ---
 title: "Hoymiles HiFlow Pro Brings Plug-In Solar to Any Home Outlet"
 date: 2026-07-21T23:28:00.428237+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Hoymiles HiFlow Pro makes solar energy accessible with plug-in installation to standard home outlets. Learn how this innovative system works and its benefits."
 image: "/img/heroes/13963757.jpg"

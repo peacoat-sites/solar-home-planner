@@ -1,6 +1,7 @@
 ---
 title: "50% More Solar Power: How Shade Analysis Maximizes Your Panels"
 date: 2026-07-18T23:26:58.112333+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how shade analysis tools optimize solar panel placement and efficiency. Discover real data on solar performance gains and installation costs."
 image: "/img/heroes/16427010.jpg"

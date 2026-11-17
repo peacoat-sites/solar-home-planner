@@ -23,7 +23,7 @@ faqs:
    a: "The same day if possible, but no later than 24-48 hours. Many policies have reporting windows, adjusters schedule faster when called early, and timely documentation is far more defensible than documentation gathered weeks later."
  - q: "Can I get compensated for lost solar production while my system is being repaired?"
    a: "Only if your policy specifically includes a production loss endorsement, which most standard homeowner's policies don't. It's worth asking your agent whether that rider is available, especially if your system offsets a large portion of your electricity costs."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A softball-sized hailstone can crack tempered glass. Most homeowners don't realize hail risk until after a storm, when dark spots appear on panels. Hail damage and insurance claims can be complex to navigate.

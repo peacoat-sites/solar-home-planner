@@ -1,6 +1,7 @@
 ---
 title: "Do Solar Panels Work in Winter? What You Need to Know"
 date: 2026-07-08T23:36:00.166219+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Solar panels do produce power in winter, but how much? Learn what affects output in cold months and how to keep your system running efficiently."
 image: "/img/heroes/5987512.jpg"

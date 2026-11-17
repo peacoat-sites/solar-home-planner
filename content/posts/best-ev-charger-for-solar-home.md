@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've got solar panels on the roof, a new EV in the driveway, and you're realizing these two things don't automatically talk to each other the way you hoped. Maybe your installer mentioned something about "solar-aware charging" and you nodded along. Maybe you've just been plugging into a regular outlet and watching your electricity bill stay stubbornly high despite all that sunshine. Either way, you're not imagining the problem. Matching your EV charger to your solar system is one of the most consequential decisions you'll make for your home energy setup, and most people get almost zero useful guidance on it.
 

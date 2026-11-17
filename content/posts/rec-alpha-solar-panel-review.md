@@ -1,6 +1,7 @@
 ---
 title: "REC Alpha Solar Panels: 430W Output Reviewed"
 date: 2026-07-12T23:27:06.104360+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "REC Alpha solar panel review covering 430W output, efficiency ratings, and 2026 performance projections for residential installations."
 image: "/img/heroes/9800003.jpg"

@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A salesperson sits across your kitchen table, tablet in hand, promising you'll eliminate your electric bill and pay for the whole system in seven years. The numbers look great. The rep is friendly. And you're about to sign a contract worth $25,000 or more without asking a single hard question. The solar industry has real, reputable contractors in it, but it also has high-pressure closers who disappear after installation day. Knowing which questions to ask, and when to ask them, is the only thing standing between you and a decision you'll regret for the next 20 years.
 

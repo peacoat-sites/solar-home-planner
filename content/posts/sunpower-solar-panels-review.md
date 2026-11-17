@@ -1,6 +1,7 @@
 ---
 title: "SunPower Solar Panels: 25-Year Warranty & 80% Efficiency"
 date: 2026-08-11T23:11:34.751259+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "SunPower solar panels deliver industry-leading efficiency and durability. Compare performance specs, warranty coverage, and real-world costs."
 image: "/img/heroes/9875416.jpg"

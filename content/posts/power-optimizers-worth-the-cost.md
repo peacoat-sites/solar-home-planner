@@ -1,6 +1,7 @@
 ---
 title: "Power Optimizers Worth the Cost: $1,500-$3,200 Analysis"
 date: 2026-08-08T22:56:10.027683+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Determine if power optimizers justify their $1,500-$3,200 cost. Compare efficiency gains and long-term savings for your solar system."
 image: "/img/heroes/33379360.jpg"

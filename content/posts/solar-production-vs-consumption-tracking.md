@@ -1,6 +1,7 @@
 ---
 title: "Solar Production vs Consumption: Track Your Energy Balance"
 date: 2026-07-19T23:26:58.021367+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Monitor your solar energy generation and household consumption in real time. Learn how to track production vs usage for maximum efficiency."
 image: "/img/heroes/30879395.jpg"

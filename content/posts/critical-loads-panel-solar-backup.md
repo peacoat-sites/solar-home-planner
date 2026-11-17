@@ -23,7 +23,7 @@ faqs:
    a: "The battery inverter will either throttle output or trip an overcurrent protection device on the critical loads panel, depending on the inverter model. You won't damage the battery, but you might trip a breaker and lose power to those circuits until you reset it and reduce the load."
  - q: "Do I need a separate permit for the critical loads panel versus the solar and battery permit?"
    a: "Usually it's covered under a single permit application for the entire solar-plus-storage system, but this varies by jurisdiction. Some municipalities issue separate electrical permits for the subpanel work. Ask your installer to confirm what permits they're pulling before work starts, and verify with your local building department if they can't give you a straight answer."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most homeowners shopping for solar-plus-storage think "backup" means the whole house stays on. It doesn't. What you actually get with a standard battery install, unless someone specifically sets up a critical loads panel, is a dead house during an outage even if you have a fully charged battery sitting right there in your garage. For example, without a critical loads panel, a fully charged battery won't power the house during a grid outage. Many installers don't explain this distinction upfront.

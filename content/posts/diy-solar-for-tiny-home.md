@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Analyst"
 author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 I parked a 200-square-foot tiny home on rural Tennessee land once (well, helped a friend do it), and the power company quoted $18,000 to run a line to the property. A generator would've burned through $200 a month in fuel alone. That's when solar stopped being optional and became the only math that worked. I've talked to a dozen tiny home owners in exactly that spot. They went solar, recouped their install costs in under three years, and never looked back. If you're building or already living in a tiny home, DIY solar isn't just a fun weekend project. It might be the smartest financial decision you make about your entire build.
 

@@ -12,7 +12,7 @@ author_title: "Solar Finance Analyst"
 author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
 slug: "enphase-iq9n-microinverter-what-gan-technology-means-for-your-roof"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners shopping for solar right now assume the inverter is the boring part of the decision. Pick a brand, check the warranty, move on. That changed when Enphase dropped the IQ9N on June 23, 2026, and the technology inside it demanded closer attention.
 

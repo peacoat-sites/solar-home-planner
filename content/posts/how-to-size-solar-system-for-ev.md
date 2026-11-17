@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar Specialist"
 author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A common mistake in solar-plus-EV planning is starting the conversation backwards. They buy the car first, get the charging equipment installed, then call a solar installer and say something like "I want to offset my electricity bill." The installer quotes them a system based on their current usage, and six months later they're wondering why their net metering credit disappeared and their bill is climbing again. The EV wasn't in the equation. That one oversight can mean undersizing your system by 30 to 50 percent.
 

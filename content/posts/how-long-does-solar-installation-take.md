@@ -1,6 +1,7 @@
 ---
 title: "Solar Installation Takes 10 to 20 Days: What to Expect"
 date: 2026-08-05T23:28:41.645215+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how long solar panel installation actually takes, from permits to final inspection. Most residential systems are completed in 10-20 days."
 image: "/img/heroes/22032343.jpg"

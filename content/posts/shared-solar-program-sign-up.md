@@ -1,6 +1,7 @@
 ---
 title: "43 States Offer Shared Solar: How to Sign Up Today"
 date: 2026-07-11T23:23:44.068561+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to join a shared solar program in your area, save on electricity bills, and start benefiting from community solar with no panels required."
 image: "/img/heroes/4254158.jpg"

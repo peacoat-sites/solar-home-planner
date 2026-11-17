@@ -23,7 +23,7 @@ faqs:
    a: "The standard guidance is two to three days of autonomy without solar input. In practice, I'd lean toward three days if you're in a cloudy climate or using the system year-round. For a sunny, dry climate with predictable winters, two days of storage is usually enough."
  - q: "Will a 30-amp charge controller work for a 400-watt system?"
    a: "Usually yes, with caveats. A 30-amp MPPT controller on a 24V battery bank can technically handle about 720 watts of panels. On a 12V bank, it's rated to about 360 watts, so a 400W array on 12V would be slightly over spec. Either wire your panels into a 24V system, or bump up to a 40-amp controller if you're staying at 12V. The Epever Tracer 4210AN (40A) runs about $75 to $85 and is a solid budget option."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A common misconception is that off-grid solar is plug-and-play. Many people think you buy some panels, a battery, an inverter, and suddenly you're living free from the utility company. In reality, undersized systems often can't handle basic loads like running a refrigerator overnight. So let's talk about what an off-grid system actually needs to function, before you buy a single panel.

@@ -1,6 +1,7 @@
 ---
 title: "Tesla Powerwall and EV Charging: How to Optimize Both"
 date: 2026-08-09T22:58:59.265050+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to use Tesla Powerwall with EV charging, manage power demand, and maximize energy independence for your home and vehicle."
 image: "/img/heroes/12554289.jpg"

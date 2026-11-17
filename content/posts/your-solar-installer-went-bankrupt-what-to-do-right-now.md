@@ -12,7 +12,7 @@ author_title: "Solar Consultant"
 author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
 slug: "your-solar-installer-went-bankrupt-what-to-do-right-now"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 If you bought solar through Freedom Forever, you already know something is wrong. Maybe your installer stopped returning calls. Maybe your system never got its final inspection. Or maybe you just saw the headlines: Freedom Forever, the company that Solar Power World ranked as the #1 residential solar contractor in the country in 2025, filed for Chapter 11 bankruptcy on April 15, 2026 (case 26-10522, D. Del.) with liabilities estimated between $500 million and $1 billion. They were operating in more than 30 states. Hundreds of thousands of homeowners are now in some version of the same situation, and the honest answer to "what do I do?" is more complicated than anyone wants to admit.
