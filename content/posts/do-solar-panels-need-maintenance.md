@@ -53,8 +53,6 @@ DIY cleaning is simple: use plain water and a soft brush, do it in the early mor
 | Shade assessment | Annually | Yes, visual | N/A | As trees grow or neighbors build |
 | String inverter replacement | Per failure (typically 10-15 years) | No | $2,000-$4,000 | End of inverter lifespan |
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Forget cleaning for a second. The maintenance item that genuinely matters and that almost nobody talks about enough is monitoring.
 
 Modern grid-tied systems, whether you're running Enphase microinverters, SolarEdge with optimizers, or a string inverter from SMA or Fronius, all come with monitoring apps. Check them. Not obsessively, but at least monthly. You're looking for panels that are suddenly producing significantly less than their neighbors, error codes that won't clear, or overall system output that's drifted noticeably below what you were seeing this time last year under similar weather conditions.

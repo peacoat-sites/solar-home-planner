@@ -43,8 +43,6 @@ The SAV isn't one number for the whole roof, though. The south-facing slope behi
 
 ## The Tools, From Free to Serious
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me walk through what's actually out there, because the range is wide.
 
 **Google Project Sunroof** is the starting point most people find first. It pulls satellite imagery and combines it with 3D modeling of local terrain to estimate your roof's solar potential. It's genuinely useful as a first pass. According to Google's own documentation, Project Sunroof uses weather data from NREL (the National Renewable Energy Laboratory) and accounts for regional cloud cover patterns. What it doesn't catch well: tree canopy that's grown since the satellite image was taken, neighbors' structures at close range, or your specific chimney and HVAC equipment placement. In heavily treed suburban neighborhoods, it can overestimate a home's usable roof area by 20 percent.

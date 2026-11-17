@@ -39,8 +39,6 @@ Buying still wins over 25 years if you finance at a decent rate and your install
 
 ## The Battery Question Is No Longer Optional
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Something else happened quietly in Q1 2026: batteries stopped being an add-on and became the default package. The solar-plus-storage attachment rate hit 45% in Q1 2026, up from 38% just a year prior, according to the ACP and Wood Mackenzie US Energy Storage Monitor released June 23, 2026. Residential battery installations hit 1.3 GWh in Q1 alone, up 86% year-over-year.
 
 The lease-and-battery bundle is driving a lot of this. Under 48E, storage co-located with solar qualifies for the same credit structure, so installers are packaging them together and pitching the whole system as a single discounted product. Aurora Solar's 2026 Solar Snapshot found that only 3% of solar-engaged homeowners have no interest in adding a battery, and nearly a third of installers expect more than 75% of their 2026 projects to include storage. When virtually nobody is saying no to batteries, the industry stops asking and just includes them.
@@ -70,10 +68,10 @@ The post-credit market isn't bad for homeowners. It's just different. The compan
 ## Sources
 
 - [Electrek: If you still want that 30% solar tax credit, the panic date is July 4](https://electrek.co/2026/06/04/if-you-still-want-that-30-solar-tax-credit-the-new-panic-date-is-july-4/) (June 4, 2026)
-- [Kora Power: Home Battery Boom 2026 ,  What the Q1 Record Means for You](https://korapower.com/blogs/education/battery-boom-2026-residential-storage-economics) (late June 2026)
+- [Kora Power: Home Battery Boom 2026, What the Q1 Record Means for You](https://korapower.com/blogs/education/battery-boom-2026-residential-storage-economics) (late June 2026)
 - [PV Tech: US residential solar to see short-term pain, long-term growth](https://www.pv-tech.org/us-residential-solar-to-see-short-term-pain-long-term-growth/) (July 15, 2026)
 - [Utility Dive: US sees record Q1 2026 energy storage installations amid rosy outlook](https://www.utilitydive.com/news/us-sees-record-q1-2026-energy-storage-installations-amid-rosy-outlook/823547/) (late June 2026)
-- [Aurora Solar: Solar energy storage in 2026 ,  everything you need to know](https://aurorasolar.com/home-solar/blog/energy-101/storing-solar-energy-everything-you-need-to-know) (May 8, 2026)
+- [Aurora Solar: Solar energy storage in 2026, everything you need to know](https://aurorasolar.com/home-solar/blog/energy-101/storing-solar-energy-everything-you-need-to-know) (May 8, 2026)
 - [SEIA: Solar Market Insight Report Q2 2026](https://seia.org/research-resources/solar-market-insight-report-q2-2026/) (July 2026)
 
 *Photo: [Stefan de Vries](https://www.pexels.com/@sdvmovies) via Pexels*

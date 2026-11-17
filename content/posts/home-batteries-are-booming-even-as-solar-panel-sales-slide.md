@@ -30,8 +30,6 @@ What most people don't realize is that many homeowners with existing solar syste
 
 ## The New Math: Does a Standalone Battery Still Make Sense?
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where you need to sit down and actually run the numbers for your situation, because the answer genuinely varies by state. The states driving the battery boom are ones with strong local incentives: California's SGIP program, New York's Con Edison and PSEG storage rebates, Texas net metering policy shifts that punished daytime solar exporters, and several others. Bloomberg specifically noted state incentives as the primary accelerant in their July 1 report.
 
 Here's a simplified comparison of the main paths a homeowner is looking at right now:

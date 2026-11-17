@@ -79,8 +79,6 @@ Capacitor bulging is visible when you open the unit, and it's a death sentence f
 
 For systems with battery backup, add-on DC-coupled battery systems like the FranklinWH aPower or the SolarEdge Energy Bank add complexity because now you have two inverter units that need to communicate. Fault isolation gets harder. Always check whether the battery management system has its own fault code before assuming the solar inverter is at fault.
 
-> **Helpful resource:** [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20) *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The honest takeaway from years of troubleshooting these systems: patience and methodical thinking solve most inverter issues without a service call. The error codes are breadcrumbs, not verdicts. Follow them back to the source before you spend money.
 
 ## Sources

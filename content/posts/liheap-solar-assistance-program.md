@@ -43,8 +43,6 @@ What doesn't get covered anywhere: labor-only contracts with no equipment compon
 
 ## Who Qualifies
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The federal income floor is 150% of the Federal Poverty Level or 60% of your state's median income, whichever is higher. That's a meaningful distinction. In Massachusetts, 60% of state median income pushes the qualifying threshold to around $56,000 for a family of three, which is higher than 150% FPL would get you. Know which benchmark your state uses.
 
 Beyond income, states add their own filters for solar-specific benefits. Common ones:

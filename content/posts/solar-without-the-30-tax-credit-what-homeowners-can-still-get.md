@@ -32,8 +32,6 @@ That said, for renters-turned-homeowners with no [federal tax](/solar-batteries-
 
 ## The Buy vs. Lease Math Has Shifted
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Before December 31, 2025, the standard advice was almost always: buy if you can, because the 30% credit made ownership the clear financial winner for anyone with sufficient tax appetite. That calculus is more complicated now.
 
 | Factor | Cash/Loan Purchase (2026) | Lease / PPA (2026) |
@@ -72,11 +70,11 @@ Find an installer who'll give you a quote broken down without assuming any feder
 
 ## Sources
 
-- [The Green Watt: Solar Tax Credit 2026 ,  The Federal Credit Expired](https://www.thegreenwatt.com/solar-tax-credit/) (July 12, 2026)
-- [NuWatt: Solar Tax Credit 2026 ,  How Homeowners Still Get 30% (Lease/PPA)](https://nuwattenergy.com/en/solar-tax-credit-2026) (June 15, 2026)
+- [The Green Watt: Solar Tax Credit 2026, The Federal Credit Expired](https://www.thegreenwatt.com/solar-tax-credit/) (July 12, 2026)
+- [NuWatt: Solar Tax Credit 2026, How Homeowners Still Get 30% (Lease/PPA)](https://nuwattenergy.com/en/solar-tax-credit-2026) (June 15, 2026)
 - [SEIA Solar Market Insight Report Q2 2026](https://seia.org/research-resources/solar-market-insight-report-q2-2026/) (July 2026)
 - [Utility Dive: US Sees Record Q1 2026 Energy Storage Installations](https://www.utilitydive.com/news/us-sees-record-q1-2026-energy-storage-installations-amid-rosy-outlook/823547/) (June 23, 2026)
-- [GreenLancer: Solar Tax Credit 2025 ,  What Changed in 2026?](https://www.greenlancer.com/post/solar-tax-credit-ending) (July 2026)
+- [GreenLancer: Solar Tax Credit 2025, What Changed in 2026?](https://www.greenlancer.com/post/solar-tax-credit-ending) (July 2026)
 - [Solar Insure: Final Changes to Solar Tax Credit from the One Big Beautiful Bill](https://www.solarinsure.com/final-changes-to-solar-tax-credit-from-h-r-1) (June 23, 2026)
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

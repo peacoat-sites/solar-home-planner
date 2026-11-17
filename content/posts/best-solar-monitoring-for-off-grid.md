@@ -43,8 +43,6 @@ One thing that trips up almost everyone: voltage is not the same as state of cha
 
 ## The Main Platforms, Compared Honestly
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me give you the realistic field view here, because the marketing materials for all of these are pretty optimistic.
 
 **Victron VRM + Cerbo GX** is the ecosystem most serious off-grid installers use. The Cerbo GX (~$189) acts as a communication hub, pulling data from Victron components via VE.Can or VE.Direct and pushing it to the free Victron Remote Monitoring (VRM) portal. You get historical graphs, configurable alerts via email or SMS, remote inverter control, and a genuinely clean interface. The catch: it works best with an all-Victron system. You can add non-Victron devices, but it requires extra adapters and some patience.

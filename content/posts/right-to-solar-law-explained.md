@@ -59,8 +59,6 @@ Texas passed Senate Bill 1938 in 2021, which made solar restrictions by HOAs une
 
 States with weaker protections? They simply allow HOAs to "reasonably regulate" solar without defining what reasonable means. That ambiguity is a lawyer's playground.
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you live in an HOA community, read up on [HOA solar panel rules](/hoa-solar-panel-rules/) before you get a single quote. The rules vary dramatically by state, and your CC&Rs may impose requirements you don't expect. If you're wondering whether your HOA can actually deny your application outright, the answer in most states is no. But check the full breakdown on [whether an HOA can deny solar panels](/can-hoa-deny-solar-panels/) to be sure.
 
 ## How Solar Access Rights Work in Practice

@@ -43,8 +43,6 @@ For racking, IronRidge and Unirac are the two brands you'll see most on resident
 
 ## Permits and Setbacks: The Part That Bites People
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I don't know a single inspector who's going to wave through a ground mount without documentation. The Solar Energy Industries Association [notes that local permitting is one of the top cost drivers](https://www.seia.org/) for residential solar, and
 
 Here's what you'll typically need:

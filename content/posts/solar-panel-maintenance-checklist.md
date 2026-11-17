@@ -54,8 +54,6 @@ What you're hunting for in the data: a gradual, system-wide decline of more than
 | System-wide output decline | Monthly (review data) | High | Investigate if >10-15% drop year-over-year |
 | Single panel underperformance | Monthly (review data) | High | Check for failing inverter, shading, or degradation |
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Twice a year is the right cadence for most climates. I do mine in late spring (after pollen season wraps up) and again in late fall before the winter sets in. Heavy bird activity, lots of dust, or pine trees overhead? Go quarterly.
 
 **Dirt, dust, and organic debris.** Bird droppings are the culprit. A single dropping sitting on a cell causes something called "[hot spotting](/solar-panel-hot-spot-problem-fix/)" where that cell gets dramatically hotter than the rest of the panel and can eventually damage it permanently. Regular dust reduces output, but it's forgiving. Pollen, though, is stubborn after rain because it bonds with moisture and bakes in the sun. If your panels look yellow-green in spring, that's pollen, and it won't rinse off as easily as you'd hope.

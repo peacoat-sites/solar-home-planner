@@ -30,7 +30,7 @@ Metal roofs and [solar panels](/how-long-until-solar-panels-pay-for-themselves/)
 The good news: metal roofs typically last 40 to 70 years, which means you won't have to tear off panels mid-system-life to reroof the way you would with composition shingles. That alone makes metal one of the better substrates for solar.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standing seam metal roofs can use clamp-based mounts with zero roof penetrations, preserving the warranty.</li><li style="margin:5px 0">Corrugated and exposed-fastener metal roofs require penetrations; use butyl-backed feet and sealant rated for metal.</li><li style="margin:5px 0">Rail-based racking on metal typically adds $0.10–$0.45/watt to installed cost versus asphalt shingle installs, depending on roof profile and mount type.</li><li style="margin:5px 0">Verify your metal roof warranty before signing an installation contract ,  some manufacturers void coverage if non-approved attachments are used.</li><li style="margin:5px 0">Grounding is simpler on metal roofs because the structure itself can serve as part of the equipment grounding path under NEC Article 690.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standing seam metal roofs can use clamp-based mounts with zero roof penetrations, preserving the warranty.</li><li style="margin:5px 0">Corrugated and exposed-fastener metal roofs require penetrations; use butyl-backed feet and sealant rated for metal.</li><li style="margin:5px 0">Rail-based racking on metal typically adds $0.10–$0.45/watt to installed cost versus asphalt shingle installs, depending on roof profile and mount type.</li><li style="margin:5px 0">Verify your metal roof warranty before signing an installation contract, some manufacturers void coverage if non-approved attachments are used.</li><li style="margin:5px 0">Grounding is simpler on metal roofs because the structure itself can serve as part of the equipment grounding path under NEC Article 690.</li></ul></div>
 
 
 ## The Two Roof Types That Change Everything
@@ -44,10 +44,6 @@ Not all metal roofs are the same, and the installation approach splits almost en
 There's a third category worth mentioning: stone-coated steel tiles and aluminum shingles. These mimic traditional roofing and generally require a tile-hook attachment similar to what you'd use on concrete tile. If you have one of these, make sure your installer has actually done it before on that specific profile.
 
 ## Attachment Hardware and What to Ask For
-
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The clamp market for standing seam is well-developed. S-5! makes the most widely specified line and publishes load testing data for virtually every standing seam profile. Their PVKIT system is common for solar rail mounting, and load tables are publicly available on their site so you can verify your engineer's assumptions. SolarEdge, Unirac, and IronRidge all publish rail compatibility with S-5! clamps, so mixing brands isn't a guessing game.
 

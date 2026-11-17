@@ -41,8 +41,6 @@ The Pro Power Onboard outlets are simpler and cheaper but manual. You're essenti
 
 ## The Solar Piece: How It Actually Connects
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what most people don't realize: the Lightning doesn't have native bidirectional solar charging. You can't just plug your solar inverter output directly into the truck and call it done. The solar panels charge the house battery or feed the grid (depending on your setup), and the truck charges from the house system like any other load. The magic happens when you design the system so that during an outage, your solar keeps producing, feeds critical loads, and simultaneously trickles charge back into the Lightning so it doesn't drain down to zero over a week-long event.
 
 Getting this right requires a solar inverter that supports "grid-forming" or "islanding" capability. Standard string inverters shut down during an outage as a safety measure. You need either a hybrid inverter with backup functionality (brands like SolarEdge, Enphase, SMA, or Victron are what I'd be looking at) or a battery-buffered system. The Lightning's IBP system and your solar system need to be coordinated so they're not fighting each other for control of your panel. This is genuinely a design problem, not just a gear-buying problem, and I'd be skeptical of any installer who gives you a quote without a load calculation and a single-line diagram.

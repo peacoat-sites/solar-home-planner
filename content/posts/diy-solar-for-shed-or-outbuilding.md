@@ -56,8 +56,6 @@ For most workshop sheds, aim for a 400 to 600W solar array, a 200Ah lithium iron
 | Inverter | 1,000-2,000W pure sine wave | $200-$400 | Never use modified sine wave |
 | **Total System** | **Small workshop shed setup** | **$800-$1,800** | Compare to $1,500-$4,000 for grid extension |
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You don't need the most expensive gear, but you absolutely need to avoid the cheapest stuff.
 
 **Solar Panels**

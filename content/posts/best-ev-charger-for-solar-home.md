@@ -46,8 +46,6 @@ The National Renewable Energy Laboratory has documented that [time-of-use optimi
 | API/App-Based Scheduling | Budget option | Blind to conditions | Low | Inverter-agnostic |
 | Standard Level 2 (No Solar Awareness) | Grid-tied only | No adjustment | Low | Not applicable |
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You might be wondering what "solar integration" actually looks like under the hood, because the marketing language can be slippery. Three real mechanisms show up in chargers that actually work with solar.
 
 **Direct inverter integration.** Some chargers pair natively with specific inverter brands. The Tesla Wall Connector pairs with the Tesla Powerwall and Energy Gateway. The SolarEdge EV Charger plugs directly into SolarEdge inverters and reads production data at the inverter level. This is the tightest integration you can get, the charger adjusts every few seconds based on actual inverter output. If you have or plan to get one of these inverter brands, this path is worth taking seriously.

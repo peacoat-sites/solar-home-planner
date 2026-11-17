@@ -28,10 +28,6 @@ Why? Because the economics actually work right now, and they work specifically b
 
 ## Why TPO Companies Can Still Offer You a Good Deal
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's the part that surprises most people. The 30% investment tax credit didn't disappear entirely. The residential Section 25D credit is dead, yes. But the commercial Section 48E credit is still alive, and solar companies that own the equipment on your roof can claim it. They own the system, they qualify as a commercial entity, and they get the credit. In a PPA or lease arrangement, that's exactly the setup.
 
 What good TPO companies are doing is passing a meaningful portion of that savings to customers through lower monthly rates. Current lease and PPA rates are running 20 to 40 percent below typical utility rates from day one in many markets. That spread is what's making these deals competitive even without the homeowner capturing any tax credit directly.

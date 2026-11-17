@@ -31,7 +31,7 @@ That number should matter to you before you sign a single contract. For example,
 
 Let me walk you through what's actually on the books, what the gaps are, and how to use this information before you write a check to any installer.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">38 states have some solar access or easement law, but only a handful make protection automatic.</li><li style="margin:5px 0">Most states require you to separately record a solar easement deed ,  it doesn't attach to your property automatically.</li><li style="margin:5px 0">California and a handful of others limit HOA authority to block solar; most states do not.</li><li style="margin:5px 0">A shading loss of just 10% can cut annual output by up to 20% depending on your inverter type.</li><li style="margin:5px 0">Solar easement recording fees typically run $15–$75 at the county recorder's office, making it one of the cheapest protections you can buy.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">38 states have some solar access or easement law, but only a handful make protection automatic.</li><li style="margin:5px 0">Most states require you to separately record a solar easement deed, it doesn't attach to your property automatically.</li><li style="margin:5px 0">California and a handful of others limit HOA authority to block solar; most states do not.</li><li style="margin:5px 0">A shading loss of just 10% can cut annual output by up to 20% depending on your inverter type.</li><li style="margin:5px 0">Solar easement recording fees typically run $15–$75 at the county recorder's office, making it one of the cheapest protections you can buy.</li></ul></div>
 
 ## The Difference Between "Solar Access Rights" and a Solar Easement
 
@@ -42,8 +42,6 @@ A **solar access right** is a statutory protection, usually meaning the state li
 The critical distinction: solar access rights are passive (they protect you from rules), solar easements are active (they protect you from physical obstructions). You often need both.
 
 ## State-by-State: What You're Actually Working With
-
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Here's where I'll be blunt. The patchwork of state law here is genuinely maddening. EnergySage's market data confirms that solar adoption correlates strongly with the strength of state-level access protections, which makes sense when you think about it from a risk perspective.
 

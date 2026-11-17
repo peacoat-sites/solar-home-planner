@@ -49,8 +49,6 @@ If you don't have storage yet, the first move is to understand your specific uti
 | Solar export credit (typical) | $0.08/kWh | N/A | Used for net metering compensation |
 | Daytime grid import (comparison) | $0.13/kWh | N/A | Off-peak rate; often cheaper than solar export value |
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 An EV is either a liability or an asset on a TOU plan. Nothing in between.
 
 A 60 kWh battery pack (a standard Model 3 Long Range or a Chevy Equinox EV) that you charge from empty during peak hours at $0.50/kWh costs $30 just for that fill-up. Charge the same car overnight at $0.13/kWh and you spent $7.80. That delta, repeated across a year of commuting, is roughly $800 to $1,100 difference on your electric bill. Annually. For one behavior change.

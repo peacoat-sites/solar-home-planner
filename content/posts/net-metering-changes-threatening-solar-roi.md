@@ -50,8 +50,6 @@ What surprised me was how quickly other states started watching California and t
 | Scenario 2 | Phoenix, AZ | Unknown | Unknown | Retail rate | 9-year payback | Demand charges | 14-year payback (no battery) | Extended timeline | +5 years |
 | Scenario 3 | North Carolina | Unknown | Unknown | Retail rate (quote) | Better | Lower export rate (actual) | Reduced | $4,200 over 10 years | $4,200 |
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me work through what this actually means for a homeowner.
 
 **Scenario 1:** A homeowner in Sacramento installed 8 kW of panels in early 2022, under NEM 2.0. Annual production roughly 11,200 kWh. Household uses about 8,500 kWh, exports around 2,700 kWh. At the old retail export rate of ~$0.28/kWh, those exports were worth about $756 per year. Under NEM 3.0 rates, that same export earns maybe $135. That's a $620/year swing. On a 25-year system, that's over $15,000 in expected return just gone.

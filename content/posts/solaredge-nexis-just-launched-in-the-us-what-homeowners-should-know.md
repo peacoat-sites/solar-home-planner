@@ -28,8 +28,6 @@ Capacity scales from 5 kWh up to 80 kWh per system. So you're covered from a mod
 
 ## The Tax Credit Situation Is Real and You Need to Plan Around It
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The expiration of the 25D credit changes the math for residential buyers. What it doesn't change is the math for commercial installations, where the One Big Beautiful Bill Act's domestic content (FEOC) requirements now apply. Nexis is US-manufactured, which means installers working on commercial projects, multifamily, or community solar can use it to meet those domestic content rules and preserve the applicable investment tax credits.
 
 For straight residential homeowners buying a Nexis system for their own home right now: you've lost the 30% federal credit that covered both panels and storage. State incentives vary, and some (California, Massachusetts, New York) still have meaningful storage-specific rebates. Check your state's database before you assume the federal loss is the whole story.
@@ -75,11 +73,11 @@ The July 15 livestream is a low-commitment way to see the platform for yourself 
 
 ## Sources
 
-- [SolarEdge's modular inverter + storage solution enters US market ,  Solar Power World](https://www.solarpowerworldonline.com/2026/07/solaredges-modular-inverter-storage-solution-enters-us-market/) (July 2, 2026)
-- [SolarEdge says its new 'Lego-like' home battery installs in under 30 minutes ,  Electrek](https://electrek.co/2026/07/09/solaredge-says-its-new-lego-like-home-battery-installs-in-under-30-minutes/) (July 9, 2026)
-- [SolarEdge debuts Nexis solar and storage platform in U.S. ,  Power Wattz Solar](https://www.pandwsolar.com/solaredge-debuts-nexis-solar-and-storage-platform-in-u-s/) (July 9, 2026)
-- [U.S. residential solar installations set to stall for years ,  The Spokesman-Review (BloombergNEF)](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
-- [Solar energy storage in 2026: everything you need to know ,  Aurora Solar](https://aurorasolar.com/home-solar/blog/energy-101/storing-solar-energy-everything-you-need-to-know) (May 8, 2026)
+- [SolarEdge's modular inverter + storage solution enters US market, Solar Power World](https://www.solarpowerworldonline.com/2026/07/solaredges-modular-inverter-storage-solution-enters-us-market/) (July 2, 2026)
+- [SolarEdge says its new 'Lego-like' home battery installs in under 30 minutes, Electrek](https://electrek.co/2026/07/09/solaredge-says-its-new-lego-like-home-battery-installs-in-under-30-minutes/) (July 9, 2026)
+- [SolarEdge debuts Nexis solar and storage platform in U.S., Power Wattz Solar](https://www.pandwsolar.com/solaredge-debuts-nexis-solar-and-storage-platform-in-u-s/) (July 9, 2026)
+- [U.S. residential solar installations set to stall for years, The Spokesman-Review (BloombergNEF)](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
+- [Solar energy storage in 2026: everything you need to know, Aurora Solar](https://aurorasolar.com/home-solar/blog/energy-101/storing-solar-energy-everything-you-need-to-know) (May 8, 2026)
 
 ---
 

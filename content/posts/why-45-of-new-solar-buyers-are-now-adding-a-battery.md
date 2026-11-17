@@ -39,8 +39,6 @@ Hardware prices also kept falling. The median installed price of solar dropped 1
 
 ## Fear of the Grid Is Not Just Paranoia Anymore
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You might be wondering how much of this battery trend is marketing anxiety versus real need. Fair question. The honest answer: mostly real.
 
 Aurora Solar's 2026 Solar Snapshot surveyed homeowners across the country. 53% say the power grid has become less reliable in their area. 62% say extreme weather is affecting their region. These aren't abstract concerns. If you've sat through a 90-degree August without power for three days because a substation got overwhelmed, or watched your sump pump die during a nor'easter while your neighbors with Tesla Powerwalls went about their evenings, your interest in backup power isn't irrational.

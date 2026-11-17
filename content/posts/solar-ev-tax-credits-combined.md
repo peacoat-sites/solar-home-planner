@@ -47,8 +47,6 @@ The critical difference: the EV credit is also nonrefundable. You've now got two
 
 ## The Stacking Problem Nobody Explains Clearly
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Say you owe $8,000 in federal taxes this year. You've got a $6,000 solar credit and a $7,500 EV credit. That's $13,500 in credits against $8,000 of liability. You can only use $8,000 total.
 
 Here's the asymmetry: unused Residential Clean Energy Credit carries forward indefinitely. The EV credit does not. If you can't use all of it this year, the remainder disappears.

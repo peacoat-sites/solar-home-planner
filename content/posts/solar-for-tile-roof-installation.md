@@ -39,8 +39,6 @@ What surprised me was how few installers explain this to customers. You'll often
 
 ## Mounting Systems: What's Actually Being Used
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There are three real approaches to tile roof solar mounting in 2026, and they differ significantly in labor, cost, and long-term roof integrity.
 
 **Tile replacement mounts** (also called comp-out or tile-replacement mounts) remove the tile entirely at each attachment point and replace it with a purpose-built composite flashing that integrates flush with the surrounding tiles. This is the gold standard for clay barrel tile. The IronRidge TileMount and the SnapNrack TR-System are the two I've worked with most. They're clean, they don't require drilling through valuable tile, and they give a proper flashing seal around the penetration. The SnapNrack system in particular has a satisfying click when the standoff seats correctly.

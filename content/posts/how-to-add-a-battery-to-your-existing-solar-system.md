@@ -29,8 +29,6 @@ Meanwhile, Lawrence Berkeley National Laboratory estimates that fewer than 10% o
 | AC-Coupled | Stays in place | $12,000-$18,000 (10-13.5 kWh) | Most retrofit situations | Lower (conversion losses) |
 | DC-Coupled | Replaced with hybrid unit | Higher | Inverter near end-of-life | Higher (fewer conversions) |
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where most homeowners get confused, and understandably so. When you're retrofitting a battery onto an existing solar system, the fundamental question is whether your new battery talks to your existing system through AC wiring (AC-coupled) or bypasses your current inverter to connect directly on the DC side (DC-coupled).
 
 For the vast majority of retrofit situations, AC-coupled is the right answer. Here's why: your existing string inverter or microinverters stay in place. You're adding a new piece of equipment, not replacing the heart of your system. The battery has its own inverter built in, it connects to your main panel or a critical loads panel, and the two systems operate somewhat independently. Tesla Powerwall 3 and the [Enphase IQ Battery lineup](/enphase-iq9n-microinverter-what-gan-technology-means-for-your-roof/) are the most common retrofit products going this route, and installers are comfortable with them. The average installed cost for a 10 to 13.5 kWh AC-coupled retrofit runs $12,000 to $18,000 before state and local incentives, which is real money but a fraction of replacing your entire system.

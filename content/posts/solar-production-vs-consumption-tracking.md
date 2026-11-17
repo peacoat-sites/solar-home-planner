@@ -45,8 +45,6 @@ A common mistake is assuming "full monitoring" means watching grid import and ex
 
 ## The Net Metering Trap
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where the confusion really bites people. Net metering makes it easy to feel like you're doing great, because at the end of the billing cycle you see credits on your bill. But net metering hides the timing problem.
 
 If your panels produce 40 kWh on a Tuesday while you're at work, and your utility credits you $4 for that export at, say, $0.10/kWh, but then you draw 40 kWh in the evening at a peak rate of $0.22/kWh, you just lost $4.80 on the round trip. Net metering credit structures vary significantly by utility and state, and as of July 2026, many utilities have moved to "net billing" models that pay significantly less for exported power than what they charge for imports. California's NEM 3.0, which took effect in 2023, is the most aggressive example of this. The math on export-heavy systems got a lot worse.

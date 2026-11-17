@@ -74,8 +74,6 @@ If you're considering battery storage, ask: "What critical loads can the battery
 
 A home energy monitor can also help you understand your actual consumption before you sign anything. The Emporia Vue or similar monitors let you see exactly what your major appliances draw, so you can have an informed conversation about sizing rather than relying entirely on the contractor's proposal.
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Financing: Read Every Line Before You Sign
 
 The monthly payment might look better than your current electric bill. That doesn't mean the deal is good.

@@ -28,8 +28,6 @@ The market is reacting exactly as you'd expect. SEIA's Q2 2026 Market Insight Re
 
 ## Was There a Last Exit Ramp? Yes, and It Just Closed.
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Some homeowners had one more option on the table: going through a lease or power purchase agreement (PPA) structured to capture the commercial Section 48E credit, which had different timing rules. Electrek reported on this back in June, and the short version is that the "safe harbor" deadline for that path was July 4, 2026. Projects begun before that date have until December 31, 2027 to be placed in service and still qualify for the 30% credit. After July 4, that path closes too.
 
 If you signed a lease or PPA before Independence Day weekend, you might still be in play. If you're reading this now and you haven't, you're not. Worth asking your installer about directly, but don't let anyone pressure you with vague claims that they can still "lock in" a credit. Get the dates in writing, or walk away.

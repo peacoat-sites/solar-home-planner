@@ -51,8 +51,6 @@ The panel product warranty and panel performance warranty are two entirely diffe
 
 ## What "Performance Guaranteed" Really Means
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I see the most confusion, and where I made my own mistake early on.
 
 When a panel manufacturer says they guarantee 80% output at year 25, they mean relative to the panel's rated wattage, not your bill. So a 400W panel is warrantied to produce at least 320W after 25 years. The catch: how do you prove it's underperforming? You need historical production data, ideally from a home energy monitor that's been logging continuously. Without that data, it's almost impossible to make a performance claim stick.

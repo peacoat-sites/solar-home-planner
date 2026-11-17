@@ -41,8 +41,6 @@ A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=conte
 
 ## How Many Days of Autonomy Do You Actually Need?
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where things get interesting, and honestly where most online calculators fall short.
 
 Autonomy is the number of days your battery bank can power your home with zero solar input. Off-grid system designers typically recommend 2 to 5 days of autonomy, but that range is almost meaninglessly broad without context.

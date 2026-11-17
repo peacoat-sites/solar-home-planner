@@ -41,8 +41,6 @@ A common mistake is setting mounts at latitude to match a rule of thumb. For exa
 
 ## How to Use a Solar Panel Angle Calculator by Zip Code
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There are three tools worth your time. Everything else is either a lead-gen form dressed up as a calculator or a simplified version of one of these.
 
 **PVWatts Calculator (NREL):** The actual standard. Enter your zip code, it drops a pin on a weather station with TMY (Typical Meteorological Year) data, and you get optimal tilt, azimuth, and projected output for any panel configuration. It uses real irradiance data, not generic latitude math. Free. No account needed.

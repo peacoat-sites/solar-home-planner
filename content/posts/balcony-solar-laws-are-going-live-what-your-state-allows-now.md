@@ -39,10 +39,6 @@ The reason this matters at scale is that an estimated 70% of American households
 | Utah | Plug-in Solar Law | Active | Not specified | No | No |
 | New York | SUNNY Act | Pending signature | 1,200W | No | No |
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 New Jersey's law is the most aggressive of anything passed so far, and it's worth understanding why. The Garden State Plug-In Solar Act, passed by unanimous vote on July 1, doesn't just allow plug-in panels. It explicitly prohibits both landlords and HOAs from blocking them. That's the part CNN flagged as a big deal, and they're right. Most state laws either focus on utility interconnection rules or HOA restrictions. New Jersey went after both simultaneously, which closes a loophole that's killed installations in other states: you get the state right, but your HOA still says no.
 
 Virginia's law, also effective July 1, puts the state in the group that has now signed binding legislation, joining Colorado, Maine, Maryland, and Utah. What Colorado did is worth singling out: their law allows up to 1,920 watts per system, currently the highest output limit in the country, and it enables "meter collar" adapters. If you haven't heard of meter collars, pay attention. This adapter fits between your electric meter and the meter socket and lets residents add solar, an EV charger, or battery backup without touching the home's electrical panel. No rewiring, no electrician visit for the solar portion. For renters and condo owners who have zero access to their electrical panel, this is a significant technical unlock.

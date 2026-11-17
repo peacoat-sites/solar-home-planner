@@ -45,8 +45,6 @@ The catch is sunlight hours. January in Minneapolis means 8-9 hours between sunr
 
 ## What Actually Happens When It Snows
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Light, dry snow at temperatures well below freezing: mostly not a problem. The panels still absorb some radiation, warm slightly, and the snow often slides off or sublimates within hours. Two-inch snowfalls often clear on their own by noon on a cold but sunny day.
 
 The villain is wet, heavy snow at temperatures right around 30-34°F. That stuff sticks. It insulates the panel surface, cuts production to near zero, and can sit for 2-4 days if temperatures don't climb. If you're in a climate that regularly sees that kind of snow (coastal New England, the Great Lakes region, parts of the Cascades), you need to factor that into your production estimates.

@@ -32,10 +32,6 @@ The company raised a $1 billion Series D in August 2026 at a $13 billion post-mo
 
 ## Own vs. Subscribe: The Numbers After the Tax Credit Expired
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This is where the policy change really bites. Before 2026, a homeowner buying a 10 kWh battery at, say, $10,000 all-in could claim $3,000 back on their federal taxes. That brought the effective cost to $7,000. That option is gone for 2026 purchases. The Section 25D credit expired, and as of this writing, Congress has not reinstated it.
 
 Here's a rough side-by-side so you can see where the subscription model sits:
@@ -43,7 +39,7 @@ Here's a rough side-by-side so you can see where the subscription model sits:
 | Factor | Owned Battery (2026) | Base Power Subscription |
 |---|---|---|
 | Upfront cost | $8,000–$15,000+ installed | Reduced installation fee (20% off with Walmart/Sam's Club) |
-| Federal tax credit | None (expired after 2025) | N/A ,  you don't own the asset |
+| Federal tax credit | None (expired after 2025) | N/A, you don't own the asset |
 | Monthly cost | $0 (after payoff) | ~$19–$29/month |
 | Who owns the hardware | You | Base Power |
 | Maintenance responsibility | You (or warranty) | Base Power |

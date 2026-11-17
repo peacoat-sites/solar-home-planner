@@ -39,8 +39,6 @@ The roof situation on a tiny home does create some constraints. Most tiny homes 
 
 ## Sizing Your System: Don't Guess, Calculate
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where a lot of first-timers go wrong. They buy a "400W solar kit" from Amazon and wonder why their batteries are dead by 9 PM.
 
 Sizing is actually two separate problems: how much power do you need daily, and how many days of clouds can you survive without the sun.

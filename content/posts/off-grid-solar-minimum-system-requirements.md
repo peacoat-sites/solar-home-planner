@@ -50,8 +50,6 @@ A realistic minimal off-grid setup, say for a small cabin with LED lighting, a l
 | Inverter | 1,000-2,000W pure sine wave | DC-to-AC conversion | Varies by wattage |
 | Daily Load Budget | 1,000-1,500 Wh (cabin); 5,000-8,000 Wh (home) | System sizing baseline | N/A |
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 No shortcuts here. A functioning [off-grid solar system](/off-grid-solar-system-for-home-complete-guide/) has four things: solar panels, a charge controller, a battery bank, and an inverter (if you're running any AC loads at all). Some tiny DC-only systems can skip the inverter, but the moment you want to plug in anything with a standard household plug, you need one.
 
 **Solar panels** are your generation source. For a minimum viable off-grid setup, I'd put 400 watts as a practical floor for anything beyond a weekend camper setup. That gets you roughly 1.5 to 2 kWh per day in decent sun conditions, which covers a basic cabin or tiny home. Most serious off-grid homes start at 1,500 to 3,000 watts of panels. Current pricing (June 2026) runs about $0.25 to $0.40 per watt for the panels themselves before racking and wiring.

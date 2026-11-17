@@ -49,8 +49,6 @@ These layers aren't redundant, they serve genuinely different purposes, and you'
 
 ## What Your Permit Application Actually Needs
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Permit requirements vary by jurisdiction, but if you're doing a standard grid-tied residential install in a single-family home, here's what you should expect to compile. Most building departments publish a solar checklist, and you should get it from them directly, not from a third-party site that might be outdated.
 
 The following components show up on almost every checklist, current as of July 2026:

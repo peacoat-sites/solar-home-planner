@@ -52,8 +52,6 @@ For most homeowners, passive wins. It's simpler. Active makes sense only if you 
 
 ## Sizing Your Solar System for an EV
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where the work lives. Skip it and you'll regret your system or realize you overpaid for panels you didn't need.
 
 Grab two numbers: your yearly home electricity use (in kWh) and your EV's annual charging demand.

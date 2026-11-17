@@ -49,8 +49,6 @@ A few things that genuinely void coverage, depending on the manufacturer: improp
 
 ## Getting the Documentation Right Before Anything Goes Wrong
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I know this is the boring part. Do it anyway.
 
 When your system is installed, you should have: a signed copy of the installation contract, the manufacturer warranty certificates for the panels and inverter (these are usually separate documents), your building permit and final inspection sign-off, photos of the completed installation from multiple angles, the monitoring system baseline data from the first 60 days, and the installer's ROC or contractor license number.

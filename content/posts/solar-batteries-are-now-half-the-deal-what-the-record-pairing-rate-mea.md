@@ -34,8 +34,6 @@ Most people don't realize this isn't a loophole. It's exactly how the commercial
 
 ## Why Battery Pairing Is Climbing Even as the Overall Market Contracts
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The overall residential solar market is struggling. BloombergNEF projects the U.S. will add only 4.1 GW of residential solar in 2026, the lowest level in five years, with the broader market contracting roughly 21% this year. That context matters. We're not in a solar boom. Installers are competing hard for fewer customers, and smaller companies that rode the 25D wave are quietly shutting down.
 
 Against that backdrop, 45% battery attachment is striking. It tells you something specific: the lease and PPA model, which benefits from Section 48E and almost always bundles storage, is capturing a larger share of a shrinking pie. The [cash-purchase, panels-only deal](/going-solar-without-the-30-tax-credit-what-it-actually-costs-now/) that used to be the bread and butter for mid-sized residential installers is getting harder to justify to customers who can't claim any federal credit. The lease-plus-battery pitch has a cleaner story right now, even if the long-term economics are more complicated.
@@ -70,7 +68,7 @@ If you're in a state with strong rebates, buying outright with cash or a loan ca
 - [SEIA: Solar and Storage Provide Over 90% of New Power in Q1](https://seia.org/news/solar-and-storage-provide-over-90-of-new-power-in-q1/) (June 10, 2026)
 - [Bloomberg: US Residential Solar Installations Set to Stall for Years](https://www.bloomberg.com/news/articles/2026-06-15/us-residential-solar-installations-set-to-stall-for-years) (June 15, 2026)
 - [Solar Battery Tax Credit 2026: What Changed After the OBBBA](https://www.solarpermitsolutions.com/blog/solar-battery-tax-credit-2026) (April 16, 2026)
-- [Solar Lease vs. PPA in 2026 , Solar.com](https://www.solar.com/learn/solar-lease-vs-ppa/) (January 22, 2026)
+- [Solar Lease vs. PPA in 2026, Solar.com](https://www.solar.com/learn/solar-lease-vs-ppa/) (January 22, 2026)
 - [EnergySage: Solar Battery Incentives and Rebates in 2026](https://www.energysage.com/energy-storage/benefits-of-storage/energy-storage-incentives/) (February 12, 2026)
 
 ---

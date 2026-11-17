@@ -52,8 +52,6 @@ That's the core of it. Now let's get into what it actually means for your roof.
 | Wholesale Cost (2024) | $0.25-$0.40 per watt | $0.20-$0.28 per watt |
 | Market Availability | Dominant in residential | Niche/declining |
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The efficiency difference is real, but salespeople pushing premium products love to overstate it.
 
 A quality monocrystalline panel today typically runs 19 to 22% efficiency. SunPower's Maxeon 6 series hits around 22.8%. LG's older NeON 2 line (before they exited the solar market in 2022) routinely hit 21%. Mainstream mono panels from Jinko, LONGi, and Canadian Solar cluster around 19 to 20%.

@@ -43,8 +43,6 @@ The efficiency numbers matter practically, not just as marketing. At 22.8% on th
 
 ## Performance Data vs. the Competition
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The 0.25% annual degradation rate is where SunPower really earns its price premium, and I want to put actual numbers to what that means over time.
 
 | Panel Brand | Efficiency (top model) | Annual Degradation | 25-Year Output Guarantee | Warranty Length |

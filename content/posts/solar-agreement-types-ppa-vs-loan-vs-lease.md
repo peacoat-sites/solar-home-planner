@@ -46,8 +46,6 @@ There are three structures you'll encounter: a Power Purchase Agreement (PPA), a
 
 ## The Tax Credit Is the Whole Ballgame
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where most people make a $9,000 mistake.
 
 With a PPA or lease, you do not get the federal ITC. The company that owns the panels does. They'll often use that credit to offer you a lower rate, which is how they pitch it as a benefit to you. It is, partially. But the credit is worth 30% of the system cost, and you're getting pennies on the dollar of that value passed through in a slightly reduced monthly rate.

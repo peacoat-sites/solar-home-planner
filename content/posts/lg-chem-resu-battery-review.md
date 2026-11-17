@@ -54,8 +54,6 @@ The warranty itself is 10 years with a 60% capacity guarantee. Standard for the 
 
 ## Real-World Performance: Where It Shines and Where It Doesn't
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'll be direct: the RESU's Achilles heel is [whole-home backup](/whole-home-solar-backup-system/), specifically the continuous power output.
 
 The RESU10H delivers 5 kW continuous power output. That sounds fine until you start adding up what's actually running in your house during an outage. A central air conditioner alone pulls 3-5 kW depending on tonnage. Add a refrigerator (150-400W), a few lights, phone chargers, and maybe a medical device, and you're right at the edge of what a single RESU10H can deliver. The startup (surge) demand is even higher. LG Chem rates the peak power at 7 kW for 3 seconds, which handles most motor startups, but just barely.

@@ -45,8 +45,6 @@ Grid-tied systems are simpler because the grid acts as infinite backup storage. 
 | Charge Controller | MPPT, 25% above panel short-circuit current | Handles panel array input within voltage limits |
 | Inverter | 3,000 watts continuous | Peak simultaneous load (1,200W + 700W + headroom) |
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Battery banks are often undersized by 40% or more when homeowners guess at their loads instead of measuring them. Don't guess. Sit down and do a real load audit.
 
 For every appliance you plan to run, write down:

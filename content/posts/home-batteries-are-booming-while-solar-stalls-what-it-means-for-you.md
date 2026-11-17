@@ -32,10 +32,6 @@ I'll be honest: I haven't seen clean, verified numbers yet on how much of that 4
 
 ## Why Batteries Are Winning Without Solar's Help
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The rate environment is the real story. In California, retail electricity rates have climbed to $0.40 to $0.70+ per kilowatt-hour in many utility territories, while NEM 3.0, the state's current solar export compensation structure, pays solar homeowners only $0.05 to $0.08/kWh for power they push back to the grid. That gap is brutal if you have solar and no storage. You're generating power during the day, exporting it at nickel-and-dime rates, then buying it back at peak hours for 40 to 70 cents. A battery closes that loop. Under NEM 3.0, a 10 kWh battery discharging daily during peak hours can save approximately $1,200 to $1,800 per year, according to Aurora Solar's 2026 Solar Snapshot analysis.
 
 That's a real payback period, not a marketing fantasy. At current installed costs (more on that below), a single battery system in California can realistically pay back in 6 to 10 years. Not as fast as the old 25D-assisted math, but not crazy either.

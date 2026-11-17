@@ -41,8 +41,6 @@ One more thing while we're in the panel: fused load centers. If your home still 
 
 ## The roof situation in a 1950s or 1960s house
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's something I used to get wrong: I assumed that a roof that looked solid from the ground was solid enough for panels. The first time I got a drone inspection report back on a 1961 bungalow in Phoenix, the decking was a mix of 1x6 skip sheathing and later plywood patches, with some rafter tail rot that wasn't visible from outside. That roof needed $4,200 in carpentry before anyone put a single rack foot through it.
 
 Typical roof decking in these homes is 1x6 or 1x8 board sheathing, not the plywood or OSB you'll find in newer construction. It can support panels just fine, but solar racking manufacturers design their lag bolt specs for plywood. When you're going into board sheathing, your installer needs to locate and hit the rafters precisely, because the boards themselves don't provide the same pullout strength. Ask your installer specifically how they handle board sheathing. If they look at you blankly, find someone else.

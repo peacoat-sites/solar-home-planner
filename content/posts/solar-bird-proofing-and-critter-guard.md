@@ -51,8 +51,6 @@ Roof rats and starlings show up less often but can cause the same category of da
 
 ## What Critter Guard Actually Is (And What It Isn't)
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Critter guard is a galvanized steel mesh that's attached around the perimeter of your solar array, between the panel edge and the roof surface, to physically close off that gap. That's it. It's not high-tech. It doesn't require electricity or maintenance. It just removes the opening.
 
 The mesh is typically sold in rolls, pre-cut kits, or as clip-on systems designed for specific racking products. The clip-on systems, like the [IronRidge Critter Guard](https://www.amazon.com/s?k=solar+critter+guard+mesh+kit&tag=contentportfo-20) or similar generic mesh kits (the site may earn a commission on purchases through these links), use a plastic or aluminum clip that attaches directly to the panel frame without penetrating the roof. That's important. You want zero additional roof penetrations if you can avoid them.

@@ -56,8 +56,6 @@ Here's where I push back on what most people assume, though: the fact that a nat
 | Local Knowledge | Depends on market penetration | Deep utility and roof-type expertise |
 | Long-term Accountability | Scale advantage but consolidation risk | Direct reputation stake, walkable presence |
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The installer who actually gets on your roof is almost never the salesperson who sold you the system. At national companies, those are completely different people, often in different states. The salesperson works on commission and hands you off. What you get next is a subcontracted crew, sometimes well-trained, sometimes not.
 
 Local installers typically do their own installs. The owner of a 10-person shop in your city has a direct reputation stake in every job. They know your utility's interconnection quirks, they've dealt with your roof type before, and when something goes wrong, you can walk into their office. That accountability is worth something you genuinely can't price-compare on a quote sheet.

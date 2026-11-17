@@ -55,8 +55,6 @@ Get your temperature correction factor from the [U.S. Department of Energy's sol
 | Phoenix | High (frequent peak irradiance) | 1.1-1.2 | Lower ratio to avoid significant clipping losses |
 | U.S. Average (residential) | - | 1.2-1.25 | Industry standard per EnergySage market data |
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where the conventional advice gets genuinely interesting. The standard rule says your inverter's AC output rating should match your total panel DC wattage. A 6,000W (DC) array gets a 6,000W inverter. Clean and simple.
 
 But in practice, most installers intentionally oversize the array relative to the inverter, a concept called "DC-to-AC ratio" or the "inverter loading ratio." [Most residential systems today run](/best-solar-inverter-brands-reviewed/) a DC/AC ratio between 1.1 and 1.3. Meaning a 6,000W inverter might feed an 7,200W to 7,800W panel array.

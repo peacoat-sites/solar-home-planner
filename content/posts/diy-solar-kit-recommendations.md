@@ -47,8 +47,6 @@ The [DIY solar panel installation guide](/diy-solar-panel-installation-guide/) o
 
 ## How to Size Your System Before You Shop
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Buying a 10kW kit when you need 6kW is just as bad as buying too small. Oversizing wastes money and can actually cause utility issues in states with strict interconnection limits.
 
 Here's how to actually do it. Pull 12 months of utility bills and add up your total annual kWh consumption. Divide that number by 1,200 if you live in a sunnier region like the Southwest, or by 1,000 if you're in the Midwest or Northeast. That gives you a rough system size in kilowatts.

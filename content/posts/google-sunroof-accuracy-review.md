@@ -53,8 +53,6 @@ The 3D modeling is also a generalization. It works better on standard gable roof
 | Simple ranch roof | Within 8% accuracy | Baseline | ±8% | Minimal impact |
 | Complex hip-and-valley roof | 20% overestimate usable area | Baseline | -20% | Significant panel count/output variance |
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I'd ask you to be most skeptical.
 
 Sunroof pulls electricity rate data, but it's often working with state or regional averages, not your specific utility's rate structure. If you're on a time-of-use plan with Pacific Gas & Electric, or if your co-op in rural Georgia has below-average rates, the generic number will be wrong in ways that matter. As of July 2026, residential electricity rates vary from around 10 cents per kWh in parts of the South to over 30 cents in Hawaii and California. A tool averaging those together will produce wildly different accuracy depending on where you live.

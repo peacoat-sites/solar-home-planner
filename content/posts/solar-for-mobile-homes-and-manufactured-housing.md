@@ -52,8 +52,6 @@ A competent installer will pull your home's data plate (required by HUD code to 
 | Maintenance | Harder to access; requires specialized equipment | Easier to clean; DIY-friendly |
 | Permitting | Required | Required (conduit burial 18-24 inches) |
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 When a roof mount is complicated, a ground mount is often cleaner, cheaper in the long run, and more efficient. I recommend homeowners who own their lot seriously evaluate ground mounting before defaulting to a rooftop system.
 
 Ground-mounted arrays sit on steel posts driven or cemented into the ground at a fixed or adjustable tilt angle. For manufactured housing, this solves the structural load question entirely. Your roof carries nothing. The panels face whatever direction gives you the best production, typically south-facing at a tilt roughly equal to your latitude.

@@ -53,8 +53,6 @@ Once you have a monthly kWh target, divide by the average peak sun hours for you
 
 That's a reasonable starting point. Whether you round up or down depends on whether you're planning to add loads later, how generous your utility's net metering policy is, and whether you're pairing the system with battery storage.
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Understanding Your Permit and HOA Landscape Before You Break Ground
 
 Solar permitting on new construction is actually simpler than retrofit projects in most places, because your solar system gets rolled into the overall building permit. Your general contractor pulls one combined permit for the structure, electrical, and solar together. You're not filing a separate solar permit afterward. That's an advantage.

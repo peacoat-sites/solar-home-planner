@@ -56,8 +56,6 @@ Get the 12-month number, then adjust it intentionally. If you're planning an EV 
 | Mid-Atlantic (South-facing, 30°) | ~5.0 | ~700 kWh | ~17 panels |
 | Seattle, Washington | 3.5 | ~490 kWh | ~24 panels |
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most DIY guides get vague here. They say "check your peak sun hours" and link to a map. What they don't explain is what to actually do with that number.
 
 Peak sun hours aren't hours of daylight. They're a measure of solar irradiance, specifically how many hours per day sunlight intensity averages 1,000 watts per square meter. Phoenix, Arizona sits around 6.5 peak sun hours. Seattle, Washington sits closer to 3.5. That difference nearly doubles the number of panels you'd need for the same annual output.

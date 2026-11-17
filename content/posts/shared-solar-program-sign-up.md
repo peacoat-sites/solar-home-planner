@@ -45,8 +45,6 @@ The devil is in the contract terms. I've reviewed a dozen of these agreements ov
 
 ## State-by-state availability changes everything
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Minnesota was actually the first state to pass a community solar statute, back in 2013, and its program is still one of the best-run in the country. New York's NY-Sun program has the highest subscriber count largely because utilities there are mandated to facilitate enrollment. Illinois launched its Community Renewable Energy Act (CREA) program in 2022 and has been playing catch-up fast.
 
 If you're in a state without a formal shared solar program, it doesn't mean you have no options. Some utilities run their own opt-in green tariff programs that function similarly. Xcel Energy's Renewable*Connect is one example. They're usually less savings-focused and more about matching your consumption with renewable generation on paper, but they exist and they're real.

@@ -60,8 +60,6 @@ Bird droppings are a separate category entirely. Unlike dust, which diffuses lig
 
 If you're comfortable on a roof (and have the right footwear and safety setup), a simple rinse with a garden hose during early morning hours works for dust. For stuck-on debris and droppings, a soft-bristle solar panel cleaning kit with a long-handled brush and squeegee makes the job much easier without scratching the glass. Skip the pressure washer. Every installer I know has a war story about a homeowner who pressure-washed their panels and voided their warranty in one afternoon.
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for monitoring. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Shade: The Sneaky Seasonal Shift
 
 Here's something installers often fail to explain at the sale: your shade situation changes throughout the year. A tree that wasn't a problem in December can absolutely hammer your production in June because the sun is at a higher angle and the shadow falls differently.

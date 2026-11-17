@@ -43,8 +43,6 @@ But here's the thing nobody in the sales meeting emphasizes: that one or two day
 
 ## The Full Timeline, Stage by Stage
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I want to walk through every stage because each one has a different cause of delay, and knowing which stage you're in helps you ask the right questions.
 
 **Site assessment and system design** usually takes one to two weeks after you sign the contract. Your installer sends someone (or uses satellite imagery, which has gotten remarkably accurate) to evaluate your roof pitch, shading, available square footage, and electrical panel situation. If you need a panel upgrade, tack on another week or two, and sometimes more if there's a permit required for that separately. A needed panel upgrade can add six weeks or more to a project, especially in older homes.

@@ -52,8 +52,6 @@ Solar leases and PPAs aren't automatically bad deals. If your credit's not stron
 
 ## The Programs That Actually Come Close to Free
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Legitimate assistance programs exist that get closer to truly free solar for qualifying households. Most people have no idea they're out there.
 
 The federal Weatherization Assistance Program (WAP), run by the Department of Energy, provides energy efficiency upgrades to [low-income households](/solar-panels-for-low-income-homeowners-programs/). Solar installations sometimes get included. California, Colorado, and Massachusetts all run Income-Qualified Solar programs that can install panels at zero cost if you hit the income threshold. If you're in New York, NYSERDA has offered discounted solar for low-to-moderate income households worth checking out.

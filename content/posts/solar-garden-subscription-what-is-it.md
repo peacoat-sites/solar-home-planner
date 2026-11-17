@@ -56,8 +56,6 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has pub
 | Colorado homeowner (rooftop) | 5 kW | 6,500 kWh | $0.13/kWh | $845 | $0 | $845/year after payoff | ~12-14 years to break even |
 | Massachusetts renter (garden) | 3 kW | ~3,900 kWh | ~$0.12/kWh | ~$468 | ~$288 | ~$180 | N/A (no rooftop option) |
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I expected the savings to be either impressive or fake. What I found was something more boring and more honest: they're usually modest and real.
 
 A typical subscriber scenario plays out something like this: 5 kW subscription at a garden in Colorado producing 6,500 kWh/year, credited at $0.13/kWh. That's $845 in annual credits. If the subscription fee is $750/year (around $62.50/month), your net savings are roughly $95. Not nothing, but not a solar revolution either.

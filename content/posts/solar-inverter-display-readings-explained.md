@@ -52,8 +52,6 @@ Every residential inverter, whether you're running a SolarEdge HD-Wave, a Froniu
 
 ## The Readings That Actually Reveal Problems
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The AC wattage and daily kWh get all the attention. The numbers that actually catch problems early are the ones people ignore.
 
 **DC Voltage vs. Expected DC Voltage.** Every string has a designed operating voltage range, called the MPPT range. It's specified in your inverter manual and was engineered into your system during design. If your string voltage is consistently below the MPPT window, you likely have a failing panel, a corroded connector, or a shading issue that's choking the string. I had a SolarEdge system where one optimizer failed silently, and the only indicator was a DC input voltage that sat about 18V low on clear afternoons. Caught it because I was watching.

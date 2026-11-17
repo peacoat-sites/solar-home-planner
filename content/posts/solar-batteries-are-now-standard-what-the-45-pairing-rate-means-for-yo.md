@@ -36,8 +36,6 @@ Third, battery hardware costs keep falling even as solar module prices are headi
 | Enphase IQ Battery 5P | DC-coupled | Modular expansion | Scalability, microinverter integration |
 | Franklin WH Series | AC/DC-coupled | Flexible sizing | Mid-range cost, reliable runtime |
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 When nearly half the market is buying batteries, installers adjust. The ones paying attention are now designing systems differently from the start, sizing the solar array not just for annual kWh output but for what makes sense to store and self-consume. If you're getting quotes right now and an installer isn't asking you about your outage history, your utility's net metering policy, and your time-of-use rate schedule, that's a red flag.
 
 Here's what I tell people specifically: ask every installer what battery they're recommending and why. The market has real options now, including the Tesla Powerwall 3, the Enphase IQ Battery 5P, and the Franklin WH series, among others. A good installer can explain the tradeoffs between AC-coupled and DC-coupled systems, and they should be able to show you a self-consumption model, not just a simple payback spreadsheet.

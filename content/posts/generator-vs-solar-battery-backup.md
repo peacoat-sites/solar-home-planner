@@ -39,8 +39,6 @@ Neither is universally better. The right answer depends on where you live, how l
 
 ## The Real Cost Breakdown Nobody Talks About Upfront
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I see people get tripped up most. They look at the purchase price and stop there. You can't do that.
 
 A mid-range portable generator, something like a 7,500-watt dual-fuel unit, might run you $800 to $1,500 at a hardware store. But add a proper transfer switch (required by code in most jurisdictions, and non-negotiable from a safety standpoint), professional installation, extension cord management or a dedicated sub-panel, and you're at $2,500 to $4,500 installed for a decent portable setup. A Generac or Kohler whole-home standby generator with automatic transfer switch and professional installation typically lands between $10,000 and $20,000 depending on your home's load and local labor rates.

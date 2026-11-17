@@ -32,10 +32,6 @@ Where it gets complicated is product refresh cycles. A brand like Growatt might 
 
 ## The Brands Most Exposed Right Now
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's a practical look at where the most popular brands in the DIY and residential installer market stand given their supply chain positions:
 
 | Brand | Primary Manufacturing | FCC Exposure Level | Notes |

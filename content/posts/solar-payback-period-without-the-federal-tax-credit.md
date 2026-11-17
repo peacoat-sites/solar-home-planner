@@ -44,8 +44,6 @@ The average 12 kW system costs around $30,500 installed in 2026, near historic l
 
 ## The Lease and PPA Workaround (With Tradeoffs)
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the one federal pathway that survived: third-party ownership. Installers who own the system themselves can still claim the Section 48E commercial investment tax credit, which runs through end of 2027. They pass some of that value to you through a [lease or power purchase agreement](/solar-lease-and-ppa-surge-what-the-new-math-means-for-you/). EnergySage has been tracking this shift closely, and the share of homeowners going the lease or PPA route has climbed noticeably in early 2026 as cash-purchase economics softened.
 
 The tradeoff is real, though, and installers sometimes gloss over it. You don't own the equipment. That matters when you sell your house, because the lease transfers with the sale and some buyers don't want the obligation. It matters for maintenance decisions. And it matters for the economics: you're locking in a rate, not banking the long-term upside. If your utility rates spike in year 8, the installer captures much of that windfall, not you.

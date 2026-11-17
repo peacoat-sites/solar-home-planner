@@ -75,8 +75,6 @@ There's also DAC-SASH specifically for disadvantaged communities, which has expa
 
 A quick note: [the Solar Energy Industries Association (SEIA)](https://www.seia.org/) maintains state-by-state solar policy data that's more current than most other sources. Their policy tracker is worth bookmarking, even though it skews toward industry and you'll need to cross-reference with actual program administrators for current funding availability.
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## How to Actually Apply (Without Getting Scammed)
 
 This is the part where I get a little protective, because the low-income solar space attracts bad actors.

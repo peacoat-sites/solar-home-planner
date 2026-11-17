@@ -43,8 +43,6 @@ Before you sign anything, read the contract length and cancellation terms carefu
 
 ## Portable Solar: Modest but Real, and Yours to Keep
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A 200-watt portable panel hooked to a 500Wh battery station won't replace your utility bill. But it can power your laptop, phone charging, desk lamps, a small fan, and a router for several days off a single sunny afternoon. If your electricity rate is $0.18/kWh or higher (which, post-2022, describes a lot of the country), those loads add up.
 
 The Jackery Explorer 500 and the EcoFlow River 2 Pro are the two I'd point someone toward if they're starting out. Jackery runs around $350-400 on its own, pairs with a 100W foldable panel for another $120-150. EcoFlow charges faster and handles higher-wattage appliances more gracefully, but it costs more. (Both are on [Amazon](https://www.amazon.com/s?k=portable+solar+generator+kit), where prices fluctuate regularly and this site may earn a commission on purchases made through that link.)

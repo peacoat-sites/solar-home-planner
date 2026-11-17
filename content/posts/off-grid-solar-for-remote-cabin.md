@@ -51,8 +51,6 @@ A reasonable small cabin off-grid system often lands between 600 and 1,200 watt-
 | 3-day autonomy at 1,000 Wh/day | Battery sizing example | 3,000 (lead-acid: 6,000 total capacity) | Lead-acid at 50% DoD |
 | Solar array example | 1,000 Wh/day at 4.5 peak sun hours | 280-300W panels | Two 150W or one 300W panel |
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where most online advice goes sideways. People talk about panels and batteries as if you just pick each one independently and bolt them together. You don't. They're a system. You have to size them together, based on your location's solar resource and how many consecutive cloudy days you need to survive on battery alone.
 
 The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) maintains a free tool called PVWatts that tells you exactly how many peak sun hours your location gets per day, averaged by month. For most of the continental U.S., you're looking at somewhere between 3.5 and 6 peak sun hours per day. A mountain cabin in northern Montana in December might see 2.5. A cabin in the Texas Hill Country in July might see 6.5. These aren't interchangeable numbers.

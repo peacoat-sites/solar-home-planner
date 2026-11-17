@@ -38,8 +38,6 @@ The result is a panel that was rated at 400 watts when new might produce 392 wat
 
 ## The 0.5% Number Is a Best-Case Figure
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be honest: the 0.5% annual degradation rate you see in most sales presentations is real, but it describes premium monocrystalline panels made by reputable manufacturers under good conditions. The National Renewable Energy Laboratory (NREL) has published field studies showing median degradation rates around 0.5% to 0.6% per year across thousands of systems, but the range in that data runs from roughly 0.3% to over 1.0% depending on panel type, climate, and installation quality. That tail matters.
 
 Older polycrystalline panels, some thin-film technologies, and panels manufactured in facilities with looser quality control tend to land toward the higher end. What surprised me when I dug into this was how much climate plays into it. Desert climates with extreme UV and heat accelerate degradation, particularly in the encapsulant. Coastal environments introduce salt and humidity stress. The Pacific Northwest sounds gentle, but freeze-thaw cycling does real microcrack damage over time. Nowhere is completely easy on panels.

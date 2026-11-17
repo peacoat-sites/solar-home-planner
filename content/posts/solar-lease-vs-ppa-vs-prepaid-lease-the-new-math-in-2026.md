@@ -37,8 +37,6 @@ The prepaid lease is the newer one, and it's the most interesting development to
 
 ## The Cash Purchase Problem Nobody's Talking About Honestly
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Before the expiration of Section 25D, a cash buyer in an average-rate state could reasonably expect an 8 to 10-year payback. The 30% federal credit absorbed a huge chunk of the upfront cost. Without it, that math falls apart. A typical $30,000 system now carries a payback period of roughly 16 years nationally. In high-electricity-cost states like Massachusetts, where retail rates average around 24 cents per kilowatt-hour, you can still get under 10 years. But in moderate-rate states, buying outright with cash right now is a hard sell unless you have a very specific reason, like not wanting any lien on your property or planning to stay in the house for 20-plus years.
 
 I'm not saying never buy. I'm saying run your actual numbers with your actual utility rate before anyone convinces you that ownership is always superior.

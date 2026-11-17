@@ -61,8 +61,6 @@ Heat pump conversions do the same thing. Replace gas heat with a heat pump and y
 
 A home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor&tag=contentportfo-20) (around $70 on Amazon) will show you circuit by circuit where your electricity is actually going. Spend an afternoon with that data before you assume the panels are the problem. You might be shocked. The first time I installed one of these, I discovered a crawl space dehumidifier that had been running non-stop for months and burning about 90 kWh per month all by itself.
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Production Loss You'd Never Notice Without Checking
 
 | Issue | Production Impact | Typical Fix |

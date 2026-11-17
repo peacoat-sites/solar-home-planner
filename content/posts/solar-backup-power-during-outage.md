@@ -41,8 +41,6 @@ The fix is battery storage, or a specific type of inverter configuration. Let's 
 
 ## Battery Storage: The Actual Solution (And Its Real Limits)
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A [battery system paired with solar](/best-batteries-for-off-grid-solar/) is the most complete answer to the backup power question, but I'll be honest about what "complete" actually means. Batteries have capacity limits, and those limits matter a lot.
 
 The Tesla Powerwall 3 stores 13.5 kWh of usable energy. A central air conditioner running at 3.5 kW for 4 hours burns through 14 kWh. One AC unit, one afternoon. Gone. This is why whole-home backup is almost always a fantasy unless you're stacking multiple batteries or aggressively managing loads.

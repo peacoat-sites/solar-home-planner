@@ -60,8 +60,6 @@ UL 1703 or UL 61730 listed. If a panel doesn't have one of those marks, it won't
 | Aptos Solar DNA-120-BF27-410W | $190-215 | ~47 lbs | 35mm | ~22% | Bifacial/metal roof installs |
 | Jackery SolarSaga 200W | Varies | Portable | N/A | ~22% | Off-grid, ground-mount, entry systems |
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of July 2026, the 400-430W monocrystalline PERC format has basically won the residential market. You're not going to find a compelling reason to buy 380W panels anymore unless they're deeply discounted.
 
 **Rec Alpha Pure-R series.** My top pick for someone who wants premium and can afford it. These run around $280-320 per panel through authorized distributors. The frameless back-contact design sounds scary for DIY, but REC sells them with a dedicated mounting system that's actually easier to handle than traditional framed panels once you understand it. High efficiency (22.3%), and the 30-year product warranty is real, not marketing.

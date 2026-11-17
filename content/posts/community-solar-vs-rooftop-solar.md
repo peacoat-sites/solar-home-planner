@@ -53,8 +53,6 @@ These are fundamentally different products, and comparing them requires being ho
 
 ## The Case for Rooftop
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you own your home, plan to stay there at least 7-10 years, have an unshaded south or west-facing roof, and can either pay cash or qualify for a low-interest solar loan, rooftop solar is almost certainly the better long-term financial move.
 
 Here's why: once you've paid off the system, you're generating electricity at close to zero marginal cost. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has done extensive levelized cost of energy (LCOE) modeling showing that residential rooftop systems, over their full lifetime, produce energy at roughly $0.06 to $0.10 per kWh once you account for the ITC and net metering. Your utility is probably charging you $0.12 to $0.18 per kWh right now, and that number trends upward over time.

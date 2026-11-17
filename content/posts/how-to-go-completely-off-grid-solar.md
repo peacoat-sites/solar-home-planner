@@ -54,8 +54,6 @@ The U.S. Department of Energy's homeowner solar guide spells it out: off-grid re
 
 ## Step One: The Load Audit (Don't Skip This)
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A common oversight in off-grid design is accounting for all major loads, including well pumps, electric water heaters, and always-on equipment like home office setups.
 
 Before you look at a single panel or battery, get an honest picture of what your home actually consumes. Here's how.

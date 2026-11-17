@@ -52,8 +52,6 @@ Most installers don't emphasize that the interconnection agreement and the net m
 | Liability and insurance | Protects utility from homeowner system failures | Minimum $100,000-$300,000 homeowner's liability coverage |
 | Termination conditions | Allows utility to disconnect non-compliant systems | Utility can disconnect if system causes power quality issues or is modified without notification |
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The document looks different depending on your state and utility, but a handful of provisions show up in virtually every agreement.
 
 **Anti-islanding requirement.** Your inverter must shut down automatically during a grid outage. This protects utility line workers. It's non-negotiable and your equipment has to be certified for it. Most modern string inverters and microinverters already comply, but the agreement will reference a specific technical standard, usually IEEE 1547. If you're adding a battery and want backup power, this interacts with how your system is wired.

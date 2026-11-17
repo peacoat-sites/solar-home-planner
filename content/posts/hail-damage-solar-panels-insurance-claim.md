@@ -42,8 +42,6 @@ The practical lesson: inspect and document immediately after any significant hai
 
 ## Before You Call Your Insurance Company
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Do this first. I mean before you even open the insurance app.
 
 Walk the perimeter of your house and document everything. Your car, your HVAC condenser, your gutters, your shingles. Hail damage to those surfaces is your corroborating evidence. If a golf-ball-sized stone dented your aluminum gutters, it absolutely could have cracked your panels. Adjusters know this, and they expect to see a consistent damage pattern across the property.

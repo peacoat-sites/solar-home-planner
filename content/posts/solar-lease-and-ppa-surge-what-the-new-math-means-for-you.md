@@ -26,10 +26,6 @@ As Electrek reported on June 4, 2026, this deadline is the one date worth circli
 
 ## The Prepaid PPA: How the Discount Gets to You
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 A standard lease means you pay monthly for power your panels produce. A [prepaid PPA](/solar-leases-and-ppas-are-now-the-default-what-homeowners-need-to-know/), sometimes marketed as "lease-to-own solar," works differently and is currently the more interesting deal for homeowners who have some cash to deploy.
 
 Here's the structure: a third-party company owns the system, claims the 48E commercial ITC, then passes 20 to 30 percent of the system cost back to you as an upfront discount. You pay a lump sum at signing rather than monthly. After roughly six years, ownership transfers to you. The company captured the tax credit. You got discounted hardware and a clear path to ownership.

@@ -43,8 +43,6 @@ So when I say a system can "power a whole house," I mean it can offset 100% of a
 
 ## The sizing math, done honestly
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) puts U.S. average household consumption at about 10,500 kWh per year. Divide that by your location's peak sun hours (available in NREL's PVWatts calculator, which I use on every single project), account for a 15-20% system efficiency loss from inverter conversion, wiring, and temperature derating, and you get your required panel wattage.
 
 A rough formula: Annual kWh needed / (365 days × peak sun hours) × 1.2 efficiency factor = system size in kW.

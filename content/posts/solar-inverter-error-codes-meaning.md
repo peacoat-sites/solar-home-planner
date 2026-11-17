@@ -45,8 +45,6 @@ Walk through any brand's error code documentation and the list looks overwhelmin
 
 ## Reading the Code Your Inverter Actually Threw
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I'll be honest about a frustration: error code numbering is completely non-standardized. A "F01" on a Growatt means something different than "F01" on a Sungrow. You need your specific brand's error code document, not a generic list.
 
 That said, the pattern of *when* and *how often* a code appears tells you more than the code itself.

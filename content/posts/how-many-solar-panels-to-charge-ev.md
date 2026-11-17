@@ -37,8 +37,6 @@ Solar sales reps often don't ask about EV ownership upfront or plans to buy one 
 
 ## The Core Calculation: Panels Per Mile Driven
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's a framework that actually works. Forget the vague "add 2 or 3 panels" advice you'll find on most installer websites.
 
 **Step 1: Find your EV's efficiency rating.**

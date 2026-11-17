@@ -34,10 +34,6 @@ The catch is the construction-start requirement. To claim the full 30% under Sec
 
 ## The Safe Harbor Mechanic (and Why It Matters to Your Quote)
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 You might be wondering what "beginning construction" actually means for a rooftop solar project. The IRS has specific rules here, and solar companies have been racing to meet them. The process is called safe harboring, and it typically involves a company either starting physical work on your specific system or incurring at least 5% of the project's total cost before the deadline.
 
 In practice, this means installers are purchasing equipment, pulling permits, and in some cases starting installations on a compressed timeline. As Electrek reported on June 4, 2026, companies that safe harbor projects before the July 4 cutoff can pass the full 30% credit value to customers through lower lease payments or discounted prepaid PPAs. Companies that don't won't have that math to work with.
@@ -72,7 +68,7 @@ The people who got the most out of the old residential credit were the ones who 
 - [US Residential Solar Installations Set to Stall for Years](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
 - [Pre-Paid Solar Leases and PPAs: Are They Worth It in 2026?](https://www.energysage.com/solar/pre-paid-solar-leases-and-ppas/) (January 2026)
 - [The 30% Tax Credit Is Gone. This Discount Isn't.](https://www.integratesun.com/post/30-percent-tax-credit-gone-discount-isnt) (June 19, 2026)
-- [The Federal Solar Tax Credit , What's New in 2026](https://www.solarreviews.com/blog/federal-solar-tax-credit) (2026)
+- [The Federal Solar Tax Credit, What's New in 2026](https://www.solarreviews.com/blog/federal-solar-tax-credit) (2026)
 - [6 Million Solar Installations](https://seia.org/research-resources/6-million-solar-installations/) (June 2026)
 
 ---

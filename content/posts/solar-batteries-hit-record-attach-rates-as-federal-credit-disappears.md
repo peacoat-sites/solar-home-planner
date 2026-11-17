@@ -35,10 +35,6 @@ Without a battery, a grid-tied solar system in a time-of-use rate territory most
 | Power Purchase Agreement (PPA) | None direct | Passed through via pricing | Yes, if utility allows | Minimal upfront cost; developer claims 48E |
 | Retrofit Battery Only | None | State-dependent | Yes, if utility offers | Adding storage to existing solar; higher labor cost |
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's the part most coverage is glossing over: the 30% credit didn't disappear for every buyer. It survived for commercial installations under Section 48E through 2032, and some battery deployments qualify.
 
 If you're financing solar through a lease or a power purchase agreement (PPA), the developer owns the system, not you. That means they can claim the commercial ITC on the battery portion of your installation, and some of that savings can get passed through in the form of lower lease rates or reduced PPA pricing. It's not as clean as a direct tax credit in your pocket, but it's real money, and it's part of why lease and PPA deal structures are looking more competitive again in 2026 compared to loans.

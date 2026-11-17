@@ -41,8 +41,6 @@ This is meaningfully different from a microinverter (Enphase IQ8, for example), 
 
 ## The Numbers That Should Drive Your Decision
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 EnergySage's market data currently puts the national average optimizer [system cost](/off-grid-solar-system-cost-breakdown/) at about $3.20–$3.50/watt installed, versus $2.70–$3.10/watt for a comparable string system without optimizers. On a 8 kW install, that's a $1,600–$3,200 premium. You're going to need a real production gain, or a real risk factor, to justify that.
 
 Here's where it gets interesting. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has published modeling showing that in partial-shade scenarios, module-level power electronics (MLPEs, which include both optimizers and microinverters) can recover 8 to 25% of annual production compared to a string inverter without any shade mitigation. On an 8 kW system producing around 10,000 kWh/year at $0.15/kWh, that's $120 to $375 back in your pocket annually. At the low end of that shade impact, your optimizer premium pays back in roughly 8 years. At the high end, under 5 years.

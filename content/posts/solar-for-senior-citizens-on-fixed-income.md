@@ -43,8 +43,6 @@ The better path for many fixed-income seniors is often a lease or a power purcha
 
 ## Income-Based Programs Most People Have Never Heard Of
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where the real opportunity is for seniors on fixed incomes, and it's genuinely underutilized.
 
 The Low Income Home Energy Assistance Program (LIHEAP) is the one people know. But there's also the Weatherization Assistance Program (WAP), administered through the DOE, which can cover insulation, air sealing, and in some states, solar water heating. Income limits for WAP are generally 200% of the federal poverty level. A single senior household at that threshold in 2026 earns roughly $29,000/year or less.

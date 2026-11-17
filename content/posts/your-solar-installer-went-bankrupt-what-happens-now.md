@@ -30,10 +30,6 @@ If you financed through a third party like Mosaic, GoodLeap, or Dividend, your s
 
 ## The Warranty Picture Is More Complicated
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Not all warranties are created equal, and a bankruptcy is where that distinction really bites.
 
 | Warranty Type | Who Backs It | Status After Installer Bankruptcy |
@@ -74,11 +70,11 @@ Finally, watch your utility bill. Your production data from the monitoring app t
 The broader pattern here is real. Bloomberg reported in June 2026 that residential solar is set to stall for years, and Solar Equity Solutions' July 2026 tracker shows the pace of closures hasn't slowed. That doesn't mean solar is a bad investment, but it does mean the installer you signed with in 2022 or 2023 may not be the company that services your system in 2026. Building a direct relationship with your equipment manufacturers, keeping your own records, and knowing your loan servicer by name, those aren't paranoid steps. They're just what ownership actually looks like.
 
 ## Sources
-- [Solar Company Bankruptcies 2026: Full List of Closures & Failures ,  Solar Equity Solutions](https://solarequitysolutions.com/guide/solar-company-bankruptcies/) (July 2026)
-- [The Complete List of Solar Bankruptcies and Business Closures ,  Solar Insure](https://www.solarinsure.com/the-complete-list-of-solar-bankruptcies-and-business-closures) (May 2026)
-- [US Residential Solar Installations Set to Stall for Years ,  Bloomberg](https://www.bloomberg.com/news/articles/2026-06-15/us-residential-solar-installations-set-to-stall-for-years) (June 15, 2026)
-- [Sunnova Asset Sale Approved ,  PV Tech](https://www.pv-tech.org/us-bankruptcy-court-approves-sunnova-asset-sale/) (August 2025)
-- [Solar Market Insight Report Q2 2026 ,  SEIA](https://seia.org/research-resources/solar-market-insight-report-q2-2026/) (July 2026)
+- [Solar Company Bankruptcies 2026: Full List of Closures & Failures, Solar Equity Solutions](https://solarequitysolutions.com/guide/solar-company-bankruptcies/) (July 2026)
+- [The Complete List of Solar Bankruptcies and Business Closures, Solar Insure](https://www.solarinsure.com/the-complete-list-of-solar-bankruptcies-and-business-closures) (May 2026)
+- [US Residential Solar Installations Set to Stall for Years, Bloomberg](https://www.bloomberg.com/news/articles/2026-06-15/us-residential-solar-installations-set-to-stall-for-years) (June 15, 2026)
+- [Sunnova Asset Sale Approved, PV Tech](https://www.pv-tech.org/us-bankruptcy-court-approves-sunnova-asset-sale/) (August 2025)
+- [Solar Market Insight Report Q2 2026, SEIA](https://seia.org/research-resources/solar-market-insight-report-q2-2026/) (July 2026)
 
 ---
 

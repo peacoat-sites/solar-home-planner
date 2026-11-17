@@ -30,8 +30,6 @@ Some states allow HOAs to impose "reasonable restrictions" but can't ban panels 
 
 ## Read Your CC&Rs Like You're Going to Court
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Once you know your state's position, go read your [HOA's CC&Rs](/hoa-solar-panel-rules/) (Covenants, Conditions, and Restrictions) and any architectural guidelines they've sent you. Read them carefully, not just the section they cited in the denial letter.
 
 Look for these things specifically: Does the language say "prohibit" or does it say "require approval"? Those are very different. Many HOA denials are actually procedural, not substantive. The board may be saying your application was incomplete, or that you didn't submit the right documents, not that solar is banned. A denial letter may actually be a request to resubmit with additional documents like a roof plan. That's fixable in a week.

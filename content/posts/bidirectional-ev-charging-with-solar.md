@@ -45,8 +45,6 @@ For a solar home setup, V2H is where most people end up. It's practical today.
 
 ## The Hardware Reality
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A common misconception is that any EV + any charger can handle bidirectional charging. That's completely false. Both the vehicle and the charging equipment have to support the bidirectional standard, and they have to match.
 
 Currently, the vehicles with real, deployable V2H or V2G capability (not just a "coming soon" firmware update) include the Ford F-150 Lightning, Ford Escape Plug-In Hybrid (limited), Nissan Leaf (older CHAdeMO models only, which is increasingly awkward), Hyundai Ioniq 5 and 6, Kia EV6, and the Genesis GV60. The Rivian R1T and R1S have Camp & Kitchen mode but that's V2L only. Tesla still doesn't support V2H or V2G as of this writing, despite having the most popular home battery product on the market, which I find genuinely frustrating.

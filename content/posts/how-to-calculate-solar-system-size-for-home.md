@@ -69,8 +69,6 @@ San Diego gets roughly 5.5 peak sun hours daily. Seattle gets about 3.5. Massach
 
 This number directly controls how much work your panels do each day, which directly determines how many you need.
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ---
 
 ## The Actual Sizing Math (Not That Scary)

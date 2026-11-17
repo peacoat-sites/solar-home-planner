@@ -49,8 +49,6 @@ Pull your utility account portal right now and compare your actual kilowatt-hour
 
 ## Net Metering Math Is Not What the Sales Brochure Implied
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You might be wondering why you're generating kilowatt-hours but still paying a lot. Net metering is usually the answer nobody fully explained.
 
 Here's the short version. Net metering lets you send excess solar production to the grid and receive a credit. But what you receive per kilowatt-hour is often not the same as what you pay per kilowatt-hour. In many states today, utilities have shifted to "avoided cost" net metering rates that compensate you at wholesale prices, maybe $0.04-0.07 per kWh, while you're paying retail rates of $0.14-0.25 per kWh when you pull from the grid at night.

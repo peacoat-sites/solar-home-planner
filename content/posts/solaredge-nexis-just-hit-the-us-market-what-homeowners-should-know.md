@@ -28,8 +28,6 @@ I've personally spent three-plus hours on some battery installs just managing ca
 
 ## The Tax Credit Reality and How It Changes Your Math
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the part nobody wants to hear plainly. The 30% federal residential clean energy credit is gone. It expired at the end of 2025, and the One Big Beautiful Bill that passed in 2026 did not restore it for residential customers. That means a $30,000 solar-plus-storage system that cost you effectively $21,000 last year now costs $30,000. Full stop. A lot of homeowners are still quoting old payback math in their heads, and contractors aren't always rushing to correct them.
 
 What this means for Nexis specifically: the modular entry point matters more now. If you can start at 5 kWh of storage instead of buying a bloated 13 kWh system you don't need, you're not carrying that cost delta without a tax cushion anymore. The scalability from 5 to 80 kWh is not just a nice feature, it's a direct response to the new financial reality of selling storage without a subsidy.

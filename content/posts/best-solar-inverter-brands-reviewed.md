@@ -56,8 +56,6 @@ SMA's monitoring lagged behind SolarEdge historically, but their newer units wit
 | SMA | String | Grid compliance, long-term reliability | Varies by model | Monitoring recently improved |
 | Enphase | Microinverter | Best-in-class monitoring, Sunlight Backup | Varies by model | $1,500-$2,500 premium over string systems |
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If your roof is complicated, if you've got multiple azimuths, trees that shade part of the array in the afternoon, or an HOA that forced you into a weird panel layout, microinverters deserve serious consideration. Each panel gets its own small inverter mounted on the racking. No single point of failure for the whole array. Panel-level monitoring standard. Better shade performance.
 
 **Enphase** is the category leader and it's not particularly close. The IQ8 series is the current standard, and the IQ8A (for 60-cell panels) and IQ8M (for larger panels) are what most quality installers are putting on new systems today. The IQ8 lineup brought something legitimately useful: limited off-grid capability without a battery, called Sunlight Backup. If the grid goes down during the day and you have an Enphase IQ8 system with their IQ System Controller, you can run loads directly from solar without a battery bank. That's a real feature, not a marketing footnote.

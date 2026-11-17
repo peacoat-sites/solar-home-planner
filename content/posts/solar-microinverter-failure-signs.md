@@ -43,8 +43,6 @@ One thing that only makes sense once you've seen it in person: when you're looki
 
 ## Physical signs worth knowing
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You're not going to diagnose a failed microinverter by eyeballing it. But there are physical clues worth checking if you're already on the roof for another reason (and please, use proper fall protection, not flip flops and confidence).
 
 Burn marks or discoloration on the microinverter housing are a late-stage sign, meaning the unit probably already failed hard. Corrosion around the cable connectors, especially the MC4 connectors where they mate to the panel's leads, points to moisture ingress. A microinverter that's warm to the touch while neighboring units feel hot is actually potentially fine; one that's at ambient temperature during peak production hours when everything else is hot might have shut down entirely.

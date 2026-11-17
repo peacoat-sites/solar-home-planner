@@ -31,7 +31,7 @@ Time-of-use (TOU) rates are the single biggest variable most solar installers do
 
 The core idea is simple enough: your utility charges different prices for electricity depending on when you use it. Peak hours (usually late afternoon through evening) cost more. Off-peak hours (nights and early mornings) cost less. On-peak rates in states like California and Arizona currently run anywhere from 38 to 55 cents per kWh, while off-peak rates might be 11 to 18 cents. Your [solar panels](/how-to-clean-solar-panels-safely/), meanwhile, produce the most power between 10 a.m. and 2 p.m., which is exactly when demand is moderate and rates are only middling. This mismatch is the whole problem.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">TOU peak rates (4–9 PM) can be 3–4x higher than off-peak; solar alone doesn't fix this mismatch.</li><li style="margin:5px 0">Battery storage paired with TOU optimization can cut net electricity costs by $800–$1,400/year in high-rate states.</li><li style="margin:5px 0">A solar-only system exporting midday power earns credits at low or moderate rates, then buys back at expensive peak rates.</li><li style="margin:5px 0">Shifting just 2–3 high-draw appliances (dishwasher, EV charging, laundry) out of peak hours saves $300–$600/year without batteries.</li><li style="margin:5px 0">Check your utility's specific TOU schedule before sizing any battery ,  peak windows vary wildly by utility.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">TOU peak rates (4–9 PM) can be 3–4x higher than off-peak; solar alone doesn't fix this mismatch.</li><li style="margin:5px 0">Battery storage paired with TOU optimization can cut net electricity costs by $800–$1,400/year in high-rate states.</li><li style="margin:5px 0">A solar-only system exporting midday power earns credits at low or moderate rates, then buys back at expensive peak rates.</li><li style="margin:5px 0">Shifting just 2–3 high-draw appliances (dishwasher, EV charging, laundry) out of peak hours saves $300–$600/year without batteries.</li><li style="margin:5px 0">Check your utility's specific TOU schedule before sizing any battery, peak windows vary wildly by utility.</li></ul></div>
 
 ## Why the Solar Production Window Is the Wrong Window
 
@@ -42,8 +42,6 @@ In California, PG&E's current E-TOU-C rate schedule puts peak pricing from 4 p.m
 I thought for years that a well-sized solar system would more or less handle TOU automatically. Then I pulled the actual 12-month billing data on a system I'd helped a neighbor in Fresno install in 2023, a nice 9.6kW setup, good equipment, proper orientation. His annual electric bill was still $1,440. Not because the system underperformed. It produced exactly what we modeled. It was because he was exporting power cheaply and importing it expensively. That moment genuinely changed how I talk to clients.
 
 ## What Battery Storage Actually Does Here
-
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 A battery doesn't just give you backup power. In a TOU context, it's a financial arbitrage tool. You charge it when electricity is cheap (or free, from your panels), and you discharge it when electricity is expensive. Done right, this is worth real money.
 
@@ -74,10 +72,10 @@ This is where it gets genuinely complicated, because there's no national standar
 | State / Utility | Peak Window | Peak Rate ($/kWh) | Off-Peak Rate ($/kWh) | Solar-Only Viable? |
 |---|---|---|---|---|
 | California (PG&E, E-TOU-C) | 4–9 PM daily | $0.47 | $0.29 | Marginal (NEM 3.0) |
-| Arizona (APS, Saver Choice Max) | 4–9 PM weekdays | $0.499 | $0.103 | No ,  battery helps significantly |
-| Texas (Austin Energy TOU) | 2–7 PM weekdays | $0.155 | $0.052 | Yes ,  favorable alignment |
-| Nevada (NV Energy, TOU-2) | 3–8 PM summer | $0.386 | $0.129 | Marginal ,  battery worthwhile |
-| Massachusetts (Eversource, TOU) | 7 AM–9 PM weekdays | $0.319 | $0.196 | Yes ,  broad off-peak window |
+| Arizona (APS, Saver Choice Max) | 4–9 PM weekdays | $0.499 | $0.103 | No, battery helps significantly |
+| Texas (Austin Energy TOU) | 2–7 PM weekdays | $0.155 | $0.052 | Yes, favorable alignment |
+| Nevada (NV Energy, TOU-2) | 3–8 PM summer | $0.386 | $0.129 | Marginal, battery worthwhile |
+| Massachusetts (Eversource, TOU) | 7 AM–9 PM weekdays | $0.319 | $0.196 | Yes, broad off-peak window |
 | Georgia (Georgia Power, TOU) | 2–7 PM summer | $0.162 | $0.065 | Yes in shoulder seasons |
 
 What jumps out: Arizona has the most punishing TOU spread (roughly 5:1 ratio), and it has a narrow peak window that barely overlaps with peak solar production. Massachusetts has a wide on-peak window but a smaller rate differential. These differences completely change the battery ROI calculation.

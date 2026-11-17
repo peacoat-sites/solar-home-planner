@@ -47,8 +47,6 @@ The middle ground is a "hybrid" approach: a modest roof array (say, 6 to 10 pane
 | Full Grid-Tied with Battery | Yes, local | Yes, interconnection | Whole-home backup, bill reduction | High |
 | Off-Grid System | Varies by jurisdiction | No | Remote properties, complete independence | High |
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Skip this section if you want to, but it will cost you. Not might. Will.
 
 Every grid-tied solar installation in the U.S. requires a permit. The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) is pretty clear on this, and your AHJ (Authority Having Jurisdiction, meaning your local building department) will expect a site plan, electrical diagram, and equipment spec sheets before they'll issue one. If you're connecting to the grid, your utility also requires a separate interconnection application, and some utilities are still running 60 to 90 day backlogs on those approvals.

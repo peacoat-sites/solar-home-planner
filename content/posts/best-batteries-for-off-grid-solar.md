@@ -94,8 +94,6 @@ If you're going whole-home, 48V server-rack lithium from EG4, REC Alpha, or Pylo
 
 For real-time system tracking, a home energy monitor like the [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) plugs into your panel and shows granular load data.
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Temperature, Installation, and Real-World Red Flags
 
 Cold kills off-grid batteries more reliably than almost anything else. Lead-acid loses roughly 50% capacity at 32°F (0°C). LiFePO4 handles cold better but most won't accept charge below 32°F without built-in heating. If you freeze, buy a battery with a heater (Ampere Time's heated models or Battle Born's cold-weather versions), or keep the bank in a conditioned space. An insulated enclosure with a small thermostat heater fixes this for a few hundred bucks.

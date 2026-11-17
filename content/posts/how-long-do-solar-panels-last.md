@@ -51,8 +51,6 @@ The honest part: [warranty claims are notoriously painful](/solar-panel-warranty
 
 ## What "Degradation Rate" Actually Means in Practice
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Solar panels lose efficiency in a predictable pattern, year after year. That rate of loss is called the degradation rate, and it's the number that actually tells you whether your system stays financially worth it.
 
 The National Renewable Energy Laboratory (NREL) analyzed field data across hundreds of systems and found a median degradation rate of about 0.5% per year for modern crystalline silicon panels. Older thin-film technology degraded faster, closer to 1% annually. For a typical residential panel installed today, 0.5% per year means:

@@ -50,8 +50,6 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has don
 | Pitched residential roof (dark shingles, 3-5" clearance) | 0-3% | 0.05-0.10 | No |
 | East-west flat roof (low tilt, Europe) | 10-15% | 0.40-0.55 | Yes |
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Ground-mount systems. Full stop. If you're installing on the ground with a light-colored gravel bed or bare soil, elevated at least 18 inches off the surface, oriented correctly, and with no shading on the rear, bifacial panels are the right call. The rear exposure is real, the albedo contribution is meaningful, and the incremental cost makes sense.
 
 Flat commercial roofs also work well, especially with white membrane roofing and a ballasted racking system that tilts panels at 10-15 degrees and keeps them off the deck enough to let reflected light reach the rear cells. Well-designed flat-roof commercial systems can achieve 12-18% rear-side gains consistently.

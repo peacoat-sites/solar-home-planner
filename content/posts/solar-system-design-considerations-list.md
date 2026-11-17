@@ -43,8 +43,6 @@ One thing that trips people up here: if you're planning to add an EV in the next
 
 ## What Your Roof Actually Tells You
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where the design gets physical. Roof orientation, tilt, and shading aren't abstract. They're the numbers your installer should be pulling from a shade analysis tool like Aurora Solar or PVWatts, not estimating by eye.
 
 South-facing arrays at a tilt between 15° and 40° are the textbook answer. But the textbook isn't always right for your financial situation. A true south array maximizes production. An east/west split, where you put panels on both roof faces, spreads production across more of the day and can actually align better with time-of-use utility rates that peak in late afternoon. I've designed east/west splits for homes in California where the homeowner was on a TOU rate and the west-facing array alone paid back faster than a south-facing array would have.

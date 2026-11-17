@@ -32,8 +32,6 @@ The unit can run up to four inverters in parallel across separate outlets, scali
 
 ## The State Legislation Map Right Now
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Eight states have signed plug-in solar legislation into law as of this month: Utah, Maine, Virginia, Maryland, Colorado, Connecticut, Vermont, and New Hampshire. New York passed its bill and it's sitting on the governor's desk. Each of these laws generally does the same thing: it prevents utilities from blocking small plug-in systems and often requires that landlords allow tenants to install them under reasonable conditions.
 
 If you're in one of these states, your path is cleaner than it's ever been. If you're not, you're not necessarily blocked, but you may encounter more friction with your utility or building management. The legislation is moving fast, though. Three of those eight state laws passed in 2026.
@@ -66,9 +64,9 @@ Also: your outlet matters. These units plug into a standard 120V outlet, but you
 The broader shift here is real. Residential [rooftop solar](/community-solar-vs-rooftop-solar/) just hit a rough patch after the Section 25D expiration, and products like the HiFlow Pro are filling a gap that genuinely needed to be filled. If you've been waiting for plug-in solar to be something you could point to and say "this is a legitimate product with a legitimate safety standard," that moment arrived on July 15, 2026.
 
 ## Sources
-- [Electrek ,  The US's first UL 3700 balcony solar microinverter is here](https://electrek.co/2026/07/20/us-first-ul-3700-balcony-solar-microinverter-hoymiles/) (July 20, 2026)
-- [pv magazine USA ,  Hoymiles introduces first UL 3700-compliant plug-in microinverter to U.S. market](https://pv-magazine-usa.com/2026/07/15/hoymiles-introduces-first-ul-3700-compliant-plug-in-microinverter-to-u-s-market/) (July 15, 2026)
-- [Hoymiles Official Release ,  HiFlow Pro Product Page](https://www.hoymiles.com/product-release/hoymiles-introduces-hiflow-pro-the-first-ul-3700-compliant-plug-in-microinverter-in-the-us-to-boost-diy-solar.html) (July 15, 2026)
+- [Electrek, The US's first UL 3700 balcony solar microinverter is here](https://electrek.co/2026/07/20/us-first-ul-3700-balcony-solar-microinverter-hoymiles/) (July 20, 2026)
+- [pv magazine USA, Hoymiles introduces first UL 3700-compliant plug-in microinverter to U.S. market](https://pv-magazine-usa.com/2026/07/15/hoymiles-introduces-first-ul-3700-compliant-plug-in-microinverter-to-u-s-market/) (July 15, 2026)
+- [Hoymiles Official Release, HiFlow Pro Product Page](https://www.hoymiles.com/product-release/hoymiles-introduces-hiflow-pro-the-first-ul-3700-compliant-plug-in-microinverter-in-the-us-to-boost-diy-solar.html) (July 15, 2026)
 - [SEIA Solar Market Insight Report Q2 2026](https://seia.org/research-resources/solar-market-insight-report-q2-2026/) (July 2026)
 
 *Photo: [Vladimir Srajber](https://www.pexels.com/@vladimirsrajber) via Pexels*

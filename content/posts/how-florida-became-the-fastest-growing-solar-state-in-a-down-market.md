@@ -34,10 +34,6 @@ The practical effect shows up in those permit numbers. A fourfold increase in ap
 
 ## The 2027 Statewide Permit Form: Quiet but Important
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Florida passed a second piece of legislation in 2026 that hasn't gotten as much press but deserves your attention if you're planning an install. Starting in 2027, a single statewide permit application form will replace the current patchwork of local forms that vary by county and municipality.
 
 This sounds like bureaucratic housekeeping. It's not. Right now, a [solar company](/solar-company-certifications-nabcep/) operating across multiple Florida counties maintains different documentation packages for each jurisdiction. That overhead gets priced into your quote. A uniform form reduces that administrative drag for installers and makes it easier for smaller, local contractors to compete with the big national players who have dedicated permitting departments. Competition among installers tends to push prices down. That's a real benefit for homeowners, even if it arrives quietly.

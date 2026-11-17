@@ -36,10 +36,6 @@ The reason is straightforward once you stop staring at the missing credit and lo
 | Maryland RCES Grant | Up to $5,000 | Residential eligibility | Mid-2026 |
 | Utility-Specific Programs | Varies | Demand-response or VPP enrollment | Varies by utility |
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's where the practical opportunity lives right now. State battery incentives didn't disappear with the federal credit, and in several markets they're genuinely substantial.
 
 California's SGIP program, New York's NYSERDA incentives, and Colorado's battery rebate programs are currently offering between $5,000 and $16,000 depending on system size and eligibility tier. Maryland's RCES grant covers up to $5,000, with applications open through mid-2026. If you're in one of those states and you haven't applied, that's money sitting on the table with a deadline attached to it.

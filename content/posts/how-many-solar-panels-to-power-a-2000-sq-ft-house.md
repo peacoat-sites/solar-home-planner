@@ -41,8 +41,6 @@ Once you have your annual kWh, divide by 365 to get your daily average. That's t
 
 ## The Math Behind the Panel Count
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the formula that actually matters:
 
 **Number of panels = Daily kWh needed / (Peak sun hours x Panel wattage in kW)**

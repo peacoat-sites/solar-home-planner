@@ -36,8 +36,6 @@ What surprised me was how much the switching efficiency compounds over time. A h
 
 ## The Tax Credit Situation Changes the Math Completely
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where the timing gets genuinely uncomfortable for homeowners. The Section 25D residential solar tax credit, that 30% federal credit that made a $20,000 system effectively cost $14,000, expired on December 31, 2025. It's gone. There's no phase-down, no extension as of now. You're paying full price.
 
 That changes what efficiency means in a practical sense. When the federal government was covering 30 cents of every dollar, you could afford to be slightly less precise about hardware choices. Now every percentage point of efficiency you leave on the table is money you personally don't get back. The IQ9N's efficiency improvement isn't just a nice feature anymore. It's one of the few remaining levers homeowners have to improve their return on investment.

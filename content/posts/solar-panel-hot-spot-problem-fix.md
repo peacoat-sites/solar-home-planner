@@ -47,8 +47,6 @@ Here's the part most guides gloss over: bypass diodes are supposed to prevent th
 | Cell cracking | 3rd | Physical stress during installation or roof work | Visual inspection for micro-cracks |
 | Manufacturing defects | 4th | Hot spot within 12-18 months of install | Warranty claim on new panels |
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Bird droppings sit at number one. A single dropping covering one cell is enough to trigger a hot spot because the current imbalance is immediate and concentrated. Unlike general dust that degrades output evenly, a dropping creates a hard shadow on a specific cell while the panel's other 59 cells keep hammering current through it.
 
 Second is partial shading, usually from a new tree branch, a neighbor's addition, or a rooftop AC unit that wasn't there when the system was designed. If you've had a roof addition or significant tree growth since install, this is worth investigating before anything else.

@@ -51,8 +51,6 @@ The total end-to-end timeline from permit submission to PTO typically ranges fro
 
 ## Why Some Utilities Are So Much Slower
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 What surprised me was how much utility interconnection speed correlates with regulatory pressure rather than utility size. Some of the largest utilities in the country process residential applications in under 3 weeks. Some small rural co-ops take 6 months. The difference is almost never staffing alone.
 
 States with strong interconnection rules, like California under CPUC jurisdiction or New Jersey under its Board of Public Utilities requirements, enforce specific timelines with consequences for utilities that miss them. California's Rule 21 interconnection standard mandates that utilities complete a simple residential fast-track application in 30 business days. In PG&E or SCE territory, the clock is real and utilities largely honor it. Compare that to certain states where interconnection rules are aspirational at best, and you get the 150+ day horror stories.

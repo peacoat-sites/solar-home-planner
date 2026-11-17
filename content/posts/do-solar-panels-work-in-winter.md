@@ -39,8 +39,6 @@ The enemy in winter isn't cold. It's reduced daylight hours and low sun angles.
 
 ## The Real Winter Problem: Geometry and Hours
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Your panels are sized for a certain number of "peak sun hours" (PSH) per day. In Phoenix in July, you might see 6.5 PSH. In Seattle in December, you're looking at 1.5 to 2.5 PSH on a decent day. That's not a conservative estimate, that's what the NREL data actually shows for high-latitude locations. And some days you simply don't clear the clouds at all.
 
 The sun's angle matters too. In winter, the sun stays low on the horizon all day. If your panels are mounted at a shallow angle (common on low-slope roofs), the incoming light hits at a steep incidence angle and more gets reflected rather than absorbed. A roof tilt of 30-40 degrees actually performs *better* in winter than a flatter 10-degree install, because it intercepts that low December sun more directly. Nobody tells homeowners this during the sales pitch.

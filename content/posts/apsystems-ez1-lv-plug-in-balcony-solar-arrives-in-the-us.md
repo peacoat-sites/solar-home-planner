@@ -34,10 +34,6 @@ What it won't do: it won't fill the gap left by a whole-home rooftop array, it w
 
 ## The UL 3700 Certification Is the Detail That Actually Matters
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Europe got plug-in solar moving partly because the regulatory framework was clear. Germany's VDE standard and later EU rules created a defined category: balcony power plants under a certain wattage, simple registration, no full utility interconnection. The U.S. didn't have a clean equivalent until UL 3700 arrived.
 
 UL 3700 is the standard for plug-in inverter systems. It covers anti-islanding protection, the safety mechanism that shuts the inverter down if grid power drops, so you're not backfeeding a downed line. The EZ1-LV carries that certification, which is why it can legally plug into a normal outlet rather than requiring a dedicated hardwired circuit with a utility-approved [interconnection agreement](/interconnection-agreement-utility-what-it-means/).

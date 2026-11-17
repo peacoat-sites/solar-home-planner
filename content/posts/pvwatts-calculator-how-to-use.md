@@ -43,8 +43,6 @@ It also doesn't model battery storage. If you're sizing a system for self-consum
 
 ## The Step-by-Step Walkthrough
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Go to pvwatts.nrel.gov. You'll see a map and an address bar. Type in your exact street address. This matters: PVWatts pulls the nearest TMY weather station and your exact roof coordinates. Estimates can differ by 4-6% between using a ZIP code and entering the actual street address, especially in hilly areas where nearby weather stations vary.
 
 **Step 1: Confirm your weather station.** After you enter your address, PVWatts shows you which weather data station it's using and your annual average solar resource in kWh/m²/day. For context, Phoenix, AZ runs around 5.5-6.0. Seattle hovers closer to 3.7-4.0. Boston lands around 4.3. If your station looks wildly off (like it's pulling data from 60 miles away in a different climate zone), click "Change weather data source" and select a closer option if one's available.

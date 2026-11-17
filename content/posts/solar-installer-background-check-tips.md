@@ -41,8 +41,6 @@ Some states layer additional requirements on top. California requires a C-46 Sol
 
 ## Pulling License and Permit Records Yourself
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This step takes maybe 20 minutes total and [most homeowners](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) skip it entirely. Don't.
 
 Every licensed contractor in your state has a license number. Your state's contractor licensing board has a public lookup (search "[your state] contractor license lookup"). Enter their license number, not just their name. What you're looking for: license status (active, suspended, expired), issue date, any disciplinary actions, and whether the license type actually covers solar electrical work.

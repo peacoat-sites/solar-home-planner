@@ -49,8 +49,6 @@ Working backward from your actual numbers beats trusting any salesperson's estim
 
 ## Sizing the Solar Array for EV Charging
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The average American drives about 37 miles per day. A typical EV consumes 3 to 4 miles per kilowatt-hour depending on vehicle weight, speed, and climate. That puts daily charging demand at roughly 9 to 12 kWh per day, or 270 to 360 kWh per month, just for the car.
 
 A 2,000-square-foot home in the Sunbelt might already use 1,000 to 1,200 kWh monthly. Same home in the Northeast? Probably 700 to 900 kWh, though you'll pay more per unit. Before you spec a solar system for EV charging, pull 12 months of utility bills and total your actual consumption. Then add the EV load. That's your target.

@@ -53,8 +53,6 @@ Before you touch a calculator, pull your last 12 months of utility bills and not
 | Typical paired array size | 7-12 kW | System ratio | EnergySage market median |
 | Refrigerator compressor surge | 3-6x running | Peak demand | Half-second spike requirement |
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let's use a real example. A 2,000 square foot home in Georgia with gas heat, electric water heater, central AC, refrigerator, and a few circuits of lighting and electronics. Average daily consumption: 38 kWh. But the critical load panel (circuits you'd want to run during an outage) draws about 18 kWh per day, and the evening peak between 5pm and 10pm hits roughly 6 kWh in that five-hour window.
 
 Here's the approach that actually works:

@@ -48,8 +48,6 @@ The hardware itself isn't exotic. You're typically looking at a 100A or 125A sub
 | Dual Powerwall 3 | 27 kWh | 1,500W | 22+ hours | General backup | Unspecified |
 | Powerwall 3 or Enphase IQ 5P | 13.5 kWh | 3,500W startup surge | Continuous | Well pump operation | Rural Vermont |
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I see the most expensive mistakes. People overload their critical loads panel because they treat it like an opportunity to back up everything "important." Then they wonder why their battery drains in three hours.
 
 The math is straightforward but requires honesty about your actual loads.

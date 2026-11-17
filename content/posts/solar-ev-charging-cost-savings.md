@@ -53,8 +53,6 @@ Now throw solar into the equation. Once your system is paid for, your cost per k
 
 ## How to Size Your Solar System to Include EV Charging
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most people mess this up. They size solar for the house, start charging the car, then realize the system doesn't cover the new load. Grid power fills the gap. You've paid for panels but you're still buying expensive electricity.
 
 The average American drives 37 miles a day. At 3.5 miles/kWh, that's roughly 10.6 kWh daily, or 320 kWh monthly.

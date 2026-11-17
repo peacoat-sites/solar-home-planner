@@ -42,8 +42,6 @@ East and north are not equivalent. East is genuinely usable. North is a last res
 
 ## The Cases Where North-Facing Panels Actually Make Sense
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'll push back on the instinct to say "never."
 
 **You're in a net metering state with full retail credit.** If your utility gives you dollar-for-dollar retail credit on every kilowatt-hour you export, and if you have significant daytime usage you want to offset, even a smaller system on a north-facing roof might pencil out. It won't be great, but "not great" isn't "never."

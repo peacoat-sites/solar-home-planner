@@ -32,10 +32,6 @@ What this also does is change how solar loan products pencil out. Many loan stru
 
 ## How Prepaid Leases Actually Work
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 A prepaid PPA is not a traditional lease and it's not a straight purchase. Here's the basic structure: a third-party company technically owns your solar system. Because they own it as a commercial asset, they can claim the 30% Section 48E commercial investment tax credit. You pay that company roughly 70% of the system's total cost upfront as a prepayment. The company uses part of the ITC benefit to discount what you owe. After a set period (typically 5-7 years), ownership of the system transfers to you.
 
 According to EnergySage, prepaid PPAs have rapidly become the dominant post-credit financing structure in 2026 precisely because they're the primary way a homeowner can indirectly access federal incentives they can no longer claim directly. The deal is structured so the tax credit benefit gets partially passed back to you through the discounted upfront price.
@@ -77,12 +73,12 @@ The credit is gone, the safe-harbor window just closed, and the market is sortin
 
 ## Sources
 
-- [The Federal Solar Tax Credit: What's New in 2026 ,  SolarReviews](https://www.solarreviews.com/blog/federal-solar-tax-credit) (July 2026)
-- [Solar Market Insight Report Q2 2026 ,  SEIA](https://seia.org/research-resources/solar-market-insight-report-q2-2026/) (July 2026)
-- [5 Questions Answered as Solar Tax Credits Phase Out ,  E&E News](https://www.eenews.net/articles/5-questions-answered-as-solar-tax-credits-phase-out/) (July 2026)
-- [Prepaid Solar Leases & PPAs: A New Path for Going Solar in 2026 ,  Solar.com](https://www.solar.com/learn/prepaid-solar-leases-ppas/) (June 2026)
-- [Pre-Paid Solar Leases and PPAs: Are They Worth It in 2026? ,  EnergySage](https://www.energysage.com/solar/pre-paid-solar-leases-and-ppas/) (January 2026)
-- [Solar Financing in 2026: What Changed and What Options Remain ,  SunWise USA](https://sunwiseusa.com/blog/solar-financing-2026/) (July 2026)
+- [The Federal Solar Tax Credit: What's New in 2026, SolarReviews](https://www.solarreviews.com/blog/federal-solar-tax-credit) (July 2026)
+- [Solar Market Insight Report Q2 2026, SEIA](https://seia.org/research-resources/solar-market-insight-report-q2-2026/) (July 2026)
+- [5 Questions Answered as Solar Tax Credits Phase Out, E&E News](https://www.eenews.net/articles/5-questions-answered-as-solar-tax-credits-phase-out/) (July 2026)
+- [Prepaid Solar Leases & PPAs: A New Path for Going Solar in 2026, Solar.com](https://www.solar.com/learn/prepaid-solar-leases-ppas/) (June 2026)
+- [Pre-Paid Solar Leases and PPAs: Are They Worth It in 2026?, EnergySage](https://www.energysage.com/solar/pre-paid-solar-leases-and-ppas/) (January 2026)
+- [Solar Financing in 2026: What Changed and What Options Remain, SunWise USA](https://sunwiseusa.com/blog/solar-financing-2026/) (July 2026)
 
 *Photo: [Vladimir Srajber](https://www.pexels.com/@vladimirsrajber) via Pexels*
 

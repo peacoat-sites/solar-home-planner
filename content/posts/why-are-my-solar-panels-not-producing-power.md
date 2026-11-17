@@ -41,8 +41,6 @@ Also check your monitoring software. Enphase, SolarEdge, and SMA all offer apps 
 
 ## The inverter is the most common actual failure point
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Your panels themselves almost never fail outright. The cells are solid-state, no moving parts, and quality panels carry 25-year production warranties. What does fail, more often than the industry likes to advertise, is the inverter.
 
 String inverters (one central box, usually in your garage or utility room) have a rated lifespan of 10 to 15 years. Microinverters mounted under each panel tend to last longer, but they can still fault out individually. A failed string inverter takes your entire system offline. A failed microinverter only kills one panel, which is why that architecture is actually better for diagnosing problems.

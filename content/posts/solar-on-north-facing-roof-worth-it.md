@@ -43,8 +43,6 @@ Seattle is where things get rough. Under 4,000 kWh annually from a north-facing 
 
 ## Tilt Angle Changes Everything
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the detail that most online calculators gloss over. Roof pitch has an outsized effect on north-facing systems compared to south-facing ones.
 
 A north-facing roof at a shallow 10-degree pitch loses less to orientation than a north-facing roof pitched at 35 degrees, because a flatter surface captures more diffuse light from the sky rather than being pointed directly away from the sun. The steep north-facing pitch is the worst-case scenario, not just because of orientation, but because the angle actively works against you.

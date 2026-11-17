@@ -53,8 +53,6 @@ Skip the inverter if you can live without 120V AC. Running AC through an inverte
 | Inverter | 1000W pure sine wave | Optional | Only if AC loads needed |
 | **Total System** | **400W array + 200Ah lithium** | **~$600** | Covers weekend to shoulder-season camping |
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the math most people skip. Figure out your daily amp-hour consumption first, then work backward to panels and batteries.
 
 Make a list of everything you run: the 12V fan (2-3A), LED lighting (maybe 3A total), a 12V refrigerator like the Iceco or BougeRV (3-5A average), phone charging (0.5A). Multiply each by hours per day. Add it up. Most weekend campers land between 40 and 80Ah per day. Serious full-timers with fridges, laptops, and occasional inverter use might hit 120-150Ah.

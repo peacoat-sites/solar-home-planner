@@ -29,10 +29,6 @@ What gives this proposal weight is that it doesn't exist in isolation. The Europ
 
 ## The Cybersecurity Case, and Why It's More Complicated Than It Sounds
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The security concerns aren't invented. In 2025, Reuters reported the discovery of alleged rogue communication devices inside some Chinese-made solar inverters. The DOE investigated and found no evidence of malicious intent, but the agency did flag something more structural: supply chain complexity itself creates ongoing cybersecurity risk. When a device has components sourced across dozens of suppliers and runs proprietary firmware you can't audit, the attack surface is real regardless of whether anyone has exploited it yet.
 
 Inverters aren't passive hardware. A modern string inverter or microinverter is a networked device. It connects to your home's electrical system, often to your utility through smart meters, and increasingly to cloud monitoring platforms. For a single home, the risk profile is relatively contained. At grid scale, where inverters aggregate across thousands of commercial installations, the calculus changes significantly. That's why Goldman Sachs, analyzing the proposed ban, noted it would most directly impact the commercial and industrial segment, where Chinese brands Chint and Sungrow together hold roughly 40% market share.

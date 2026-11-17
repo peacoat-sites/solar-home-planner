@@ -50,8 +50,6 @@ Where it gets more interesting is the energy flow diagram, which shows productio
 | East-facing panels (8am-11am) | 100% of expected output | 60% | -40% |
 | Post-cleaning performance | Design projection | Within 4% | -4% |
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The monitoring portal's reporting is more capable than the app lets on. You can pull historical production data going back to system commissioning, export it to CSV, and compare it against local weather data or your utility bill. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has published irradiance data tools that pair well with this kind of export if you want to validate whether your system is hitting expected production benchmarks.
 
 SolarEdge also provides alerts: low production, communication faults, inverter errors. Panel-level monitoring can catch shading issues that would otherwise show up as vague system underperformance. For example, a panel flagging 15-20% below its neighbors every sunny afternoon might reveal a new obstruction casting a shadow in the afternoon hours.

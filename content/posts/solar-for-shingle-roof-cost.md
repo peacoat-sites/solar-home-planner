@@ -50,8 +50,6 @@ Panel brand is another variable people underestimate. There's a real difference 
 
 ## The Shingle Roof Factor Specifically
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I want to get specific, because this part gets glossed over in most cost guides.
 
 Asphalt shingle installations use what's called a **flashed roof mount**. Installers drill through your shingles into the rafters, seal each penetration with flashing, and attach rails. Done correctly, this is watertight and durable. Done sloppily, it's a future leak waiting to happen. This is genuinely the part I'd scrutinize most on any installer proposal.

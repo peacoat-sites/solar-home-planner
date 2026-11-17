@@ -29,8 +29,6 @@ Here's the gap that surprises people: that manufacturer warranty covers the equi
 
 ## If Your Installation Is Incomplete, Move Immediately
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A stalled installation is a different and more urgent problem than a warranty gap. If Freedom Forever or another bankrupt installer left your project mid-stream, you may have panels on your roof that aren't connected, wiring in conduit that hasn't been terminated, or a permit that's open and expiring. An open permit is a serious issue. Many jurisdictions will require a full re-inspection or even a tear-down and restart if work stalls too long without a final inspection sign-off.
 
 The first call you need to make is to your local building department, not a new solar company. Find out the status of your permit, how long you have before it expires, and whether the inspection record shows any outstanding violations. Get that in writing or at least documented with a name and date. Then you can start talking to a new installer about finishing the work, but you need to know exactly what the permit situation is before anyone touches your system.
@@ -69,12 +67,12 @@ Get your permit status. Read your manufacturer warranty documents. Know who hold
 
 ## Sources
 
-- [What the Freedom Forever Bankruptcy Means for Your Solar System ,  8MSolar](https://8msolar.com/freedom-forever-bankruptcy/) (May 1, 2026)
-- [Complete List of Solar Company Bankruptcies (2024-2026) ,  SolarPanelExit](https://solarpanelexit.com/solar-company-bankruptcy-list/) (March 28, 2026)
-- [What Happens to Solar Warranties After an Installer Bankruptcy ,  Solar Insure](https://www.solarinsure.com/solar-warranties-after-installer-bankruptcy) (June 4, 2026)
-- [The Complete List of Solar Bankruptcies and Business Closures ,  Solar Insure](https://www.solarinsure.com/the-complete-list-of-solar-bankruptcies-and-business-closures) (July 2, 2026)
-- [Solar Market Insight Report Q2 2026 ,  SEIA](https://seia.org/research-resources/solar-market-insight-report-q2-2026/) (June 2026)
-- [What's Behind Solar Company Bankruptcies and Closures ,  GreenLancer](https://www.greenlancer.com/post/solar-company-bankruptcies) (March 2, 2026)
+- [What the Freedom Forever Bankruptcy Means for Your Solar System, 8MSolar](https://8msolar.com/freedom-forever-bankruptcy/) (May 1, 2026)
+- [Complete List of Solar Company Bankruptcies (2024-2026), SolarPanelExit](https://solarpanelexit.com/solar-company-bankruptcy-list/) (March 28, 2026)
+- [What Happens to Solar Warranties After an Installer Bankruptcy, Solar Insure](https://www.solarinsure.com/solar-warranties-after-installer-bankruptcy) (June 4, 2026)
+- [The Complete List of Solar Bankruptcies and Business Closures, Solar Insure](https://www.solarinsure.com/the-complete-list-of-solar-bankruptcies-and-business-closures) (July 2, 2026)
+- [Solar Market Insight Report Q2 2026, SEIA](https://seia.org/research-resources/solar-market-insight-report-q2-2026/) (June 2026)
+- [What's Behind Solar Company Bankruptcies and Closures, GreenLancer](https://www.greenlancer.com/post/solar-company-bankruptcies) (March 2, 2026)
 
 ---
 
