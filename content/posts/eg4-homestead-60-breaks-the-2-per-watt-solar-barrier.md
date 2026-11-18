@@ -79,3 +79,13 @@ The Homestead 60 is a real milestone, not just a marketing number. At $1.20 per 
 - [Solar Battery Cost: Are They Worth It in 2026?](https://www.energysage.com/energy-storage/how-much-do-batteries-cost/) (2026)
 
 *Photo: [Trinh Trần](https://www.pexels.com/@trinh-tr-n-191284110) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+
