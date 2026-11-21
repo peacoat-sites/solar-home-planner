@@ -74,3 +74,13 @@ Ten states in one year is a real shift. The products are certified. The legal fr
 - [Twelve States Pass Balcony/Plug-In Solar Legislation This Year – Third Act Washington](https://thirdact.org/washington/2026/11/09/balcony-solar-update/) (November 9, 2026)
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+
