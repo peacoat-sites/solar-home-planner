@@ -21,8 +21,8 @@ faqs:
    a: "Yes, ideally. Many HOAs have restrictions on panel placement, visibility from the street, and racking aesthetics. If you get proposals first, you'll know exactly what you're asking the HOA to approve. Vague requests get vague (and often negative) responses. Most states have solar access laws that limit HOA authority to block installations outright, but the HOA can often dictate specific conditions. Know your state's rules before you assume approval is automatic."
 author: "David Torres"
 author_slug: "david-torres"
-author_title: "Solar Consultant"
-author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+author_title: "Residential Solar"
+author_bio: "David Torres is the byline used at Solar Home Planner for articles on planning a residential solar installation. It is a pen name, not a solar installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners spend more time researching a $600 dishwasher than a $25,000 solar system. A common mistake is signing a contract after a single sales pitch, then discovering months later that the electricity bill barely moved. Getting solar quotes isn't just about finding the lowest price. It's about gathering enough structured information to make a comparison that actually means something.

@@ -21,8 +21,8 @@ faqs:
     a: "Not usually. Monitoring platforms like Fronius Solar.web and SolarEdge store historical production data in the cloud, independent of what the inverter is currently doing. Your data is safe even if the inverter is offline. The gap in production during the outage will simply show as zero or missing, which is actually useful information when you're building a timeline of what happened."
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
-author_title: "Installation Expert"
-author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+author_title: "Inverters and Wiring"
+author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most solar inverter problems aren't actually inverter problems. That's the thing nobody tells you upfront, and I learned it the hard way after spending three hours on a roof in July convinced I had a failed SMA Sunny Boy, only to trace the fault back to a loose MC4 connector that cost about forty cents to fix.

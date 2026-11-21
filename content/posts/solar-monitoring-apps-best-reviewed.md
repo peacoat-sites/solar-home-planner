@@ -21,8 +21,8 @@ faqs:
    a: "It depends on the battery manufacturer. Tesla Powerwall integrates with the Tesla app natively. Enphase batteries (IQ series) are visible in Enlighten. SolarEdge batteries show in the SolarEdge portal. If you have a third-party battery added to a different-brand inverter system, integration varies and sometimes requires a separate app or a third-party platform like Home Assistant to tie everything together."
 author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
-author_title: "Solar Finance Analyst"
-author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
+author_title: "Solar Finance"
+author_bio: "Stephanie Walsh is the byline used at Solar Home Planner for articles on solar financing, payback and incentives. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most solar monitoring app reviews are glorified spec sheets written by people who've never actually watched their system underperform on a cloudy February morning and tried to figure out why. They compare logos and screenshot counts. That's not useful.

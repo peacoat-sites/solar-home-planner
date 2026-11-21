@@ -21,8 +21,8 @@ faqs:
    a: "You don't need one, but it's genuinely useful both before and after. Before installation, a home energy monitor can help you understand your actual consumption patterns, which feeds directly into sizing the system correctly (disclosure: this site may earn a commission on purchases). After installation, it lets you verify your solar production against your contract's estimates and catch underperformance early. Many inverter systems include monitoring apps, but a standalone monitor covers your whole home load, not just solar output, which gives you a more complete picture."
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
-author_title: "Installation Expert"
-author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+author_title: "Inverters and Wiring"
+author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A homeowner in Sacramento called me last spring, three days before her installation was scheduled to start. She'd signed a 25-year solar lease nine months earlier and had just discovered her contract included an automatic annual escalator of 2.9% on her monthly payments. Nobody had explained that to her during the sales pitch. Over 25 years, that clause would cost her roughly $14,000 more than the flat rate she thought she was getting. The installer wasn't breaking any laws. Every word was in the contract. She just hadn't read it.

@@ -21,8 +21,8 @@ faqs:
    a: "The majority of U.S. states have some form of net metering policy, but not all, and the quality varies significantly. A few states have no statewide mandate, leaving it up to individual utilities, which means coverage can be inconsistent even within a state. Before you sign anything, look up your specific utility's current solar tariff, not just your state's general policy. Your state's public utilities commission website is usually the most reliable source for this."
 author: "Rachel Kim"
 author_slug: "rachel-kim"
-author_title: "Energy Analyst"
-author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+author_title: "Energy Efficiency"
+author_bio: "Rachel Kim is the byline used at Solar Home Planner for articles on home energy efficiency and getting a house ready for solar. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most solar homeowners I talk to can name their panel brand and their system's wattage off the top of their head. Ask them how net metering actually works on their utility bill, and you'll get a long pause. That surprised me, because net metering is the single financial mechanism that determines whether your solar investment pays off in 7 years or 15. It's not a bonus feature. It's the math underneath everything.

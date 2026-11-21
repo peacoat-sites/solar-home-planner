@@ -21,8 +21,8 @@ faqs:
    a: "Yes. Contact your local building or electrical department and ask for the permit record associated with your property address. This is a public record. You can confirm whether a permit was issued, whether inspections were scheduled, and whether the final inspection was approved. If you can't find a permit associated with your installation, that's a serious problem you need to address immediately."
 author: "David Torres"
 author_slug: "david-torres"
-author_title: "Solar Consultant"
-author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+author_title: "Residential Solar"
+author_bio: "David Torres is the byline used at Solar Home Planner for articles on planning a residential solar installation. It is a pen name, not a solar installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You got three quotes last week. The lowest one was $4,000 cheaper than the others, the salesperson was at your door for two hours, and they want a 50% deposit before they'll pull a permit. Something feels off. Trust that instinct, because residential solar is one of the most complaint-heavy home improvement categories in the country, and the Federal Trade Commission has logged thousands of fraud reports tied to door-to-door solar sales alone. Before you sign anything, you need to know exactly how to vet the company standing in your driveway.

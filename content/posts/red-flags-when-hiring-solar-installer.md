@@ -21,8 +21,8 @@ faqs:
    a: "If you own the system outright (paid cash or through a loan you'll pay off), it typically adds value to the home and conveys with the sale. If you have a PPA or lease, the new buyer has to qualify to take over the agreement or you have to buy out the contract before closing. Buyout costs vary widely and can be a surprise at closing. If you're within five years of installation, check the buyout schedule in your contract now, before you're under a sale timeline. Some contracts have buyout amounts that are genuinely punishing in the early years."
 author: "Tom Bradley"
 author_slug: "tom-bradley"
-author_title: "DIY Solar Specialist"
-author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
+author_title: "DIY Solar"
+author_bio: "Tom Bradley is the byline used at Solar Home Planner for articles on DIY solar: sizing, wiring and permits for owner-installed systems. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A homeowner in Phoenix signed a contract with a solar company in February, put down $4,000, and by June the installer had vanished. The panels were never mounted. The deposit was gone. The lien the company had placed on her home took three months and a lawyer to clear. This isn't some obscure nightmare story buried in regulatory filings. The solar industry has a contractor fraud problem, and it's accelerating as demand spikes and undercapitalized outfits flood the market to chase easy money.

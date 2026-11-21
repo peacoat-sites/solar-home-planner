@@ -21,8 +21,8 @@ faqs:
    a: "If you're someone who checks their production app regularly and actually investigates anomalies, yes, the upgrade to optimizers or micros pays for itself in caught problems and peace of mind. If you're going to glance at a yearly total on your utility bill, the granular monitoring is wasted on you and you should save the money."
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
-author_title: "Installation Expert"
-author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+author_title: "Inverters and Wiring"
+author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Thirty-eight panels on a south-facing roof and not a single one performing at capacity. That's the first string inverter system I ever saw where the homeowner had no clue why his production numbers looked wrong. Turns out, three panels had bird droppings caked on them, and because they were wired in series, the whole string throttled down to match the weakest link. He'd been losing production for months without knowing it.

@@ -21,8 +21,8 @@ faqs:
    a: "In Enphase Enlighten, a failed or offline microinverter shows up as a grayed-out or red panel in the system map. You'll also see a corresponding drop in production from that panel compared to its neighbors. If one panel shows zero output on a sunny day while everything else is producing normally, that microinverter is almost certainly the issue and needs to be replaced under warranty."
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
-author_title: "Installation Expert"
-author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+author_title: "Inverters and Wiring"
+author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your electric bill drops in month one, and you feel great. Month two, still good. Then somewhere around month four or five, you start wondering: is this thing actually doing what it's supposed to do? You can't see the electricity. You can't hear it. You just have to trust it, and trusting something you spent $15,000 to $30,000 on without any way to verify it is genuinely uncomfortable.

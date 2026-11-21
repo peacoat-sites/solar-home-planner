@@ -21,8 +21,8 @@ faqs:
    a: "You diagnose and fix it, same as a contractor-installed system. Panel-level monitoring (microinverters or optimizers) makes troubleshooting dramatically easier because you can pinpoint exactly which panel has dropped off. String inverter systems require more detective work. Our troubleshooting guide covers the most common failure scenarios if you run into this situation: my solar panels stopped working, what to do."
 author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
-author_title: "Solar Finance Analyst"
-author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
+author_title: "Solar Finance"
+author_bio: "Stephanie Walsh is the byline used at Solar Home Planner for articles on solar financing, payback and incentives. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Let me be straight with you: a licensed electrician friend of mine once said that pulling a permit for a solar job is "just paperwork," but skipping it is "a lawsuit waiting to happen." He wasn't wrong. Every year, homeowners lose insurance coverage, face forced system removal, or get slapped with fines because they installed solar without permits, without inspections, or without understanding what they were actually doing to their electrical system. DIY solar is absolutely possible. I've helped dozens of homeowners do it themselves, save $10,000 to $20,000 in labor costs, and end up with a system they fully understand. But "DIY" doesn't mean "shortcuts." It means you're the one responsible for doing it right.

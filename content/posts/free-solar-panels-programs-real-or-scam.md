@@ -21,8 +21,8 @@ faqs:
    a: "With a lease, you pay a fixed monthly fee to rent the panels, regardless of how much electricity they produce. With a PPA, you pay for the actual electricity generated, at a set per-kilowatt-hour rate. PPAs can be a better deal in high-production months and worse in low-production months. Both leave the company owning the equipment and claiming the federal tax credit."
 author: "Rachel Kim"
 author_slug: "rachel-kim"
-author_title: "Energy Analyst"
-author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+author_title: "Energy Efficiency"
+author_bio: "Rachel Kim is the byline used at Solar Home Planner for articles on home energy efficiency and getting a house ready for solar. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've seen the ads. "Get solar panels installed on your home for FREE." Maybe it was a Facebook post, a mailer with a suspiciously professional logo, or a neighbor who swears she's getting solar at zero cost. And now you're sitting here wondering if you missed something, or if the whole thing is a trap.

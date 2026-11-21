@@ -21,8 +21,8 @@ faqs:
    a: "Unlike the EV credit, the Residential Clean Energy Credit (solar) has no income cap. Any homeowner with federal tax liability can claim it. The EV credit has AGI limits, and income above the threshold disqualifies you entirely for that credit, even if the vehicle otherwise qualifies."
 author: "David Torres"
 author_slug: "david-torres"
-author_title: "Solar Consultant"
-author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+author_title: "Residential Solar"
+author_bio: "David Torres is the byline used at Solar Home Planner for articles on planning a residential solar installation. It is a pen name, not a solar installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You bought an EV last year, installed solar this spring, and your accountant just told you the credits "probably stack." Probably. That one word is costing homeowners real money, because the interaction between the federal solar Investment Tax Credit and the federal EV tax credit is more nuanced than any sales rep will explain before you sign. Yes, they stack. But the longer version is where you actually need to pay attention.

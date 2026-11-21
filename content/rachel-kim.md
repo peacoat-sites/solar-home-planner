@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Rachel Kim"
 author_slug: "rachel-kim"
-author_title: "Energy Analyst"
-author_specialty: "Home Energy Efficiency & Solar Readiness"
+author_title: "Energy Efficiency"
+author_specialty: "Energy Efficiency"
 ---
 
-Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar.
+Rachel Kim is the byline used at Solar Home Planner for articles on home energy efficiency and getting a house ready for solar. It is a pen name; how articles are researched and checked is explained in our editorial standards.
+
+[How Solar Home Planner articles are written and checked](/editorial-standards/)

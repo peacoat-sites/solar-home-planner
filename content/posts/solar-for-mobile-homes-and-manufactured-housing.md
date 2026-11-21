@@ -21,8 +21,8 @@ faqs:
    a: "In some jurisdictions, yes, but with significant caveats. The HUD alteration requirements mean any modification to a manufactured home needs to meet federal standards, and a permit is almost certainly required. Some states allow licensed homeowners to pull their own electrical permits; others don't. The electrical work on a solar installation involves working with both DC and AC systems, inverter wiring, and utility interconnection. If you're not a licensed electrician and comfortable with that work, hire out the electrical portion even if you handle the mounting and wiring runs yourself."
 author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
-author_title: "Solar Finance Analyst"
-author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
+author_title: "Solar Finance"
+author_bio: "Stephanie Walsh is the byline used at Solar Home Planner for articles on solar financing, payback and incentives. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You own your land, you own your manufactured home, and your electric bill is running $180 a month. A neighbor down the road just got solar panels on their site-built house and cut their bill in half. So why does every solar company you call either quote you a sky-high price, tell you it's "complicated," or just stop returning your calls? That's not bad luck. That's a real pattern, and it has everything to do with how the industry views manufactured housing, not with whether solar actually works for your situation. It does. You just need to know the rules before you start.

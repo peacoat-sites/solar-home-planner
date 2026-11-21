@@ -21,8 +21,8 @@ faqs:
     a: "Dirt, dust, and pollen can reduce output by 5% to 25% depending on your location and how long since the last rain. In most climates, rain handles most of it. If you're in a dry, dusty area like the Southwest, cleaning once or twice a year makes sense. A soft brush kit rated for solar panels (something like the DocaPole Solar Panel Cleaning Kit, affiliate link) lets you do it safely from the ground or a ladder without scratching the glass."
 author: "David Torres"
 author_slug: "david-torres"
-author_title: "Solar Consultant"
-author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+author_title: "Residential Solar"
+author_bio: "David Torres is the byline used at Solar Home Planner for articles on planning a residential solar installation. It is a pen name, not a solar installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A common misconception is that higher efficiency always equals better panels. Full stop. That logic makes sense with most appliances. A more efficient refrigerator uses less electricity. A more efficient furnace wastes less gas. A 22% efficient panel isn't automatically better than a 19% one. This misconception causes real problems when you're spending $15,000 to $30,000 on a system, since it can lead to paying thousands extra for efficiency that doesn't match your actual needs.

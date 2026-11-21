@@ -21,8 +21,8 @@ faqs:
     a: "Troubleshoot first. Check your monitoring app for fault codes, look at your panels for visible soiling or shading changes, and verify the weather data for the days in question. Most legitimate problems are diagnosable in 20 minutes with information you already have access to. If you call your installer without that groundwork, you'll often just be scheduling a truck roll for something you could have identified yourself, and depending on your warranty terms, that visit might not be free."
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
-author_title: "Installation Expert"
-author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+author_title: "Inverters and Wiring"
+author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You checked your monitoring app this morning and your system produced 4.2 kWh yesterday when it normally does 28. Now you're second-guessing every decision you made signing those installation contracts. I've been there, and I've gotten this panicked message from readers more times than I can count. The good news: low production is almost never the disaster it feels like in the moment. The bad news: finding the root cause requires actually looking at a few different things, not just refreshing the app and hoping the number changes.

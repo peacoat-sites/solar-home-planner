@@ -21,8 +21,8 @@ faqs:
    a: "Most panel warranties are split into two parts: a product warranty (typically 10-25 years covering defects in materials and workmanship) and a performance warranty (usually guaranteeing 80-90% output after 25 years). Maintenance-related damage from improper cleaning or physical impact is almost always excluded. Read your specific warranty document. And keep records of every inspection and cleaning you do, because if you ever need to file a claim, documentation is what makes it stick."
 author: "Rachel Kim"
 author_slug: "rachel-kim"
-author_title: "Energy Analyst"
-author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+author_title: "Energy Efficiency"
+author_bio: "Rachel Kim is the byline used at Solar Home Planner for articles on home energy efficiency and getting a house ready for solar. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners go three or four years without touching their solar panels, then wonder why their production numbers have drifted down 12% and their installer won't return calls.

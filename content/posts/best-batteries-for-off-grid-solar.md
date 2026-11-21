@@ -21,8 +21,8 @@ faqs:
    a: "In most U.S. jurisdictions, yes. Even off-grid systems typically require an electrical permit, and many areas require the installation to meet NEC Article 706 (for energy storage) and Article 690 (for solar). Some rural counties have minimal enforcement, but skipping permits creates problems with homeowner's insurance and property resale. If you're DIYing the install, check with your local building department before you start. The honest truth about off-grid battery selection is that there's no perfect battery for every situation, only the right battery for your specific loads, climate, budget"
 author: "David Torres"
 author_slug: "david-torres"
-author_title: "Solar Consultant"
-author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+author_title: "Residential Solar"
+author_bio: "David Torres is the byline used at Solar Home Planner for articles on planning a residential solar installation. It is a pen name, not a solar installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Maybe you've already looked at the price of [grid-tied solar](/off-grid-solar-vs-grid-tied-comparison/) and walked away. Maybe you're 800 feet from the nearest utility pole building a cabin, or you've been through three multi-day outages this year and you're done. Whatever landed you here, you're asking the hardest question in residential solar: which battery actually works for me? The answer isn't straightforward, and anyone claiming it is has something to sell you.

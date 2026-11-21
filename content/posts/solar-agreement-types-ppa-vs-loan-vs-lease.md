@@ -21,8 +21,8 @@ faqs:
     a: "Sometimes, but it's complicated. If the battery is added by the same leasing company, they'll typically own it under a separate or amended agreement. Adding your own battery to a third-party-owned solar system isn't usually permitted without written consent. With an owned system (loan or cash), you can add a Powerwall or Enphase IQ battery whenever you want, and any storage added to an owned system after August 2022 qualifies for the 30% ITC under current IRA rules."
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
-author_title: "Installation Expert"
-author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+author_title: "Inverters and Wiring"
+author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 The financing decision you make before a single panel goes on your roof will shape your relationship with solar for the next 10 to 25 years. Most coverage on this topic either oversimplifies ("leases are bad, loans are good!") or buries you in theoretical math without telling you what actually matters in practice. Let me fix both problems.

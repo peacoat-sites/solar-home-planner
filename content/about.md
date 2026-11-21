@@ -3,39 +3,36 @@ title: "About Solar Home Planner"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About Solar Home Planner,  meet David Torres, homeowners who installed solar and now help others plan their projects."
+description: "What Solar Home Planner covers, who writes it and how articles are produced."
 layout: "about-page"
-author_slug: "david-torres"
-author_name: "Solar Home Planner"
-person_name: "David Torres"
 ---
 
 ## About Solar Home Planner
 
-Solar Home Planner is a resource for homeowners in the process of evaluating, planning, or completing a residential solar installation. We write from the experience of having done it ourselves.
+Solar Home Planner follows a residential solar project from first quote to a working system: sizing, equipment, batteries, permits and payback.
 
-## Meet the Editor
+## Who writes here
 
-**David Torres** is the editor behind Solar Home Planner.
+Articles are published under pen names, each covering one part of the site:
 
-David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system.
+- **[David Torres](/david-torres/)**: planning a residential solar installation
+- **[Morgan Johnson](/morgan-johnson/)**: inverters, batteries and grid-tie connections
+- **[Rachel Kim](/rachel-kim/)**: home energy efficiency and getting a house ready for solar
+- **[Stephanie Walsh](/stephanie-walsh/)**: solar financing, payback and incentives
+- **[Tom Bradley](/tom-bradley/)**: DIY solar: sizing, wiring and permits for owner-installed systems
 
-## What We Cover
+## How we work
 
-Solar Home Planner covers the residential solar installation journey,  how to evaluate your home for solar, how to compare installer quotes, what’s in a solar contract, how permitting and interconnection work, how to understand your production monitoring data, and what the first year of solar ownership actually looks like.
+Articles are drafted with AI writing tools from public sources and pass an automated accuracy check before they are published. The full process, the sources we rely on and the limits of what this site can tell you are in our [editorial standards](/editorial-standards/).
 
-## Our Approach
+## Important limits
 
-Personal experience first. We tell you what we did, what worked, what we’d do differently, and what questions we wish we’d asked. When we cover topics beyond our direct experience, we say so and link to authoritative sources.
+Solar and battery systems involve high-voltage wiring and a connection to the grid, and they usually need a permit, an inspection and utility approval. Leave the electrical work to a licensed electrician or installer unless your jurisdiction allows owner installation and you are qualified to do it. Production and payback figures on this site are estimates that depend on your roof, shading, usage and utility rates.
 
-## Disclaimer
+## Affiliate disclosure
 
-Solar Home Planner draws on hands-on solar industry experience and general research. We are not licensed solar installers or electrical contractors. Solar system performance, costs, and incentives vary by location, home, and utility. Consult a licensed installer for a design and quote specific to your property.
-
-## Affiliate Disclosure
-
-Some links on this site, particularly for monitoring equipment and home energy products, are Amazon affiliate links. Purchases may earn us a small commission at no extra cost to you.
+Some links on this site are affiliate links, including Amazon links. If you buy through them we may earn a commission at no extra cost to you.
 
 ## Contact
 
-Questions or want to share your own solar story? [Get in touch](/contact/).
+Questions, corrections or topic requests: use the [contact page](/contact/).

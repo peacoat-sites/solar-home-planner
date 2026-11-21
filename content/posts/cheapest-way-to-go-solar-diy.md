@@ -21,8 +21,8 @@ faqs:
    a: "A plug-and-play balcony or window solar kit in the 400-800W range costs $300-$700, requires no permits in most places, and can meaningfully offset a specific load like a refrigerator, TV setup, or phone and laptop charging. It won't make a dent in your HVAC bill, but it's a real introduction to the technology with near-zero installation risk. Pair it with a simple energy monitor and you'll learn more about your home's consumption in 60 days than in the previous five years."
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
-author_title: "Installation Expert"
-author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+author_title: "Inverters and Wiring"
+author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most solar articles start the same way: "Go solar and slash your electric bill!" Then they skip right past the part where you drop $25,000 on a contractor and wait 8-10 years to break even. There's another route. It's not for everyone, but if you're handy with electrical work and willing to handle permits yourself, a [DIY solar installation](/diy-solar-panel-installation-guide/) can cut your total cost by 40-60% compared to hiring it out. The average contractor charges $3.00-$3.50 per watt before incentives, per EnergySage data. A competent DIYer can hit $1.00-$1.50 per watt in equipment costs. On a 6kW system, that's $18,000-$21,000 versus $6,000-$9,000. Here's how to actually get there.

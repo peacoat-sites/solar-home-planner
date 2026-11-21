@@ -21,8 +21,8 @@ faqs:
    a: "NABCEP PVIP certification is valid for three years. Renewal requires continuing education credits and, in some cases, retesting. This ongoing requirement is part of what makes it meaningful. It's not a one-time test that someone passed a decade ago and never revisited. An active, current certification means the installer is maintaining their knowledge base as codes and technology evolve."
 author: "Rachel Kim"
 author_slug: "rachel-kim"
-author_title: "Energy Analyst"
-author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+author_title: "Energy Efficiency"
+author_bio: "Rachel Kim is the byline used at Solar Home Planner for articles on home energy efficiency and getting a house ready for solar. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You've just gotten [three solar quotes](/how-to-get-solar-quotes/). The prices are all over the map, the salespeople all sound confident, and every company's website says they're "certified professionals" with "expert installers." So how do you actually tell the difference between a contractor who knows what they're doing and one who's going to leave you with a system that fails inspection, voids your roof warranty, or produces 20% less power than promised? The answer often comes down to one credential most homeowners have never heard of: NABCEP.

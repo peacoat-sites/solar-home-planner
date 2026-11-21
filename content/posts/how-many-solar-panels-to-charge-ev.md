@@ -21,8 +21,8 @@ faqs:
    a: "Any addition to your solar system, whether it's extra panels, a battery, or a new EV charger circuit, almost always requires a permit. Permit requirements are set locally, but unpermitted solar additions can void your utility interconnection agreement and create problems if you ever sell the house. Don't skip it."
 author: "Rachel Kim"
 author_slug: "rachel-kim"
-author_title: "Energy Analyst"
-author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+author_title: "Energy Efficiency"
+author_bio: "Rachel Kim is the byline used at Solar Home Planner for articles on home energy efficiency and getting a house ready for solar. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people ask their solar installer how many panels they need to run their house. Almost nobody asks how many panels they need to run their *car*. That's a mistake. Adding an EV to a fully sized solar system can result in unexpected grid power purchases and higher electric bills. The car wasn't in the plan. Adding an EV to your energy load isn't a footnote, it's often a 30 to 50 percent increase in your household electricity consumption. Get the math right before you sign anything.

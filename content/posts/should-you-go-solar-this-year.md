@@ -7,8 +7,8 @@ date: 2026-05-27T10:00:00+00:00
 tags: ["solar", "home solar", "solar readiness", "going solar", "solar quiz"]
 author: "Rachel Kim"
 author_slug: "rachel-kim"
-author_title: "Energy Analyst"
-author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+author_title: "Energy Efficiency"
+author_bio: "Rachel Kim is the byline used at Solar Home Planner for articles on home energy efficiency and getting a house ready for solar. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-07
 ---
 Going solar is rarely a "wrong" decision long-term, but **timing** matters more than most people expect. The right year is the one where your roof, your budget mindset, and your plans for the home all line up, so the panels start working for you instead of sitting on a to-do list.

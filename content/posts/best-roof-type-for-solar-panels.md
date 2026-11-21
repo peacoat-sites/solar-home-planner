@@ -21,8 +21,8 @@ faqs:
    a: "This depends on the roofing manufacturer. Some manufacturers include language in their warranties that covers solar mounting when installed by a certified contractor using approved hardware. Others may require notification. Check your roofing warranty documentation directly, and ask your solar contractor to provide written confirmation that their mounting system and process are compatible with your roof material's warranty terms."
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
-author_title: "Installation Expert"
-author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+author_title: "Inverters and Wiring"
+author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most homeowners spend weeks researching solar panels without ever thinking seriously about what's underneath them. Then a contractor shows up, takes one look at the roof, and says something vague like "that might be tricky." Suddenly you're facing unexpected costs, structural questions, or a flat-out "we can't do this job." The roof type you have right now is one of the biggest factors determining how easy, how expensive, and how long-lasting your solar installation will be. Let's get into the specifics.

@@ -21,8 +21,8 @@ faqs:
    a: "Start with the federal Weatherization Assistance Program through your local Community Action Agency. It won't give you solar, but reducing your energy load through insulation and efficiency upgrades can lower your monthly bills meaningfully and make you a better candidate for any future solar program. Also watch for utility-level programs even in states without statewide policy. Austin Energy and CPS Energy in Texas, and Duke Energy's limited pilot programs, are examples of utility-specific options in otherwise thin markets."
 author: "Rachel Kim"
 author_slug: "rachel-kim"
-author_title: "Energy Analyst"
-author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+author_title: "Energy Efficiency"
+author_bio: "Rachel Kim is the byline used at Solar Home Planner for articles on home energy efficiency and getting a house ready for solar. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Here's something most solar installers won't tell you upfront: the best solar programs in the country aren't the ones advertised on late-night TV. They're the ones buried in state utility commission filings and county housing authority websites that most homeowners never find.

@@ -2,36 +2,36 @@
   {
     "slug": "david-torres",
     "name": "David Torres",
-    "title": "Solar Consultant",
-    "specialty": "Residential Solar Installation",
-    "bio": "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
-  },
-  {
-    "slug": "rachel-kim",
-    "name": "Rachel Kim",
-    "title": "Energy Analyst",
-    "specialty": "Home Energy Efficiency & Solar Readiness",
-    "bio": "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+    "title": "Residential Solar",
+    "specialty": "Residential Solar",
+    "bio": "David Torres is the byline used at Solar Home Planner for articles on planning a residential solar installation. It is a pen name, not a solar installer; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "morgan-johnson",
     "name": "Morgan Johnson",
-    "title": "Installation Expert",
-    "specialty": "Rooftop Solar & Electrical Systems",
-    "bio": "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+    "title": "Inverters and Wiring",
+    "specialty": "Inverters and Wiring",
+    "bio": "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
+  },
+  {
+    "slug": "rachel-kim",
+    "name": "Rachel Kim",
+    "title": "Energy Efficiency",
+    "specialty": "Energy Efficiency",
+    "bio": "Rachel Kim is the byline used at Solar Home Planner for articles on home energy efficiency and getting a house ready for solar. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "stephanie-walsh",
     "name": "Stephanie Walsh",
-    "title": "Solar Finance Analyst",
-    "specialty": "Solar Financing, ROI & Incentives",
-    "bio": "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
+    "title": "Solar Finance",
+    "specialty": "Solar Finance",
+    "bio": "Stephanie Walsh is the byline used at Solar Home Planner for articles on solar financing, payback and incentives. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "tom-bradley",
     "name": "Tom Bradley",
-    "title": "DIY Solar Specialist",
-    "specialty": "DIY Solar & Homeowner Installation",
-    "bio": "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
+    "title": "DIY Solar",
+    "specialty": "DIY Solar",
+    "bio": "Tom Bradley is the byline used at Solar Home Planner for articles on DIY solar: sizing, wiring and permits for owner-installed systems. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   }
 ]

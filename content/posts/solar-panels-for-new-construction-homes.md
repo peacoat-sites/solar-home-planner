@@ -21,8 +21,8 @@ faqs:
    a: "Your inverter will come with a manufacturer app (Enphase Enlighten, SolarEdge mySolarEdge, etc.) that shows panel-level or system-level production. For a more complete picture of how solar production compares to your whole-home consumption, consider adding a home energy monitor like the Sense Energy Monitor or Emporia Vue (the site may earn a commission on purchases). These mount in your electrical panel and give you real-time data on what every circuit in your home is consuming, which helps you identify waste and validate whether your solar system is performing to spec."
 author: "David Torres"
 author_slug: "david-torres"
-author_title: "Solar Consultant"
-author_bio: "David Torres has spent 12 years in the residential solar industry, from rooftop assessments to post-installation performance reviews. He started as a solar installer and worked his way into system design, which gave him a ground-level understanding of how panels actually perform in real-world conditions. At Solar Home Planner, he covers installation process, equipment selection, and getting the most from a home solar system."
+author_title: "Residential Solar"
+author_bio: "David Torres is the byline used at Solar Home Planner for articles on planning a residential solar installation. It is a pen name, not a solar installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 If you're building a new home right now, you're sitting on something most homeowners never get: the chance to do solar right the first time. No ripping off shingles. No threading conduit through drywall. No fighting with your roofer over warranty voiding. Most people add solar years later and pay a premium for that delay. Building new flips the entire equation. The decisions you make in the next few weeks of planning can save you thousands and spare you years of retrofit headaches.

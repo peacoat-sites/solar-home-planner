@@ -21,8 +21,8 @@ faqs:
     a: "Generally, no. Most utilities won't allow you to have both a rooftop solar net metering arrangement and a community solar subscription at the same address simultaneously. If you already have rooftop solar, community solar likely isn't available to you in your current home. Home batteries are a separate matter and don't affect your eligibility for community solar on their own."
 author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
-author_title: "Solar Finance Analyst"
-author_bio: "Stephanie Walsh models the financial side of residential solar, from loan-versus-cash math to real payback timelines after incentives. She has run the numbers on hundreds of home systems and shows readers how to spot financing that quietly erases the savings. At Solar Home Planner she covers solar financing, ROI, and incentives."
+author_title: "Solar Finance"
+author_bio: "Stephanie Walsh is the byline used at Solar Home Planner for articles on solar financing, payback and incentives. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your electric bill arrives and you think: solar makes sense, but I rent. Or you own your home but the roof faces north, or it's shaded by a 60-year-old oak you'd never cut down, or you simply can't swing the $18,000 upfront even after the federal tax credit. Community solar was built for exactly this moment. Not as a consolation prize. As a genuinely smart option that millions of people overlook because the marketing around it is confusing and the internet is full of vague explainer articles that never actually tell you what happens step by step.

@@ -21,8 +21,8 @@ faqs:
    a: "Technically no, but practically speaking, most off-grid homeowners should plan for one. A propane or dual-fuel generator as a backup for extended cloudy periods is far more cost-effective than sizing your battery bank for worst-case seasonal scenarios. Think of it as insurance. Size your battery for typical winter autonomy, and let the generator handle the outliers."
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
-author_title: "Installation Expert"
-author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+author_title: "Inverters and Wiring"
+author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who ask me about off-grid battery sizing start with the wrong question. They want to know how many panels they need. But panels are almost irrelevant if you haven't figured out storage first. Your battery bank is the backbone of an off-grid system, and getting it wrong doesn't just mean higher costs. It means waking up at 2 a.m. to a dead system in January because you undersized by 20%.

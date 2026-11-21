@@ -21,8 +21,8 @@ faqs:
    a: "Ask directly: how many off-grid systems have you designed and installed in the last two years? A grid-tied specialist can install panels, but off-grid system design requires specific knowledge of battery management, charge controller programming, and load analysis. Look for NABCEP (North American Board of Certified Energy Practitioners) certification. Ask for references from off-grid clients specifically. And review the proposed single-line diagram yourself. If they can't explain every component in plain terms, that's a red flag."
 author: "Rachel Kim"
 author_slug: "rachel-kim"
-author_title: "Energy Analyst"
-author_bio: "Rachel Kim is a certified home energy auditor who has assessed hundreds of homes for solar readiness and efficiency. She understands that a solar installation is only as effective as the home beneath it, and her writing reflects that systems-level thinking. At Solar Home Planner, she covers energy audits, efficiency upgrades, and how to prep a home before going solar."
+author_title: "Energy Efficiency"
+author_bio: "Rachel Kim is the byline used at Solar Home Planner for articles on home energy efficiency and getting a house ready for solar. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You found a piece of land. Maybe you inherited it, maybe you've been saving for years, or maybe you just got tired of watching your utility bill climb past $300 a month with no end in sight. Whatever brought you here, you're now staring at the real question: can you actually power a home without being connected to the grid? The answer is yes, and people do it every day. But the path from "I want off-grid solar" to "my lights are on and my freezer is running" involves a lot of decisions that most YouTube videos gloss over. Let's work through this properly.

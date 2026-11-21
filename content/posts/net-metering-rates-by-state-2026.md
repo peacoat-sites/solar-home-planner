@@ -21,8 +21,8 @@ faqs:
     a: "Go directly to your utility's website and search for 'solar rate,' 'net metering tariff,' or 'Schedule NEM.' Download the actual tariff document (not the marketing brochure). If you can't find it or it's unclear, call the utility's rate department, not their general customer service line. Ask specifically: 'What is the per-kWh credit rate for solar energy exports under my current residential rate class?'"
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
-author_title: "Installation Expert"
-author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+author_title: "Inverters and Wiring"
+author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-19
 ---
 Net metering was never as simple as "sell your excess solar back to the grid for full retail price." That was the rosy version. The reality in 2026 is messier, more state-dependent, and shifting faster than most solar shoppers realize.

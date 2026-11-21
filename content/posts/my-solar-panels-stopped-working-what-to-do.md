@@ -9,8 +9,8 @@ tags: ["my", "solar", "panels", "stopped", "working"]
 slug: "my-solar-panels-stopped-working-what-to-do"
 author: "Tom Bradley"
 author_slug: "tom-bradley"
-author_title: "DIY Solar Specialist"
-author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
+author_title: "DIY Solar"
+author_bio: "Tom Bradley is the byline used at Solar Home Planner for articles on DIY solar: sizing, wiring and permits for owner-installed systems. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You're checking your solar app on a sunny Tuesday morning when you notice something wrong: zero production. Or maybe your electricity bill has climbed back to pre-solar levels for no obvious reason. Whatever tipped you off, discovering your solar panels have stopped working hits different. You're counting on that clean energy to offset your utility costs. Here's the relief: a lot of solar system failures are either minor fixes you can handle yourself or problems easily diagnosed before you even call a technician.

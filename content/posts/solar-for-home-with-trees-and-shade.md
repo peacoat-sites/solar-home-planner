@@ -21,8 +21,8 @@ faqs:
    a: "Ask what shade analysis tool they used, what shading derate factor is built into the production estimate, whether the system uses optimizers or microinverters and why, and whether a ground mount was considered. If an installer can't answer those questions specifically, they haven't done the work your site requires. A broader list of technical questions to bring to every consultation is available in this guide to questions to ask solar companies."
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
-author_title: "Installation Expert"
-author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+author_title: "Inverters and Wiring"
+author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've got a beautiful mature oak in the backyard, maybe a row of pines along the property line, and a south-facing roof that looks promising from the street. The solar salesperson who knocked on your door last Tuesday said shade "isn't really a problem anymore." That's half true, and the half they left out matters a lot. Shade is still the single biggest variable that separates a solar system that pays for itself in eight years from one that takes fourteen. Getting this right before you sign anything could be worth thousands of dollars.

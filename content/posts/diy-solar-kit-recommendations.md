@@ -21,8 +21,8 @@ faqs:
    a: "If a component fails under warranty, you deal directly with the manufacturer, same as a contractor install. Enphase, SolarEdge, and most Tier 1 panel manufacturers honor warranties regardless of who installed the system. If something goes wrong with your electrical work or racking, that's on you to fix. This is why proper installation matters. If your system stops producing and you're not sure why, the my solar panels stopped working: what to do guide walks through the diagnosis process step by step."
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
-author_title: "Installation Expert"
-author_bio: "Morgan Johnson is a licensed electrician who specialized in solar inverter systems and grid-tie connections after 8 years in residential electrical work. She bridges the gap between solar sales pitches and the technical reality of what goes on your roof and in your electrical panel. At Solar Home Planner, she focuses on installation, permitting, and system monitoring."
+author_title: "Inverters and Wiring"
+author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A homeowner in Phoenix told me last year he saved $14,000 by installing a 6kW solar kit himself over two weekends. His neighbor across the street, same neighborhood, same roof type, paid a contractor $28,000 for the equivalent system. The difference wasn't luck or skill level. It was research, the right kit, and knowing exactly what he was getting into before he bought anything.

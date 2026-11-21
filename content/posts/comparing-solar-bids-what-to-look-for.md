@@ -21,8 +21,8 @@ faqs:
    a: "This is a real risk and not a hypothetical one. The panel manufacturer's warranty follows the panel, so Qcells or REC Group will still honor it regardless of who installed the system. The inverter warranty is similarly held by the manufacturer. The workmanship warranty, however, is held by the installer. If they close, it's typically gone. Some installers buy third-party workmanship warranty insurance. Ask about it specifically."
 author: "Tom Bradley"
 author_slug: "tom-bradley"
-author_title: "DIY Solar Specialist"
-author_bio: "Tom Bradley designed and installed DIY solar for his own home and has helped other homeowners do the same. He writes for the hands-on owner who wants the wiring, permitting, and system-sizing details, not a sales pitch. At Solar Home Planner he covers DIY solar, permits, and homeowner installation."
+author_title: "DIY Solar"
+author_bio: "Tom Bradley is the byline used at Solar Home Planner for articles on DIY solar: sizing, wiring and permits for owner-installed systems. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You just got three solar bids back. One's $28,000, another's $19,500, the last one's $23,000. The cheapest one looks tempting. But here's what nobody tells you: they might not even be quoting the same system. Different panel brands, different inverter types, different warranty terms, different assumptions about your roof's actual usable space. Without a framework, comparing solar bids is like comparing grocery receipts where one store lists items by weight and another by volume. Apples to mangoes. Installers know this.
