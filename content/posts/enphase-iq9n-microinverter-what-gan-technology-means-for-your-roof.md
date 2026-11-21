@@ -32,7 +32,7 @@ Silicon has been the backbone of power electronics for decades. It works, but it
 
 Translate that to a microinverter sitting behind a solar panel in July heat, and you get something meaningful: the IQ9N hits 97.5% CEC weighted efficiency. That's a real number, measured under the California Energy Commission's standardized test protocol, not a peak efficiency cherry-picked from a lab condition that never happens on an actual roof. The IQ9N also pushes 427 VA of continuous output power, which Enphase says makes it their most powerful residential microinverter ever shipped.
 
-What surprised me was how much the switching efficiency compounds over time. A half-percent efficiency gain sounds trivial until you run it across 25 years of production on a system that might generate 400,000 kilowatt-hours over its lifetime. You're talking about thousands of additional kilowatt-hours you actually use instead of losing to heat inside an inverter box.
+What stands out is how much the switching efficiency compounds over time. A half-percent efficiency gain sounds trivial until you run it across 25 years of production on a system that might generate 400,000 kilowatt-hours over its lifetime. You're talking about thousands of additional kilowatt-hours you actually use instead of losing to heat inside an inverter box.
 
 ## The Tax Credit Situation Changes the Math Completely
 
@@ -40,7 +40,7 @@ Here's where the timing gets genuinely uncomfortable for homeowners. The Section
 
 That changes what efficiency means in a practical sense. When the federal government was covering 30 cents of every dollar, you could afford to be slightly less precise about hardware choices. Now every percentage point of efficiency you leave on the table is money you personally don't get back. The IQ9N's efficiency improvement isn't just a nice feature anymore. It's one of the few remaining levers homeowners have to improve their return on investment.
 
-I've talked to several installers since the launch, and the consistent message is that the IQ9N's performance numbers are genuinely competitive against string inverter setups that some installers still push because they're cheaper to install. String inverters shade the entire string when one panel underperforms. Microinverters optimize each panel independently. With the IQ9N, that per-panel optimization is now happening at a higher efficiency baseline, which matters more in real-world conditions with partial shading, panel mismatch, or sub-optimal roof angles.
+Installers report that the IQ9N's performance numbers are genuinely competitive against string inverter setups that some installers still push because they're cheaper to install. String inverters shade the entire string when one panel underperforms. Microinverters optimize each panel independently. With the IQ9N, that per-panel optimization is now happening at a higher efficiency baseline, which matters more in real-world conditions with partial shading, panel mismatch, or sub-optimal roof angles.
 
 ## If You Already Have IQ7 or IQ8 Panels, Read This Carefully
 
@@ -56,11 +56,11 @@ Nearly 50% of new U.S. residential solar systems were paired with batteries in Q
 
 The IQ9N's compatibility with IQ Batteries matters here because Enphase's ecosystem lock-in is real. If you're buying into or expanding an Enphase microinverter system, you're most likely going to be [pairing it with Enphase storage](/why-45-of-new-solar-buyers-are-now-adding-a-battery/). The IQ9N's higher output per panel means you're sending more power to the battery per installation dollar, which improves the economics of the storage side of the equation too.
 
-What I'd watch for: Enphase hasn't published IQ9N-specific round-trip efficiency numbers when paired with IQ Battery storage as of this writing. The inverter efficiency and the battery round-trip efficiency are separate calculations, and a highly efficient microinverter paired with a mediocre battery charge controller still loses energy on the battery side. Ask your installer for system-level efficiency numbers, not just inverter specs in isolation.
+Worth noting: Enphase hasn't published IQ9N-specific round-trip efficiency numbers when paired with IQ Battery storage as of this writing. The inverter efficiency and the battery round-trip efficiency are separate calculations, and a highly efficient microinverter paired with a mediocre battery charge controller still loses energy on the battery side. Ask your installer for system-level efficiency numbers, not just inverter specs in isolation.
 
 ## What to Ask Your Installer Before You Sign Anything
 
-A few practical flags based on the IQ9N launch. First, ask whether the IQ9N is available in your region. Enphase launched it for U.S. residential solar on June 23, 2026, per their newsroom announcement, but availability through specific distribution channels takes time to normalize. Some installers will try to sell you IQ8 inventory they already have in the warehouse. That's not necessarily wrong, but you should know that's what's happening.
+A few practical flags worth raising before signing any contract. First, ask whether the IQ9N is available in your region. Enphase launched it for U.S. residential solar on June 23, 2026, per their newsroom announcement, but availability through specific distribution channels takes time to normalize. Some installers will try to sell you IQ8 inventory they already have in the warehouse. That's not necessarily wrong, but you should know that's what's happening.
 
 Second, ask about the full system efficiency picture. The IQ9N's 97.5% CEC efficiency is the inverter alone. Your actual system output depends on panel efficiency, wiring losses, temperature derating, and whether your roof orientation is actually suited to the panel layout being proposed.
 

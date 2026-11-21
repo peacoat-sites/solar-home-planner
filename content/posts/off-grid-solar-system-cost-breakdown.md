@@ -92,7 +92,7 @@ Rural county permitting can go one of two ways: surprisingly relaxed because the
 
 ## Sizing the System: A Practical Step-by-Step
 
-Bad sizing is the most expensive mistake in [off-grid solar](/how-to-go-completely-off-grid-solar/). Here's the process I walk clients through:
+Bad sizing is the most expensive mistake in [off-grid solar](/how-to-go-completely-off-grid-solar/). Here is the standard process for sizing an off-grid system:
 
 **Step 1: Audit your loads.** List every appliance, its wattage, and average daily hours of use. Refrigerator, lighting, well pump, water heater, HVAC, phone chargers, everything. Your utility bill average tells you kilowatt-hours per month, but load audits tell you *when* the loads happen, which matters for battery sizing.
 
@@ -117,7 +117,7 @@ If you're adding an EV charger to an off-grid system, Level 2 charging equipment
 
 ## Contractor Red Flags Specific to Off-Grid Quotes
 
-I've reviewed a lot of off-grid proposals over the years. Here's what should make you walk away.
+Reviewers of off-grid proposals routinely flag the same warning signs. Here's what should make you walk away.
 
 **No itemized equipment list.** If the quote just says "off-grid solar system, 10kW, $58,000," you don't know what you're buying. Demand brand names, model numbers, and wattage specs for every component.
 

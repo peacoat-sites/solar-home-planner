@@ -40,7 +40,7 @@ Here's the core: your panels wire together in series to form "strings." Each pan
 
 What a lot of people miss is the temperature correction. Panel voltage increases as temperature drops. A cold winter morning in Minnesota means your string voltage can spike well above what you calculated using standard test conditions (STC). The National Electrical Code, specifically Article 690, requires you to apply a temperature correction factor to your open-circuit voltage. For most of the U.S., that means multiplying your string's Voc by 1.25. If you've got eight 400W panels with a Voc of 49V each, your nominal string voltage is 392V. After temperature correction, you're looking at 490V. That needs to fit under your inverter's maximum DC input voltage, with margin to spare.
 
-As Darren Crosby, a NABCEP-certified PV installation professional with 12 years in the field, puts it: "The number one sizing mistake I see on residential installs is people ignoring the cold-weather voltage spike. You're not designing for an average day. You're designing for the worst-case voltage the system will ever see."
+The most common sizing mistake on residential installs is ignoring the cold-weather voltage spike: you are not designing for an average day, but for the worst-case voltage the system will ever see.
 
 Get your temperature correction factor from the [U.S. Department of Energy's solar homeowner resources](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) before you start running string calculations.
 
@@ -89,7 +89,7 @@ Temperature-corrected Voc: 446.4V x 1.14 = 508.9V
 
 That needs to stay under your inverter's max DC input voltage. A SolarEdge SE7600H has a max DC input voltage of 480V... which means this string configuration fails. You'd need to drop to 8 panels per string (9 would exceed the inverter's limit) or choose an inverter rated for 600V input, like the Fronius Primo 7.6-1 or the SMA Sunny Boy 7.7-US.
 
-This is exactly the kind of thing that gets missed on DIY installs and even some contractor bids. "If the string voltage exceeds the inverter's max input, you're either going to trip fault protections constantly or, in the worst case, damage the inverter," says Karen Whitfield, a licensed electrical engineer who reviews solar permit packages for a large California county. "We reject plans for this reason multiple times a month."
+This is exactly the kind of thing that gets missed on DIY installs and even some contractor bids. When string voltage exceeds the inverter's maximum input, the system will either trip fault protections constantly or, in the worst case, sustain inverter damage. 
 
 For current: two strings at 10.45A Isc each, corrected for temperature (multiply by 1.25 per NEC 690.8 for short-circuit current), gives you 26.1A total input current. Your inverter's max input current needs to accommodate that.
 
@@ -99,13 +99,13 @@ Build a simple spreadsheet with these variables before you pull a permit or acce
 
 ## Red Flags in a Contractor's String Design
 
-I've reviewed a lot of solar proposals for readers over the years. A few things in the inverter sizing section set off immediate alarms.
+Solar proposals frequently contain inverter sizing details that warrant close scrutiny. A few things in the inverter sizing section set off immediate alarms.
 
 First, any proposal that just says "X kW inverter for X kW system" without detailing the string configuration is incomplete. You can't verify safety or performance without knowing how many panels per string.
 
 Second, watch for mismatched MPPT inputs. Modern string inverters like the Fronius Symo Advanced or SMA Sunny Tripower have multiple Maximum Power Point Tracker (MPPT) inputs, which means they can handle strings with different orientations or shading profiles independently. If a contractor lumps panels on your south-facing roof and your east-facing roof onto the same string, you're losing efficiency every morning. A good proposal shows which panels go on which MPPT channel and why.
 
-Third, be skeptical when a contractor proposes an inverter that's oddly small. I've seen proposals where someone tried to put a 7.6kW array on a 5kW inverter to "save cost." That DC/AC ratio of 1.52 will clip real production in most climates. Ask for the modeled production output, ideally from PVWatts or a similar simulation tool, with and without that clipping. If they can't produce it, walk away.
+Third, be skeptical when a contractor proposes an inverter that is oddly small, such as pairing a 7.6kW array with a 5kW inverter to reduce upfront cost. That DC/AC ratio of 1.52 will clip real production in most climates. Ask for the modeled production output, ideally from PVWatts or a similar simulation tool, with and without that clipping. If they can't produce it, walk away.
 
 For monitoring your system's actual performance post-install, a home energy monitor like the Emporia Vue 3 (around $150, available [on Amazon](https://www.amazon.com/s?k=home+energy+monitor)) lets you verify your inverter's reported output against whole-house consumption and catch discrepancies early. (Full disclosure: this site may earn a commission on purchases.)
 

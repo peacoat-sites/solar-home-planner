@@ -68,7 +68,7 @@ That "Automatic Protection?" column being "No" across the board is the thing tha
 
 ## How to Actually Record a Solar Easement
 
-The process is more straightforward than most attorneys will lead you to believe (and yes, I've had clients pay $800 in legal fees for something their county recorder's office would have processed for $35).
+The process is more straightforward than most attorneys will lead you to believe, and some homeowners have paid $800 in legal fees for something their county recorder's office would have processed for $35.
 
 The general steps, current as of July 2026:
 
@@ -76,13 +76,13 @@ The general steps, current as of July 2026:
 
 **2. Survey your solar window.** You need to define the angles. Think of it as a cone or wedge of sky your panels need access to, typically between 9am and 3pm solar time during the winter solstice (the lowest sun angle of the year). If you skip this step, the easement is nearly impossible to enforce because "sunlight" isn't specific enough.
 
-**3. Negotiate with the affected neighbor(s).** This is the part everyone dreads and usually isn't that bad. In my experience, most neighbors agree once they understand (a) it doesn't restrict their use of their property much and (b) there's sometimes a small payment involved, usually $200–$500 as a goodwill gesture. I've seen it fail exactly once, with a neighbor who had plans to build a second story addition. That's a legitimate conflict and no easement was going to happen there.
+**3. Negotiate with the affected neighbor(s).** This is the part everyone dreads and usually isn't that bad. Most neighbors agree once they understand (a) it doesn't restrict their use of their property much and (b) there's sometimes a small payment involved, usually $200–$500 as a goodwill gesture. It tends to fail when a neighbor has concrete plans to build a second-story addition. That's a legitimate conflict and no easement was going to happen there.
 
 **4. Draft and record the document.** Use your state's statutory requirements as a checklist. Get it notarized. Record it at the county recorder's office. Fees typically run $15–$75 depending on the county.
 
 **Worked example:** A homeowner in Fort Collins, Colorado installed a 9.6 kW system in spring 2025. Her neighbor's lot to the south had two mature evergreens that weren't yet tall enough to cause shading, but would be within eight years. She negotiated a solar easement covering a defined sky window, paid her neighbor $300, and recorded it for $42 at the Larimer County Clerk's office. Total cost: $342. The trees are now restricted from growing past 14 feet within that defined arc.
 
-**Worked example:** A client in metro Atlanta assumed Georgia's solar easement statute protected him automatically. It does not. His neighbor planted a row of Leyland cypresses (which grow up to 3 feet per year, for the record) that began shading his array within two seasons. Because no easement was recorded, he had no legal remedy beyond a neighbor dispute. His estimated annual generation loss: 1,400 kWh, worth roughly $168/year at Georgia Power's current rate, and accumulating every year going forward.
+**Worked example:** For example, a homeowner in metro Atlanta who assumes Georgia's solar easement statute protects them automatically would be mistaken. It does not. Without a recorded easement, a neighbor could plant a row of Leyland cypresses (which grow up to 3 feet per year, for the record) that begin shading the array within two seasons. Because no easement was recorded, there would be no legal remedy beyond a neighbor dispute. The estimated annual generation loss in such a scenario: 1,400 kWh, worth roughly $168/year at Georgia Power's current rate, and accumulating every year going forward.
 
 ## The HOA Problem Is Separate From the Easement Problem
 

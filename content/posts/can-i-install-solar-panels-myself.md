@@ -25,7 +25,7 @@ author_title: "Residential Solar"
 author_bio: "David Torres is the byline used at Solar Home Planner for articles on planning a residential solar installation. It is a pen name, not a solar installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
-A Colorado homeowner saved about $8,000 by pulling his own permit, sourcing his own panels, and installing everything himself. He's also a licensed electrician with 15 years of experience who spent four weekends on the roof and another two weeks wrestling with utility paperwork. That's the actual DIY solar story, not the highlight reel. It can work. It's not straightforward, and the distance between "I watched some YouTube videos" and "I successfully connected a grid-tied solar system" is much larger than most people think.
+A Colorado homeowner saved about $8,000 by pulling his own permit, sourcing his own panels, and installing everything himself. Accounts like this typically involve someone with a licensed electrical background who spent several weekends on the roof and additional weeks navigating utility paperwork. That's the actual DIY solar story, not the highlight reel. It can work. It's not straightforward, and the distance between "I watched some YouTube videos" and "I successfully connected a grid-tied solar system" is much larger than most people think.
 
 ## What "DIY Solar" Actually Means
 
@@ -63,7 +63,7 @@ Before you order panels, check your HOA too. If you're in a homeowners associati
 
 ## The Skills You Actually Need
 
-Being handy isn't enough. Let me be straight about what this requires.
+Being handy isn't enough, and it's worth being direct about what this actually requires.
 
 **Roofing competence:** You're on the roof with heavy equipment. A 60-cell panel weighs 40 to 50 pounds. You'll be installing racking rails, drilling through your roof decking into rafters, and applying flashing correctly. A bad flash doesn't show up until two years later when water's sitting in your attic. If you've never done roofing work, this part alone deserves serious consideration. The [right roof type matters for solar installations](/best-roof-type-for-solar-panels/), and different materials require completely different mounting approaches.
 
@@ -136,7 +136,6 @@ DIY solar is genuinely achievable for a specific type of homeowner: patient, mec
 - [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

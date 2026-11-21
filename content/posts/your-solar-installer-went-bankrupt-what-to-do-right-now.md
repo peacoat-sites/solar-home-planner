@@ -33,7 +33,7 @@ A stalled installation is a different and more urgent problem than a warranty ga
 
 The first call you need to make is to your local building department, not a new solar company. Find out the status of your permit, how long you have before it expires, and whether the inspection record shows any outstanding violations. Get that in writing or at least documented with a name and date. Then you can start talking to a new installer about finishing the work, but you need to know exactly what the permit situation is before anyone touches your system.
 
-What surprised me was how many homeowners don't even know their permit number. Your installer should have given it to you. If they didn't, your building department can look it up by address.
+It is surprisingly common for homeowners not to know their permit number. Your installer should have given it to you. If they didn't, your building department can look it up by address.
 
 ## Understanding Where You Stand: A Quick Reference
 

@@ -114,7 +114,7 @@ If you have a dispute with an installer, your first call should be to your state
 
 ---
 
-The solar industry has plenty of genuinely good installers who will do right by you, stand behind their work, and still be in business when you need them in year 15. The homework I've outlined above takes a few hours and gives you a much clearer picture of who you're actually dealing with. Your system will be on your roof for 25 years. Spend the time before you write the check.
+The solar industry has plenty of genuinely good installers who will do right by you, stand behind their work, and still be in business when you need them in year 15. The steps outlined above take a few hours and give you a much clearer picture of who you're actually dealing with. Your system will be on your roof for 25 years. Spend the time before you write the check.
 
 ---
 

@@ -47,7 +47,7 @@ Autonomy is the number of days your battery bank can power your home with zero s
 
 If you're in the Pacific Northwest, eastern Oregon, or anywhere that routinely sees 5 to 7 consecutive cloudy days in winter, designing for 2-day autonomy is a gamble. If you're in Phoenix or Southern New Mexico, 2 days might be generous. The U.S. Department of Energy has covered regional cloud cover patterns extensively in its solar resource maps. Actually look at your location's average peak sun hours by month, not just annually.
 
-Here's my honest take: most residential off-grid systems I've consulted on end up in the 3-day range, then add a propane or diesel generator as a backup. That combination tends to be more cost-effective than scaling your battery bank to 7 days of autonomy. Batteries are the most expensive component per kilowatt-hour, and buying more of them just to survive an unusually long weather event isn't the smartest financial decision.
+In practice, most residential off-grid systems end up in the 3-day range, then add a propane or diesel generator as a backup. That combination tends to be more cost-effective than scaling your battery bank to 7 days of autonomy. Batteries are the most expensive component per kilowatt-hour, and buying more of them just to survive an unusually long weather event isn't the smartest financial decision.
 
 ## The Battery Sizing Formula (And Where People Get It Wrong)
 
@@ -87,9 +87,9 @@ This one surprises people. Battery capacity drops significantly in cold weather.
 
 ## Lithium vs. Lead-Acid: The Decision That Changes Everything
 
-I was a lead-acid advocate for years. They're proven, widely available, and the upfront cost is dramatically lower. A 48V, 200Ah flooded lead-acid battery bank costs a fraction of an equivalent LiFePO4 system.
+Lead-acid batteries have long had strong advocates in the off-grid community. They are proven, widely available, and the upfront cost is dramatically lower. A 48V, 200Ah flooded lead-acid battery bank costs a fraction of an equivalent LiFePO4 system.
 
-Then I watched several clients replace their lead-acid banks within 4 to 6 years due to sulfation, improper charging, or just plain cycle degradation. That shifted my thinking. EnergySage's market data shows LiFePO4 prices have dropped significantly over the past few years, and the lifecycle cost math is now much closer than it used to be.
+In practice, many homeowners end up replacing their lead-acid banks within 4 to 6 years due to sulfation, improper charging, or cycle degradation.  EnergySage's market data shows LiFePO4 prices have dropped significantly over the past few years, and the lifecycle cost math is now much closer than it used to be.
 
 Here's a quick comparison for a 48 kWh system:
 
@@ -103,7 +103,7 @@ Here's a quick comparison for a 48 kWh system:
 | Weight (48 kWh bank) | Very heavy (1,000+ lbs) | Significantly lighter |
 | Upfront cost (48 kWh example) | $10,000 to $15,000 | $22,000 to $30,000 |
 
-For permanent off-grid homes where you're living full time, I now lean toward LiFePO4 in almost every case. For seasonal cabins where the system sits idle for months, the math gets murkier and lead-acid may still make sense with careful maintenance.
+For permanent off-grid homes where you're living full time, LiFePO4 is generally the better choice in almost every case. For seasonal cabins where the system sits idle for months, the math gets murkier and lead-acid may still make sense with careful maintenance.
 
 If you want to go deep on this before talking to a contractor, a good [solar DIY wiring guide](https://www.amazon.com/s?k=solar+wiring+simplified+book&tag=contentportfo-20) *(affiliate link, site may earn a commission)* that covers battery chemistry comparisons can save you from a lot of expensive assumptions.
 
@@ -113,7 +113,7 @@ Most off-grid homes should be designed at 48V. Done.
 
 At lower loads, 24V systems work. But at 48V, your wire sizes are smaller, your inverter efficiency improves, and you have far more product options in the 3,000 to 10,000W inverter range. Trying to run a full home on a 12V system leads to absurdly thick wire runs and inverter limitations that will frustrate you constantly.
 
-What surprised me early on was how often small installers would propose 24V systems for full-time off-grid homes just because they were familiar with the equipment. That's a red flag. Ask specifically why they're recommending their proposed voltage. If they can't give you a load-based answer, that's worth questioning.
+It is not uncommon for installers to propose 24V systems for full-time off-grid homes simply because they are familiar with the equipment. That's a red flag. Ask specifically why they're recommending their proposed voltage. If they can't give you a load-based answer, that's worth questioning.
 
 ## Real-World Sizing Examples
 

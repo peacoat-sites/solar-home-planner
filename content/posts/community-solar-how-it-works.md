@@ -42,7 +42,7 @@ Let me fix that.
 
 Somewhere within your utility service territory, a large solar array gets built. Usually it's on farmland, a brownfield site, or a commercial rooftop. A developer, utility, co-op, or sometimes a municipality owns it. Instead of powering one building, it feeds electricity straight into the grid. Then households like yours subscribe to a share of that array's output.
 
-Here's what I tell people when they're first wrapping their head around it: no panels go on your roof. No electrician shows up. You sign a subscription agreement, and each month your share of the solar electricity generated gets credited to your utility bill. That credit is called a bill credit, and it typically shows up as a line item that reduces what you owe.
+The most important thing to understand upfront is that no panels go on your roof. No electrician shows up. You sign a subscription agreement, and each month your share of the solar electricity generated gets credited to your utility bill. That credit is called a bill credit, and it typically shows up as a line item that reduces what you owe.
 
 The mechanism is called virtual net metering. Your utility tracks how much energy your share of the community solar farm produces, converts that to a dollar credit based on a predetermined rate, and applies it to your account. You still get one bill from your utility. You might also get a separate monthly statement from the community solar provider showing your production and credit details.
 
@@ -56,7 +56,7 @@ There are two main subscription structures:
 
 **Fixed-rate discount subscriptions** are the most common. The developer agrees to sell you credits at, say, $0.09/kWh when your utility rate is $0.12/kWh. You always get that 3-cent spread as savings, no matter what. If utility rates go up (and they will, historically by 2-3% annually), your savings actually grow in dollar terms over time.
 
-**Fixed monthly payment subscriptions** work differently. You pay the developer a set amount each month, and they pass along whatever the market credit value is. These can make budgeting easier, but I'd read the fine print on how credits are valued before signing anything.
+**Fixed monthly payment subscriptions** work differently. You pay the developer a set amount each month, and they pass along whatever the market credit value is. These can make budgeting easier, but reading the fine print on how credits are valued before signing anything is essential.
 
 The size of your subscription should match your typical electricity consumption. If your household uses about 800 kWh per month, you want a share that produces roughly 800 kWh per month. Going way over is usually either not allowed or the excess credits get wasted. Most developers help you size this correctly when you sign up, and they'll ask for a recent utility bill to calibrate.
 
@@ -68,13 +68,13 @@ Community solar is available in roughly 22 states right now, with the strongest 
 
 To find programs, start with your utility's website (some utilities run their own), then check databases like EnergySage or your state's public utilities commission website. [NREL also maintains research](https://www.nrel.gov/) on community solar policy and availability if you want to understand which programs in your state have consumer protections baked in.
 
-Now, the contract piece. This is where I see people get burned.
+Now, the contract piece. This is where subscribers most commonly run into problems.
 
 **Contract length.** Many community solar subscriptions run 20-25 years, which mirrors the life of the solar array. That's not necessarily a problem, but you need to know what happens if you move. Good programs include a "move clause" that lets you transfer your subscription to your new address (if it's within the same utility territory) or exit the contract without penalty if you relocate outside the service area. Some programs are more flexible on early termination. A 20-year lock-in with a $500 early exit fee is very different from a month-to-month subscription.
 
 **The credit rate and escalator.** If your subscription has a price escalator (meaning the rate the developer charges you goes up by 1-2% per year), you want to know whether that escalator is lower than the expected rise in utility rates. If utility rates rise at 3% per year and your escalator is 2%, you stay ahead. If the escalator is 3.5% and utility rates stay flat, you could end up paying more than you're saving in the later years.
 
-**The developer's track record.** Community solar is a relatively young industry and there have been some bad actors. Readers have told me about developers who took years longer than promised to get their array online, or who provided confusing billing that made it nearly impossible to verify actual savings. Ask directly: is this array already built and operating, or are you subscribing to a project that's still in development? If it's not operational yet, what's the projected online date and what's the penalty if they miss it?
+**The developer's track record.** Community solar is a relatively young industry and there have been some bad actors. Some developers have taken years longer than promised to get their array online, or have provided confusing billing that made it nearly impossible to verify actual savings. Ask directly: is this array already built and operating, or are you subscribing to a project that's still in development? If it's not operational yet, what's the projected online date and what's the penalty if they miss it?
 
 Established names include Nexamp, Ampion, Arcadia, and EnergySage's own marketplace. That doesn't mean smaller regional developers are bad; it means you should do a quick search for reviews and check if they're registered with your state's PUC.
 
@@ -84,7 +84,7 @@ Community solar is not the same as rooftop solar, and it's worth being honest ab
 
 Community solar also won't help you during a grid outage unless you separately have battery backup. Some people think community solar means their lights stay on when the grid goes down. They don't.
 
-If you own your home, have a south or west-facing roof with minimal shading, and you plan to stay put for 10+ years, rooftop solar will almost certainly beat community solar financially over the long run. But if you rent, if your roof situation is poor, if you're not ready to tie up capital or take on a loan, or if you just want the simplest possible way to support solar and cut your bill without any installation complexity, community solar is genuinely worth it.
+If you own your home, have a south or west-facing roof with minimal shading, and you plan to stay put for 10+ years, rooftop solar will almost certainly beat community solar financially over the long run. But if you rent, if your roof situation is poor, if you're not ready to tie up capital or take on a loan, or if you just want the simplest possible way to support solar and cut your bill without any installation complexity, community solar is genuinely worth considering.
 
 Both approaches work for different situations. Neither is wrong.
 

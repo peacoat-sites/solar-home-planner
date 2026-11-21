@@ -41,7 +41,7 @@ Two configurations deliver genuine whole home backup:
 
 **Solar plus AC-coupled battery storage.** Your existing grid-tied inverter stays in place. A second inverter and battery bank connect to your main panel. During outages, the battery inverter creates its own "micro-grid" and signals the solar inverter to keep running. Brands like SolarEdge, Enphase, and SMA each handle this differently, and compatibility between equipment is non-negotiable before you buy anything.
 
-**Solar with a hybrid inverter and battery.** One inverter handles both solar input and battery charging. Cleaner installation, fewer compatibility headaches. The Enphase IQ System, SolarEdge Home Hub, and Outback Radian are real-world examples. This is the architecture I'd specify for a new installation today.
+**Solar with a hybrid inverter and battery.** One inverter handles both solar input and battery charging. Cleaner installation, fewer compatibility headaches. The Enphase IQ System, SolarEdge Home Hub, and Outback Radian are real-world examples. This is the architecture most installers recommend for a new installation today.
 
 What whole home backup is *not*: a [generator with a transfer switch](/generator-vs-solar-battery-backup/), a single Powerwall with a "whole home" marketing sticker, or a grid-tied system with no storage at all.
 
@@ -110,7 +110,7 @@ To monitor your system's real-time performance, a home energy monitor like the [
 
 ## Red Flags When Getting Contractor Quotes
 
-I've reviewed a lot of proposals on behalf of homeowners. Here's what I actually look for:
+Reviewing proposals on behalf of homeowners reveals consistent patterns worth knowing. Here is what a careful review should look for:
 
 **No load calculation in the proposal.** If a contractor quotes you a system size without asking about your appliances, square footage, utility bills, or backup goals, they're selling you a number, not a solution.
 

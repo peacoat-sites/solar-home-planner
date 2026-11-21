@@ -28,7 +28,7 @@ faqs:
 
 Most solar advice assumes you're sizing a system for a 2,400-square-foot house with a three-car garage, a hot tub, and two teenage kids who leave every light on. If you live in a small house, a cottage, a bungalow under 1,000 square feet, that advice is actively misleading. The numbers don't scale down the way you'd expect, and some things actually get harder, not easier, when your roof is small.
 
-I'll be honest: I used to tell people that [going solar](/going-solar-without-the-30-tax-credit-what-it-actually-costs-now/) on a small home was almost always worth it. I believed that. Then I started doing more consultations on sub-1,000-square-foot homes and kept finding the same uncomfortable pattern: payback periods stretched out longer than expected, roof space was the binding constraint rather than budget, and a surprising number of homeowners ended up oversized because contractors defaulted to their standard three-bedroom system package. So I went deep on this. What I found challenges a lot of what's floating around out there.
+A common starting assumption is that [going solar](/going-solar-without-the-30-tax-credit-what-it-actually-costs-now/) on a small home is almost always worth it. I believed that. Consultations on sub-1,000-square-foot homes repeatedly surface the same uncomfortable pattern: payback periods stretch out longer than expected, roof space is the binding constraint rather than budget, and a surprising number of homeowners end up oversized because contractors default to their standard three-bedroom system package. So I went deep on this. What I found challenges a lot of what's floating around out there.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A small house typically needs 3-6 panels (1.2–2.4 kW) to cover most of its load, not the 10-panel systems often quoted.</li><li style="margin:5px 0">Roof size and shading matter more than budget on sub-1,000 sq ft homes, many have less than 300 sq ft of usable south-facing space.</li><li style="margin:5px 0">Payback period on a properly sized small system runs 6–9 years today, longer if the contractor oversizes you.</li><li style="margin:5px 0">The 30% federal tax credit applies regardless of system size, a $6,000 install still earns an $1,800 credit.</li><li style="margin:5px 0">Renters and those with HOA restrictions have viable options: community solar subscriptions can cut bills 10–15% with zero installation.</li></ul></div>
 
@@ -38,7 +38,7 @@ This is where most calculators fail you. The average U.S. household uses roughly
 
 Run that through the math. At 400 kWh/month in, say, central Texas with about 5.5 peak sun hours per day, you need roughly 2.4 kW of installed capacity to cover your usage. That's six standard 400-watt panels. Six. Not sixteen.
 
-What surprised me was how rarely installers actually do this calculation with the homeowner present. When I sit down with someone and pull up their last 12 months of utility bills (you can download these as a PDF from most utility portals), the usage number is almost always lower than what the installer quoted against. I've seen proposals for 8 kW systems on homes pulling 380 kWh a month. That's not solar, that's oversizing for profit margin.
+Installers rarely do this calculation with the homeowner present. When actual utility bills covering the last 12 months are reviewed (downloadable as a PDF from most utility portals), the usage number is almost always lower than what the installer quoted against. Proposals for 8 kW systems on homes pulling 380 kWh a month are not unheard of. That's not solar, that's oversizing for profit margin.
 
 ## The Roof Problem Nobody Talks About
 
@@ -48,7 +48,7 @@ A standard 400-watt panel runs about 22 square feet. Six [panels need](/do-solar
 
 Panels like the Maxeon 6 (430W, ~$480/panel retail) or LG's NEON R line before LG exited the U.S. market pack more watts per square foot. Currently, Maxeon and [REC Alpha](/rec-alpha-solar-panel-review/) panels are the two I'd seriously consider for constrained roofs. You'll pay a 20–30% premium over standard Tier 1 panels, but the math can work out if roof space is truly your bottleneck. If it's not, save the money.
 
-One thing I learned the hard way during my first solo commercial inspection: when you're on the roof counting usable space, measure twice. The first time I estimated a client's usable area from the ground using Google Earth, I was off by about 40 square feet because the dormer threw a shadow I didn't account for. Use a tool like PVWatts or Aurora Solar for a sanity check, but nothing beats actually getting up there.
+When counting usable roof space, measure twice. For example, estimating usable area from the ground using Google Earth can produce errors of 40 square feet or more when a dormer throws a shadow that isn't immediately visible. Use a tool like PVWatts or Aurora Solar for a sanity check, but nothing beats actually getting up there.
 
 ## What a System Actually Costs at This Scale
 
@@ -62,7 +62,7 @@ As of August 2026, installed residential solar in the U.S. runs roughly $2.80–
 
 Savings assume $0.16–$0.18/kWh blended rate, net metering available. These figures are estimates based on industry averages and will vary by location, utility, and actual consumption.
 
-A worked example that sticks with me: Maria in Austin, 912-square-foot bungalow, using 420 kWh/month average. Her installer quoted a 6.4 kW system at $19,200. I helped her reframe the scope, she went with a 2.8 kW system at $7,840, got the federal credit down to $5,488 out of pocket, and her system now covers about 82% of her usage. Payback is on track for 8.1 years. The 6.4 kW system would've sat generating excess power she'd sell back at roughly 4 cents/kWh (Austin Energy's current buyback rate) rather than offset at 13 cents. The math was obviously wrong and the installer knew it.
+Consider a hypothetical example: a homeowner in Austin with a 912-square-foot bungalow using 420 kWh per month on average. The installer quotes a 6.4 kW system at $19,200. After reframing the scope, the homeowner goes with a 2.8 kW system at $7,840, the federal credit brings the out-of-pocket cost to $5,488, and the system covers about 82% of usage. Payback comes in on track for 8.1 years. The 6.4 kW system would have generated excess power sold back at roughly 4 cents/kWh (Austin Energy's current buyback rate) rather than offsetting usage at 13 cents. The math was obviously wrong and the installer knew it.
 
 ## Battery Storage: Tempting, But Do the Numbers First
 
@@ -76,11 +76,11 @@ Where batteries do make sense on small homes: if you're in a state like Californ
 
 Small home doesn't mean small bureaucracy. Every grid-tied system in the U.S. requires a permit, an inspection, and utility interconnection approval. The U.S. Department of Energy's homeowner solar guide lays out the general framework, but the real variation is local.
 
-In my experience, jurisdictions with online permit portals (most cities with populations over 100,000 now have these) run 2–4 weeks from application to approval. Rural counties can take 6–10 weeks, and a few still require paper applications submitted in person. I've had a project stall 11 weeks in rural East Texas because the county assessor's office processed permits on Thursdays only, and two of those Thursdays fell on holidays. Knowing that ahead of time would have changed the project timeline completely.
+Jurisdictions with online permit portals (most cities with populations over 100,000 now have these) typically run 2–4 weeks from application to approval. Rural counties can take 6–10 weeks, and a few still require paper applications submitted in person. Projects have stalled 11 weeks in rural counties because the assessor's office processed permits on one day per week and holidays reduced that further. Knowing local permit schedules ahead of time can significantly change the project timeline.
 
-HOA rules are their own thing. Since 2024, 26 states have solar access laws that limit (or outright prohibit) HOAs from blocking solar installations, though they can still regulate placement and aesthetics. If you're in one of the remaining states without protections, get HOA approval in writing before you spend a dollar with a contractor. Proceeding without written approval risks becoming stuck mid-project if the HOA denies the installation.
+HOA rules are their own thing. Since 2024, 26 states have solar access laws that limit (or outright prohibit) HOAs from blocking solar installations, though they can still regulate placement and aesthetics. If you're in one of the remaining states without protections, get HOA approval in writing before you spend a dollar with a contractor. Proceeding without written approval risks a mid-project denial that halts the installation.
 
-For a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=) (the site may earn a commission), the Emporia Vue 2 at around $79 is the one I recommend to small-home owners who want to baseline their actual consumption before sizing a solar system. Knowing your real usage pattern, not just your average kWh, can save you from a badly sized system.
+For a [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=) (the site may earn a commission), the Emporia Vue 2 at around $79 is a strong choice for small-home owners who want to baseline their actual consumption before sizing a solar system. Knowing your real usage pattern, not just your average kWh, can save you from a badly sized system.
 
 ## Sources
 

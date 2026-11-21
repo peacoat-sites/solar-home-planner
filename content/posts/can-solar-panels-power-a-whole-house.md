@@ -30,7 +30,7 @@ Most coverage of this question gives you the same non-answer: "It depends on you
 
 Yes, solar panels can power a whole house. In practice, whether they *do* depends on four variables most salespeople gloss over: your load profile, your roof geometry, your grid connection type, and whether you've got [battery storage](/diy-solar-with-battery-storage/). Get those four right, and you're looking at a genuine whole-home solar setup. Miss any one of them and you've got an expensive partial solution that still racks up a utility bill.
 
-I've sized systems for everything from a 900-square-foot bungalow in Phoenix to a 3,400-square-foot house in western Washington with a heat pump, an EV, and a hot tub. The process is the same; the numbers are wildly different.
+Systems range from 900-square-foot bungalows in Phoenix to 3,400-square-foot houses in western Washington with a heat pump, an EV, and a hot tub. The process is the same; the numbers are wildly different.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A typical U.S. home uses 10,500 kWh/year; a properly sized system (8-12 kW) can offset 90-100% of that.</li><li style="margin:5px 0">Battery storage is what determines true whole-home coverage at night, not just panel count.</li><li style="margin:5px 0">Shading, roof orientation, and local utility rates change the math more than most installers admit.</li><li style="margin:5px 0">System cost runs $18,000-$35,000 installed before the 30% federal tax credit (current as of July 2026).</li><li style="margin:5px 0">Net metering policies vary by state and utility; in some markets they've gotten significantly worse since 2023.</li></ul></div>
 
@@ -44,13 +44,13 @@ So when I say a system can "power a whole house," I mean it can offset 100% of a
 
 ## The sizing math, done honestly
 
-The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) puts U.S. average household consumption at about 10,500 kWh per year. Divide that by your location's peak sun hours (available in NREL's PVWatts calculator, which I use on every single project), account for a 15-20% system efficiency loss from inverter conversion, wiring, and temperature derating, and you get your required panel wattage.
+The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) puts U.S. average household consumption at about 10,500 kWh per year. Divide that by your location's peak sun hours (available in NREL's PVWatts calculator), account for a 15-20% system efficiency loss from inverter conversion, wiring, and temperature derating, and you get your required panel wattage.
 
 A rough formula: Annual kWh needed / (365 days × peak sun hours) × 1.2 efficiency factor = system size in kW.
 
 For a house in Dallas (5.5 peak sun hours): 10,500 / (365 × 5.5) × 1.2 = roughly 6.3 kW. In Portland, Oregon (4.0 peak sun hours): 10,500 / (365 × 4.0) × 1.2 = roughly 8.6 kW. Same house, same usage, 37% more panel capacity required. That's not a marginal difference.
 
-Here's what I got wrong early in my career: I used average annual sun hours instead of seasonal production curves. A system sized for Portland's annual average will chronically underperform November through February, when cloud cover is persistent and days are short, and over-produce in July. If you're on good net metering, that seasonal imbalance washes out over 12 months. If you're not, you need either more panels or more batteries.
+A common sizing mistake is using average annual sun hours instead of seasonal production curves. A system sized for Portland's annual average will chronically underperform November through February, when cloud cover is persistent and days are short, and over-produce in July. If you're on good net metering, that seasonal imbalance washes out over 12 months. If you're not, you need either more panels or more batteries.
 
 ## Real costs, right now
 
@@ -81,7 +81,7 @@ Grid-tied solar without batteries is fine if your utility offers reasonable net 
 
 The calculation changes in three situations: your utility has gutted net metering export rates (looking at you, California, Nevada, and increasingly Florida); you live somewhere with grid reliability issues; or you want genuine energy independence. A single Tesla Powerwall 3 (13.5 kWh, around $12,000 installed) will run average evening loads and keep your lights on during a 6-8 hour outage. A whole-home backup covering HVAC, well pumps, and EV charging needs 2-3 units and a managed load setup.
 
-A practical example: a 3-bedroom house in rural Vermont, no natural gas, all-electric with a heat pump. Annual consumption: 14,200 kWh. System installed: 11 kW with two Powerwall 3 units. Total cost before incentives: $51,000. After federal and Vermont state credits: roughly $31,000. The grid connection stays as backup for deep winter, but 11 months of the year the system runs the house. That's a real whole-home setup.
+For example, consider a 3-bedroom house in rural Vermont, no natural gas, all-electric with a heat pump. Annual consumption: 14,200 kWh. System installed: 11 kW with two Powerwall 3 units. Total cost before incentives: $51,000. After federal and Vermont state credits: roughly $31,000. The grid connection stays as backup for deep winter, but 11 months of the year the system runs the house. That's a real whole-home setup.
 
 ## Sources
 

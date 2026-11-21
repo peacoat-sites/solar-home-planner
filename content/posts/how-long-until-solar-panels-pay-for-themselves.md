@@ -99,7 +99,7 @@ If you do finance, look for solar-specific loans from credit unions or green ene
 
 ## Red Flags That Inflate the Payback Promise
 
-I've reviewed a lot of solar proposals. Some of the numbers installers put in front of homeowners should be embarrassing.
+Many solar proposals contain numbers that should be embarrassing. Some of the numbers installers put in front of homeowners should be embarrassing.
 
 Watch for production estimates that assume 100% of your consumption will be offset. Unless you're putting panels on every available surface and your usage is modest, that's not realistic. A properly sized system typically offsets 80-100% of your usage, but the word "typically" is doing a lot of work there.
 

@@ -25,7 +25,7 @@ author_title: "Inverters and Wiring"
 author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-A homeowner in Phoenix told me last year he saved $14,000 by installing a 6kW solar kit himself over two weekends. His neighbor across the street, same neighborhood, same roof type, paid a contractor $28,000 for the equivalent system. The difference wasn't luck or skill level. It was research, the right kit, and knowing exactly what he was getting into before he bought anything.
+For example, a homeowner might save $14,000 by installing a 6kW solar kit himself over two weekends. His neighbor across the street, same neighborhood, same roof type, paid a contractor $28,000 for the equivalent system. The difference wasn't luck or skill level. It was research, the right kit, and knowing exactly what he was getting into before he bought anything.
 
 DIY solar has come a long way. The kits available today are genuinely designed for skilled homeowners, not just electricians. But "designed for DIY" doesn't mean all kits are created equal, and the wrong choice can mean stranded equipment, failed inspections, or a system that underperforms for 25 years. Let's get specific about what's actually worth buying.
 
@@ -53,7 +53,7 @@ Here's how to actually do it. Pull 12 months of utility bills and add up your to
 
 Example: 9,600 kWh annual usage in Dallas divided by 1,200 equals 8kW. You'd look at 8kW kits, which typically means around 20 to 24 panels depending on panel wattage.
 
-The National Renewable Energy Laboratory's PVWatts calculator (free at pvwatts.nrel.gov) refines this significantly. Input your address, roof tilt, and azimuth and it gives you location-specific production estimates. I use it for every project. Don't skip it.
+The National Renewable Energy Laboratory's PVWatts calculator (free at pvwatts.nrel.gov) refines this significantly. Input your address, roof tilt, and azimuth and it gives you location-specific production estimates. It is worth using for every project. Don't skip it.
 
 Also factor in whether you're planning to add an EV or go fully electric with appliances. If that's a possibility in the next 3-5 years, size up by 15-20% now. Adding panels later is more expensive than doing it right initially.
 
@@ -116,7 +116,7 @@ This is one of the most consequential decisions in your system design, and it's 
 
 **Power optimizers** are a hybrid. Each panel gets an optimizer (SolarEdge is the main brand), but you still have a central inverter. You get panel-level monitoring and shading mitigation at a cost between string inverters and microinverters.
 
-My practical recommendation: if your roof is simple and unshaded, get a string inverter kit and save the money. If you have dormers, trees, or multiple roof planes, spend the extra on Enphase microinverters. The production gains will recoup the cost.
+The practical guidance: if your roof is simple and unshaded, get a string inverter kit and save the money. If you have dormers, trees, or multiple roof planes, spend the extra on Enphase microinverters. The production gains will recoup the cost.
 
 ## Comparing Popular DIY Kits at a Glance
 

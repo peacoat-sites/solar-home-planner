@@ -26,11 +26,11 @@ faqs:
     a: "The research here is genuinely mixed. Large panel manufacturers like Jinko, SunPower (under its current ownership), and LONGi have been in business long enough to build credibility. Smaller inverter and battery companies are harder to evaluate. NREL has noted that most bankrupt solar manufacturers' warranties have been absorbed through acquisitions or partner programs, but that's not guaranteed. Buying equipment from established manufacturers with long track records isn't paranoia. It's how you make a 25-year warranty worth more than the paper it's on."
 ---
 
-Only 17% of homeowners who file a solar warranty claim actually get what they expected paid out. I came across that figure in an industry survey last year and couldn't stop thinking about it. Not because the warranties are outright fraudulent, but because there are so many overlapping documents, exclusions, and responsible parties that [most homeowners](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) have no real idea what they signed.
+Only 17% of homeowners who file a solar warranty claim actually get what they expected paid out. That figure, drawn from an industry survey, points to a widespread and costly misunderstanding. Not because the warranties are outright fraudulent, but because there are so many overlapping documents, exclusions, and responsible parties that [most homeowners](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) have no real idea what they signed.
 
-I'll be honest: when I got into solar installation after 12 years doing residential electrical work, I assumed the warranty picture was simple. Panel maker covers the panels, inverter maker covers the inverter, installer covers the labor. Done. What surprised me was how catastrophically wrong that mental model is in practice. The warranties interact, contradict each other, and in some cases create gaps that nobody covers unless you specifically ask.
+It is easy to assume the warranty picture is simple. Panel maker covers the panels, inverter maker covers the inverter, installer covers the labor. Done. That mental model turns out to be catastrophically wrong in practice. The warranties interact, contradict each other, and in some cases create gaps that nobody covers unless you specifically ask.
 
-This is the breakdown I wish I'd had before I installed my first system.
+The following breakdown covers what every homeowner should understand before signing.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Solar systems come with 3 to 5 separate warranties from different parties, not one.</li><li style="margin:5px 0">Panel performance warranties typically guarantee 80% output at 25 years, but degradation claims are hard to prove without monitoring data.</li><li style="margin:5px 0">Workmanship warranties from installers average 5-10 years, but some budget contractors offer as little as 1 year.</li><li style="margin:5px 0">If your installer goes out of business, their workmanship warranty is often unenforceable without a third-party bond.</li><li style="margin:5px 0">Equipment warranties from manufacturers remain valid even if your installer folds, as long as you registered the equipment.</li></ul></div>
 
@@ -52,7 +52,7 @@ The panel product warranty and panel performance warranty are two entirely diffe
 
 ## What "Performance Guaranteed" Really Means
 
-This is where I see the most confusion, and where I made my own mistake early on.
+This is where the most confusion tends to arise.
 
 When a panel manufacturer says they guarantee 80% output at year 25, they mean relative to the panel's rated wattage, not your bill. So a 400W panel is warrantied to produce at least 320W after 25 years. The catch: how do you prove it's underperforming? You need historical production data, ideally from a home energy monitor that's been logging continuously. Without that data, it's almost impossible to make a performance claim stick.
 
@@ -66,15 +66,15 @@ A home energy monitor like the [Emporia Vue or similar whole-home monitor](https
 
 Here's where the real money is at risk. Panel manufacturers are large, established companies. They'll be around in 2040 to honor a defect claim. Your installer? Less certain.
 
-The Solar Energy Industries Association has tracked installer business closures for years, and the pattern is consistent: companies enter the market during boom cycles and disappear when incentives shift or interest rates climb. What surprised me when I dug into this was the cascade effect. When an installer closes, their workmanship warranty typically becomes unenforceable. There's no parent company to honor it.
+The Solar Energy Industries Association has tracked installer business closures for years, and the pattern is consistent: companies enter the market during boom cycles and disappear when incentives shift or interest rates climb. The result is a cascade effect. When an installer closes, their workmanship warranty typically becomes unenforceable. There's no parent company to honor it.
 
 Some worked examples:
 
-Homeowner in Phoenix, 2023, used a regional installer with a 10-year workmanship warranty. Installer filed for bankruptcy 14 months later. Roof penetration started leaking in year 3. Because there was no surety bond requirement in that state, the homeowner paid $1,847 in roof repairs out of pocket. The equipment warranties from LG and Enphase were perfectly valid and would have covered electronics, but the roof leak was labor-only, and that warranty was gone.
+For example, if a homeowner uses a regional installer with a 10-year workmanship warranty and that installer files for bankruptcy 14 months later, a roof penetration that starts leaking in year 3 may leave the homeowner with no recourse.   Without a surety bond requirement in that state, the homeowner could face paying $1,847 in roof repairs out of pocket. Equipment warranties from the panel and inverter manufacturers would remain valid and cover electronics, but a roof leak is labor-only, and that workmanship warranty would be gone.
 
-Homeowner in New Jersey used a national installer (Sunrun) with a full-service 25-year warranty bundled into a PPA agreement. Inverter failed at year 6. One call, technician out within 4 business days, no cost. The trade-off: they didn't own the system, so the structure of coverage was different entirely.
+For example, a homeowner who uses a national installer such as Sunrun with a full-service 25-year warranty bundled into a PPA agreement may find that an inverter failure at year 6 is resolved with one call, a technician visit within 4 business days, and no cost.   The trade-off is that the homeowner does not own the system, so the structure of coverage is different entirely.
 
-Homeowner in Colorado purchased through a local company that required equipment registration within 30 days of install. Homeowner missed the registration deadline for their Enphase IQ8 microinverters. A microinverter failed at year 4. Enphase denied the claim because of the missed registration. That cost $340 per failed unit. Check your registration requirements the week your system goes live. Seriously.
+For example, if a homeowner misses the registration deadline for Enphase IQ8 microinverters because the installer required registration within 30 days and that step was overlooked, Enphase can deny a claim on a unit that fails at year 4.    That can cost $340 per failed unit. Check your registration requirements the week your system goes live. Seriously.
 
 ## Inverter Warranties Deserve Their Own Attention
 

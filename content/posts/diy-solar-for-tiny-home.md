@@ -25,7 +25,7 @@ author_title: "Energy Efficiency"
 author_bio: "Rachel Kim is the byline used at Solar Home Planner for articles on home energy efficiency and getting a house ready for solar. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-I parked a 200-square-foot tiny home on rural Tennessee land once (well, helped a friend do it), and the power company quoted $18,000 to run a line to the property. A generator would've burned through $200 a month in fuel alone. That's when solar stopped being optional and became the only math that worked. I've talked to a dozen tiny home owners in exactly that spot. They went solar, recouped their install costs in under three years, and never looked back. If you're building or already living in a tiny home, DIY solar isn't just a fun weekend project. It might be the smartest financial decision you make about your entire build.
+For example, a 200-square-foot tiny home on rural Tennessee land might face a power company quote of $18,000 to run a line to the property. A generator would burn through $200 a month in fuel alone. That's when solar stops being optional and becomes the only math that works. Many tiny home owners end up in exactly that spot. Those who go solar commonly recoup their install costs in under three years and never look back. If you're building or already living in a tiny home, DIY solar isn't just a fun weekend project. It might be the smartest financial decision you make about your entire build.
 
 ## Why Tiny Homes Are Actually Ideal for Solar
 
@@ -78,7 +78,7 @@ You've got four main pieces to select: solar panels, a charge controller, a batt
 
 **Charge controller.** MPPT (Maximum Power Point Tracking) controllers become the standard recommendation for systems larger than about 400W. They're significantly more efficient than PWM controllers, especially in cold weather and variable light. Victron Energy makes excellent MPPT controllers that communicate with other system components. A 40A or 60A Victron SmartSolar is a solid choice for most tiny home builds.
 
-**Batteries.** LiFePO4 is now affordable enough that I'd rarely recommend lead-acid for a new build. Brands like Battle Born, Renogy, and EG4 offer quality cells with solid BMS protection. Yes, LiFePO4 costs more upfront, but the cycle life is enormous. A good LiFePO4 pack delivers 3,000 to 5,000 cycles. Lead-acid gets maybe 500 before it's done.
+**Batteries.** LiFePO4 is now affordable enough that lead-acid is rarely worth recommending for a new build. Brands like Battle Born, Renogy, and EG4 offer quality cells with solid BMS protection. Yes, LiFePO4 costs more upfront, but the cycle life is enormous. A good LiFePO4 pack delivers 3,000 to 5,000 cycles. Lead-acid gets maybe 500 before it's done.
 
 **Inverter.** For a tiny home running standard 120V appliances, a pure sine wave inverter is non-negotiable. Modified sine wave inverters will damage sensitive electronics, including motor controllers in modern appliances. If you want to charge batteries from shore power or a generator, look at an inverter-charger combo from Victron (Multiplus series) or Schneider Electric (XW+ series).
 

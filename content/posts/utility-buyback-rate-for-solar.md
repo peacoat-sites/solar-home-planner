@@ -56,7 +56,7 @@ The answer depends on which compensation mechanism your utility uses, and there 
 
 ## Why Your State and Utility Choice Matter More Than Your Panel Brand
 
-I'll be honest: I spent the early part of my career focused heavily on system efficiency, panel specs, inverter quality. And that stuff matters. But the single biggest variable in your actual financial return isn't a Panasonic HIT panel versus a Qcells Q.PEAK. It's whether you're in Arizona Public Service territory or SRP territory.
+It is easy to focus heavily on system efficiency, panel specs, and inverter quality. And that stuff matters. But the single biggest variable in your actual financial return isn't a Panasonic HIT panel versus a Qcells Q.PEAK. It's whether you're in Arizona Public Service territory or SRP territory.
 
 Those two utilities serve overlapping Phoenix metro geography and their export compensation programs are genuinely that different. SRP's Customer Generation tariff historically resulted in much lower effective export credits than APS's standard NEM offering. Same rooftop, same system, same city, totally different financial outcome.
 
@@ -96,7 +96,7 @@ Solar-plus-storage is increasingly the answer in degraded-NEM states, but it's n
 
 ## What Red Flags Look Like in a Solar Proposal
 
-I've reviewed a lot of contractor proposals at this point, and the ones that skip over export rate assumptions, or bury them in vague language, are the ones to scrutinize hardest.
+Proposals that skip over export rate assumptions, or bury them in vague language, are the ones to scrutinize hardest.
 
 Any proposal that shows you "100% bill offset" without specifying the net metering mechanism is glossing over something important. In many cases that's not possible without storage or dramatic load-shifting behavior, especially if your utility applies monthly fixed fees that solar can't touch.
 

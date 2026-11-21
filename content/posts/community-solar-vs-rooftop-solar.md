@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners treat "going solar" as a single binary decision: put panels on the roof, or don't. That framing misses half the picture, and it's costing people real money.
 
-Community solar has been around long enough now that I've watched it go from a niche workaround to a legitimate option that, for some households, genuinely beats rooftop in every dimension that matters. I'll be honest: when I first encountered [community solar subscriptions](/community-solar-how-it-works/) back when I was still doing residential installs, I dismissed them as a consolation prize for renters. I was wrong. The research here is more interesting than the marketing on either side wants you to believe.
+Community solar has been around long enough to evolve from a niche workaround into a legitimate option that, for some households, genuinely beats rooftop in every dimension that matters. It is easy to dismiss [community solar subscriptions](/community-solar-how-it-works/) as a consolation prize for renters, and that assumption is widespread in the industry. I was wrong. The research here is more interesting than the marketing on either side wants you to believe.
 
 So let me give you the real comparison, contractor bias removed.
 
@@ -59,7 +59,7 @@ Here's why: once you've paid off the system, you're generating electricity at cl
 
 That spread compounds hard. A homeowner who installs a well-sized system today, uses net metering, and stays in the house for 20 years can realistically see $40,000 to $60,000 in cumulative utility bill savings, depending on their market and usage.
 
-But here's what surprised me: rooftop pencils out worse than that math suggests far more often than anyone admits. Because the math assumes a roof in good condition (not needing replacement in the next 5 years), enough usable unshaded roof space for the system you actually need, a utility with fair net metering policy, and you staying put. When those assumptions fail, rooftop's advantages erode fast.
+Rooftop pencils out worse than that math suggests far more often than anyone admits. Because the math assumes a roof in good condition (not needing replacement in the next 5 years), enough usable unshaded roof space for the system you actually need, a utility with fair net metering policy, and you staying put. When those assumptions fail, rooftop's advantages erode fast.
 
 A homeowner might install solar on an aging roof, then need to remove and reinstall the panels a few years later for a re-roof. Removal and reinstallation costs typically run $2,500 to $4,500 and can significantly extend payback timelines. Most installers won't volunteer the information.
 
@@ -71,7 +71,7 @@ Community solar is available in about 20+ states today, with New York, Illinois,
 
 That last point matters more than people realize. HOAs reject or complicate roughly 10-15% of residential solar installs in suburban markets, and even where you have legal protections (many states now have solar access laws), the process can drag out for months. Community solar sidesteps all of it. You sign a subscription agreement, your utility connects the billing, and you're done.
 
-For renters, obviously, it's the only real option short of asking a landlord to go solar. But I've also recommended community solar to homeowners with heavily shaded roofs where a rooftop system would be dramatically undersized, people planning to sell within 3-5 years who don't want to navigate the solar panel question in a home sale, households that just replaced their roof with a manufacturer's warranty they don't want to void, and anyone whose utility has weak net metering making the rooftop economics less compelling.
+For renters, it is the only real option short of asking a landlord to go solar, but community solar also makes sense for homeowners with heavily shaded roofs where a rooftop system would be dramatically undersized, people planning to sell within 3-5 years who do not want to navigate the solar panel question in a home sale, households that just replaced their roof with a manufacturer's warranty they do not want to void, and anyone whose utility has weak net metering making the rooftop economics less compelling.
 
 The savings are real but modest, typically $100 to $300 annually on a standard residential subscription. That's not $40,000 over 20 years. It's also not nothing, and the risk profile is totally different. If you move, you typically cancel or transfer the subscription. If your roof develops a leak near a penetration point, it's not your problem.
 
@@ -89,7 +89,7 @@ Community solar can be better suited to specific regulatory environments, making
 
 ## Making the Decision: A Practical Framework
 
-Rather than a chart, let me walk through how I'd actually think about this if a neighbor knocked on my door today.
+Rather than a chart, here is a practical way to think through the decision.
 
 Start with your state. If community solar isn't available in your utility territory, the decision is already made. Check EnergySage or your state's public utility commission to confirm availability.
 
