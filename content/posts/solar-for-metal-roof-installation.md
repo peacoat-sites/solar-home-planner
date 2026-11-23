@@ -25,7 +25,7 @@ faqs:
     a: "A stud finder sometimes works through thin metal, but most experienced installers use the existing exposed fastener pattern as a guide, since those screws were driven into purlins or rafters during the original install. The layout of the existing fasteners maps the framing below. An installer who doesn't know this trick is worth scrutinizing."
 ---
 
-Metal roofs and [solar panels](/how-long-until-solar-panels-pay-for-themselves/) are genuinely well-matched, and the installation is straightforward once you understand which attachment method your roof actually needs. The confusion usually comes from contractors who specialize in asphalt shingles trying to retrofit their standard workflow onto a standing seam or corrugated metal surface. That's where the problems start.
+Metal roofs and solar panels are genuinely well-matched, and the installation is straightforward once you understand which attachment method your roof actually needs. The confusion usually comes from contractors who specialize in asphalt shingles trying to retrofit their standard workflow onto a standing seam or corrugated metal surface. That's where the problems start.
 
 The good news: metal roofs typically last 40 to 70 years, which means you won't have to tear off panels mid-system-life to reroof the way you would with composition shingles. That alone makes metal one of the better substrates for solar.
 
@@ -63,7 +63,7 @@ Costs above are incremental over a standard asphalt-shingle install and assume a
 
 ## Grounding and Electrical Considerations
 
-Metal roofs change the grounding picture in a useful way. Under NEC Article 690 and Article 250, a metal roof that's properly bonded to the structure can serve as part of the equipment grounding conductor path for the racking system. This isn't a shortcut that every AHJ (authority having jurisdiction) will approve without documentation, but it's a legitimate path supported by code when done correctly. Your installer [should know](/solaredge-nexis-is-now-available-in-the-us-what-homeowners-should-know/) whether the local inspector requires a separate grounding conductor run regardless.
+Metal roofs change the grounding picture in a useful way. Under NEC Article 690 and Article 250, a metal roof that's properly bonded to the structure can serve as part of the equipment grounding conductor path for the racking system. This isn't a shortcut that every AHJ (authority having jurisdiction) will approve without documentation, but it's a legitimate path supported by code when done correctly. Your installer should know whether the local inspector requires a separate grounding conductor run regardless.
 
 One real consideration: galvanic corrosion. Aluminum racking on a steel roof without proper isolation can corrode at the contact points over years. Stainless hardware and neoprene or EPDM isolation pads between dissimilar metals matter here. It's not a dramatic failure mode, but it's the kind of thing that shows up on a 25-year system inspection if someone cut corners on year one.
 
@@ -83,7 +83,7 @@ Permits work the same as any residential solar project: you'll need a building p
 
 HOAs are a separate issue. If you're in an HOA, check your state's solar access laws before assuming the HOA can block you. Most states now have statutes limiting HOA authority to restrict solar, though they vary considerably in scope. The HOA can often still regulate aesthetics like panel color and placement visibility from the street.
 
-On roof warranties: this is the one [most homeowners](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) miss. Metal roof manufacturers including Englert, MBCI, and McElroy Metal all publish approved attachment lists. If your installer uses a clamp or penetration method not on that approved list, some manufacturers will void the roof warranty even on a standing seam. Ask for the written warranty language before work starts, not after.
+On roof warranties: this is the one most homeowners miss. Metal roof manufacturers including Englert, MBCI, and McElroy Metal all publish approved attachment lists. If your installer uses a clamp or penetration method not on that approved list, some manufacturers will void the roof warranty even on a standing seam. Ask for the written warranty language before work starts, not after.
 
 ## Sources
 

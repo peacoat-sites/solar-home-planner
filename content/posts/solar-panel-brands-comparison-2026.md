@@ -37,7 +37,7 @@ You'll see "Tier 1" thrown around constantly in solar marketing. I'll be honest:
 
 Many genuinely excellent panels come from manufacturers that aren't on the Tier 1 list at all. Many mediocre panels carry that exact designation.
 
-The framework I actually use: look at domestic US presence (do they have an office here? US-based warranty support?), degradation rate (power loss per year), [temperature coefficient](/solar-panel-efficiency-ratings-explained/) (output drop in heat), and whether they offer both product warranty and separate performance warranty. Those last two are different things. Most homeowners don't realize it.
+The framework I actually use: look at domestic US presence (do they have an office here? US-based warranty support?), degradation rate (power loss per year), temperature coefficient (output drop in heat), and whether they offer both product warranty and separate performance warranty. Those last two are different things. Most homeowners don't realize it.
 
 ## The Brands Worth Talking About in 2026
 

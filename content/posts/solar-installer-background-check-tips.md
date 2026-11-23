@@ -28,7 +28,7 @@ faqs:
 
 Most solar articles tell you to "check reviews" and "get three quotes." That's not wrong, it's just uselessly vague. The homeowner who gets burned by a bad installer isn't the one who skipped the reviews. It's the one who didn't know what to look for *after* the reviews.
 
-Here's what I wish someone had told me before I saw my first nightmare installation: the solar industry has almost no meaningful barrier to entry. In most states, a general electrical contractor's license is technically sufficient to pull a solar permit. That's a problem, because pulling wire in a panel and designing a grid-tied 10 kW system with optimizers and a [battery backup](/generator-vs-solar-battery-backup/) are not the same skill set.
+Here's what I wish someone had told me before I saw my first nightmare installation: the solar industry has almost no meaningful barrier to entry. In most states, a general electrical contractor's license is technically sufficient to pull a solar permit. That's a problem, because pulling wire in a panel and designing a grid-tied 10 kW system with optimizers and a battery backup are not the same skill set.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">NABCEP PV Installation Professional certification is the single most reliable credential to require from your installer.</li><li style="margin:5px 0">A solar contractor should carry at least $1,000,000 in general liability and $1,000,000 in workers' comp, verify directly with their insurer, not just their word.</li><li style="margin:5px 0">Pulling a permit history for a contractor takes about 10 minutes at your county building department and is one of the highest-signal checks you can do.</li><li style="margin:5px 0">Salespeople and installers are often different companies; get the full legal name of the entity that will physically install and the entity that will warranty the work.</li><li style="margin:5px 0">Complaints filed with your state contractor's licensing board are public record and rarely show up in Google reviews.</li></ul></div>
 
@@ -42,7 +42,7 @@ Some states layer additional requirements on top. California requires a C-46 Sol
 
 ## Pulling License and Permit Records Yourself
 
-This step takes maybe 20 minutes total and [most homeowners](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) skip it entirely. Don't.
+This step takes maybe 20 minutes total and most homeowners skip it entirely. Don't.
 
 Every licensed contractor in your state has a license number. Your state's contractor licensing board has a public lookup (search "[your state] contractor license lookup"). Enter their license number, not just their name. What you're looking for: license status (active, suspended, expired), issue date, any disciplinary actions, and whether the license type actually covers solar electrical work.
 

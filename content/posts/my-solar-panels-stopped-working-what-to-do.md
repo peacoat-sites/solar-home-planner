@@ -81,7 +81,7 @@ If your neighborhood has lost grid power, your solar system will also go offline
 
 ### Dirty or Obstructed Panels
 
-Soiling, accumulated dust, [bird droppings](/solar-bird-proofing-and-critter-guard/), pollen, leaves, and grime, is a performance killer people consistently underestimate. A thick layer of debris can reduce panel output by 15-30% or more. In extreme cases (concentrated bird dropping on a small area, for example), a micro-crack or hot spot can develop, causing one panel to drag down an entire string.
+Soiling, accumulated dust, bird droppings, pollen, leaves, and grime, is a performance killer people consistently underestimate. A thick layer of debris can reduce panel output by 15-30% or more. In extreme cases (concentrated bird dropping on a small area, for example), a micro-crack or hot spot can develop, causing one panel to drag down an entire string.
 
 A sudden drop to zero production is unlikely from soiling alone unless the panels are completely buried in debris or snow. But significant soiling combined with other minor issues can push a system into shutdown.
 

@@ -56,7 +56,7 @@ Then get on your roof if you can do it safely, or hire someone who can. You're l
 
 Photograph everything with your phone camera, but then also shoot video. Walk slowly. Narrate what you're seeing. A video timestamp is harder to dispute than a photo. If you have a drone or can borrow one, aerial footage is genuinely useful.
 
-Pull your inverter data. Most modern inverter systems, whether you're running a SolarEdge with individual panel monitoring or an Enphase microinverter setup, give you [per-panel production data](/solar-inverter-troubleshooting-guide/). Download or screenshot historical production going back at least 30 days. If you can show a sharp production drop on the day of the storm, that's real evidence.
+Pull your inverter data. Most modern inverter systems, whether you're running a SolarEdge with individual panel monitoring or an Enphase microinverter setup, give you per-panel production data. Download or screenshot historical production going back at least 30 days. If you can show a sharp production drop on the day of the storm, that's real evidence.
 
 While you're at it, note the date and time of the storm and cross-reference it with the official weather service report for your zip code. The [National Oceanic and Atmospheric Administration's storm data](https://www.noaa.gov/) is publicly available, and a NOAA severe weather report showing 1.5-inch hail in your area is worth attaching to your claim.
 

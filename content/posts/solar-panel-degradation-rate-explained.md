@@ -1,5 +1,5 @@
 ---
-title: "How Solar Panels Lose Power Over Time"
+title: "Solar Panel Degradation Rate Explained: What to Expect"
 date: 2026-06-21T23:53:18.936851+00:00
 draft: false
 description: "Learn how solar panel degradation rate affects long-term energy output, what causes efficiency loss, and how to maximize your panels lifespan."

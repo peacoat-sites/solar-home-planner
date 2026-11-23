@@ -26,7 +26,7 @@ For a lot of households, this changes the math significantly. A 10-year payback 
 
 ## Who's Still Buying, and Why
 
-Here's what most people don't realize about the current market: the homeowners still going solar in 2026 are largely motivated by something other than simple ROI. SEIA's Q2 2026 report found that 45% of new residential installs in the first quarter were paired with [battery storage](/solar-batteries-hit-record-attach-rates-as-federal-credit-disappears/), up from 35% in 2025. That's a striking number. People are buying resilience. Backup power during grid outages, protection against utility rate spikes, energy independence. These aren't the motivations that pencil out cleanly on a spreadsheet, but they're real, and they're driving real purchasing decisions.
+Here's what most people don't realize about the current market: the homeowners still going solar in 2026 are largely motivated by something other than simple ROI. SEIA's Q2 2026 report found that 45% of new residential installs in the first quarter were paired with battery storage, up from 35% in 2025. That's a striking number. People are buying resilience. Backup power during grid outages, protection against utility rate spikes, energy independence. These aren't the motivations that pencil out cleanly on a spreadsheet, but they're real, and they're driving real purchasing decisions.
 
 BloombergNEF's June 15, 2026 report projects U.S. residential solar additions will drop to 4.1 GW this year, down 15% from 2025 and the lowest level in five years. SEIA puts the decline closer to 21%. Either way, the market is contracting. That actually has a silver lining for buyers: installers who were booked out four months in 2023 are now hungry for work. I've heard from homeowners in the Midwest getting quotes 10 to 15 percent below what neighbors paid in 2024. Labor pricing is softening. Use that.
 
@@ -54,7 +54,7 @@ Where you live matters enormously right now. States with strong programs have pa
 
 Then there are states where the math is just hard. New Hampshire and Maine have weak state programs, and according to NuWatt Energy's 2026 state-by-state cost breakdown, payback periods in those states now stretch past 12 years for cash buyers. That's not impossible to justify, especially if you plan to stay in the house long-term, but you need to go in with eyes open.
 
-Before you talk to a single installer, spend 30 minutes on your state's public utilities commission website and your state energy office page. Look for active rebate programs, [net metering rules](/balcony-solar-laws-are-going-live-what-your-state-allows-now/) (which vary wildly), and any property tax exemptions on solar equipment. These details don't always show up in installer quotes unless you ask directly.
+Before you talk to a single installer, spend 30 minutes on your state's public utilities commission website and your state energy office page. Look for active rebate programs, net metering rules (which vary wildly), and any property tax exemptions on solar equipment. These details don't always show up in installer quotes unless you ask directly.
 
 ## Contractor Red Flags That Matter More in This Market
 

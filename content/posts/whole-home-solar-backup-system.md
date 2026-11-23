@@ -1,5 +1,5 @@
 ---
-title: "How To Keep Your Home Powered During Outages"
+title: "Whole Home Solar Backup System: What It Takes"
 date: 2026-05-22T21:48:15.992351+00:00
 draft: false
 description: "Discover how a whole home solar backup system keeps your power on during outages, saves money on energy bills, and provides clean, reliable electricity year-rou"

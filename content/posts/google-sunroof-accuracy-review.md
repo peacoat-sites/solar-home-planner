@@ -1,5 +1,5 @@
 ---
-title: "Does Google Sunroof Overestimate Your Solar Potential?"
+title: "Google Sunroof Accuracy: Does It Overestimate Your Savings"
 date: 2026-07-05T23:35:06.541291+00:00
 draft: false
 description: "We tested Google Project Sunroof against real solar quotes and satellite data to see how accurate its roof solar estimates really are in 2024."
@@ -57,7 +57,7 @@ This is where I'd ask you to be most skeptical.
 
 Sunroof pulls electricity rate data, but it's often working with state or regional averages, not your specific utility's rate structure. If you're on a time-of-use plan with Pacific Gas & Electric, or if your co-op in rural Georgia has below-average rates, the generic number will be wrong in ways that matter. As of July 2026, residential electricity rates vary from around 10 cents per kWh in parts of the South to over 30 cents in Hawaii and California. A tool averaging those together will produce wildly different accuracy depending on where you live.
 
-The [net metering assumption](/solar-agreement-types-ppa-vs-loan-vs-lease/) is the bigger problem. Sunroof tends to assume relatively favorable net metering (selling excess power back at or near retail rates). But net metering policies have been changing fast. Several states have moved to "net billing" at wholesale rates, which cuts the effective value of your excess generation by 50% or more. If your state made that change recently and Sunroof's model hasn't caught up, your savings estimate could be overstated by thousands of dollars over the life of the system.
+The net metering assumption is the bigger problem. Sunroof tends to assume relatively favorable net metering (selling excess power back at or near retail rates). But net metering policies have been changing fast. Several states have moved to "net billing" at wholesale rates, which cuts the effective value of your excess generation by 50% or more. If your state made that change recently and Sunroof's model hasn't caught up, your savings estimate could be overstated by thousands of dollars over the life of the system.
 
 A common mistake is using Sunroof projections as a sanity check on quotes without verifying the net metering assumption. For example, a projection based on old rate structures before the PUCN modified net metering rules in Nevada could suggest a 7.5-year payback when the real-world payback period is closer to 11 years. Always confirm that Sunroof's rate assumptions match your current utility's actual net metering policy.
 
@@ -77,7 +77,7 @@ EnergySage's market data confirms that Sunroof's general "is this roof a good so
 
 Here's a practical workflow. Run Sunroof first to get a rough sense of your roof's solar potential and an order-of-magnitude savings estimate. Then do three things before you take any of those numbers seriously:
 
-Check your actual electricity rate, including your specific tier or time-of-use schedule. Log into your utility account and look at the last 12 months of bills. Total the kWh used. That number is what matters for [sizing](/diy-solar-panel-system-sizing/).
+Check your actual electricity rate, including your specific tier or time-of-use schedule. Log into your utility account and look at the last 12 months of bills. Total the kWh used. That number is what matters for sizing.
 
 Verify your state's current net metering policy. The National Renewable Energy Laboratory maintains resources on state-by-state policies, and your state public utilities commission website will have the current rules. This takes 20 minutes and can save you from a four-figure miscalculation.
 

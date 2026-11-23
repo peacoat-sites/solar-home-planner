@@ -1,5 +1,5 @@
 ---
-title: "Match Your Inverter Size to Peak Solar Output"
+title: "String Inverter Sizing Guide: Match Output Without Clipping"
 date: 2026-06-27T23:36:52.343858+00:00
 draft: false
 description: "Learn how to properly size a string inverter for your solar array with our step-by-step guide covering voltage, current, and efficiency calculations."
@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Most homeowners spend weeks comparing solar panels and almost no time thinking about the inverter. That's backwards. The inverter is where your system can quietly bleed efficiency for years, and [string inverter sizing](/microinverter-vs-string-inverter-comparison/) is the piece that trips up even experienced installers.
+Most homeowners spend weeks comparing solar panels and almost no time thinking about the inverter. That's backwards. The inverter is where your system can quietly bleed efficiency for years, and string inverter sizing is the piece that trips up even experienced installers.
 
 Inverter sizing is often treated as straightforward math: panels generate X watts, inverter handles X watts, done. In practice, this assumption costs homeowners real money.
 
@@ -57,7 +57,7 @@ Get your temperature correction factor from the [U.S. Department of Energy's sol
 
 Here's where the conventional advice gets genuinely interesting. The standard rule says your inverter's AC output rating should match your total panel DC wattage. A 6,000W (DC) array gets a 6,000W inverter. Clean and simple.
 
-But in practice, most installers intentionally oversize the array relative to the inverter, a concept called "DC-to-AC ratio" or the "inverter loading ratio." [Most residential systems today run](/best-solar-inverter-brands-reviewed/) a DC/AC ratio between 1.1 and 1.3. Meaning a 6,000W inverter might feed an 7,200W to 7,800W panel array.
+But in practice, most installers intentionally oversize the array relative to the inverter, a concept called "DC-to-AC ratio" or the "inverter loading ratio." Most residential systems today run a DC/AC ratio between 1.1 and 1.3. Meaning a 6,000W inverter might feed an 7,200W to 7,800W panel array.
 
 Why? Because your panels almost never produce their rated output. Dust, heat, off-angle sun, haze, real-world losses. A 6,000W array might peak at 5,200W on a typical summer afternoon. Undersizing the inverter slightly means it runs closer to full capacity more often, generating more total energy over the year. The panels "clip" (get capped at the inverter's max output) only during rare peak conditions, and the lost energy from clipping is usually less than the gained energy from running at higher efficiency the rest of the time.
 

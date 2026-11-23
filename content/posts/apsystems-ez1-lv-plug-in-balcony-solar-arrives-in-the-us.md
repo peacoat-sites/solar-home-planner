@@ -36,7 +36,7 @@ What it won't do: it won't fill the gap left by a whole-home rooftop array, it w
 
 Europe got plug-in solar moving partly because the regulatory framework was clear. Germany's VDE standard and later EU rules created a defined category: balcony power plants under a certain wattage, simple registration, no full utility interconnection. The U.S. didn't have a clean equivalent until UL 3700 arrived.
 
-UL 3700 is the standard for plug-in inverter systems. It covers anti-islanding protection, the safety mechanism that shuts the inverter down if grid power drops, so you're not backfeeding a downed line. The EZ1-LV carries that certification, which is why it can legally plug into a normal outlet rather than requiring a dedicated hardwired circuit with a utility-approved [interconnection agreement](/interconnection-agreement-utility-what-it-means/).
+UL 3700 is the standard for plug-in inverter systems. It covers anti-islanding protection, the safety mechanism that shuts the inverter down if grid power drops, so you're not backfeeding a downed line. The EZ1-LV carries that certification, which is why it can legally plug into a normal outlet rather than requiring a dedicated hardwired circuit with a utility-approved interconnection agreement.
 
 This is what separates the EZ1-LV from the gray-market "balcony inverter" units that have been floating around Amazon for two years. Those units may or may not have proper anti-islanding. The APsystems unit, as noted in the July 17 pv magazine USA launch coverage, is UL 3700 certified. That's the difference between a product you can stand behind with your utility and one you're hoping nobody asks about.
 

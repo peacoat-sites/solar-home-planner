@@ -25,7 +25,7 @@ faqs:
     a: "Rarely, unless you're also constrained by roof space. Upgrading from 15% efficient panels to 22% efficient panels doesn't help you if the old panels already cover your load. If you have limited roof space and want to add capacity without adding more panels, upgrading can make sense. Run the payback math against what you're actually spending and what the ITC will offset before committing."
 ---
 
-Most [solar panels](/hail-damage-solar-panels-insurance-claim/) don't need replacing when you think they do. That's the honest answer. The industry standard warranty is 25 years, and most panels continue producing meaningful power well past that mark, just at a reduced output. The real question isn't "how old are my panels?" but "how much power are they actually producing compared to what they should be?"
+Most solar panels don't need replacing when you think they do. That's the honest answer. The industry standard warranty is 25 years, and most panels continue producing meaningful power well past that mark, just at a reduced output. The real question isn't "how old are my panels?" but "how much power are they actually producing compared to what they should be?"
 
 Degradation happens in every panel, every year. The typical rate is around 0.5% per year, though some budget panels degrade faster. After 25 years at that rate, you're looking at roughly 88% of original output, not great, not catastrophic. Whether that's acceptable depends on your load, your battery setup if you have one, and what newer panels would cost you in comparison.
 
@@ -37,7 +37,7 @@ Degradation happens in every panel, every year. The typical rate is around 0.5% 
 
 Physical damage is the clearest trigger. Cracked glass, delamination (where the layers of the panel visually separate or bubble), and severe discoloration (beyond light yellowing, which is normal) all compromise performance and can create safety hazards. Delaminated panels can trap moisture, which leads to faster corrosion of the cell interconnects and, in some cases, ground faults.
 
-Hotspots are worth calling out specifically. A hotspot is a localized area on a cell that gets dramatically hotter than the surrounding panel, usually because one cell is shaded or defective and the others are driving current through it. You can't see hotspots with the naked eye, but a thermal imaging inspection (many [solar companies](/how-to-choose-a-solar-company/) offer these; some energy auditors do too) will show them clearly. A single bad cell can drag down the entire string in a standard series-wired system.
+Hotspots are worth calling out specifically. A hotspot is a localized area on a cell that gets dramatically hotter than the surrounding panel, usually because one cell is shaded or defective and the others are driving current through it. You can't see hotspots with the naked eye, but a thermal imaging inspection (many solar companies offer these; some energy auditors do too) will show them clearly. A single bad cell can drag down the entire string in a standard series-wired system.
 
 Persistent underperformance is trickier. Before you blame the panels, check everything else. Inverter firmware, wiring connections, shading from new tree growth, and dirt accumulation all affect production. A good [home energy monitor](https://www.amazon.com/s?tag=contentportfo-20&k=home+energy+monitor) can help you track real-time production and spot when output diverges from your historical baseline or the system's modeled performance.
 

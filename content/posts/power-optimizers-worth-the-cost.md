@@ -26,7 +26,7 @@ faqs:
     a: "SolarEdge warranties their optimizers for 25 years, matching most panel warranties. In practice, they're passive DC-to-DC converters with minimal moving parts and relatively low failure rates compared to inverters. That said, I don't have good long-term field failure data past 15 years for optimizers specifically, since widespread residential deployment is still relatively recent. The warranty is real; the 25-year field track record is still being written."
 ---
 
-Most [solar buyers](/solar-batteries-hit-record-attach-rates-as-federal-credit-disappears/) don't know that microinverters and power optimizers solve the same core problem in completely different ways, and the price difference will run you $1,500 to $3,000 on a typical residential install. That gap is real money, and the industry isn't exactly rushing to help you understand when one is genuinely worth it versus when you're paying for something that won't move your needle.
+Most solar buyers don't know that microinverters and power optimizers solve the same core problem in completely different ways, and the price difference will run you $1,500 to $3,000 on a typical residential install. That gap is real money, and the industry isn't exactly rushing to help you understand when one is genuinely worth it versus when you're paying for something that won't move your needle.
 
 Let me be direct about where I stand: power optimizers are the right call in a specific set of circumstances, and a waste in others. The problem is that installers often quote optimizer systems as a default because the margins are better and the pitch is easy. "More production, more monitoring, more safety" sounds great. It's also sometimes just true. Knowing which situation you're in is the whole game.
 
@@ -42,7 +42,7 @@ This is meaningfully different from a microinverter (Enphase IQ8, for example), 
 
 ## The Numbers That Should Drive Your Decision
 
-EnergySage's market data currently puts the national average optimizer [system cost](/off-grid-solar-system-cost-breakdown/) at about $3.20–$3.50/watt installed, versus $2.70–$3.10/watt for a comparable string system without optimizers. On a 8 kW install, that's a $1,600–$3,200 premium. You're going to need a real production gain, or a real risk factor, to justify that.
+EnergySage's market data currently puts the national average optimizer system cost at about $3.20–$3.50/watt installed, versus $2.70–$3.10/watt for a comparable string system without optimizers. On a 8 kW install, that's a $1,600–$3,200 premium. You're going to need a real production gain, or a real risk factor, to justify that.
 
 Here's where it gets interesting. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has published modeling showing that in partial-shade scenarios, module-level power electronics (MLPEs, which include both optimizers and microinverters) can recover 8 to 25% of annual production compared to a string inverter without any shade mitigation. On an 8 kW system producing around 10,000 kWh/year at $0.15/kWh, that's $120 to $375 back in your pocket annually. At the low end of that shade impact, your optimizer premium pays back in roughly 8 years. At the high end, under 5 years.
 

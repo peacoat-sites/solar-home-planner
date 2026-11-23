@@ -1,5 +1,5 @@
 ---
-title: "Solar Interconnection Takes 183 Days: What Delays Your System"
+title: "Utility Interconnection Timeline for Solar: What Causes Delays"
 date: 2026-07-30T23:31:38.731252+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -28,7 +28,7 @@ faqs:
 
 Six months. That's how long a homeowner in a mid-Atlantic suburb waited between the day her panels were physically installed and the day her utility finally flipped the permission-to-operate switch. The system sat on her roof, fully wired, doing absolutely nothing for 183 days. She's not an outlier. She's closer to the median than most solar salespeople will ever admit.
 
-I'll be honest: when I started digging into interconnection timelines, I expected to find a story about paperwork delays. What I found instead was something more structural, and more frustrating. According to Lawrence Berkeley National Laboratory's 2025 "Tracking the Sun" report, soft costs (permitting, inspection, interconnection) account for roughly 35% of the total installed cost of a residential [solar system](/solar-system-design-software-free/) in the U.S. A meaningful chunk of that is just waiting. Waiting on utilities. Waiting on reviewers. Waiting on queues that utilities are not legally required to move quickly through.
+I'll be honest: when I started digging into interconnection timelines, I expected to find a story about paperwork delays. What I found instead was something more structural, and more frustrating. According to Lawrence Berkeley National Laboratory's 2025 "Tracking the Sun" report, soft costs (permitting, inspection, interconnection) account for roughly 35% of the total installed cost of a residential solar system in the U.S. A meaningful chunk of that is just waiting. Waiting on utilities. Waiting on reviewers. Waiting on queues that utilities are not legally required to move quickly through.
 
 EnergySage's market data shows median interconnection timelines ranging from under 30 days in installer-friendly markets to well over 150 days in congested utility territories. That variance is enormous, and it's the single biggest scheduling risk that almost no one talks about during the sales process. You sign a contract, you expect panels on your roof in 6-8 weeks. The part nobody mentions is what happens after the physical installation.
 
@@ -36,7 +36,7 @@ EnergySage's market data shows median interconnection timelines ranging from und
 
 ## What the Timeline Actually Looks Like, Step by Step
 
-[Most homeowners](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) think of solar installation as one event. It's not. It's a sequence of five distinct phases, and the utility controls the last two of them entirely.
+Most homeowners think of solar installation as one event. It's not. It's a sequence of five distinct phases, and the utility controls the last two of them entirely.
 
 **Phase 1: Permit application to approval** (7-45 days). Your installer submits plans to your local Authority Having Jurisdiction (AHJ), usually your city or county building department. In smaller jurisdictions with SolarApp+ integration (a streamlined online permitting platform now adopted by hundreds of municipalities), this can come back in 24-48 hours. In others, you're waiting three to five weeks for a plan checker who reviews solar drawings part-time.
 

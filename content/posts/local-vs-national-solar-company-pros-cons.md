@@ -1,5 +1,5 @@
 ---
-title: "Local vs National Solar: Which Installer Fits Your Home"
+title: "Local vs National Solar Company: Pros and Cons Compared"
 date: 2026-06-24T23:43:02.219430+00:00
 draft: false
 description: "Compare local vs national solar companies to find the best fit. Explore pricing, service, warranties, and support before signing any solar contract."

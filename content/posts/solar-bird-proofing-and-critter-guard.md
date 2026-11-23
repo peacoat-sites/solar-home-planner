@@ -1,5 +1,5 @@
 ---
-title: "Stop Rodents From Destroying Your Solar Panels"
+title: "Solar Bird Proofing and Critter Guard: What Works"
 date: 2026-06-26T23:44:43.002444+00:00
 draft: false
 description: "Protect your solar panels from birds and critters with professional proofing solutions. Learn about mesh guards, clips, and installation options."

@@ -25,7 +25,7 @@ faqs:
     a: "Directly, no. The federal residential clean energy credit is tied to when you place the system in service (operational), not when the permit issues. But a delayed permit pushes back your installation date, which pushes back your in-service date. If you're trying to hit a specific tax year, that domino effect is worth factoring in."
 ---
 
-Four to eight weeks is the most honest answer for a typical residential solar permit, but that range can compress to five business days in a permit-friendly city or balloon past six months in a jurisdiction that's genuinely hostile to [rooftop solar](/community-solar-vs-rooftop-solar/). The number that matters most isn't the statewide average. It's your specific municipality's current workload, whether your installer submits clean paperwork the first time, and whether your utility has a backlogged interconnection queue.
+Four to eight weeks is the most honest answer for a typical residential solar permit, but that range can compress to five business days in a permit-friendly city or balloon past six months in a jurisdiction that's genuinely hostile to rooftop solar. The number that matters most isn't the statewide average. It's your specific municipality's current workload, whether your installer submits clean paperwork the first time, and whether your utility has a backlogged interconnection queue.
 
 Understanding where the delays actually live changes how you manage the process. Most homeowners assume the permit is the bottleneck. Often it isn't. The utility [interconnection agreement](/interconnection-agreement-utility-what-it-means/), the step that lets you legally push power back to the grid, can take longer than everything else combined. In some areas, you'll be waiting months just for the utility to respond to that application.
 
@@ -35,7 +35,7 @@ Understanding where the delays actually live changes how you manage the process.
 
 ## Why timelines vary so much
 
-There's no [national solar](/local-vs-national-solar-company-pros-cons/) permit. Each jurisdiction runs its own process, sets its own fees, and staffs (or understaffs) its own plan check department. A city with a dedicated solar permit pathway and over-the-counter approval for systems under a certain wattage can have you approved the same week your installer submits. A county that routes all solar applications through a general building permit queue, requires a stamped engineering set for every job, and schedules two review cycles is a different story entirely.
+There's no national solar permit. Each jurisdiction runs its own process, sets its own fees, and staffs (or understaffs) its own plan check department. A city with a dedicated solar permit pathway and over-the-counter approval for systems under a certain wattage can have you approved the same week your installer submits. A county that routes all solar applications through a general building permit queue, requires a stamped engineering set for every job, and schedules two review cycles is a different story entirely.
 
 A few specific factors drive the spread:
 

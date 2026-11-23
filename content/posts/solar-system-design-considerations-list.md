@@ -26,7 +26,7 @@ faqs:
     a: "In most states, no. 36 states currently have property tax exemptions for solar systems, meaning the added home value from solar doesn't increase your assessed value for tax purposes. Check your specific state's exemption status through DSIRE before assuming it applies to you."
 ---
 
-Most people who contact me about solar have already spent three weeks watching YouTube videos and gotten three wildly different quotes. You're probably somewhere in that spiral [right now](/your-solar-installer-went-bankrupt-what-happens-now/), trying to figure out which number to trust and whether the salesperson who kept talking about "energy independence" actually knows what they're doing.
+Most people who contact me about solar have already spent three weeks watching YouTube videos and gotten three wildly different quotes. You're probably somewhere in that spiral right now, trying to figure out which number to trust and whether the salesperson who kept talking about "energy independence" actually knows what they're doing.
 
 Here's what I tell people at that stage: the confusion usually isn't about solar being complicated. It's that most of the information out there is organized around selling you something, not around helping you understand the problem. So let's fix that. What follows is how I actually think through a residential solar design, in the order it matters.
 
@@ -40,7 +40,7 @@ Pull twelve months of electricity bills before you talk to anyone. Not just the 
 
 The average U.S. household uses around 10,500 kWh per year according to [EnergySage's market data](https://news.energysage.com/), but homes in Phoenix with pool pumps and two electric vehicles may run 24,000 kWh, while homes in Vermont might use as little as 5,800 kWh. National averages are almost useless at the individual level. Your number is your number.
 
-One thing that trips people up here: if you're planning to add an EV in the next two years, build that load into your design now. A Tesla Model 3 adds roughly 3,000-4,500 kWh per year depending on your commute. Undersizing your system to match today's usage and then adding charging later means paying for two rounds of design and permitting. I've watched people make this mistake, including one reader from Sacramento who emailed me earlier [this year](/should-you-go-solar-this-year/) after adding a Ford F-150 Lightning and realizing her 5.4kW system couldn't cover it.
+One thing that trips people up here: if you're planning to add an EV in the next two years, build that load into your design now. A Tesla Model 3 adds roughly 3,000-4,500 kWh per year depending on your commute. Undersizing your system to match today's usage and then adding charging later means paying for two rounds of design and permitting. I've watched people make this mistake, including one reader from Sacramento who emailed me earlier this year after adding a Ford F-150 Lightning and realizing her 5.4kW system couldn't cover it.
 
 ## What Your Roof Actually Tells You
 

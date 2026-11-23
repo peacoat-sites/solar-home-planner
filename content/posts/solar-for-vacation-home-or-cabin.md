@@ -1,5 +1,5 @@
 ---
-title: "Solar for Vacation Homes: Off-Grid Power Without the Hassle"
+title: "Solar for a Vacation Home or Cabin: Off-Grid to Grid-Tied"
 date: 2026-11-23T02:58:52.092221+00:00
 draft: false
 description: "Learn how to power your cabin or vacation home with solar energy, from system sizing to installation costs and maintenance requirements."
@@ -33,7 +33,7 @@ Off-[grid solar](/off-grid-solar-system-cost-breakdown/) for a vacation home or 
 
 ## Off-Grid vs. Grid-Tied: Choose the Right Architecture First
 
-A cabin with utility service available can run a standard grid-tied system, claim net metering credits, and use the grid as a free battery. That's the easy case. The harder, more common case is a property where utility power costs $30,000–$80,000 or more to extend from the nearest transformer. At that point, off-grid solar with [battery storage](/how-much-battery-storage-for-off-grid-home/) is often cheaper over a 20-year horizon, not just philosophically appealing.
+A cabin with utility service available can run a standard grid-tied system, claim net metering credits, and use the grid as a free battery. That's the easy case. The harder, more common case is a property where utility power costs $30,000–$80,000 or more to extend from the nearest transformer. At that point, off-grid solar with battery storage is often cheaper over a 20-year horizon, not just philosophically appealing.
 
 Hybrid systems, sometimes called grid-tied with battery backup, exist for cabins that have utility service but suffer frequent outages. These use inverter-chargers like the Schneider Electric XW+ or the SMA Sunny Island to maintain a [critical loads panel](/critical-loads-panel-solar-backup/) even when the grid goes down. They're more expensive than pure grid-tied but far cheaper than full off-grid if the utility connection already exists.
 

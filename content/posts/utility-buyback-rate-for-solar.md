@@ -1,5 +1,5 @@
 ---
-title: "How Solar Buyback Rates Really Affect Your Returns"
+title: "Utility Buyback Rate for Solar: How It Affects Your Returns"
 date: 2026-06-05T23:47:39.987357+00:00
 draft: false
 description: "Discover how utility buyback rates for solar work, what affects your compensation, and how to maximize earnings when selling excess solar energy back to the gri"

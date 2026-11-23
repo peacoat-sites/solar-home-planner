@@ -44,7 +44,7 @@ Installers rarely do this calculation with the homeowner present. When actual ut
 
 Here's the constraint that bites small homeowners hardest. You might have only 400 square feet of total roof area, and after accounting for setbacks (most jurisdictions require 18 inches minimum from the ridge line and rakes, and that's a real rule the inspector enforces during final), shading from neighboring trees or a chimney, and suboptimal orientation, your usable south-facing space might be 150–220 square feet.
 
-A standard 400-watt panel runs about 22 square feet. Six [panels need](/do-solar-panels-need-maintenance/) roughly 132 square feet. That's workable. But if you need eight panels and only have 160 square feet, you're suddenly in a conversation about high-efficiency panels.
+A standard 400-watt panel runs about 22 square feet. Six panels need roughly 132 square feet. That's workable. But if you need eight panels and only have 160 square feet, you're suddenly in a conversation about high-efficiency panels.
 
 Panels like the Maxeon 6 (430W, ~$480/panel retail) or LG's NEON R line before LG exited the U.S. market pack more watts per square foot. Currently, Maxeon and [REC Alpha](/rec-alpha-solar-panel-review/) panels are the two I'd seriously consider for constrained roofs. You'll pay a 20–30% premium over standard Tier 1 panels, but the math can work out if roof space is truly your bottleneck. If it's not, save the money.
 

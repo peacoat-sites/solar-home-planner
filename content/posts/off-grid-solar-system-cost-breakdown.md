@@ -66,7 +66,7 @@ The Solar Energy Industries Association tracks battery storage costs, and while 
 
 **3. Inverter-Charger: $2,000-$8,000**
 
-A standard string inverter won't cut it here. You need an [inverter-charger](/off-grid-solar-diy-setup/): a unit that converts DC battery power to AC household current, manages charging from the panels, and can accept input from a generator. Reliable options include Victron Quattro and MultiPlus series, Schneider Electric XW+, and SMA Sunny Island. Midrange units for a whole-home system run $3,000-$6,000 for the equipment alone.
+A standard string inverter won't cut it here. You need an inverter-charger: a unit that converts DC battery power to AC household current, manages charging from the panels, and can accept input from a generator. Reliable options include Victron Quattro and MultiPlus series, Schneider Electric XW+, and SMA Sunny Island. Midrange units for a whole-home system run $3,000-$6,000 for the equipment alone.
 
 **4. Charge Controller: $300-$1,500**
 

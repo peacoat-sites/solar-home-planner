@@ -1,5 +1,5 @@
 ---
-title: "Power Your Home During Blackouts With Solar Backup"
+title: "Critical Loads Panel for Solar Backup: What You Need"
 date: 2026-06-29T00:36:30.546320+00:00
 draft: false
 description: "Learn how a critical loads panel works with solar backup systems to keep essential home circuits powered during outages and reduce energy costs."

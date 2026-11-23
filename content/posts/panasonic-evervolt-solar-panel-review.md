@@ -53,7 +53,7 @@ You're probably wondering: does it matter? For the warranty and long-term perfor
 | Performance Warranty | 25 years | 12-25 years | Extended guarantee |
 | Module-Level Premium | - | +$0.85-$1.10/W | ~$5,950-$7,700 net after 30% tax credit |
 
-Here's what I tell people who are drowning in spec sheets: the three numbers that really affect your payback period are efficiency, [temperature coefficient](/solar-panel-efficiency-ratings-explained/), and the degradation guarantee.
+Here's what I tell people who are drowning in spec sheets: the three numbers that really affect your payback period are efficiency, temperature coefficient, and the degradation guarantee.
 
 **Efficiency (21.2% to 22.2%)** means more power per square foot of roof. For most suburban homes with decent roof space, this won't dramatically change your panel count. Where it matters is if you have a small or partially shaded roof. A typical 2,000 sq ft home in Phoenix or Sacramento with a well-oriented south-facing roof section? You can often fit a full 8-10 kW system in fewer panels with EverVolts compared to budget 19% efficient panels. Fewer penetrations, cleaner look.
 

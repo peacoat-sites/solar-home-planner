@@ -1,5 +1,5 @@
 ---
-title: "Mobile Home Solar: Complete Installation Guide"
+title: "Solar for Mobile Homes and Manufactured Housing: Full Guide"
 date: 2026-05-29T16:55:14.250224+00:00
 draft: false
 description: "Discover how solar panels can work for mobile and manufactured homes. Learn about installation options, costs, incentives, and energy savings for your property."

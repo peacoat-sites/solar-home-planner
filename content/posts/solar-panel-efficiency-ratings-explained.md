@@ -35,7 +35,7 @@ A solar panel's efficiency rating tells you how much of the sunlight hitting the
 
 That sounds straightforward. Here's what the number doesn't tell you: it's measured under something called Standard Test Conditions, or STC. That means 77°F (25°C), 1000 watts of solar irradiance per square meter, and essentially no wind. Your actual roof in Phoenix in July hits nothing close to those conditions. Neither does a rooftop in Portland in November.
 
-The National Renewable Energy Laboratory (NREL) has done extensive work on the gap between STC ratings and real-world production, and it's not small. Depending on your climate, a panel might produce anywhere from 10% to 25% less energy than its rated specs suggest. Which means two panels with different efficiency ratings but similar [temperature coefficient](/solar-panel-brands-comparison/)s and real-world derating factors can end up producing nearly identical amounts of electricity on your actual roof.
+The National Renewable Energy Laboratory (NREL) has done extensive work on the gap between STC ratings and real-world production, and it's not small. Depending on your climate, a panel might produce anywhere from 10% to 25% less energy than its rated specs suggest. Which means two panels with different efficiency ratings but similar temperature coefficients and real-world derating factors can end up producing nearly identical amounts of electricity on your actual roof.
 
 Efficiency is a useful shorthand, not a verdict.
 

@@ -26,7 +26,7 @@ faqs:
     a: "Rafter attachment issues: either missing the rafter entirely and only fastening into sheathing, using insufficient lag bolt diameter, or failing to provide documentation that the attachment points meet local wind and snow load requirements. Electrical issues are second, but structural mounting problems are the most common first-inspection failure."
 ---
 
-Forty-three percent of [DIY solar](/diy-solar-for-rv-or-camper/) installations fail their first inspection. Not because the panels are wired wrong, but because the roof mounting was done incorrectly.
+Forty-three percent of DIY solar installations fail their first inspection. Not because the panels are wired wrong, but because the roof mounting was done incorrectly.
 
 I learned this the hard way watching a homeowner in Tucson redo three days of work because he used the wrong lag bolt length into rafters that turned out to be 2x6 instead of the 2x8 he assumed. The inspector caught it. The roofer caught it after that. It cost him an extra $600 and a week of lost time. The electrical side was perfect. The mounting side was the problem.
 

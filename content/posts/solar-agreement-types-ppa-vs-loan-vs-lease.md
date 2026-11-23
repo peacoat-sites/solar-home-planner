@@ -1,5 +1,5 @@
 ---
-title: "Which Solar Payment Option Saves You Money"
+title: "Solar PPA vs Loan vs Lease: Which Option Saves More"
 date: 2026-06-05T12:21:46.323411+00:00
 draft: false
 description: "Compare solar agreement types including PPAs, loans, and leases to find the best option for your home or business. Learn costs, benefits, and ownership details."

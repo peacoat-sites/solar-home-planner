@@ -26,9 +26,9 @@ faqs:
     a: "For one person with basic construction skills, plan for 4–6 days: one day for layout, post holes, and concrete; one to two days for racking assembly; one day for panel installation; and one to two days for electrical. Add time for permit review, which typically runs 2–6 weeks depending on your jurisdiction."
 ---
 
-[Most homeowners](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) who call a solar company get quoted $3,000 to $6,000 in labor alone for a ground mount system, though ground mounts can be installed for under $800 in hardware with a long weekend of work.
+Most homeowners who call a solar company get quoted $3,000 to $6,000 in labor alone for a ground mount system, though ground mounts can be installed for under $800 in hardware with a long weekend of work.
 
-I'll be honest: I came to ground mounts skeptical. My background is rooftop work, and for years I assumed ground mounts were the "easy mode" that anyone could figure out. Then I actually tried to spec one out myself for a client in rural Montana who had a terrible south-[facing roof](/do-solar-panels-work-on-a-north-facing-roof/), and I realized how much could go wrong if you didn't know what you were doing, from undersized pier footings to conduit that fails inspection. There's a real learning curve here. But it's a learnable one.
+I'll be honest: I came to ground mounts skeptical. My background is rooftop work, and for years I assumed ground mounts were the "easy mode" that anyone could figure out. Then I actually tried to spec one out myself for a client in rural Montana who had a terrible south-facing roof, and I realized how much could go wrong if you didn't know what you were doing, from undersized pier footings to conduit that fails inspection. There's a real learning curve here. But it's a learnable one.
 
 What surprised me was how much the permitting and structural side trips people up relative to the actual wiring. The electrical is, in many ways, the simpler part if you have any background there. The civil side, footings, setbacks, soil conditions, that's where most DIYers get humbled.
 
@@ -92,7 +92,7 @@ This is where I want to be specific, because vague advice is useless.
 
 **Step 6: Electrical.** This is a full article on its own, but the short version is: panel strings run to a combiner box (or directly to microinverter trunk cables if you're using Enphase), then conduit runs to your inverter, then from the inverter to your main panel via a new breaker. For DIY, I'd strongly suggest a [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) installed at commissioning so you can verify production from day one. (The site may earn a commission on purchases.)
 
-Scenario example: A reader in rural Ohio installed a 7.5kW ground mount in spring 2025 using IronRidge XR100 rails and Enphase IQ8 micros. He pulled his own permit (took 3 weeks, one revision to his site plan), rented an auger, and poured his own footings. Total out-of-pocket: $7,100. A local installer quoted him $18,400 for a similar system. His [payback period](/how-long-until-solar-panels-pay-for-themselves/) dropped from 11 years to under 5.
+Scenario example: A reader in rural Ohio installed a 7.5kW ground mount in spring 2025 using IronRidge XR100 rails and Enphase IQ8 micros. He pulled his own permit (took 3 weeks, one revision to his site plan), rented an auger, and poured his own footings. Total out-of-pocket: $7,100. A local installer quoted him $18,400 for a similar system. His payback period dropped from 11 years to under 5.
 
 ## Don't Overlook the Wire Run
 

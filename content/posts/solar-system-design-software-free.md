@@ -26,7 +26,7 @@ faqs:
     a: "SAM and Aurora Solar's paid tier both model annual degradation (typically 0.5% per year for monocrystalline panels). PVWatts does not model degradation by default. For a 25-year financial model, degradation matters: a system producing 10,000 kWh in year one produces roughly 8,800 kWh by year 25, and any payback calculator that ignores this is flattering the numbers."
 ---
 
-[Most homeowners](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) who contact me about solar have already spent three or four hours on a manufacturer's website, plugging numbers into some locked-down "estimate tool" that spits out a monthly savings figure and a phone number. That's not solar design. That's a sales funnel dressed up in a calculator costume.
+Most homeowners who contact me about solar have already spent three or four hours on a manufacturer's website, plugging numbers into some locked-down "estimate tool" that spits out a monthly savings figure and a phone number. That's not solar design. That's a sales funnel dressed up in a calculator costume.
 
 Real [solar system design](/solar-system-design-considerations-list/) software does something different: it models your roof geometry against actual historical irradiance data, accounts for shading from that oak tree on the southwest corner, calculates string sizing and inverter clipping losses, and produces a production estimate you can hold a contractor accountable to. The good news is that several tools will let you do most or all of this for free, right now, today.
 
@@ -38,7 +38,7 @@ According to EnergySage's market data, homeowners who get three or more independ
 
 I tell everyone the same thing when they ask where to begin: go to pvwatts.nrel.gov and spend 20 minutes. It's run by the National Renewable Energy Laboratory, it's completely free, and it uses the same TMY (Typical Meteorological Year) weather data that professional engineers use. This is not a toy.
 
-The interface asks for your location, system capacity (in kilowatts DC), module type, array type (fixed, one-axis tracking, etc.), system losses, and tilt and azimuth. For a south-[facing roof](/do-solar-panels-work-on-a-north-facing-roof/) at 25 degrees pitch in Sacramento, a 7 kW system in PVWatts will show you roughly 11,500 to 12,000 kWh per year. When a contractor shows up and promises 13,500 kWh from the same setup, you now have a reason to ask why, and if they can't answer it, that's your red flag.
+The interface asks for your location, system capacity (in kilowatts DC), module type, array type (fixed, one-axis tracking, etc.), system losses, and tilt and azimuth. For a south-facing roof at 25 degrees pitch in Sacramento, a 7 kW system in PVWatts will show you roughly 11,500 to 12,000 kWh per year. When a contractor shows up and promises 13,500 kWh from the same setup, you now have a reason to ask why, and if they can't answer it, that's your red flag.
 
 One thing PVWatts doesn't do well is granular shading analysis. It has a shading input, but it's a single percentage you estimate yourself. If your roof has a chimney, a dormer, or a neighbor's two-story addition casting a shadow across your array from 2 PM onward, PVWatts will not catch that. For that, you need to go a step further.
 

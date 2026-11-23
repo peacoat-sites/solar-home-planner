@@ -1,5 +1,5 @@
 ---
-title: "Adding Solar To Your Existing Home: What's Involved"
+title: "Already Have Solar Panels? What Homeowners Should Know"
 date: 2026-05-21T22:38:00.691110+00:00
 draft: false
 description: "Discover how to add solar panels to your existing home. Learn about costs, installation options, savings on energy bills, and how to choose the right system for"

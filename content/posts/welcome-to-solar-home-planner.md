@@ -1,5 +1,5 @@
 ---
-title: "Plan Your Solar Installation in Minutes"
+title: "Solar Home Planner: Plan Your Installation in Minutes"
 date: 2026-05-28T02:01:18.273375+00:00
 draft: false
 description: "Your complete guide to planning a home solar installation,  from contractor selection to permits, EV charging, and off-grid systems."

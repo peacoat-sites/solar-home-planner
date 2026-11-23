@@ -33,7 +33,7 @@ Your panels are outside. They're tilted. Rain hits them. In most of the continen
 
 Dust and pollen are the least of your problems. They're light, they blow off, and a decent rain event resets the situation. The stuff that costs you real output is anything that sits heavy and wet, dries into a crust, or blocks individual cells rather than dimming the whole panel uniformly.
 
-Bird droppings are the classic offender. A single dropping over a cell can kill the output of an entire string in systems without [microinverters or power optimizers](/solar-inverter-troubleshooting-guide/), because shading one cell in a series string drags down the whole chain. Even a small number of droppings scattered across a array can produce a significant output drop on an otherwise clear day. That's not a rounding error.
+Bird droppings are the classic offender. A single dropping over a cell can kill the output of an entire string in systems without microinverters or power optimizers, because shading one cell in a series string drags down the whole chain. Even a small number of droppings scattered across a array can produce a significant output drop on an otherwise clear day. That's not a rounding error.
 
 Wildfire smoke and ash leave a gray film that bakes onto glass in sunlight. If you're in California, Oregon, Washington, or anywhere else that's had fire season nearby in the last few years, inspect your panels immediately after any smoke event. Don't wait for rain. Ash mixed with moisture creates a weak acidic residue that's harder to remove the longer it sits.
 
@@ -54,7 +54,7 @@ Here's my honest answer: for most homeowners in most climates, once a year is fi
 
 Twice a year makes sense if any of these apply: you're in a dry, dusty climate like Arizona, New Mexico, or inland Southern California; you have significant tree coverage; you've had nearby fire smoke events; or your system uses string inverters without optimizers, where shading penalties are steeper.
 
-Three or more times a year is warranted if you're in an agricultural area with regular field work nearby, you're near a highway with heavy diesel truck traffic, or you're dealing with persistent bird roosting on or around your array. Pigeons are a special kind of terrible. If you've got a [pigeon problem](/solar-bird-proofing-and-critter-guard/), no cleaning schedule fixes it without also addressing the roosting situation.
+Three or more times a year is warranted if you're in an agricultural area with regular field work nearby, you're near a highway with heavy diesel truck traffic, or you're dealing with persistent bird roosting on or around your array. Pigeons are a special kind of terrible. If you've got a pigeon problem, no cleaning schedule fixes it without also addressing the roosting situation.
 
 One more thing: late winter or early spring is the single best time for a manual clean in most of the U.S. You're clearing off everything that accumulated over fall and winter right before solar output peaks in April through August. If you're only cleaning once a year, that's your window.
 

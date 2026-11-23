@@ -1,5 +1,5 @@
 ---
-title: "How To Get Your Solar Panels Approved Fast"
+title: "Solar Panel Permit Process Explained Step by Step"
 date: 2026-05-26T05:37:34.319690+00:00
 draft: false
 description: "Get a complete guide to the solar panel permit process. Learn requirements, timelines, and steps needed to install solar panels at your home or business."

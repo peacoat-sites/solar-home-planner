@@ -26,7 +26,7 @@ faqs:
     a: "The Low-Income Communities Bonus Credit program is generally accessed through community solar developers or nonprofits operating in designated census tracts, not directly by homeowners. Contact your state's energy office or use the DOE's community solar finder at energy.gov to locate projects in your area that have already qualified for the bonus credit and are accepting new subscribers."
 ---
 
-[Most homeowners](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) assume solar is a young person's game. You know, buy the system, wait 25 years for payback, enjoy the savings in retirement. But if you're already retired and on a fixed income, you might think the window has closed. I'm going to push back on that pretty hard.
+Most homeowners assume solar is a young person's game. You know, buy the system, wait 25 years for payback, enjoy the savings in retirement. But if you're already retired and on a fixed income, you might think the window has closed. I'm going to push back on that pretty hard.
 
 I've talked to dozens of homeowners in their 70s and early 80s who've gone solar in the last few years, and the honest truth is that a well-structured solar deal can start saving money in month one. No waiting. No 25-year horizon required. The financing options and incentive programs available today, particularly for lower-income seniors, are genuinely different from what existed even five years ago.
 
@@ -34,7 +34,7 @@ I've talked to dozens of homeowners in their 70s and early 80s who've gone solar
 
 ## The Tax Credit Problem (And How to Work Around It)
 
-Here's the part most solar salespeople gloss over: the 30% federal Investment Tax Credit (ITC) is only useful if you actually owe federal income tax. If your total income is Social Security plus a small pension, there's a real chance your [federal tax](/solar-batteries-hit-record-attach-rates-as-federal-credit-disappears/) liability is low enough that you can't use the full credit, or any of it.
+Here's the part most solar salespeople gloss over: the 30% federal Investment Tax Credit (ITC) is only useful if you actually owe federal income tax. If your total income is Social Security plus a small pension, there's a real chance your federal tax liability is low enough that you can't use the full credit, or any of it.
 
 A common mistake is overlooking how the [federal credit](/solar-batteries-hit-record-attach-rates-as-federal-credit-disappears/) works for people with little federal tax liability. Someone with only Social Security income and a small IRA distribution might have no tax liability after the standard deduction. In that case, the 30% credit is functionally worthless in a cash purchase scenario.
 

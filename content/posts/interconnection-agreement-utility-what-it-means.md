@@ -1,5 +1,5 @@
 ---
-title: "What Your Solar Interconnection Agreement Actually Covers"
+title: "What an Interconnection Agreement Covers"
 date: 2026-06-20T23:43:03.538925+00:00
 draft: false
 description: "Learn what an interconnection agreement with a utility means, how it works, and why it matters for connecting solar or other energy systems to the grid."
@@ -78,7 +78,7 @@ One real-world pattern I've noticed: applications get kicked back because the in
 
 ## What Changes After You Sign
 
-Once the agreement is executed and PTO is issued, the terms aren't static forever. Utilities can revise their interconnection tariffs, and existing customers typically get some form of grandfathering protection, but not always forever. [California's NEM 3.0 changes](/right-to-solar-law-explained/) were a real example of how quickly the economics of an existing solar system can shift when the regulatory environment changes.
+Once the agreement is executed and PTO is issued, the terms aren't static forever. Utilities can revise their interconnection tariffs, and existing customers typically get some form of grandfathering protection, but not always forever. California's NEM 3.0 changes were a real example of how quickly the economics of an existing solar system can shift when the regulatory environment changes.
 
 Your agreement should state the duration of any grandfathered rates or billing structures. If it doesn't specify, ask. A 20-year system that loses its net metering rate in year seven because you didn't notice the sunset clause is a predictable, avoidable outcome.
 

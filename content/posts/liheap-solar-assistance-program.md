@@ -1,5 +1,5 @@
 ---
-title: "60% of Eligible Homes Miss Out on LIHEAP Solar Benefits"
+title: "LIHEAP Solar Assistance Program: Benefits Most Homes Miss"
 date: 2026-07-27T23:33:38.207006+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -28,7 +28,7 @@ faqs:
 
 Only about 16% of eligible households actually apply for LIHEAP benefits in any given year. That number, from the U.S. Department of Health and Human Services, has sat stubbornly low for decades, and it's even lower for the solar-specific components of the program that most people have never heard of.
 
-LIHEAP (Low Income Home Energy Assistance Program) gets covered almost exclusively as a heating-oil and utility-bill program. Turn on the news in January, it's about keeping the lights on in Minnesota. Fair enough. But the program has an often-ignored "weatherization and energy-related home repair" funding channel that, in a growing number of states, explicitly covers solar installation components, [battery storage](/how-much-battery-storage-for-off-grid-home/) backup for medical-necessity households, and rooftop solar for households that also depend on cooling assistance. Most coverage ignores this entirely. So let's fix that.
+LIHEAP (Low Income Home Energy Assistance Program) gets covered almost exclusively as a heating-oil and utility-bill program. Turn on the news in January, it's about keeping the lights on in Minnesota. Fair enough. But the program has an often-ignored "weatherization and energy-related home repair" funding channel that, in a growing number of states, explicitly covers solar installation components, battery storage backup for medical-necessity households, and rooftop solar for households that also depend on cooling assistance. Most coverage ignores this entirely. So let's fix that.
 
 The practical question is whether your state and county have actually activated the solar pathway, because LIHEAP is a block grant: the federal government sends money, then states write the actual rules. Wide variation isn't a quirk of the system, it's the whole system.
 

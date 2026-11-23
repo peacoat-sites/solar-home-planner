@@ -26,7 +26,7 @@ faqs:
     a: "Usually not. State solar access laws typically prevent local governments from banning solar outright, but they don't automatically protect you from neighbor obstructions. Check whether your state has both access rights legislation and an easement recording mechanism, then use the recording mechanism."
 ---
 
-Thirty-eight states have some form of solar access protection on the books, and [most homeowners](/the-july-4-solar-deadline-most-homeowners-dont-know-about/) have never heard of any of them.
+Thirty-eight states have some form of solar access protection on the books, and most homeowners have never heard of any of them.
 
 That number should matter to you before you sign a single contract. For example, a homeowner might spend $28,000 on a rooftop system, get it permitted and installed, and then spend two years fighting a neighbor whose oak tree slowly swallowed their south-facing array. A solar easement, properly recorded, could have prevented the whole mess. Most people don't realize these laws exist at all, let alone that they vary so wildly from state to state that what protects you in California might do absolutely nothing in, say, Mississippi.
 
@@ -36,7 +36,7 @@ Let me walk you through what's actually on the books, what the gaps are, and how
 
 ## The Difference Between "Solar Access Rights" and a Solar Easement
 
-These two terms get conflated constantly, even by contractors who [should know](/solaredge-nexis-is-now-available-in-the-us-what-homeowners-should-know/) better. A common mistake is telling a homeowner that their state's solar access law "protects" them. Technically true, but practically misleading.
+These two terms get conflated constantly, even by contractors who should know better. A common mistake is telling a homeowner that their state's solar access law "protects" them. Technically true, but practically misleading.
 
 A **solar access right** is a statutory protection, usually meaning the state limits what local governments or HOAs can do to restrict your system. It doesn't automatically stop your neighbor from planting a 60-foot sycamore. A **solar easement** is a recorded legal instrument, like a deed restriction, that grants you the right to receive unobstructed sunlight across your neighbor's property. You negotiate it, you pay to record it, and it runs with the land.
 
@@ -64,7 +64,7 @@ The states that tend to have the strongest frameworks share a few traits: they e
 | Mississippi | No | No | No | No statutory framework as of July 2026 |
 | Alabama | No | No | No | Common law only; legally risky |
 
-That "Automatic Protection?" column being "No" across the board is the thing that catches people off guard. Even in California, which has some of the strongest [solar law](/right-to-solar-law-explained/) in the country, you still have to go record an easement yourself if you want legal protection against a neighbor's future landscaping decisions.
+That "Automatic Protection?" column being "No" across the board is the thing that catches people off guard. Even in California, which has some of the strongest solar law in the country, you still have to go record an easement yourself if you want legal protection against a neighbor's future landscaping decisions.
 
 ## How to Actually Record a Solar Easement
 

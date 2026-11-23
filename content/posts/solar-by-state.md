@@ -14,7 +14,7 @@ lastmod: 2026-07-07
 ---
 How much power your rooftop solar system actually produces? Geography. A 6 kW system in Phoenix looks completely different on your electricity bill than the same system in Seattle.
 
-The table below ranks US states by annual output for a standard 6 kW residential system, highest to lowest. These numbers come from NASA POWER solar irradiance data with an 80% system performance ratio baked in (accounting for real-world losses like dust, angle, and [inverter inefficiency](/best-solar-inverter-brands-reviewed/)).
+The table below ranks US states by annual output for a standard 6 kW residential system, highest to lowest. These numbers come from NASA POWER solar irradiance data with an 80% system performance ratio baked in (accounting for real-world losses like dust, angle, and inverter inefficiency).
 
 {{< solar-table >}}
 

@@ -1,5 +1,5 @@
 ---
-title: "Which Solar Panel Type Really Wins on Efficiency"
+title: "Monocrystalline vs Polycrystalline Panels: Efficiency Facts"
 date: 2026-06-06T23:37:35.334797+00:00
 draft: false
 description: "Compare monocrystalline vs polycrystalline solar panels by efficiency, cost, and lifespan to find the best option for your home energy needs."

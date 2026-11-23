@@ -1,5 +1,5 @@
 ---
-title: "Critical Clauses: What Every Solar Contract Must Include"
+title: "Solar Contract Review: Clauses to Check Before Signing"
 date: 2026-05-25T13:11:06.766562+00:00
 draft: false
 description: "Learn what to review in a solar contract before signing, including pricing, warranties, installation terms, and cancellation policies to protect your investment"
@@ -42,7 +42,7 @@ Before you review a single line item, you need to know which type of contract yo
 
 **Cash purchase:** You own the system outright. The contract is essentially a scope of work, a warranty document, and a payment schedule. Straightforward, but still requires careful review.
 
-**Loan (secured or unsecured):** You own the system, but you're financing it. Watch for whether it's a secured loan, because some [solar loan](/how-to-get-solar-quotes/)s place a lien on your home through a mechanism called a UCC-1 filing or a deed of trust. That can complicate refinancing or selling your house.
+**Loan (secured or unsecured):** You own the system, but you're financing it. Watch for whether it's a secured loan, because some solar loans place a lien on your home through a mechanism called a UCC-1 filing or a deed of trust. That can complicate refinancing or selling your house.
 
 **Power Purchase Agreement (PPA):** You don't own the panels. A third party owns the equipment on your roof and sells you electricity at a set rate. You're signing a long-term energy contract, not buying a product.
 

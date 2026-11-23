@@ -1,5 +1,5 @@
 ---
-title: "How Net Metering Saves Solar Owners Money"
+title: "Net Metering Explained Simply: How Solar Credits Work"
 date: 2026-06-02T12:56:37.595863+00:00
 draft: false
 description: "Learn how net metering works, how it can lower your electricity bills, and why it matters for solar panel owners. A simple, clear guide for beginners."
@@ -49,7 +49,7 @@ What varies wildly is the *rate* at which your exports get credited.
 
 **Full retail net metering** is the gold standard. Every kilowatt-hour you push onto the grid gets credited at the same rate you'd pay to pull one off the grid. If your retail rate is $0.14/kWh, you export at $0.14/kWh. This makes your solar system's math clean and predictable.
 
-**Avoided cost or wholesale rate crediting** is where things get painful. Some utilities, especially after [policy revisions](/net-metering-changes-threatening-solar-roi/), credit your exports at the wholesale rate, which might be $0.03 to $0.06/kWh, while you're still buying power back at $0.14/kWh. You're essentially selling low and buying high. Your system still saves you money, but significantly less than the installer's original estimate might have shown.
+**Avoided cost or wholesale rate crediting** is where things get painful. Some utilities, especially after policy revisions, credit your exports at the wholesale rate, which might be $0.03 to $0.06/kWh, while you're still buying power back at $0.14/kWh. You're essentially selling low and buying high. Your system still saves you money, but significantly less than the installer's original estimate might have shown.
 
 **Value of Solar (VOS) tariffs** are a hybrid approach some states use. They try to calculate the actual value your solar generation provides to the grid (capacity value, line loss savings, environmental benefits) and credit you that amount. The research here is mixed on whether this benefits or hurts homeowners compared to full retail metering. It depends heavily on how your state's regulators run the calculation.
 

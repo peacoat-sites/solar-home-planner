@@ -73,7 +73,7 @@ This assumes roughly 4-5 peak sun hours daily in most of the continental U.S. Yo
 
 Planning an **EV charger** soon? Size up now. An electric vehicle adds roughly 3,000-4,500 kWh annually. Installing a Level 2 EV charger with your solar system is one of the smartest financial moves you can make, your panels essentially fuel your car for free.
 
-[RELATED: home [EV charger installation guide](/solar-panels-for-new-construction-homes/)]
+RELATED: home [EV charger installation guide]
 
 ---
 

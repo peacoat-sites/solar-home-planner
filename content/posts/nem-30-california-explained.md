@@ -1,5 +1,5 @@
 ---
-title: "How NEM 3.0 Changes Your California Solar Payback"
+title: "NEM 3.0 California Explained: How Your Payback Changes"
 date: 2026-06-02T12:54:29.245787+00:00
 draft: false
 description: "Learn how NEM 3.0 changes solar billing in California, how it affects your savings, and what homeowners need to know before going solar under the new rules."
@@ -49,7 +49,7 @@ A 7 kW system that was well-sized for NEM 2.0 may see significantly lower annual
 
 ## The Battery Storage Equation Has Completely Changed
 
-Under NEM 2.0, [battery storage was optional](/why-is-my-electric-bill-still-high-with-solar/). Nice to have for backup power, but the payback period was long and many homeowners skipped it. Under NEM 3.0, battery storage isn't optional if you want anything close to the financial performance you're expecting from solar.
+Under NEM 2.0, battery storage was optional. Nice to have for backup power, but the payback period was long and many homeowners skipped it. Under NEM 3.0, battery storage isn't optional if you want anything close to the financial performance you're expecting from solar.
 
 The logic is straightforward: if midday export rates are near worthless, you don't want to export your midday solar production. You want to capture it in a battery and dispatch it in the evening when you're using power at peak-rate TOU (time-of-use) pricing, or export it during those higher-value evening windows. A properly sized battery lets you do exactly that. Charge from solar during the day, discharge to your home during the 4 to 9 PM peak window, and potentially export during those high-value late evening hours.
 

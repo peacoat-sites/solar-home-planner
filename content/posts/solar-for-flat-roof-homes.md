@@ -29,7 +29,7 @@ You've got a flat roof and you're thinking about solar. Maybe a contractor alrea
 
 ## Why Flat Roofs Are Different (and Not Necessarily Worse)
 
-On a standard [sloped roof](/best-roof-type-for-solar-panels/), the racking system leans against the roof surface, and the mounting hardware penetrates the decking at rafter locations. It's relatively quick to lay out and straightforward to waterproof with flashing. Flat roofs change the equation in two ways: you need ballasted or mechanically attached tilt-up racking, and waterproofing becomes the central concern.
+On a standard sloped roof, the racking system leans against the roof surface, and the mounting hardware penetrates the decking at rafter locations. It's relatively quick to lay out and straightforward to waterproof with flashing. Flat roofs change the equation in two ways: you need ballasted or mechanically attached tilt-up racking, and waterproofing becomes the central concern.
 
 Flat roofs typically fall into a few membrane categories. TPO (thermoplastic polyolefin) and EPDM (rubber) are the most common on residential buildings built or re-roofed in the last 20 years. Modified bitumen is older but still very common. Each membrane type interacts differently with racking hardware and ballast weight. A 60-mil TPO membrane in good condition can handle penetrations well if they're made correctly and sealed with the right adhesive or heat-welded boots. EPDM is forgiving and easy to patch. Modified bitumen is trickier and more prone to cracking if a contractor handles penetrations carelessly.
 
@@ -53,7 +53,7 @@ This is the decision that shapes your entire installation. Both approaches work.
 
 The upside: no roof penetrations means no waterproofing risk. The downside: weight. A ballasted system can add 3 to 6 pounds per square foot to your roof load. Residential flat roofs are typically designed for 20 to 30 pounds per square foot of live load, so a well-designed ballasted system fits within that, but you need a structural review if you're covering a large portion of the roof. Ask your installer for load calculations. If they can't provide them, find a different installer.
 
-**Penetrating racking** uses hardware that goes through the membrane and attaches to the roof structure below. This allows steeper tilt angles (up to 25 to 30 degrees, better for higher-latitude locations like the Pacific Northwest or New England), and it's lighter because you're not relying on ballast. The tradeoff is that every penetration is a potential leak point if it's done wrong. [Properly installed penetrations](/solar-panels-for-existing-homes/) with manufacturer-approved boots and sealants are fine. Sloppily done ones will leak within two years, guaranteed.
+**Penetrating racking** uses hardware that goes through the membrane and attaches to the roof structure below. This allows steeper tilt angles (up to 25 to 30 degrees, better for higher-latitude locations like the Pacific Northwest or New England), and it's lighter because you're not relying on ballast. The tradeoff is that every penetration is a potential leak point if it's done wrong. Properly installed penetrations with manufacturer-approved boots and sealants are fine. Sloppily done ones will leak within two years, guaranteed.
 
 For most residential flat roofs in the Sun Belt, ballasted systems at 10 to 15 degrees make the most sense. For northern states above 40 degrees latitude, a penetrating system at 20 to 25 degrees often produces noticeably more annual energy.
 

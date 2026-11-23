@@ -26,17 +26,17 @@ faqs:
     a: "Yes, with realistic expectations. Minnesota and New York both have net metering policies that let you bank summer overproduction to offset winter shortfalls. The financial math still works in most cases, especially with federal tax credits currently available. Don't let anyone tell you northern climates can't make solar pencil out; they can. Just insist on real production estimates, not pitch-deck optimism."
 ---
 
-Most people asking this question are from snowy climates who've been pitched a $35,000 [solar system](/off-grid-solar-system-cost-breakdown/) and want to know if they're getting played. Fair question. The short answer is no, you're not getting played, but the nuances matter a lot depending on where you live and who's designing your system.
+Most people asking this question are from snowy climates who've been pitched a $35,000 solar system and want to know if they're getting played. Fair question. The short answer is no, you're not getting played, but the nuances matter a lot depending on where you live and who's designing your system.
 
 Let me back up and give you the actual picture.
 
-[Solar panels](/solar-panels-for-new-construction-homes/) do generate electricity in winter and through snowfall. What they don't do well is produce power when they're buried under six inches of wet, dense snow. Those are two separate problems, and most marketing materials blur them together or ignore them entirely. The good news: the first problem (winter production) is smaller than you think, and the second (snow coverage) is more manageable than installers often admit.
+Solar panels do generate electricity in winter and through snowfall. What they don't do well is produce power when they're buried under six inches of wet, dense snow. Those are two separate problems, and most marketing materials blur them together or ignore them entirely. The good news: the first problem (winter production) is smaller than you think, and the second (snow coverage) is more manageable than installers often admit.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Solar panels produce electricity in winter and through light snow, cloud cover matters more than cold temperatures.</li><li style="margin:5px 0">Panels typically self-clear within 1-3 days in moderate snow climates; wet, heavy snow is the real problem.</li><li style="margin:5px 0">Cold temperatures actually improve panel efficiency; a sunny February day can outperform a hot August afternoon.</li><li style="margin:5px 0">Tilt angle and roof pitch significantly affect snow shedding, a 30-40° tilt clears far faster than a flat mount.</li><li style="margin:5px 0">A well-designed system in Buffalo or Denver still offsets 60-75% of annual electricity use.</li></ul></div>
 
 ## Cold is Actually Your Friend
 
-A common misconception is that colder weather reduces [solar production](/why-is-my-solar-production-low-today/). It doesn't. Silicon-based photovoltaic cells (which is almost every residential panel on the market) perform better in cold temperatures. The physics is real. Heat degrades electron flow; cold sharpens it.
+A common misconception is that colder weather reduces solar production. It doesn't. Silicon-based photovoltaic cells (which is almost every residential panel on the market) perform better in cold temperatures. The physics is real. Heat degrades electron flow; cold sharpens it.
 
 The technical figure is called temperature coefficient, and for most standard panels it runs around -0.3% to -0.4% per degree Celsius above 25°C (77°F). Flip that around: when your panels are sitting at 5°C on a clear January day, they're operating more efficiently than they would on an 85°F July afternoon under direct sun.
 

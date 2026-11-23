@@ -1,5 +1,5 @@
 ---
-title: "Build Your Own Solar System With Battery Backup"
+title: "DIY Solar With Battery Storage: What Works"
 date: 2026-06-23T23:38:00.076609+00:00
 draft: false
 description: "Learn how to build a DIY solar system with battery storage, cut electricity bills, and gain energy independence with step-by-step setup advice."

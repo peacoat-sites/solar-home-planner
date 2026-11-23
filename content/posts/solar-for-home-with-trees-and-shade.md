@@ -1,5 +1,5 @@
 ---
-title: "Can You Go Solar With Shade? Here's How"
+title: "Solar for Homes With Trees and Shade: What to Know"
 date: 2026-05-24T14:44:49.832495+00:00
 draft: false
 description: "Solar panels for homes with trees and shade: Learn how to maximize energy production, assess tree coverage, and optimize placement for shaded properties."

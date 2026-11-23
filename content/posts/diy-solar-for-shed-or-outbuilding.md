@@ -33,7 +33,7 @@ Shed solar is genuinely one of the best entry points for DIY solar. The systems 
 
 Most people get this part wrong. They see a 200-watt panel kit on Amazon, assume it'll run everything, and end up disappointed when the lights dim every time they plug in a shop vac.
 
-Start with a real [load calculation](/diy-solar-panel-system-sizing/). Write down every device you want to run and look up its wattage. A few common ones:
+Start with a real load calculation. Write down every device you want to run and look up its wattage. A few common ones:
 
 - LED shop lights (two 4-foot fixtures): about 40W
 - Phone/tablet charger: 5 to 18W
@@ -60,7 +60,7 @@ You don't need the most expensive gear, but you absolutely need to avoid the che
 
 **Solar Panels**
 
-For a shed, rigid monocrystalline panels in the 100 to 200W range give you the best efficiency-per-dollar. Poly panels are cheaper and slightly less efficient, but on a shed roof with limited space, monocrystalline makes more sense. Skip the flexible panels. They look sleek, but they run hotter and degrade faster without airflow underneath. If you're not sure your shed roof can handle the weight, check out [which roof types work best for solar panels](/best-roof-type-for-solar-panels/) before you buy mounting hardware.
+For a shed, rigid monocrystalline panels in the 100 to 200W range give you the best efficiency-per-dollar. Poly panels are cheaper and slightly less efficient, but on a shed roof with limited space, monocrystalline makes more sense. Skip the flexible panels. They look sleek, but they run hotter and degrade faster without airflow underneath. If you're not sure your shed roof can handle the weight, check out which roof types work best for solar panels before you buy mounting hardware.
 
 **Batteries**
 

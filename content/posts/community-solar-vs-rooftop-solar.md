@@ -1,5 +1,5 @@
 ---
-title: "Which Solar Option Fits Your Home Best"
+title: "Community Solar vs Rooftop Solar: Which Fits Your Home"
 date: 2026-06-17T23:58:43.711020+00:00
 draft: false
 description: "Compare community solar vs rooftop solar to find the best option for your home. Learn about costs, savings, installation, and which fits your lifestyle."
@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners treat "going solar" as a single binary decision: put panels on the roof, or don't. That framing misses half the picture, and it's costing people real money.
 
-Community solar has been around long enough to evolve from a niche workaround into a legitimate option that, for some households, genuinely beats rooftop in every dimension that matters. It is easy to dismiss [community solar subscriptions](/community-solar-how-it-works/) as a consolation prize for renters, and that assumption is widespread in the industry. I was wrong. The research here is more interesting than the marketing on either side wants you to believe.
+Community solar has been around long enough to evolve from a niche workaround into a legitimate option that, for some households, genuinely beats rooftop in every dimension that matters. It is easy to dismiss community solar subscriptions as a consolation prize for renters, and that assumption is widespread in the industry. I was wrong. The research here is more interesting than the marketing on either side wants you to believe.
 
 So let me give you the real comparison, contractor bias removed.
 

@@ -25,7 +25,7 @@ faqs:
     a: "Yes. If you have an Enphase IQ Battery, Enlighten shows state of charge, charge and discharge cycles, and how much energy the battery supplied versus the grid. This data is on the same dashboard and doesn't require a separate app. Third-party batteries (like a Tesla Powerwall) paired with Enphase microinverters won't appear in Enlighten; those have their own monitoring platforms."
 ---
 
-The Enphase Enlighten app is where your [solar system](/off-grid-solar-system-cost-breakdown/) either earns your trust or starts raising questions. If you've just had microinverters installed and you're staring at the app wondering what everything means, this guide is for you. And if you've been using it for a while but suspect you're missing something, that's probably true.
+The Enphase Enlighten app is where your solar system either earns your trust or starts raising questions. If you've just had microinverters installed and you're staring at the app wondering what everything means, this guide is for you. And if you've been using it for a while but suspect you're missing something, that's probably true.
 
 Enlighten (available on iOS and Android, and at enlighten.enphaseenergy.com) gives you panel-level monitoring, production history, consumption data if you've added a CT sensor, and system health alerts. The basic interface is simple enough. The depth underneath it is what most installers never explain.
 
@@ -35,7 +35,7 @@ Enlighten (available on iOS and Android, and at enlighten.enphaseenergy.com) giv
 
 ## What You're Actually Looking At
 
-The home screen shows today's production in kWh, a live (15-minute-delayed) power reading in watts, and a small sun/cloud graphic that contextualizes your output against expected irradiance. That irradiance estimate comes from NREL's solar resource data, which Enphase licenses. It's useful but not gospel, your local shading, panel orientation, and soiling can all diverge from what NREL predicts for your [zip code](/solar-panel-angle-calculator-by-zip-code/).
+The home screen shows today's production in kWh, a live (15-minute-delayed) power reading in watts, and a small sun/cloud graphic that contextualizes your output against expected irradiance. That irradiance estimate comes from NREL's solar resource data, which Enphase licenses. It's useful but not gospel, your local shading, panel orientation, and soiling can all diverge from what NREL predicts for your zip code.
 
 Tap the "System" tab and you get the array view: a grid of your panels color-coded by output. Green means producing normally. Yellow or orange means reduced output. Gray means the microinverter reported nothing. A single gray panel after a full sunny day is worth noting. Two or more gray panels, or the same panel going gray repeatedly, is a service call.
 

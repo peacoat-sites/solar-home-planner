@@ -38,7 +38,7 @@ There are three basic scenarios:
 
 ## How to Check Output Without Climbing on the Roof
 
-Here's where a [home energy monitor](/solar-inverter-troubleshooting-guide/) earns its keep. If you have a system with module-level monitoring (Enphase microinverters or SolarEdge optimizers give you per-panel data), go check your app right now. A cracked panel will show reduced output relative to its neighbors, often 10-30% lower on a clear day.
+Here's where a home energy monitor earns its keep. If you have a system with module-level monitoring (Enphase microinverters or SolarEdge optimizers give you per-panel data), go check your app right now. A cracked panel will show reduced output relative to its neighbors, often 10-30% lower on a clear day.
 
 If you don't have module-level monitoring, you're flying blind. Your system inverter will show total output, but a single underperforming panel in a string can drag down the whole string without screaming "panel 7 is broken." This is one reason I've come around pretty hard on microinverters for new installs, despite the higher upfront cost.
 

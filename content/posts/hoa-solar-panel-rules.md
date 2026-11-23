@@ -52,7 +52,7 @@ Before you do anything, search for "[your state] [solar access law](/can-hoa-den
 
 Even in states with strong protections, HOAs retain real authority over how your system looks and where it's placed. Knowing these requirements upfront keeps the approval process from becoming an unnecessary fight.
 
-**Panel placement.** Many HOAs can require panels on rear-facing or side-facing roof sections instead of the most visible front slope. This is generally enforceable as long as it doesn't tank system performance (usually defined as more than a 10% loss). If your south-facing front roof is clean and your back roof is shaded, this requirement's worth challenging. For details on how roof orientation affects output, [this piece on best roof types for solar panels](/best-roof-type-for-solar-panels/) breaks it down.
+**Panel placement.** Many HOAs can require panels on rear-facing or side-facing roof sections instead of the most visible front slope. This is generally enforceable as long as it doesn't tank system performance (usually defined as more than a 10% loss). If your south-facing front roof is clean and your back roof is shaded, this requirement's worth challenging. For details on how roof orientation affects output, this piece on best roof types for solar panels breaks it down.
 
 **Color and appearance.** Some HOAs mandate black-on-black panels (black cells, black frame, black backsheet) to minimize visual contrast. It's a reasonable aesthetic call. Most premium monocrystalline panels from REC, SunPower, or Jinko already come in all-black, so this rarely adds real cost.
 

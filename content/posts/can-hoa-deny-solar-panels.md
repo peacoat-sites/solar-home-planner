@@ -112,7 +112,7 @@ A good installer provides a site plan, panel layout drawing, and product spec sh
 
 EnergySage's data consistently shows that homeowners collecting multiple quotes get better pricing and better service. Getting three to five bids is standard advice. In an HOA environment it's even more critical because you want an installer who knows how to work within constraints.
 
-Before you sign, know [what to look for when comparing solar bids](/how-to-get-solar-quotes/) so you're not just comparing sticker prices. And if you're unsure about a contractor's legitimacy, the checklist at [is my solar installer legit](/red-flags-when-hiring-solar-installer/) walks you through what to verify.
+Before you sign, know [what to look for when comparing solar bids](/how-to-get-solar-quotes/) so you're not just comparing sticker prices. And if you're unsure about a contractor's legitimacy, the checklist at is my solar installer legit walks you through what to verify.
 
 NREL research shows permitting and interconnection delays add real cost to solar projects, sometimes hundreds of dollars. HOA approval adds another layer. The smoother that process, the better for your timeline and budget.
 

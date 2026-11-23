@@ -36,7 +36,7 @@ In the Northern Hemisphere, the sun tracks from east to west across the southern
 
 A properly oriented south-facing system in a mid-latitude U.S. location (think Tennessee, Colorado, North Carolina) will typically produce somewhere between 4.0 and 5.5 peak sun hours per day over the course of a year. A north-facing roof at the same pitch? You're looking at roughly 2.0 to 2.8 peak sun hours. Depending on your exact latitude and local shading, that can mean 40 to 60 percent less annual energy production compared to the ideal.
 
-What most people don't realize is that this isn't just a "you'll produce less power" situation. It changes your entire system economics. Your payback period, your [net metering](/community-solar-how-it-works/) surplus (if you have one), your eligibility for certain incentives tied to production minimums. Everything shifts.
+What most people don't realize is that this isn't just a "you'll produce less power" situation. It changes your entire system economics. Your payback period, your net metering surplus (if you have one), your eligibility for certain incentives tied to production minimums. Everything shifts.
 
 East and north are not equivalent. East is genuinely usable. North is a last resort.
 

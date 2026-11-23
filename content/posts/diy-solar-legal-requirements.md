@@ -81,7 +81,7 @@ If you're in one of the eighteen states without strong solar access protection, 
 
 ## The Tax Credit Question (Because Everyone Asks)
 
-The federal Investment [Tax Credit](/how-long-until-solar-panels-pay-for-themselves/) currently sits at 30% and covers DIY residential solar systems. This is a big deal. On a $15,000 system with $3,000 in labor you didn't pay because you did it yourself, you'd take the credit on the equipment and materials cost. EnergySage's market data shows the average DIY residential system runs $8,000-$12,000 in materials before the credit, putting the credit value roughly between $2,400 and $3,600 back in your pocket.
+The federal Investment Tax Credit currently sits at 30% and covers DIY residential solar systems. This is a big deal. On a $15,000 system with $3,000 in labor you didn't pay because you did it yourself, you'd take the credit on the equipment and materials cost. EnergySage's market data shows the average DIY residential system runs $8,000-$12,000 in materials before the credit, putting the credit value roughly between $2,400 and $3,600 back in your pocket.
 
 But there's a catch that gets people. The IRS expects the system to be for your primary or secondary residence, and it needs to be a functioning, grid-tied system (or battery-backed off-grid, with some restrictions). If your install is unpermitted, you're technically operating an uncertified electrical system, and while the IRS doesn't send inspectors to your roof, an unpermitted system creates downstream problems: insurance claims can be denied, and some state [tax credits](/solar-ev-tax-credits-combined/) require proof of a passed inspection. Do not skip the permit trying to save the $150-$400 application fee.
 

@@ -45,7 +45,7 @@ Also check whether they're licensed in your state for electrical and contractor 
 
 A common scenario: a salesperson spends 45 minutes at your kitchen table, hands you a quote for a 7.2 kW system, and hasn't opened a single electric bill or looked in your attic.
 
-Proper sizing needs your last 12 months of utility bills to calculate your actual annual consumption. It needs a roof assessment: shingle age, pitch, orientation, unshaded square footage. It needs shading analysis, ideally with something like Solmetric SunEye or satellite software. It needs understanding of [how your consumption might shift](/how-to-get-solar-quotes/) if you're adding an EV or planning an addition.
+Proper sizing needs your last 12 months of utility bills to calculate your actual annual consumption. It needs a roof assessment: shingle age, pitch, orientation, unshaded square footage. It needs shading analysis, ideally with something like Solmetric SunEye or satellite software. It needs understanding of how your consumption might shift if you're adding an EV or planning an addition.
 
 The National Renewable Energy Laboratory has published research showing system performance varies dramatically based on local solar irradiance and shade. A company skipping this analysis isn't saving you time. They're guessing. Guess too small, you still have a fat electric bill. Guess too large, you've overpaid for capacity you'll never touch.
 

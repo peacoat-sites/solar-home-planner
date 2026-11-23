@@ -1,5 +1,5 @@
 ---
-title: "Charge Your EV Free With Solar Power"
+title: "Solar EV Charging Cost Savings: What You Keep"
 date: 2026-05-20T22:07:16.529365+00:00
 draft: false
 description: "Save money charging your EV with solar power. Discover how combining solar panels with electric vehicle charging can slash energy bills and reduce your carbon f"
@@ -74,7 +74,7 @@ Take a home using 900 kWh/month, add an EV, and sit in Atlanta with 4.5 peak sun
 
 You can charge an EV on a standard 120V outlet (Level 1), but you're getting only 3 to 5 miles of range per hour. Overnight? Maybe enough for light commuting. But Level 1 is a terrible match for solar because panels produce during the day, not night.
 
-Level 2 uses 240V and a dedicated EVSE (Electric Vehicle Supply Equipment). A 7.2 kW [Level 2 charger](/best-ev-charger-for-solar-home/) adds 20 to 30 miles per hour, so you can fully charge most EVs in 6 to 8 hours during daylight. That's the sweet spot.
+Level 2 uses 240V and a dedicated EVSE (Electric Vehicle Supply Equipment). A 7.2 kW Level 2 charger adds 20 to 30 miles per hour, so you can fully charge most EVs in 6 to 8 hours during daylight. That's the sweet spot.
 
 If you run charging between 10 a.m. and 4 p.m. when solar output peaks, you can cover most of that load directly from your panels. This is called "solar self-consumption," and it's the cheapest way to operate because power never hits the grid. Pure efficiency.
 

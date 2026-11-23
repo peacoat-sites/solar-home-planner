@@ -69,7 +69,7 @@ Florida, interestingly, still has a strong statewide retail-rate net metering la
 
 ## The "Grid Access" Fee Problem Nobody Talks About
 
-Even states with good net metering rates have been allowing utilities to add fixed grid participation fees for solar customers. These are monthly charges (sometimes called "standby fees" or "[grid access fees](/utility-buyback-rate-for-solar/)") that show up regardless of your usage or export.
+Even states with good net metering rates have been allowing utilities to add fixed grid participation fees for solar customers. These are monthly charges (sometimes called "standby fees" or "grid access fees") that show up regardless of your usage or export.
 
 Georgia Power charges solar customers a fixed monthly fee. APS in Arizona has had various forms of a demand charge for solar customers. In some cases these fees run $10-$20/month, which sounds small but represents $120-$240/year shaved off your system's annual savings. Over 25 years that's $3,000-$6,000 in eroded returns.
 

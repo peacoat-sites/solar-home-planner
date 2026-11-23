@@ -1,5 +1,5 @@
 ---
-title: "String vs. Microinverters: Which Solar Setup Wins"
+title: "Microinverter vs String Inverter: Which Solar Setup Wins"
 date: 2026-06-12T00:00:21.172413+00:00
 draft: false
 description: "Compare microinverters vs string inverters on cost, efficiency, shading performance, and reliability to find the best solar inverter for your home or business."
@@ -67,7 +67,7 @@ The Enphase IQ8 specifically earned my respect because it can operate in grid-in
 
 Panel-level monitoring is the other thing I find genuinely useful in practice. The Enphase Enlighten app flags a unit that's underperforming before you'd ever notice it from total production numbers. I caught a loose connector on an install that would've been nearly invisible otherwise. For a homeowner who actually checks their monitoring, that visibility is real value.
 
-There's also an NEC code angle that doesn't get talked about enough. [Rapid shutdown requirements](/string-inverter-sizing-guide/) (NEC 2017 and 2020 sections cover this) mean that systems in most states need to de-energize roof-level conductors quickly in a fire scenario. Microinverters and DC optimizers both satisfy this inherently. String inverters without optimizers need an added rapid shutdown device, which costs money and adds a component. It's not dealbreaking, but it's worth factoring in when you're comparing true apples-to-apples bids.
+There's also an NEC code angle that doesn't get talked about enough. Rapid shutdown requirements (NEC 2017 and 2020 sections cover this) mean that systems in most states need to de-energize roof-level conductors quickly in a fire scenario. Microinverters and DC optimizers both satisfy this inherently. String inverters without optimizers need an added rapid shutdown device, which costs money and adds a component. It's not dealbreaking, but it's worth factoring in when you're comparing true apples-to-apples bids.
 
 ## DC Optimizers: The Middle Path Most Reps Won't Explain Clearly
 

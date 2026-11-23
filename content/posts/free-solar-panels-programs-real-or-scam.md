@@ -64,7 +64,7 @@ Some electric cooperatives and municipal utilities offer rebates covering $3,000
 
 Homeowners have signed paperwork they believed was for a "federal solar grant program" only to discover it was a home improvement loan at 9.9 percent interest, secured against their house. Some installers misrepresent what documents actually are.
 
-That scheme, attaching high-interest solar loans to your house through [PACE financing](/community-solar-how-it-works/) (Property Assessed Clean Energy), has triggered regulatory action in multiple states. PACE isn't inherently bad, but bad actors have weaponized it systematically against elderly homeowners and Spanish-speaking communities in particular. The Consumer Financial Protection Bureau has documented this extensively.
+That scheme, attaching high-interest solar loans to your house through PACE financing (Property Assessed Clean Energy), has triggered regulatory action in multiple states. PACE isn't inherently bad, but bad actors have weaponized it systematically against elderly homeowners and Spanish-speaking communities in particular. The Consumer Financial Protection Bureau has documented this extensively.
 
 Red flags:
 
