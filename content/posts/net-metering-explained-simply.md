@@ -53,7 +53,7 @@ What varies wildly is the *rate* at which your exports get credited.
 
 **Value of Solar (VOS) tariffs** are a hybrid approach some states use. They try to calculate the actual value your solar generation provides to the grid (capacity value, line loss savings, environmental benefits) and credit you that amount. The research here is mixed on whether this benefits or hurts homeowners compared to full retail metering. It depends heavily on how your state's regulators run the calculation.
 
-What surprised me was how many homeowners sign contracts with solar companies using financial projections based on their state's *current* [net metering rules](/net-metering-rates-by-state-2026/), without any discussion of what happens if those rules change mid-loan. That's a real risk worth asking about.
+What surprised me was how many homeowners sign contracts with solar companies using financial projections based on their state's *current* [net metering rules](/net-metering-rates-by-state/), without any discussion of what happens if those rules change mid-loan. That's a real risk worth asking about.
 
 ## True-Up Billing: The Annual Accounting You Need to Understand
 

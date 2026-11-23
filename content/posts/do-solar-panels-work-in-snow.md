@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how snow affects solar panel performance, why they still generate power in winter, and what homeowners need to know about maintenance."
 image: "https://images.pexels.com/photos/7456230/pexels-photo-7456230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-categories: ["Will Solar Work"]
+categories: ["Solar for Home Types"]
 tags: ["solar", "panels", "work", "snow"]
 author: "Tom Bradley"
 author_slug: "tom-bradley"

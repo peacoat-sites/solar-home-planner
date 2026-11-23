@@ -97,7 +97,7 @@ Second mistake: not asking for copies of the permit and inspection records. You'
 
 Third mistake: assuming a permit was actually pulled. Homeowners are sometimes told a permit is "in process" for weeks. They called the building department directly and there was no application on file. Call and verify. Give them your address, not just the contractor's name.
 
-If you want to know what else to watch for when evaluating a contractor, the checklist at [is my solar installer legit](/is-my-solar-installer-legit/) is worth reading before you sign anything.
+If you want to know what else to watch for when evaluating a contractor, the checklist at [is my solar installer legit](/red-flags-when-hiring-solar-installer/) is worth reading before you sign anything.
 
 One more practical note: once your system is permitted, installed, and running, keep an eye on its performance. If production drops unexpectedly, that's not a permit issue, but act on it quickly. There's a solid troubleshooting walkthrough at [my solar panels stopped working: what to do](/my-solar-panels-stopped-working-what-to-do/) that covers diagnostic steps.
 

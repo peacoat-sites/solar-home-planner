@@ -104,7 +104,7 @@ When getting quotes, ask directly: "Have you installed solar in HOA communities 
 
 Also ask about NABCEP certification. The North American Board of Certified Energy Practitioners is the industry's most credible credential. [Solar company certifications and what NABCEP actually means](/solar-company-certifications-nabcep/) is worth reading before you hire anyone. HOAs often look more favorably on licensed, certified contractors.
 
-For a broader look at evaluating bids, [comparing solar bids and what to look for](/comparing-solar-bids-what-to-look-for/) covers the line items you need to check: equipment specs, warranty terms, everything.
+For a broader look at evaluating bids, [comparing solar bids and what to look for](/how-to-get-solar-quotes/) covers the line items you need to check: equipment specs, warranty terms, everything.
 
 [EnergySage's market data](https://news.energysage.com/) shows homeowners who compare multiple quotes save an average of 20% on system cost. In an HOA context, getting several bids also gives you backup options if one installer can't handle the approval process smoothly.
 

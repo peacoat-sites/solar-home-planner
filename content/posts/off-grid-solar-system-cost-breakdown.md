@@ -66,7 +66,7 @@ The Solar Energy Industries Association tracks battery storage costs, and while 
 
 **3. Inverter-Charger: $2,000-$8,000**
 
-A standard string inverter won't cut it here. You need an [inverter-charger](/off-grid-solar-system-for-home-complete-guide/): a unit that converts DC battery power to AC household current, manages charging from the panels, and can accept input from a generator. Reliable options include Victron Quattro and MultiPlus series, Schneider Electric XW+, and SMA Sunny Island. Midrange units for a whole-home system run $3,000-$6,000 for the equipment alone.
+A standard string inverter won't cut it here. You need an [inverter-charger](/off-grid-solar-diy-setup/): a unit that converts DC battery power to AC household current, manages charging from the panels, and can accept input from a generator. Reliable options include Victron Quattro and MultiPlus series, Schneider Electric XW+, and SMA Sunny Island. Midrange units for a whole-home system run $3,000-$6,000 for the equipment alone.
 
 **4. Charge Controller: $300-$1,500**
 
@@ -92,7 +92,7 @@ Rural county permitting can go one of two ways: surprisingly relaxed because the
 
 ## Sizing the System: A Practical Step-by-Step
 
-Bad sizing is the most expensive mistake in [off-grid solar](/how-to-go-completely-off-grid-solar/). Here is the standard process for sizing an off-grid system:
+Bad sizing is the most expensive mistake in [off-grid solar](/off-grid-solar-diy-setup/). Here is the standard process for sizing an off-grid system:
 
 **Step 1: Audit your loads.** List every appliance, its wattage, and average daily hours of use. Refrigerator, lighting, well pump, water heater, HVAC, phone chargers, everything. Your utility bill average tells you kilowatt-hours per month, but load audits tell you *when* the loads happen, which matters for battery sizing.
 

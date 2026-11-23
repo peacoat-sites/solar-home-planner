@@ -31,7 +31,7 @@ A neighbor of mine got a $0-down solar quote that looked great on paper. The ins
 
 The residential solar industry has exploded. That's mostly good news for homeowners, but it also means the market is flooded with installers who have no business being on your roof. According to [EnergySage's market data](https://news.energysage.com/), the average homeowner gets quotes from three or more installers, yet most people don't know what they're actually comparing. They look at the monthly payment and the system size and call it a day.
 
-Here's the reality: solar is a 25-to-30-year investment. The company you hire may not be around in five years. The equipment they install will outlast two or three rounds of installer turnover. And the contract you sign on day one could lock you into terms that hurt your home's resale value or your monthly cash flow for decades. You need to [vet these companies](/is-my-solar-installer-legit/) like you're hiring a contractor for a $30,000 renovation, because you are.
+Here's the reality: solar is a 25-to-30-year investment. The company you hire may not be around in five years. The equipment they install will outlast two or three rounds of installer turnover. And the contract you sign on day one could lock you into terms that hurt your home's resale value or your monthly cash flow for decades. You need to [vet these companies](/red-flags-when-hiring-solar-installer/) like you're hiring a contractor for a $30,000 renovation, because you are.
 
 The good news is that weeding out the bad actors is not that complicated once you know what to look for.
 

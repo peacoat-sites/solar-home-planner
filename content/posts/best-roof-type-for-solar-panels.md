@@ -113,11 +113,11 @@ You can save yourself a lot of wasted time and awkward contractor conversations 
 
 **Step 2: Get a roof inspection if there's any doubt.** A solar installer doing a site survey is not the same as a roofing inspection. They're looking at mounting points and rafter spacing, not granule loss and flashing integrity. Get a dedicated roofing inspection if your roof is over 15 years old.
 
-**Step 3: Ask every solar bidder how they handle your specific roof type.** Ask what hardware system they use, whether it's UL-listed, and whether it affects your roofing warranty. A contractor who can't answer those questions specifically doesn't have the experience for the job. The [questions to ask solar companies](/questions-to-ask-solar-companies/) resource on this site has a solid list of follow-up questions for exactly this kind of conversation.
+**Step 3: Ask every solar bidder how they handle your specific roof type.** Ask what hardware system they use, whether it's UL-listed, and whether it affects your roofing warranty. A contractor who can't answer those questions specifically doesn't have the experience for the job. The [questions to ask solar companies](/how-to-choose-a-solar-company/) resource on this site has a solid list of follow-up questions for exactly this kind of conversation.
 
 **Step 4: Request a detailed line item for roofing-related work.** If there's a premium for your roof type, it should appear as a specific line item, not buried in a lump sum.
 
-**Step 5: Compare multiple bids with roof complexity in mind.** A low bid on a tile roof from a crew without tile experience is not a bargain. When you're [comparing solar bids](/comparing-solar-bids-what-to-look-for/), roof-specific experience and hardware specifics should factor heavily into your decision.
+**Step 5: Compare multiple bids with roof complexity in mind.** A low bid on a tile roof from a crew without tile experience is not a bargain. When you're [comparing solar bids](/how-to-get-solar-quotes/), roof-specific experience and hardware specifics should factor heavily into your decision.
 
 The roof under your panels is a long-term partnership with your solar system. Getting it right means honest assessment upfront, not optimism. If your roof is sound, the material is mostly a matter of cost and installer experience. If the roof is questionable, fix that first. The panels will still be there when you're ready, and they'll perform a lot better on a roof that's not failing underneath them.
 

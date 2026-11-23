@@ -29,7 +29,7 @@ What most people don't realize is how much legal and insurance ambiguity existed
 
 The HiFlow Pro hits 99.8% static MPPT efficiency and 99.5% dynamic MPPT efficiency, and it operates across a temperature range of -40°C to +65°C. That second number covers pretty much every US climate, from a Phoenix patio in August to a Vermont balcony railing in February. The wide thermal range isn't marketing filler. It means you can leave this thing mounted through winter without nursing it indoors like a houseplant.
 
-The unit can run up to four inverters in parallel across separate outlets, scaling to 1,200W total. That's not going to eliminate your [utility bill](/solar-and-utility-bill-still-high-why/), but it can meaningfully offset a chunk of it, especially if you're a renter who's been completely locked out of solar until now.
+The unit can run up to four inverters in parallel across separate outlets, scaling to 1,200W total. That's not going to eliminate your [utility bill](/why-is-my-electric-bill-still-high-with-solar/), but it can meaningfully offset a chunk of it, especially if you're a renter who's been completely locked out of solar until now.
 
 ## The State Legislation Map Right Now
 

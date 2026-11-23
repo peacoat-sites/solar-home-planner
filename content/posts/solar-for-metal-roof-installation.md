@@ -63,7 +63,7 @@ Costs above are incremental over a standard asphalt-shingle install and assume a
 
 ## Grounding and Electrical Considerations
 
-Metal roofs change the grounding picture in a useful way. Under NEC Article 690 and Article 250, a metal roof that's properly bonded to the structure can serve as part of the equipment grounding conductor path for the racking system. This isn't a shortcut that every AHJ (authority having jurisdiction) will approve without documentation, but it's a legitimate path supported by code when done correctly. Your installer [should know](/solaredge-nexis-just-hit-the-us-market-what-homeowners-should-know/) whether the local inspector requires a separate grounding conductor run regardless.
+Metal roofs change the grounding picture in a useful way. Under NEC Article 690 and Article 250, a metal roof that's properly bonded to the structure can serve as part of the equipment grounding conductor path for the racking system. This isn't a shortcut that every AHJ (authority having jurisdiction) will approve without documentation, but it's a legitimate path supported by code when done correctly. Your installer [should know](/solaredge-nexis-is-now-available-in-the-us-what-homeowners-should-know/) whether the local inspector requires a separate grounding conductor run regardless.
 
 One real consideration: galvanic corrosion. Aluminum racking on a steel roof without proper isolation can corrode at the contact points over years. Stainless hardware and neoprene or EPDM isolation pads between dissimilar metals matter here. It's not a dramatic failure mode, but it's the kind of thing that shows up on a 25-year system inspection if someone cut corners on year one.
 

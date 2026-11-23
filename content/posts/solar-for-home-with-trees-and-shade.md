@@ -96,7 +96,7 @@ The Solar Energy Industries Association reports that over 4 million U.S. homes n
 
 ## Getting Quotes That Actually Reflect Your Site
 
-A shade-affected property requires more careful quoting than a clear-sky installation. When you're [comparing solar bids and what to look for](/comparing-solar-bids-what-to-look-for/), there are specific things to demand from every proposal.
+A shade-affected property requires more careful quoting than a clear-sky installation. When you're [comparing solar bids and what to look for](/how-to-get-solar-quotes/), there are specific things to demand from every proposal.
 
 Every quote should include a site-specific shade analysis, a production estimate from software like PVWatts, Aurora, or HelioScope (ask which tool they used), and a clear explanation of why they chose the panel placement they did. If two quotes show wildly different first-year production estimates for the same roof, the difference is usually shade modeling. One installer may have been optimistic; the other realistic. You want the realistic one.
 

@@ -26,7 +26,7 @@ faqs:
     a: "Not necessarily, though many battery systems do include it. Tesla Powerwall, Enphase IQ Battery, and Franklin WH all include consumption monitoring as part of their gateway setup. But a battery installed on an older system with an existing inverter may or may not have consumption data integrated, depending on how the installer wired it. Ask specifically, don't assume."
 ---
 
-My [utility bill](/solar-and-utility-bill-still-high-why/) dropped $12 last month compared to what I expected, and I couldn't figure out why. I'd checked the weather, my panels were clean, nothing seemed off. It took me two hours of digging through my monitoring app before I realized my refrigerator compressor had been running long cycles because I'd accidentally left the door slightly ajar for three days. Without production AND consumption data sitting side by side, I'd have never found it.
+My [utility bill](/why-is-my-electric-bill-still-high-with-solar/) dropped $12 last month compared to what I expected, and I couldn't figure out why. I'd checked the weather, my panels were clean, nothing seemed off. It took me two hours of digging through my monitoring app before I realized my refrigerator compressor had been running long cycles because I'd accidentally left the door slightly ajar for three days. Without production AND consumption data sitting side by side, I'd have never found it.
 
 That's the whole point of tracking both numbers, not just one.
 

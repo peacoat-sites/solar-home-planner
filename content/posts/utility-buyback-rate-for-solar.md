@@ -62,7 +62,7 @@ Those two utilities serve overlapping Phoenix metro geography and their export c
 
 NREL has done solid work on this. Their research shows that state-by-state effective export compensation rates vary from retail-rate NEM down to avoided-cost payments that are sometimes below $0.03/kWh. The gap is enormous. A 7kW system in Massachusetts under a favorable net metering rate structure might offset $1,800/year in electricity costs. A similar system in a state with degraded export rates might net $900/year. Same hardware, same sun hours, half the financial return.
 
-EnergySage's market data consistently shows that homeowners in [states with full retail NEM](/net-metering-rates-by-state-2026/) see payback periods in the 7-10 year range, while those in states with weakened or pending NEM reforms are looking at 10-15 years. Batteries change this equation, but they also add $10,000-$15,000 to the system cost.
+EnergySage's market data consistently shows that homeowners in [states with full retail NEM](/net-metering-rates-by-state/) see payback periods in the 7-10 year range, while those in states with weakened or pending NEM reforms are looking at 10-15 years. Batteries change this equation, but they also add $10,000-$15,000 to the system cost.
 
 Significant variation exists *within* the same utility, depending on your rate class. Some utilities have time-of-use (TOU) rates that can actually benefit solar customers who export in the afternoon peak. Others apply demand charges to residential customers, which solar alone generally can't address effectively. You need to read the actual tariff schedule, not the utility's marketing page.
 

@@ -80,7 +80,7 @@ Sold through Home Depot, which matters for some buyers because you can return co
 
 **EcoFlow PowerStream + Panel Bundles**
 
-These are oriented toward smaller off-grid or balcony systems rather than full grid-tied residential. If you're trying to offset a portion of usage without a full interconnection, EcoFlow's plug-in systems are legitimate. Just understand they're not a replacement for a [full grid-tied system](/can-i-install-solar-panels-myself/).
+These are oriented toward smaller off-grid or balcony systems rather than full grid-tied residential. If you're trying to offset a portion of usage without a full interconnection, EcoFlow's plug-in systems are legitimate. Just understand they're not a replacement for a [full grid-tied system](/diy-solar-panel-installation-guide/).
 
 **Goal Zero and Bluetti bundles**
 

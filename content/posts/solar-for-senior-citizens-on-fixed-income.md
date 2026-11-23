@@ -34,7 +34,7 @@ I've talked to dozens of homeowners in their 70s and early 80s who've gone solar
 
 ## The Tax Credit Problem (And How to Work Around It)
 
-Here's the part most solar salespeople gloss over: the 30% federal Investment Tax Credit (ITC) is only useful if you actually owe federal income tax. If your total income is Social Security plus a small pension, there's a real chance your [federal tax](/solar-batteries-are-rising-even-as-the-federal-tax-credit-is-gone/) liability is low enough that you can't use the full credit, or any of it.
+Here's the part most solar salespeople gloss over: the 30% federal Investment Tax Credit (ITC) is only useful if you actually owe federal income tax. If your total income is Social Security plus a small pension, there's a real chance your [federal tax](/solar-batteries-hit-record-attach-rates-as-federal-credit-disappears/) liability is low enough that you can't use the full credit, or any of it.
 
 A common mistake is overlooking how the [federal credit](/solar-batteries-hit-record-attach-rates-as-federal-credit-disappears/) works for people with little federal tax liability. Someone with only Social Security income and a small IRA distribution might have no tax liability after the standard deduction. In that case, the 30% credit is functionally worthless in a cash purchase scenario.
 

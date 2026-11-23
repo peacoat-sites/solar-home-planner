@@ -39,7 +39,7 @@ The home screen shows today's production in kWh, a live (15-minute-delayed) powe
 
 Tap the "System" tab and you get the array view: a grid of your panels color-coded by output. Green means producing normally. Yellow or orange means reduced output. Gray means the microinverter reported nothing. A single gray panel after a full sunny day is worth noting. Two or more gray panels, or the same panel going gray repeatedly, is a service call.
 
-The "Energy" tab breaks down production by day, week, month, and year. This is where most people spend their time, and rightly so. The monthly view is the most useful for comparing against your [utility bill](/solar-and-utility-bill-still-high-why/). If Enlighten says you produced 650 kWh in October and your utility shows you exported 200 kWh and consumed 450 kWh from solar, the math should roughly close. If it doesn't, either your consumption meter has a wiring issue or your Envoy hasn't been pushing complete data.
+The "Energy" tab breaks down production by day, week, month, and year. This is where most people spend their time, and rightly so. The monthly view is the most useful for comparing against your [utility bill](/why-is-my-electric-bill-still-high-with-solar/). If Enlighten says you produced 650 kWh in October and your utility shows you exported 200 kWh and consumed 450 kWh from solar, the math should roughly close. If it doesn't, either your consumption meter has a wiring issue or your Envoy hasn't been pushing complete data.
 
 ## Setting Up Consumption Monitoring
 

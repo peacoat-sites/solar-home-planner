@@ -63,7 +63,7 @@ A realistic shading loss for a suburban roof with one or two mature trees nearby
 
 ## What PVWatts Can Tell You (And What It Can't)
 
-You can run your own independent estimate at pvwatts.nrel.gov in about five minutes. Enter your address, your [system size](/how-to-calculate-solar-system-size-for-home/) in DC kilowatts, your panel tilt and azimuth (the compass direction your roof faces), and PVWatts returns an estimated annual kWh. This is genuinely useful as a sanity check on any proposal.
+You can run your own independent estimate at pvwatts.nrel.gov in about five minutes. Enter your address, your [system size](/diy-solar-panel-system-sizing/) in DC kilowatts, your panel tilt and azimuth (the compass direction your roof faces), and PVWatts returns an estimated annual kWh. This is genuinely useful as a sanity check on any proposal.
 
 **Example:** Assume a 8 kW DC system in Phoenix, Arizona, roof pitch of 20 degrees, south-facing (180° azimuth), using PVWatts default losses of 14%. PVWatts would return roughly 14,000–15,000 kWh per year. If your installer's proposal shows 18,000 kWh for the same system in the same location, ask them to walk you through their assumptions, because something isn't matching up.
 

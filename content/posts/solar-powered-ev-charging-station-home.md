@@ -41,7 +41,7 @@ Most homeowners default to charging overnight because that's when rates used to 
 
 The fix has three possible configurations:
 
-1. **Solar + smart EVSE + TOU scheduling** (lowest cost, good for grid-tied homes with [net metering](/can-solar-power-charge-an-electric-car/))
+1. **Solar + smart EVSE + TOU scheduling** (lowest cost, good for grid-tied homes with net metering)
 2. **Solar + home battery + smart EVSE** (higher upfront, true solar-only charging possible)
 3. **Solar + dedicated EV battery storage + bidirectional charging** (highest cost, maximum control, vehicle-to-home capable)
 

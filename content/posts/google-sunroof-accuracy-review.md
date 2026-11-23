@@ -77,7 +77,7 @@ EnergySage's market data confirms that Sunroof's general "is this roof a good so
 
 Here's a practical workflow. Run Sunroof first to get a rough sense of your roof's solar potential and an order-of-magnitude savings estimate. Then do three things before you take any of those numbers seriously:
 
-Check your actual electricity rate, including your specific tier or time-of-use schedule. Log into your utility account and look at the last 12 months of bills. Total the kWh used. That number is what matters for [sizing](/how-to-calculate-solar-system-size-for-home/).
+Check your actual electricity rate, including your specific tier or time-of-use schedule. Log into your utility account and look at the last 12 months of bills. Total the kWh used. That number is what matters for [sizing](/diy-solar-panel-system-sizing/).
 
 Verify your state's current net metering policy. The National Renewable Energy Laboratory maintains resources on state-by-state policies, and your state public utilities commission website will have the current rules. This takes 20 minutes and can save you from a four-figure miscalculation.
 

@@ -80,7 +80,7 @@ But here's where I want you to slow down. A warranty is only as good as the comp
 
 ## Cost and the Honest ROI Conversation
 
-EverVolt panels typically price out at $0.85 to $1.10 per watt more than [mid-tier Tier 1 alternatives](/solar-panel-brands-comparison-2026/) at the module level. On a 10 kW system, that's roughly $8,500 to $11,000 more before installation labor (which doesn't change much based on panel brand).
+EverVolt panels typically price out at $0.85 to $1.10 per watt more than [mid-tier Tier 1 alternatives](/solar-panel-brands-comparison/) at the module level. On a 10 kW system, that's roughly $8,500 to $11,000 more before installation labor (which doesn't change much based on panel brand).
 
 After the federal tax credit (currently 30% as of this year), the net premium is closer to $5,950 to $7,700. EnergySage's market data consistently shows premium panel buyers citing long-term performance guarantees as their primary justification, and when I look at the numbers, that's a defensible position for high-electricity-use households or people in hot climates. For a household in Minnesota using 800 kWh per month and paying 14 cents per kWh, the ROI math is tighter. I'd probably point them toward a solid Tier 1 like Jinko Tiger Neo or Canadian Solar's HiHero series and tell them to spend the savings on a better inverter or battery backup.
 

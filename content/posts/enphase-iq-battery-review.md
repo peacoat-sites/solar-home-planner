@@ -55,7 +55,7 @@ Here's the table I wish every salesperson handed over before the pitch:
 
 Prices current as of July 2026, and yes, they vary significantly by region and installer markup. California installs run high. Texas runs lower. EnergySage's market data shows average [battery storage](/diy-solar-with-battery-storage/) quotes in California hovering around $1,200–$1,400 per kWh installed for LFP systems, which tracks with what I'm seeing from installer bids in my network.
 
-The federal investment [tax credit](/solar-batteries-are-rising-even-as-the-federal-tax-credit-is-gone/) (ITC) still applies at 30% to standalone storage meeting IRS requirements, which brings that 10T installed cost down to roughly $7,000–$8,750 after credit. Some states layer additional incentives on top. California's SGIP program, when funded, can knock off another $1,000–$2,000+.
+The federal investment [tax credit](/solar-batteries-hit-record-attach-rates-as-federal-credit-disappears/) (ITC) still applies at 30% to standalone storage meeting IRS requirements, which brings that 10T installed cost down to roughly $7,000–$8,750 after credit. Some states layer additional incentives on top. California's SGIP program, when funded, can knock off another $1,000–$2,000+.
 
 ## The Architecture That Makes It Different
 

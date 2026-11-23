@@ -26,7 +26,7 @@ faqs:
     a: "In most states, no. 36 states currently have property tax exemptions for solar systems, meaning the added home value from solar doesn't increase your assessed value for tax purposes. Check your specific state's exemption status through DSIRE before assuming it applies to you."
 ---
 
-Most people who contact me about solar have already spent three weeks watching YouTube videos and gotten three wildly different quotes. You're probably somewhere in that spiral [right now](/your-solar-installer-went-bankrupt-what-to-do-right-now/), trying to figure out which number to trust and whether the salesperson who kept talking about "energy independence" actually knows what they're doing.
+Most people who contact me about solar have already spent three weeks watching YouTube videos and gotten three wildly different quotes. You're probably somewhere in that spiral [right now](/your-solar-installer-went-bankrupt-what-happens-now/), trying to figure out which number to trust and whether the salesperson who kept talking about "energy independence" actually knows what they're doing.
 
 Here's what I tell people at that stage: the confusion usually isn't about solar being complicated. It's that most of the information out there is organized around selling you something, not around helping you understand the problem. So let's fix that. What follows is how I actually think through a residential solar design, in the order it matters.
 

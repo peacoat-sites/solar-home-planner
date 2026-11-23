@@ -37,7 +37,7 @@ Degradation happens in every panel, every year. The typical rate is around 0.5% 
 
 Physical damage is the clearest trigger. Cracked glass, delamination (where the layers of the panel visually separate or bubble), and severe discoloration (beyond light yellowing, which is normal) all compromise performance and can create safety hazards. Delaminated panels can trap moisture, which leads to faster corrosion of the cell interconnects and, in some cases, ground faults.
 
-Hotspots are worth calling out specifically. A hotspot is a localized area on a cell that gets dramatically hotter than the surrounding panel, usually because one cell is shaded or defective and the others are driving current through it. You can't see hotspots with the naked eye, but a thermal imaging inspection (many [solar companies](/questions-to-ask-solar-companies/) offer these; some energy auditors do too) will show them clearly. A single bad cell can drag down the entire string in a standard series-wired system.
+Hotspots are worth calling out specifically. A hotspot is a localized area on a cell that gets dramatically hotter than the surrounding panel, usually because one cell is shaded or defective and the others are driving current through it. You can't see hotspots with the naked eye, but a thermal imaging inspection (many [solar companies](/how-to-choose-a-solar-company/) offer these; some energy auditors do too) will show them clearly. A single bad cell can drag down the entire string in a standard series-wired system.
 
 Persistent underperformance is trickier. Before you blame the panels, check everything else. Inverter firmware, wiring connections, shading from new tree growth, and dirt accumulation all affect production. A good [home energy monitor](https://www.amazon.com/s?tag=contentportfo-20&k=home+energy+monitor) can help you track real-time production and spot when output diverges from your historical baseline or the system's modeled performance.
 
@@ -60,7 +60,7 @@ That 80% floor matters, but apply it carefully. Nameplate wattage is measured un
 | System 25+ yrs, output below 70% | Strong case for full replacement | $12,000–$25,000+ |
 | Inverter failure only, panels healthy | Replace inverter only | $1,500–$3,500 |
 
-These are ballpark figures. EnergySage's market data consistently shows significant regional variation in installation costs, and the federal Investment [Tax Credit](/solar-without-the-30-tax-credit-what-homeowners-can-still-get/) (ITC) currently at 30% for residential systems can apply to a qualifying replacement installation, which changes the math considerably.
+These are ballpark figures. EnergySage's market data consistently shows significant regional variation in installation costs, and the federal Investment [Tax Credit](/going-solar-without-the-30-tax-credit-what-it-actually-costs-now/) (ITC) currently at 30% for residential systems can apply to a qualifying replacement installation, which changes the math considerably.
 
 ## Don't Replace the Panels When It's Really the Inverter
 

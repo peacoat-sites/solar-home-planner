@@ -87,7 +87,7 @@ Once you've confirmed program availability:
 
 The audit step trips people up. It's not optional in most states, and scheduling it can add 3-6 weeks to your timeline. Apply in September or October if you can, before heating-season applications flood the system and weatherization staff are stretched thin.
 
-One thing most guides omit: when you show up for the intake interview, the case worker will almost always ask whether you've contacted your utility company about their own low-[income solar programs](/low-income-solar-programs-by-state/). Have an answer ready. In several states, LIHEAP funds won't be released until you've documented why the utility program is insufficient or unavailable. This isn't bureaucratic hostility, it's anti-duplication compliance, but it catches applicants off guard.
+One thing most guides omit: when you show up for the intake interview, the case worker will almost always ask whether you've contacted your utility company about their own low-[income solar programs](/solar-panels-for-low-income-homeowners-programs/). Have an answer ready. In several states, LIHEAP funds won't be released until you've documented why the utility program is insufficient or unavailable. This isn't bureaucratic hostility, it's anti-duplication compliance, but it catches applicants off guard.
 
 ## Stacking LIHEAP With Other Incentives
 

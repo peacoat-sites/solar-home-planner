@@ -45,7 +45,7 @@ You've got several channels available, and they're not equally good.
 
 **Local installers** are often a better starting point if you can find them. A company that's been pulling permits in your county for 8 years knows your AHJ (Authority Having Jurisdiction), your utility's interconnection requirements, and the specific quirks that slow down a project. National installers sometimes quote a job in 2 weeks but take 5 months because they underestimate the local inspection process.
 
-**[Your utility's approved vendor list](/is-my-solar-installer-legit/)** is an underused resource. Many utilities publish lists of contractors who have successfully interconnected systems through their process. Starting there doesn't limit you, but it gives you a vetted starting pool.
+**[Your utility's approved vendor list](/red-flags-when-hiring-solar-installer/)** is an underused resource. Many utilities publish lists of contractors who have successfully interconnected systems through their process. Starting there doesn't limit you, but it gives you a vetted starting pool.
 
 **Referrals from neighbors** who've actually had systems installed and running for at least a year are gold. Don't just ask if they're happy. Ask what went wrong. How long did the install take? How did the permit process actually go? Does production match what was promised?
 

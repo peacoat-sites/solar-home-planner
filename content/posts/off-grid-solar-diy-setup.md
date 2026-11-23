@@ -97,7 +97,7 @@ Here's where a lot of DIYers get sloppy. If your cabin is remote, nobody's comin
 
 The NEC Article 690 covers solar photovoltaic systems specifically. It dictates wiring methods, overcurrent protection, grounding, labeling, and disconnects. If your system feeds a structure with living space, it needs to meet these standards.
 
-Whether you need a permit depends entirely on your jurisdiction. Rural unincorporated land often has minimal requirements, but if you're in a county with building codes, a permit is likely required even for off-grid systems. Call your county building department and ask directly. If you're thinking about doing the entire installation yourself, you'll want to read through [whether DIY solar installation is legal and practical in your situation](/can-i-install-solar-panels-myself/) before you commit.
+Whether you need a permit depends entirely on your jurisdiction. Rural unincorporated land often has minimal requirements, but if you're in a county with building codes, a permit is likely required even for off-grid systems. Call your county building department and ask directly. If you're thinking about doing the entire installation yourself, you'll want to read through [whether DIY solar installation is legal and practical in your situation](/diy-solar-panel-installation-guide/) before you commit.
 
 The SEIA tracks state-level permitting trends, and while the trend is toward simplified permit processes, requirements still vary enormously by county and city.
 

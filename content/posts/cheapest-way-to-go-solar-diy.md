@@ -37,7 +37,7 @@ Most solar articles start the same way: "Go solar and slash your electric bill!"
 
 DIY solar isn't one thing. It's a spectrum depending on your skills, your state's rules, and how much risk you'll tolerate.
 
-One end: buy a plug-in kit, stick panels on your roof, done. Other end: design a [full grid-tied system](/can-i-install-solar-panels-myself/), pull permits, run conduit, handle the utility interconnection yourself. The first is easiest and cheapest but limits your system size. The second gets the biggest savings but demands real electrical knowledge and bureaucratic patience.
+One end: buy a plug-in kit, stick panels on your roof, done. Other end: design a [full grid-tied system](/diy-solar-panel-installation-guide/), pull permits, run conduit, handle the utility interconnection yourself. The first is easiest and cheapest but limits your system size. The second gets the biggest savings but demands real electrical knowledge and bureaucratic patience.
 
 Here's what each actually looks like:
 

@@ -40,7 +40,7 @@ Most [solar panels](/solar-panels-for-new-construction-homes/) are built by sold
 
 I'm not just repeating the spec sheet here. When I pulled apart a decommissioned Maxeon 3 panel from a 2011 installation in Sacramento (a homeowner was upgrading), the cell integrity was striking. A decade-plus of California UV and summer heat, and the cells showed none of the microcracks I routinely see in standard PERC panels at that age. What surprised me was how robust the copper backing still looked. That's not a scientific sample size, obviously, but it aligned with what NREL's long-term performance tracking shows.
 
-The efficiency numbers matter practically, not just as marketing. At 22.8% on the Maxeon 7, you need fewer panels to hit the same output. For a homeowner with a 1,500 square foot south-[facing roof](/solar-on-north-facing-roof-worth-it/) section, that might mean 18 panels instead of 22 to hit a 10kW system. At $300+ per panel in racking and labor, that gap shrinks your cost premium faster than you'd expect.
+The efficiency numbers matter practically, not just as marketing. At 22.8% on the Maxeon 7, you need fewer panels to hit the same output. For a homeowner with a 1,500 square foot south-[facing roof](/do-solar-panels-work-on-a-north-facing-roof/) section, that might mean 18 panels instead of 22 to hit a 10kW system. At $300+ per panel in racking and labor, that gap shrinks your cost premium faster than you'd expect.
 
 ## Performance Data vs. the Competition
 

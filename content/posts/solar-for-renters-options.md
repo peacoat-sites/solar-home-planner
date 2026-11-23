@@ -39,7 +39,7 @@ Here's how it works: a solar farm gets built somewhere in your utility territory
 
 The catch: availability is patchy. Strong in New York, Massachusetts, Illinois, Minnesota, and a handful of other states with decent policy support. Texas, Florida, most of the Southeast? Community solar is thin to nonexistent right now. Check your utility's website or run a zip code search on EnergySage directly to see what's in your area.
 
-Before you sign anything, read the contract length and cancellation terms carefully. Some [community solar agreements](/solar-garden-subscription-what-is-it/) run month-to-month. Others lock you in for 20 years with a transfer clause that lets you exit if you move (and you need to read what "transfer" actually requires). If a sales rep glosses over the cancellation terms, ask three more times. Not twice. Three.
+Before you sign anything, read the contract length and cancellation terms carefully. Some [community solar agreements](/community-solar-how-it-works/) run month-to-month. Others lock you in for 20 years with a transfer clause that lets you exit if you move (and you need to read what "transfer" actually requires). If a sales rep glosses over the cancellation terms, ask three more times. Not twice. Three.
 
 ## Portable Solar: Modest but Real, and Yours to Keep
 

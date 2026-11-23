@@ -27,7 +27,7 @@ Planning to go solar is one of the best decisions a homeowner can make. Whether 
 
 **Solar + EV Charging**. How many panels to charge your electric vehicle, bidirectional charging explained, and how to optimize your combined solar + EV setup.
 
-**Off-Grid & Backup Power**. Everything from Powerwall sizing to [full off-grid system design](/how-to-calculate-solar-system-size-for-home/), generator alternatives, and preparing for extended outages.
+**Off-Grid & Backup Power**. Everything from Powerwall sizing to [full off-grid system design](/diy-solar-panel-system-sizing/), generator alternatives, and preparing for extended outages.
 
 **Monitoring & Maintenance**. Track your system's performance, troubleshoot issues, and know when (and how) to clean your panels.
 
