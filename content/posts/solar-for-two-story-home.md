@@ -154,8 +154,7 @@ Let's talk money, because this is what actually matters to most homeowners.
 For a typical two-story home needing 10-14 kW:
 
 - **Gross cost:** $28,000-$42,000 before incentives
-- **Federal Tax Credit (ITC):** 30% = **$8,400-$12,600 back**
-- **Net cost after federal credit:** $19,600-$29,400
+- **Federal Tax Credit (ITC):** No federal tax credit is available for solar installations completed after December 31, 2025.
 - **State/local incentives:** Another $1,000-$5,000 in many states
 
 [RELATED: solar tax credit guide for homeowners]

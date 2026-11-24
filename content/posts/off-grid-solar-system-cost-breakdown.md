@@ -14,7 +14,7 @@ faqs:
  - q: "Can I build an off-grid system myself to save money?"
    a: "Yes, with significant caveats. Equipment costs alone for a full-home off-grid system run $25,000-$50,000. You can save $8,000-$20,000 on labor, but you'll need to pull permits, pass inspections, and do the electrical work properly. Solar DIY guides and wiring tools are widely available. In most states, a licensed electrician must make the final panel connections and sign off on the work even if you do the rest yourself."
  - q: "Does the 30% federal tax credit apply to off-grid solar?"
-   a: "Yes, for residential use. The ITC covers 30% of total system cost including batteries, as long as the batteries are charged exclusively by solar. Batteries charged partially by generator may complicate the calculation. Consult a tax professional for your specific situation."
+   a: "No, for residential use. The 30% federal Residential Clean Energy Credit for homeowner-owned solar and battery systems ended for installations completed after December 31, 2025. Systems installed in 2026 or later do not qualify. Consult a tax professional for your specific situation."
  - q: "What's the minimum viable off-grid system for a small cabin?"
    a: "A weekend cabin with modest loads (lights, phone charging, small refrigerator, no electric heat) can run on 1.5-2 kW of panels and an 8-10 kWh LiFePO4 battery bank. Equipment cost runs $6,000-$12,000. Add a small propane or DC refrigerator and you'll reduce the battery requirement significantly. This is a realistic DIY project for someone comfortable with basic electrical work."
  - q: "How does weather and location affect system cost?"
@@ -127,7 +127,7 @@ Reviewers of off-grid proposals routinely flag the same warning signs. Here's wh
 
 **Flooded lead-acid batteries sold as "equivalent" to lithium.** They're not equivalent. They require regular watering, have ventilation requirements, and in cold climates lose significant capacity. If someone's selling you AGM or flooded lead-acid as a cost-saving measure, make sure you understand the real 10-year cost comparison.
 
-**No mention of the 30% federal tax credit.** The Investment Tax Credit (ITC) applies to off-grid solar systems used for residential purposes. At 30% of total system cost, a $70,000 system yields a $21,000 credit. If your installer isn't factoring this into your financial picture, they're leaving money on the table.
+**No mention of the 30% federal tax credit.** The federal 30% Residential Clean Energy Credit (Section 25D) no longer applies to off-grid solar systems installed after December 31, 2025. If your system was installed and completed by that date, you may still be able to claim or amend a return to capture that credit. For systems installed in 2026 or later, no federal tax credit is available for homeowner-owned systems.
 
 ## Sources
 

@@ -51,7 +51,7 @@ You're probably wondering: does it matter? For the warranty and long-term perfor
 | Annual Degradation | 0.25% | ~0.50% | Year 25 output: 92% vs 80-82% |
 | Product Warranty | 25 years | 12 years | Longer protection |
 | Performance Warranty | 25 years | 12-25 years | Extended guarantee |
-| Module-Level Premium | - | +$0.85-$1.10/W | ~$5,950-$7,700 net after 30% tax credit |
+| Module-Level Premium | - | +$0.85-$1.10/W | Varies |
 
 Here's what I tell people who are drowning in spec sheets: the three numbers that really affect your payback period are efficiency, temperature coefficient, and the degradation guarantee.
 
@@ -82,13 +82,12 @@ But here's where I want you to slow down. A warranty is only as good as the comp
 
 EverVolt panels typically price out at $0.85 to $1.10 per watt more than [mid-tier Tier 1 alternatives](/solar-panel-brands-comparison/) at the module level. On a 10 kW system, that's roughly $8,500 to $11,000 more before installation labor (which doesn't change much based on panel brand).
 
-After the federal tax credit (currently 30% as of this year), the net premium is closer to $5,950 to $7,700. EnergySage's market data consistently shows premium panel buyers citing long-term performance guarantees as their primary justification, and when I look at the numbers, that's a defensible position for high-electricity-use households or people in hot climates. For a household in Minnesota using 800 kWh per month and paying 14 cents per kWh, the ROI math is tighter. I'd probably point them toward a solid Tier 1 like Jinko Tiger Neo or Canadian Solar's HiHero series and tell them to spend the savings on a better inverter or battery backup.
+After the federal tax credit for homeowner-installed solar panels ended for systems installed after December 31, 2025, the premium figures cited no longer reflect a reduced net cost. EnergySage's market data consistently shows premium panel buyers citing long-term performance guarantees as their primary justification, and that is a defensible position for high-electricity-use households or people in hot climates. For a household in Minnesota using 800 kWh per month and paying 14 cents per kWh, the ROI math is tighter. Pointing them toward a solid Tier 1 like Jinko Tiger Neo or Canadian Solar's HiHero series and spending the savings on a better inverter or battery backup remains a reasonable approach.
 
 This won't be the right panel for everyone, and I want to be straightforward about that.
 
 Worked example: A family in San Diego (high utility rates, typically $0.30+/kWh from SDG&E) installs 9.6 kW of EverVolt H panels.
 - System cost premium over mid-tier: approximately $9,000 before tax credit
-- Net premium after 30% ITC: approximately $6,300
 - Extra annual production (temp coefficient + lower degradation): estimated 600-800 kWh/year average
 - At $0.32/kWh: $192 to $256 per year in additional savings
 - Payback on the premium alone: approximately 25-33 years

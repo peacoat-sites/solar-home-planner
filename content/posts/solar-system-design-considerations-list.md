@@ -32,7 +32,7 @@ Here's what I tell people at that stage: the confusion usually isn't about solar
 
 Good system design starts with your real electricity consumption, not your roof. It ends with a number that makes financial sense for your specific situation, not someone else's case study. Everything in between is tradeoffs.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Size your system to your actual 12-month kWh usage, not just last month's bill.</li><li style="margin:5px 0">South-facing roof at 15-40° tilt is ideal, but east/west splits can get you 80-85% of that output.</li><li style="margin:5px 0">A 7kW system in Phoenix costs roughly $21,000 before incentives; the same system in Seattle produces about 30% less power.</li><li style="margin:5px 0">The 30% federal tax credit (ITC) applies through 2032, but you must have sufficient tax liability to use it.</li><li style="margin:5px 0">Battery storage adds $10,000-$18,000 and only pencils out in specific grid/utility scenarios.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Size your system to your actual 12-month kWh usage, not just last month's bill.</li><li style="margin:5px 0">South-facing roof at 15-40° tilt is ideal, but east/west splits can get you 80-85% of that output.</li><li style="margin:5px 0">A 7kW system in Phoenix costs roughly $21,000 before incentives; the same system in Seattle produces about 30% less power.</li><li style="margin:5px 0">The 30% federal tax credit (ITC) for homeowner-owned systems ended for installations completed after December 31, 2025 and is no longer available for new residential installations.</li><li style="margin:5px 0">Battery storage adds $10,000-$18,000 and only pencils out in specific grid/utility scenarios.</li></ul></div>
 
 ## Start With Your Bills, Not Your Roof
 
@@ -54,14 +54,14 @@ Shading is the one thing that will genuinely wreck a system if it's ignored. A s
 
 As of July 2026, the installed cost for residential solar in the U.S. runs $2.50-$3.80 per watt before incentives, depending on location, installer, equipment tier, and roof complexity. Here's a rough comparison across common system sizes:
 
-| System Size | Estimated Annual Output (Phoenix) | Estimated Annual Output (Portland) | Installed Cost (Before Incentives) | After 30% ITC |
-|---|---|---|---|---|
-| 5 kW | 8,000 kWh | 5,500 kWh | $13,500-$17,000 | $9,450-$11,900 |
-| 7 kW | 11,200 kWh | 7,700 kWh | $18,500-$23,000 | $12,950-$16,100 |
-| 10 kW | 16,000 kWh | 11,000 kWh | $25,000-$32,000 | $17,500-$22,400 |
-| 13 kW | 20,800 kWh | 14,300 kWh | $31,000-$40,000 | $21,700-$28,000 |
+| System Size | Estimated Annual Output (Phoenix) | Estimated Annual Output (Portland) | Installed Cost (Before Incentives) |
+|---|---|---|---|
+| 5 kW | 8,000 kWh | 5,500 kWh | $13,500-$17,000 |
+| 7 kW | 11,200 kWh | 7,700 kWh | $18,500-$23,000 |
+| 10 kW | 16,000 kWh | 11,000 kWh | $25,000-$32,000 |
+| 13 kW | 20,800 kWh | 14,300 kWh | $31,000-$40,000 |
 
-The federal Investment Tax Credit (ITC) is currently 30% and, per the Inflation Reduction Act, holds at that rate through 2032. One thing that doesn't get explained clearly enough: it's a tax *credit*, not a deduction. If your federal tax liability is $4,000/year and your credit comes to $7,500, you can't take the full $7,500 in year one. You carry the remainder to future years. If you're retired on Social Security with minimal tax liability, the ITC may benefit you far less than a salesperson implies.
+The federal Residential Clean Energy Credit (Section 25D) was 30% but is no longer available for solar systems whose installation was completed after December 31, 2025. Systems installed in 2026 or later receive no federal tax credit. One thing that doesn't get explained clearly enough: it was a tax *credit*, not a deduction. If your federal tax liability is $4,000/year and your credit comes to $7,500, you can't take the full $7,500 in year one. You carry the remainder to future years. If you're retired on Social Security with minimal tax liability, the credit may benefit you far less than a salesperson implies.
 
 Many states layer additional incentives on top. Massachusetts has the Solar Massachusetts Renewable Target (SMART) program. New York has a state tax credit capped at $5,000. The [U.S. Department of Energy's homeowner guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) keeps a reasonably current list of these; it's worth checking before you sign anything.
 

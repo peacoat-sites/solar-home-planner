@@ -78,7 +78,7 @@ The workmanship warranty argument cuts both ways. Local companies in business fo
 
 Pull the equipment specs from both quotes. Get the exact panel model number and inverter model. Look them up. [NREL's PVWatts calculator](https://www.nrel.gov/) lets you model expected annual production for your specific address and system size. If a national company's 10 kW system is projecting 14,000 kWh/year and the local company's same-size system projects 11,500 kWh, that's not a coincidence. Someone adjusted the numbers.
 
-Check the price per watt after incentives. As of this year, a reasonable installed price for a quality system runs between $2.70 and $3.50 per watt before the federal tax credit. Below that, ask hard questions. Above $3.80 or so, ask even harder ones.
+Check the price per watt. A reasonable installed price for a quality system runs between $2.70 and $3.50 per watt. Below that, ask hard questions. Above $3.80 or so, ask even harder ones.
 
 Get three quotes. Not two.
 

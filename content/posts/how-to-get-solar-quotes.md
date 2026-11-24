@@ -64,7 +64,6 @@ This is where most homeowners get tripped up. A quote isn't a one-page PDF with 
 **Financial details:**
 - Itemized price breakdown, not just a system total
 - Cash price and financed price listed separately, including total interest paid over the loan term
-- Federal ITC (Investment Tax Credit) amount calculated at 30% of total system cost
 - Any applicable state incentives or utility rebates
 
 **Project logistics:**

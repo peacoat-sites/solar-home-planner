@@ -23,7 +23,7 @@ faqs:
   - q: "What happens if I need to replace my roof after solar is installed?"
     a: "You'll need to pay to have the solar system removed and reinstalled. This typically runs $1,500-$3,500 depending on system size. If your tile roof is more than 10-12 years old, a good installer should flag this before you commit, and many will recommend re-roofing first."
   - q: "Is the federal tax credit still available for tile roof solar in 2026?"
-    a: "Yes. The 30% federal Investment Tax Credit (ITC) applies to the full installed cost of the solar system, including the tile-specific mounting hardware and any incidental tile work directly related to the installation. It does not cover a full roof replacement if you decide to re-roof before installing."
+    a: "No. The 30% federal tax credit for homeowner-owned solar systems ended for installations completed after December 31, 2025. Systems installed in 2026 or later do not qualify for the federal credit, regardless of mounting hardware or tile-specific costs."
 ---
 
 Tile roofs and solar panels have a complicated relationship. Installing solar on tile roofs requires different techniques than asphalt shingle work. Improper mounting can crack expensive tiles, so understanding the right attachment method matters.
@@ -73,9 +73,9 @@ EnergySage's market data puts the national average solar install at roughly $2.8
 
 Three real-ish scenarios from my experience:
 
-Homeowner in Tucson with a 2,400 sq ft home, concrete S-tile, 8kW system, 28 attachment points using QuickBOLT hooks → $28,400 installed before the federal tax credit → after the 30% ITC, effective cost approximately $19,880. System has been producing for 14 months, no issues.
+Homeowner in Tucson with a 2,400 sq ft home, concrete S-tile, 8kW system, 28 attachment points using QuickBOLT hooks → $28,400 installed. System has been producing for 14 months, no issues.
 
-Homeowner in Naples, Florida with clay barrel tile, same 8kW system but 32 attachment points requiring full tile-replacement mounts → $31,600 installed before ITC → after credit, $22,120. Labor alone was $2,800 higher than the Tucson job because of tile handling time.
+Homeowner in Naples, Florida with clay barrel tile, same 8kW system but 32 attachment points requiring full tile-replacement mounts → $31,600 installed. Labor alone was $2,800 higher than the Tucson job because of tile handling time.
 
 Homeowner in San Jose on concrete flat tile, 6.4kW system, found two cracked tiles post-install (contractor paid for replacement, $310 in tiles plus a roofer's visit) → total add-on cost was absorbed by installer but caused a two-week delay and a strained relationship. Lesson: always walk the roof with the installer before and after, photo documented.
 

@@ -48,7 +48,7 @@ SAM is where things get serious. It's free to download (sam.nrel.gov), runs on W
 
 I'll be honest about the learning curve: the first time I opened SAM, I closed it after six minutes. The interface looks like it was designed for energy engineers, because it was. But after watching two of NREL's own tutorial videos and spending a Saturday afternoon with it, I produced a model of my own 9.6 kW system that came within 4.3% of actual first-year production. That's not bad. That's actually better than the estimate my installer gave me.
 
-SAM handles detailed shading, time-of-use rate analysis, battery storage modeling, and financial projections including the federal Investment Tax Credit (currently 30%, as of this year under the Inflation Reduction Act provisions). If you want to know whether adding a Powerwall 3 to your system actually pencils out financially in your specific utility territory, SAM will do that calculation.
+SAM handles detailed shading, time-of-use rate analysis, battery storage modeling, and financial projections including the federal Investment Tax Credit. Note that the 30% Residential Clean Energy Credit (Section 25D) is no longer available for homeowner-owned systems with installation completed after December 31, 2025. If you want to know whether adding a Powerwall 3 to your system actually pencils out financially in your specific utility territory, SAM will do that calculation.
 
 A worked example to make this concrete:
 

@@ -126,7 +126,7 @@ Every grid-tied solar installation in the US requires a building permit and util
 
 Permit requirements typically include a single-line electrical diagram, a site plan showing panel placement, equipment spec sheets, and sometimes a structural assessment of your roof framing. If you're doing a DIY install, some jurisdictions allow homeowner-pull permits. Many do not. Know your local rules before you commit to DIY labor versus hiring a licensed contractor for the electrical portion.
 
-EnergySage's market data shows the national average solar installation cost running around $2.95 per watt before incentives. A 9 kW system at that average would run roughly $26,550 before the federal tax credit. The 30 percent federal Investment Tax Credit brings that to about $18,585. That's your benchmark when getting quotes. If someone comes in 40 percent above that number with no clear justification, push back.
+EnergySage's market data shows the national average solar installation cost running around $2.95 per watt before incentives. A 9 kW system at that average would run roughly $26,550. The 30 percent federal Investment Tax Credit for homeowners ended for installations completed after December 31, 2025, so systems installed in 2026 or later receive no federal tax credit. That's your benchmark when getting quotes. If someone comes in 40 percent above that number with no clear justification, push back.
 
 Utility interconnection is separate from permitting. Your utility has to approve your system for grid connection, and they'll issue a Permission to Operate (PTO) letter before you turn it on. Operating a grid-tied system without PTO is a code violation and can result in being disconnected from the grid.
 

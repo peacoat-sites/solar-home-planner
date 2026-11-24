@@ -14,7 +14,7 @@ faqs:
   - q: "Can a single Powerwall 3 power a whole house during an outage?"
     a: "For most homes under 2,500 square feet, yes, with load management. The 11.5 kW continuous output handles most appliances simultaneously. The 13.5 kWh capacity lasts roughly 12 to 24 hours depending on consumption. Running an electric dryer and EV charger simultaneously during an outage will drain it fast. If you regularly lose power for more than a day, two units are the better call."
   - q: "Does the Powerwall qualify for the 30% federal tax credit in 2026?"
-    a: "Yes, as long as it's charged solely by solar (which you can configure in the Tesla app). The 30% ITC applies to the full installed cost including labor and permit fees. Confirm with a tax professional, especially if your tax liability is lower than the credit amount."
+    a: "No, the 30% Residential Clean Energy Credit no longer applies to Powerwall installations completed after December 31, 2025. Confirm with a tax professional regarding any credits that may still be available to you, especially if you have unused credits from an installation completed by December 31, 2025."
   - q: "Is it worth buying a Powerwall without solar panels?"
     a: "Honestly, rarely. The financial case is weak without solar unless you're on an aggressive TOU rate or in an outage-prone area where backup power has real value to you. The emotional value of backup power is real and legitimate, but don't expect a financial payback without the solar pairing."
   - q: "How do I find a legitimate Tesla-certified Powerwall installer?"
@@ -39,11 +39,11 @@ One thing to keep straight: if you already have solar with an existing inverter,
 
 ## The Real Cost Breakdown in 2026
 
-| Scenario | Hardware Cost | Installation Labor & Materials | Permits | Subtotal | 30% Federal ITC | Net Cost After Federal ITC |
-| --- | --- | --- | --- | --- | --- | --- |
-| Single Powerwall 3, battery-only | $9,200 | $2,500-$4,500 | $200-$600 | $12,000-$16,000 | $3,600-$4,800 | $8,500-$11,000 |
-| Two Powerwall 3 units, battery-only | $18,400 | $3,500-$5,500 | $200-$600 | $22,000-$28,000 | $6,600-$8,400 | $15,500-$20,400 |
-| Single unit with panel upgrade (California example) | $9,200 | $3,500-$5,500 | $300-$600 | ~$18,500 | $5,550 | ~$13,000 |
+| Scenario | Hardware Cost | Installation Labor & Materials | Permits | Subtotal |
+| --- | --- | --- | --- | --- |
+| Single Powerwall 3, battery-only | $9,200 | $2,500-$4,500 | $200-$600 | $12,000-$16,000 |
+| Two Powerwall 3 units, battery-only | $18,400 | $3,500-$5,500 | $200-$600 | $22,000-$28,000 |
+| Single unit with panel upgrade (California example) | $9,200 | $3,500-$5,500 | $300-$600 | ~$18,500 |
 
 Here's where most reviews gloss over the details.
 
@@ -53,7 +53,7 @@ Here's where most reviews gloss over the details.
 
 **Total realistic cost, one Powerwall 3, battery-only:** $12,000 to $16,000 installed. Two units: $22,000 to $28,000.
 
-The federal Investment Tax Credit gives you 30% back on the total installed cost, as long as the battery charges exclusively from solar (which the Powerwall can be configured to do). On a $14,000 install, that's $4,200 back at tax time. Some states stack additional credits: Massachusetts, New York, and Maryland all have meaningful state-level incentives in 2026 that can cut another $1,000 to $3,000 off.
+The federal Investment Tax Credit no longer applies to homeowner-purchased battery storage systems installed after December 31, 2025. State tax credits and incentives are separate and were not affected by this change: Massachusetts, New York, and Maryland all have meaningful state-level incentives in 2026 that can cut another $1,000 to $3,000 off.
 
 After incentives, a single Powerwall 3 installation often lands in the $8,500 to $11,000 net range. That's the number to use for payback calculations, not the pre-incentive sticker.
 

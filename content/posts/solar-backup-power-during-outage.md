@@ -18,7 +18,7 @@ faqs:
  - q: "What size battery do I need for backup power?"
    a: "A practical starting point: identify every load you actually need during an outage, estimate the wattage, and calculate how many hours per day you'd run each one. Add 20% for inefficiency and unexpected loads. Compare that to the usable capacity of the battery you're considering. For most households prioritizing refrigerator, lights, device charging, and one room AC unit, a single 10-15 kWh battery is a reasonable starting point. Two batteries gives you meaningful comfort."
  - q: "Does the 30% federal tax credit apply to adding a battery to existing solar?"
-   a: "Yes, as of the Inflation Reduction Act changes that took effect in 2023, standalone battery storage qualifies for the 30% Investment Tax Credit even when retrofitted to an existing solar system, as long as the battery has a minimum capacity of 3 kWh. This is a significant change from prior rules that required batteries to be installed simultaneously with solar to qualify. Consult a tax professional for your specific situation."
+   a: "No, standalone battery storage no longer qualifies for the 30% federal residential tax credit for homeowners. The Residential Clean Energy Credit (Section 25D) ended for expenditures on installations completed after December 31, 2025. A battery storage system installed in 2026 or later gets no federal tax credit for homeowners, regardless of capacity or whether it is retrofitted to an existing solar system. Consult a tax professional for your specific situation."
 author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar"
@@ -94,7 +94,7 @@ Adding battery storage to an existing solar system is almost never plug-and-play
 
 If you're adding a generator to the mix, your jurisdiction may require a transfer switch or the equivalent functionality that your hybrid inverter provides, documented clearly in the permit drawings. Don't skip this step. An unpermitted battery system may not be covered by your homeowner's insurance if something goes wrong, and some utilities reserve the right to disconnect systems that weren't properly interconnected.
 
-EnergySage's market data shows that battery storage costs have dropped significantly, with installed prices for a single Powerwall-class battery averaging around $10,000-$14,000 fully installed in 2024, depending on region and complexity. That's real money, but the federal Investment Tax Credit (ITC) applies to battery storage at 30%, including retrofits to existing solar systems since 2023, which genuinely changes the math.
+EnergySage's market data shows that battery storage costs have dropped significantly, with installed prices for a single Powerwall-class battery averaging around $10,000-$14,000 fully installed in 2024, depending on region and complexity. That's real money, but the federal Investment Tax Credit (ITC) at 30% for battery storage ended for homeowner-owned systems installed after December 31, 2025.
 
 Check your HOA rules too. I know, nobody wants to hear it. But some HOAs have rules about visible equipment on the side of a home or in the driveway (thinking generators here), and some have tried, often unsuccessfully, to restrict battery installations. Most states have solar access laws that limit HOA power over solar equipment, but the specifics vary, and it's worth a 20-minute review before you start getting quotes.
 

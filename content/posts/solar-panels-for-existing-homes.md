@@ -95,7 +95,7 @@ Here's what separates a solid quote from a concerning one:
 
 On financing: a solar loan stretching 20 to 25 years at 6 to 8 percent interest can mean paying nearly double the system's cash price over time. If cash isn't possible, a 10 to 12 year term at a competitive rate is usually smarter. Run the math yourself, not just the installer's payback estimate.
 
-The federal Investment Tax Credit sits at 30 percent of total system cost right now. On a $30,000 system, that's $9,000 back on your taxes. But it's a credit, not a refund. You need to owe at least that much in federal taxes in the year you claim it. Carry forward the remainder if you don't. If your typical tax liability is under $4,000 yearly, talk to a CPA before assuming you'll capture the full credit.
+The federal Residential Clean Energy Credit (Section 25D) ended for installations completed after December 31, 2025. If your system was installed and completed by December 31, 2025, you may still be eligible to claim or carry forward the credit. It is a credit, not a refund. You need to owe at least that much in federal taxes in the year you claim it. Carry forward the remainder if you don't. If your typical tax liability is under $4,000 yearly, talk to a CPA before assuming you'll capture the full credit.
 
 ## After Installation: Monitoring, Maintenance, and Realistic Expectations
 

@@ -32,7 +32,7 @@ Yes, solar panels can power a whole house. In practice, whether they *do* depend
 
 Systems range from 900-square-foot bungalows in Phoenix to 3,400-square-foot houses in western Washington with a heat pump, an EV, and a hot tub. The process is the same; the numbers are wildly different.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A typical U.S. home uses 10,500 kWh/year; a properly sized system (8-12 kW) can offset 90-100% of that.</li><li style="margin:5px 0">Battery storage is what determines true whole-home coverage at night, not just panel count.</li><li style="margin:5px 0">Shading, roof orientation, and local utility rates change the math more than most installers admit.</li><li style="margin:5px 0">System cost runs $18,000-$35,000 installed before the 30% federal tax credit (current as of July 2026).</li><li style="margin:5px 0">Net metering policies vary by state and utility; in some markets they've gotten significantly worse since 2023.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A typical U.S. home uses 10,500 kWh/year; a properly sized system (8-12 kW) can offset 90-100% of that.</li><li style="margin:5px 0">Battery storage is what determines true whole-home coverage at night, not just panel count.</li><li style="margin:5px 0">Shading, roof orientation, and local utility rates change the math more than most installers admit.</li><li style="margin:5px 0">System cost runs $18,000-$35,000 installed; the 30% federal tax credit expired for installations completed after December 31, 2025 and is no longer available for new homeowner-owned systems.</li><li style="margin:5px 0">Net metering policies vary by state and utility; in some markets they've gotten significantly worse since 2023.</li></ul></div>
 
 ## What "powering a whole house" actually means
 
@@ -54,14 +54,14 @@ A common sizing mistake is using average annual sun hours instead of seasonal pr
 
 ## Real costs, right now
 
-As of July 2026, installed residential solar runs $2.50-$3.80 per watt depending on your region, panel brand, and installer margin. The federal Residential Clean Energy Credit sits at 30% of total system cost.
+As of July 2026, installed residential solar runs $2.50-$3.80 per watt depending on your region, panel brand, and installer margin. The federal Residential Clean Energy Credit is no longer available for residential systems installed after December 31, 2025.
 
-| System Size | Installed Cost (pre-credit) | After 30% Federal Credit | Estimated Annual Savings (avg. utility rate) |
-|---|---|---|---|
-| 6 kW | $15,000-$22,800 | $10,500-$15,960 | $1,100-$1,500 |
-| 8 kW | $20,000-$30,400 | $14,000-$21,280 | $1,450-$2,000 |
-| 10 kW | $25,000-$38,000 | $17,500-$26,600 | $1,800-$2,500 |
-| 12 kW + battery (13.5 kWh) | $38,000-$55,000 | $26,600-$38,500 | $2,200-$3,000 |
+| System Size | Installed Cost | Estimated Annual Savings (avg. utility rate) |
+|---|---|---|
+| 6 kW | $15,000-$22,800 | $1,100-$1,500 |
+| 8 kW | $20,000-$30,400 | $1,450-$2,000 |
+| 10 kW | $25,000-$38,000 | $1,800-$2,500 |
+| 12 kW + battery (13.5 kWh) | $38,000-$55,000 | $2,200-$3,000 |
 
 Those savings figures assume you're offsetting electricity at roughly $0.14-$0.17/kWh, which is close to the national average. If you're in Massachusetts or California, your rate might be $0.28-$0.35/kWh, and the payback timeline compresses significantly. In high-usage climates with significant summer cooling demand, a 10 kW system can pay back in under 7 years after incentives.
 
@@ -89,7 +89,7 @@ For example, consider a 3-bedroom house in rural Vermont, no natural gas, all-el
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/): U.S. solar market insight reports, 2025-2026 residential installation cost benchmarks
 - [Lawrence Berkeley National Laboratory, Tracking the Sun report](https://emp.lbl.gov/tracking-the-sun): Annual data on installed system prices and configurations
 - [California Public Utilities Commission, NEM 3.0 Decision](https://www.cpuc.ca.gov/): Net Energy Metering tariff structure change, effective April 2023
-- [U.S. Department of Energy, Homeowner's Guide to the Federal Tax Credit for Solar](https://www.energy.gov/eere/solar/homeowners-guide-federal-tax-credit-solar-photovoltaics): Current credit rate and eligible expenses, 2026
+- [U.S. Department of Energy, Homeowner's Guide to the Federal Tax Credit for Solar](https://www.energy.gov/eere/solar/homeowners-guide-federal-tax-credit-solar-photovoltaics): Credit ended for installations completed after December 31, 2025; no federal tax credit is available for homeowner-owned systems installed in 2026 or later
 
 ---
 

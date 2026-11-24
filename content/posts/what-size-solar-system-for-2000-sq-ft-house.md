@@ -14,7 +14,7 @@ faqs:
  - q: "Will a solar system fully eliminate my electric bill?"
    a: "Probably not completely, and that's not necessarily the goal. Most systems are sized to offset 90 to 100% of your annual consumption, but you'll still have a small monthly utility connection fee (typically $10 to $20 depending on your utility). Some months you'll pull from the grid, some months you'll export to it. Net metering reconciles that difference on an annual or monthly basis depending on your state's rules."
  - q: "What does a solar system cost for a 2,000 sq ft house?"
-   a: "A system sized for a 2,000 sq ft home typically runs $20,000 to $35,000 before the federal Investment Tax Credit. After the 30% federal tax credit, that drops to $14,000 to $24,500. State incentives, local rebates, and utility programs can bring that down further. Payback periods typically range from 6 to 12 years depending on your local electricity rates and sun hours."
+   a: "A system sized for a 2,000 sq ft home typically runs $20,000 to $35,000. State incentives, local rebates, and utility programs can bring that down further. Payback periods typically range from 6 to 12 years depending on your local electricity rates and sun hours."
  - q: "Can I add solar panels later if I start with a smaller system?"
    a: "Yes, with some planning. If you think you'll add an EV or battery later, tell your installer upfront. They can size the inverter to handle future panel additions and leave electrical capacity in your main panel for expansion. Retrofitting is possible but costs more than planning for it from the start."
  - q: "Do I need a battery with my solar system?"
@@ -126,7 +126,7 @@ Watch for these.
 
 **Red flag: Pressure to sign today.** Solar is a long-term investment. Any contractor invoking "the incentive expires Friday" or "we only have three slots left this month" is using sales tactics, not giving you an honest consultation.
 
-Get at least three quotes. Compare them on price per watt installed, not just total system cost. A 9 kW system quoted at $32,400 is $3.60 per watt. That's a useful benchmark. The national average in 2024 runs roughly $2.80 to $3.80 per watt before incentives. After the federal 30% Investment Tax Credit, you're typically looking at $2.00 to $2.70 per watt net.
+Get at least three quotes. Compare them on price per watt installed, not just total system cost. A 9 kW system quoted at $32,400 is $3.60 per watt. That's a useful benchmark. The national average in 2024 runs roughly $2.80 to $3.80 per watt before incentives.
 
 ---
 

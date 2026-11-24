@@ -40,7 +40,7 @@ So let's skip the glossy pitch and talk about what actually works.
 | SASH (California) | Grant | Income-qualified | Free system | Covers PG&E, SCE, SDG&E customers |
 | SMART (Massachusetts) | Incentive | Low-income adders | Varies | Additional adders for low-income participants |
 
-The 30% federal Investment Tax Credit (ITC), extended through 2032 under the Inflation Reduction Act, is real and it's significant. But if your federal tax liability is $1,200 a year, a 30% credit on a $20,000 system gives you $6,000 you can't use in year one. You can carry it forward, but if your income stays low, you may never collect most of it.
+The 30% federal Investment Tax Credit (ITC) for homeowner-owned systems is no longer available for installations completed after December 31, 2025. But even when it was available, if your federal tax liability is $1,200 a year, a 30% credit on a $20,000 system gives you $6,000 you can't use in year one. You can carry it forward, but if your income stays low, you may never collect most of it.
 
 What most people don't realize is that there are programs specifically designed around this problem. Ones that provide grants instead of credits, or that handle the installation entirely at no cost.
 

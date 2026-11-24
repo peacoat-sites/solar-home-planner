@@ -21,7 +21,7 @@ faqs:
   - q: "Can I add an Enphase battery to my existing solar system?"
     a: "Yes, if your system uses Enphase IQ microinverters, integration is straightforward. If you have a string inverter from another manufacturer, AC coupling still works but requires the IQ System Controller and may need an electrical panel upgrade. I'd get a written assessment from a licensed installer before assuming it's plug-and-play."
   - q: "Does the Enphase battery qualify for the federal tax credit?"
-    a: "Yes, as of July 2026, the 30% federal ITC applies to home battery systems when installed with solar or, under current IRS guidance, as standalone storage charged primarily from renewable sources. Consult a tax professional for your specific situation, but most residential Enphase installs do qualify."
+    a: "Yes, as of July 2026, the 30% federal ITC no longer applies to home battery systems installed by homeowners. The credit ended for residential installations completed after December 31, 2025. Consult a tax professional for your specific situation."
   - q: "How long does an Enphase IQ Battery installation take?"
     a: "A straightforward add-on to an existing Enphase solar system typically takes one to two days. New solar-plus-storage installs run two to four days depending on panel count, electrical panel work needed, and permit inspection scheduling. Permit approval timelines vary wildly by jurisdiction and can stretch the overall project to two to six weeks."
 ---
@@ -55,7 +55,7 @@ Here's the table I wish every salesperson handed over before the pitch:
 
 Prices current as of July 2026, and yes, they vary significantly by region and installer markup. California installs run high. Texas runs lower. EnergySage's market data shows average [battery storage](/diy-solar-with-battery-storage/) quotes in California hovering around $1,200–$1,400 per kWh installed for LFP systems, which tracks with what I'm seeing from installer bids in my network.
 
-The federal investment [tax credit](/solar-batteries-hit-record-attach-rates-as-federal-credit-disappears/) (ITC) still applies at 30% to standalone storage meeting IRS requirements, which brings that 10T installed cost down to roughly $7,000–$8,750 after credit. Some states layer additional incentives on top. California's SGIP program, when funded, can knock off another $1,000–$2,000+.
+The federal investment [tax credit](/solar-batteries-hit-record-attach-rates-as-federal-credit-disappears/) (ITC) no longer applies to homeowner-owned standalone storage installed after December 31, 2025. Some states layer additional incentives on top. California's SGIP program, when funded, can knock off another $1,000–$2,000+.
 
 ## The Architecture That Makes It Different
 

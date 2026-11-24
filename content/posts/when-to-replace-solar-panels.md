@@ -18,11 +18,11 @@ faqs:
   - q: "Can I replace just one panel instead of the whole system?"
     a: "Yes, if you can find a panel with matching electrical characteristics. Replacing a single panel in a string with one that has a different voltage or current profile can drag down the whole string's performance. Your best chance of a clean match is if the original model is still manufactured or if your installer kept a spare."
   - q: "Does replacing solar panels qualify for the federal tax credit?"
-    a: "It can, depending on how the replacement is structured. A full system replacement on your primary residence generally qualifies for the 30% residential clean energy credit under current IRS rules. Replacing a single panel as a repair may not. Talk to a tax professional before assuming eligibility."
+    a: "No, it does not. The 30% residential clean energy credit under IRC Section 25D is no longer available for installations completed after December 31, 2025. Talk to a tax professional about any state credits or other incentives that may apply."
   - q: "How do I know if my production drop is from panel degradation or something else?"
     a: "Pull your annual production data for the past three to five years and plot the trend. Then run your system specs through NREL's PVWatts to get a baseline. If your production tracks close to PVWatts (adjusted for degradation) but has suddenly dropped, something broke. If it's been a slow, consistent decline slightly steeper than 0.5% per year, that's panel aging. A sudden cliff usually means inverter, wiring, or a failed optimizer."
   - q: "Is it worth replacing old panels to get the efficiency gains from newer ones?"
-    a: "Rarely, unless you're also constrained by roof space. Upgrading from 15% efficient panels to 22% efficient panels doesn't help you if the old panels already cover your load. If you have limited roof space and want to add capacity without adding more panels, upgrading can make sense. Run the payback math against what you're actually spending and what the ITC will offset before committing."
+    a: "Rarely, unless you're also constrained by roof space. Upgrading from 15% efficient panels to 22% efficient panels doesn't help you if the old panels already cover your load. If you have limited roof space and want to add capacity without adding more panels, upgrading can make sense. Run the payback math against what you're actually spending before committing."
 ---
 
 Most solar panels don't need replacing when you think they do. That's the honest answer. The industry standard warranty is 25 years, and most panels continue producing meaningful power well past that mark, just at a reduced output. The real question isn't "how old are my panels?" but "how much power are they actually producing compared to what they should be?"
@@ -60,7 +60,7 @@ That 80% floor matters, but apply it carefully. Nameplate wattage is measured un
 | System 25+ yrs, output below 70% | Strong case for full replacement | $12,000–$25,000+ |
 | Inverter failure only, panels healthy | Replace inverter only | $1,500–$3,500 |
 
-These are ballpark figures. EnergySage's market data consistently shows significant regional variation in installation costs, and the federal Investment [Tax Credit](/going-solar-without-the-30-tax-credit-what-it-actually-costs-now/) (ITC) currently at 30% for residential systems can apply to a qualifying replacement installation, which changes the math considerably.
+These are ballpark figures. EnergySage's market data consistently shows significant regional variation in installation costs. The federal Investment [Tax Credit](/going-solar-without-the-30-tax-credit-what-it-actually-costs-now/) (ITC) for residential systems is no longer available for installations completed after December 31, 2025, so replacement installations completed in 2026 or later do not qualify for a federal tax credit.
 
 ## Don't Replace the Panels When It's Really the Inverter
 

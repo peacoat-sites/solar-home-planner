@@ -59,7 +59,7 @@ Most homeowners get a quote that says something like "6.4 kW system, 16 panels, 
 
 **Production estimate in kWh per year.** Not just system size in kW, but actual estimated annual production. If your home uses 11,000 kWh per year, the system should be sized to offset a realistic portion of that, accounting for degradation and local solar irradiance.
 
-**All-in pricing.** The quote should break out equipment, labor, permits, and utility interconnection fees. The federal tax credit (currently 30% through 2032 under the Inflation Reduction Act) should be shown separately, not baked into a "net cost" without explanation.
+**All-in pricing.** The quote should break out equipment, labor, permits, and utility interconnection fees. The federal tax credit for homeowner-owned systems is no longer available for installations completed after December 31, 2025, so any quote for a 2026 installation should not include a federal tax credit reduction.
 
 If a company can't or won't provide this level of detail, move on.
 
@@ -67,8 +67,8 @@ If a company can't or won't provide this level of detail, move on.
 
 | Financing Option | You Own the System | Eligible for Tax Credit | Key Risk |
 |---|---|---|---|
-| Cash purchase | Yes | Yes | Upfront cost |
-| Solar loan | Yes | Yes | Interest rate, loan term |
+| Cash purchase | Yes | No (credit expired) | Upfront cost |
+| Solar loan | Yes | No (credit expired) | Interest rate, loan term |
 | Solar lease | No | No | Escalator clauses, home sale complications |
 | Power Purchase Agreement (PPA) | No | No | Long contract term, rate escalators |
 
@@ -76,12 +76,12 @@ The financing piece is where a lot of homeowners get hurt. Here's a quick breakd
 
 | Option | You Own the System | Eligible for Tax Credit | Key Risk |
 |---|---|---|---|
-| Cash purchase | Yes | Yes | Upfront cost |
-| Solar loan | Yes | Yes | Interest rate, loan term |
+| Cash purchase | Yes | No | Upfront cost |
+| Solar loan | Yes | No | Interest rate, loan term |
 | Solar lease | No | No | Escalator clauses, home sale complications |
 | Power Purchase Agreement (PPA) | No | No | Long contract term, rate escalators |
 
-Cash is cleanest if you have the capital. You own the system outright, you capture the full 30% federal tax credit, and there are no monthly payments.
+Cash is cleanest if you have the capital. You own the system outright, and there are no monthly payments.
 
 Solar loans are the next best option for most homeowners. Rates vary widely, from around 3.99% to 9.99% or higher depending on credit score and lender. Watch for "dealer fees" baked into the loan principal. Some installers mark up the system price by 20-30% to cover the financing company's fee, then advertise a low interest rate. Ask for the "cash price" versus the "financed price" and calculate what you're actually paying over the life of the loan.
 

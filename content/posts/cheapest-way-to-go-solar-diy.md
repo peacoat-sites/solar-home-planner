@@ -79,7 +79,7 @@ Here's where the math lives. A realistic DIY 6kW grid-tied system in 2024 might 
 | Monitoring hardware (optional) | $100-$200 |
 | **Total before incentives** | **$4,000-$6,000** |
 
-Then apply the 30% federal Investment Tax Credit. On a $5,000 system, that's $1,500 back at tax time (if you have the tax liability). Your net cost drops to $3,500. Some states add more credits on top.
+Then check whether you qualify for any applicable tax credits. Some states add more credits on top.
 
 For panels, stick to tier-1 brands: Qcells, Canadian Solar, Jinko. They're widely used and have real warranty backing. Skip no-name panels from sketchy resellers. The savings don't justify the warranty headache. For inverters, Enphase microinverters are reliable and simplify wiring but cost more per watt. A SolarEdge or Fronius string inverter is more cost-efficient for a straightforward roof.
 

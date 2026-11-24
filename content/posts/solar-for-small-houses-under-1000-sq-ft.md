@@ -23,14 +23,14 @@ faqs:
   - q: "What if my roof is too small or too shaded for panels?"
     a: "Community solar subscriptions are the underrated option here. You buy a share of a larger offsite solar farm and receive bill credits, no installation required. Savings run 10–15% annually and there's typically no upfront cost. Check EnergySage's community solar marketplace to see availability in your area."
   - q: "Does the 30% federal solar tax credit apply to small systems?"
-    a: "Yes, fully. The Inflation Reduction Act's residential clean energy credit is 30% of total installed cost with no minimum system size. A $5,500 system earns a $1,650 credit. One catch: it's a tax credit, not a refund, so you need sufficient tax liability to use it. If your federal tax bill is $800, you can only claim $800 in the year of installation (the remainder rolls forward)."
+    a: "No. The residential clean energy credit is no longer available for systems installed after December 31, 2025. If your system was installed and completed by December 31, 2025, the credit was 30% of total installed cost with no minimum system size, claimed on Form 5695; unused credit rolls forward to later years and a missed credit can generally be claimed on an amended return within three years. For systems installed in 2026 or later, no federal tax credit applies to homeowner-owned solar."
 ---
 
 Most solar advice assumes you're sizing a system for a 2,400-square-foot house with a three-car garage, a hot tub, and two teenage kids who leave every light on. If you live in a small house, a cottage, a bungalow under 1,000 square feet, that advice is actively misleading. The numbers don't scale down the way you'd expect, and some things actually get harder, not easier, when your roof is small.
 
 A common starting assumption is that [going solar](/going-solar-without-the-30-tax-credit-what-it-actually-costs-now/) on a small home is almost always worth it. I believed that. Consultations on sub-1,000-square-foot homes repeatedly surface the same uncomfortable pattern: payback periods stretch out longer than expected, roof space is the binding constraint rather than budget, and a surprising number of homeowners end up oversized because contractors default to their standard three-bedroom system package. So I went deep on this. What I found challenges a lot of what's floating around out there.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A small house typically needs 3-6 panels (1.2–2.4 kW) to cover most of its load, not the 10-panel systems often quoted.</li><li style="margin:5px 0">Roof size and shading matter more than budget on sub-1,000 sq ft homes, many have less than 300 sq ft of usable south-facing space.</li><li style="margin:5px 0">Payback period on a properly sized small system runs 6–9 years today, longer if the contractor oversizes you.</li><li style="margin:5px 0">The 30% federal tax credit applies regardless of system size, a $6,000 install still earns an $1,800 credit.</li><li style="margin:5px 0">Renters and those with HOA restrictions have viable options: community solar subscriptions can cut bills 10–15% with zero installation.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A small house typically needs 3-6 panels (1.2–2.4 kW) to cover most of its load, not the 10-panel systems often quoted.</li><li style="margin:5px 0">Roof size and shading matter more than budget on sub-1,000 sq ft homes, many have less than 300 sq ft of usable south-facing space.</li><li style="margin:5px 0">Payback period on a properly sized small system runs 6–9 years today, longer if the contractor oversizes you.</li><li style="margin:5px 0">The 30% federal tax credit ended for systems whose installation was completed after December 31, 2025, so homeowners installing in 2026 or later receive no federal credit.</li><li style="margin:5px 0">Renters and those with HOA restrictions have viable options: community solar subscriptions can cut bills 10–15% with zero installation.</li></ul></div>
 
 ## How Much Power Does a Small House Actually Use?
 
@@ -54,15 +54,15 @@ When counting usable roof space, measure twice. For example, estimating usable a
 
 As of August 2026, installed residential solar in the U.S. runs roughly $2.80–$3.40 per watt before any incentives, depending on your region and whether you're dealing with a direct installer or a national sales company (which adds a margin). Here's how that breaks down for small-home scenarios:
 
-| System Size | Panels Needed | Gross Cost | After 30% Federal Credit | Approx. Annual Production | Est. Annual Savings |
-|---|---|---|---|---|---|
-| 1.6 kW (minimal) | 4 x 400W | $4,480–$5,440 | $3,136–$3,808 | 2,000–2,400 kWh | $240–$360 |
-| 2.4 kW (typical small home) | 6 x 400W | $6,720–$8,160 | $4,704–$5,712 | 3,000–3,600 kWh | $360–$540 |
-| 3.2 kW (larger or EV-charging) | 8 x 400W | $8,960–$10,880 | $6,272–$7,616 | 4,000–4,800 kWh | $480–$720 |
+| System Size | Panels Needed | Gross Cost | Approx. Annual Production | Est. Annual Savings |
+|---|---|---|---|---|
+| 1.6 kW (minimal) | 4 x 400W | $4,480–$5,440 | 2,000–2,400 kWh | $240–$360 |
+| 2.4 kW (typical small home) | 6 x 400W | $6,720–$8,160 | 3,000–3,600 kWh | $360–$540 |
+| 3.2 kW (larger or EV-charging) | 8 x 400W | $8,960–$10,880 | 4,000–4,800 kWh | $480–$720 |
 
 Savings assume $0.16–$0.18/kWh blended rate, net metering available. These figures are estimates based on industry averages and will vary by location, utility, and actual consumption.
 
-Consider a hypothetical example: a homeowner in Austin with a 912-square-foot bungalow using 420 kWh per month on average. The installer quotes a 6.4 kW system at $19,200. After reframing the scope, the homeowner goes with a 2.8 kW system at $7,840, the federal credit brings the out-of-pocket cost to $5,488, and the system covers about 82% of usage. Payback comes in on track for 8.1 years. The 6.4 kW system would have generated excess power sold back at roughly 4 cents/kWh (Austin Energy's current buyback rate) rather than offsetting usage at 13 cents. The math was obviously wrong and the installer knew it.
+Consider a hypothetical example: a homeowner in Austin with a 912-square-foot bungalow using 420 kWh per month on average. The installer quotes a 6.4 kW system at $19,200. After reframing the scope, the homeowner goes with a 2.8 kW system at $7,840, and the system covers about 82% of usage. The 6.4 kW system would have generated excess power sold back at roughly 4 cents/kWh (Austin Energy's current buyback rate) rather than offsetting usage at 13 cents. The math was obviously wrong and the installer knew it.
 
 ## Battery Storage: Tempting, But Do the Numbers First
 

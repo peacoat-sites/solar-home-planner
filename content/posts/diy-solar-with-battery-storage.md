@@ -14,7 +14,7 @@ slug: "diy-solar-with-battery-storage"
 affiliate_disclosure: true
 faqs:
  - q: "How much does a DIY solar system with battery storage actually cost?"
-   a: "A realistic, permit-ready system sized for critical loads with 8 to 10 kWh of LFP storage and 4 to 6 kW of solar runs $8,000 to $15,000 in materials today, assuming you're doing the labor yourself. That's before the 30% federal Investment Tax Credit, which currently applies to equipment and installation costs."
+   a: "A realistic, permit-ready system sized for critical loads with 8 to 10 kWh of LFP storage and 4 to 6 kW of solar runs $8,000 to $15,000 in materials today, assuming you're doing the labor yourself. The 30% federal Residential Clean Energy Credit applied to equipment and installation costs for systems whose installation was completed by December 31, 2025, but is no longer available for installations completed after that date."
  - q: "Can I legally do my own solar installation?"
    a: "In most U.S. states, homeowners can pull their own permits and do their own installation on their primary residence, but many states require a licensed electrician or solar contractor to sign off on the electrical work. Check your specific state's contractor licensing board and your local AHJ before buying anything."
  - q: "Will my battery system work during a power outage if I'm grid-tied?"

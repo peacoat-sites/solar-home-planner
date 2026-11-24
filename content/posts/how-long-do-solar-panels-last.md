@@ -94,7 +94,7 @@ Want to track what your system's actually producing day to day? A home energy mo
 
 Back to that reader with the 22-year-old system. Here's my actual framework.
 
-EnergySage's market data shows a typical 6kW residential system costs roughly $15,000 to $20,000 before incentives (closer to $10,500 to $14,000 after the 30% federal tax credit through 2032). That's real money. Ripping out a still-functional older system just because it's old is almost never the right call financially.
+EnergySage's market data shows a typical 6kW residential system costs roughly $15,000 to $20,000 before incentives. That's real money. Ripping out a still-functional older system just because it's old is almost never the right call financially.
 
 The math changes if your old system has degraded beyond what you'd expect (a $200 monitoring service or professional audit can tell you), if it's undersized for your household now, or if you're adding an EV and need more production. Those are legitimate reasons to consider replacement or expansion.
 

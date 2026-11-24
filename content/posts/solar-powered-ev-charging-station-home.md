@@ -16,7 +16,7 @@ faqs:
   - q: "Does solar charging work with any EV?"
     a: "Any EV with a standard J1772 port works with a Level 2 EVSE, which is what you'd connect to a solar system at home. Teslas use a different connector natively but ship with adapters. Bidirectional charging (vehicle-to-home) is a different question: only specific vehicles (Nissan Leaf with CHAdeMO port, Ford F-150 Lightning, Hyundai Ioniq 5 and 6) currently support it with the right hardware."
   - q: "What's the payback period for solar plus EV charging?"
-    a: "It depends heavily on your electricity rate, driving miles, solar resource, and whether you qualify for the federal 30% Investment Tax Credit under current IRS guidance. A rough estimate for a combined solar-plus-EV-charging system in a high-rate state like California or Massachusetts: 6 to 9 years. In a low-rate state like Louisiana or Idaho, closer to 10 to 14 years. The ITC significantly changes that math, so don't evaluate payback without it."
+    a: "It depends heavily on your electricity rate, driving miles, solar resource, and whether you qualify for any available tax credits or incentives. A rough estimate for a combined solar-plus-EV-charging system in a high-rate state like California or Massachusetts: 6 to 9 years. In a low-rate state like Louisiana or Idaho, closer to 10 to 14 years."
   - q: "Is a dedicated circuit required for an EV charger?"
     a: "Yes. A Level 2 EVSE must be on a dedicated 240V circuit, sized to 125% of the charger's continuous load per NEC 625. A 32A charger needs a 40A dedicated circuit. A 48A charger needs a 60A circuit. Sharing a circuit with other loads isn't permitted and creates a genuine fire risk, not a theoretical one."
 author: "Rachel Kim"

@@ -39,7 +39,7 @@ Cutting permitting timelines from weeks or months down to five days doesn't elim
 
 ## Why the National Picture Looks So Different
 
-This shift appears structural rather than cyclical. The 30% [federal tax credit](/solar-batteries-hit-record-attach-rates-as-federal-credit-disappears/) significantly improved home solar economics. A $31,000 system with the ITC cost the homeowner closer to $21,700 after the credit. Without it, you're back to sticker price. This price difference represents a real psychological and financial barrier for price-sensitive buyers.
+This shift appears structural rather than cyclical. The 30% [federal tax credit](/solar-batteries-hit-record-attach-rates-as-federal-credit-disappears/) significantly improved home solar economics. Without it, you're back to sticker price. This price difference represents a real psychological and financial barrier for price-sensitive buyers.
 
 The SEIA Q2 2026 report adds two more problems on top of that. The bankruptcy of the second-largest national installer, a company that had sales reps in big-box stores across the country, left tens of thousands of customers in limbo and made consumers nationally more skeptical about signing with any large solar company. Tax equity availability, which is the financing mechanism that lets installers offer zero-down or low-interest deals, also tightened. When installers can't offer attractive financing, fewer homeowners sign contracts.
 

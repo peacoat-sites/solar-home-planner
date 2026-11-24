@@ -35,7 +35,7 @@ So let me give you the real comparison, contractor bias removed.
 
 | Aspect | Rooftop Solar | Community Solar |
 | --- | --- | --- |
-| Upfront Cost | $16,800-$19,600 (after 30% ITC) | $0 |
+| Upfront Cost | Varies | $0 |
 | Installation | Required; 5-10% rejection/delay rate via HOA | None |
 | Payback Timeline | 7-10 years typical | N/A (subscription model) |
 | Long-term Savings (20 years) | $40,000-$60,000 | $2,000-$6,000 |
@@ -45,7 +45,7 @@ So let me give you the real comparison, contractor bias removed.
 | Contract Length | N/A (owned asset) | 20 years (some projects); early termination fees up to $3,000 |
 | Best For | Long-term homeowners; good roof; unshaded space | Renters; shaded roofs; short-term residents; HOA issues |
 
-Rooftop solar is a capital investment. You're buying (or financing) physical equipment, having it bolted to your house, and owning the electricity output for 25-plus years. The median installed cost today is running around $3.00 to $3.50 per watt before incentives. A typical 8 kW residential system lands somewhere around $24,000 to $28,000 before the federal Investment Tax Credit (ITC). After the 30% ITC, you're looking at $16,800 to $19,600 out of pocket, or rolled into a loan.
+Rooftop solar is a capital investment. You're buying (or financing) physical equipment, having it bolted to your house, and owning the electricity output for 25-plus years. The median installed cost today is running around $3.00 to $3.50 per watt before incentives. A typical 8 kW residential system lands somewhere around $24,000 to $28,000 before the federal Residential Clean Energy Credit (Section 25D). The federal 30% Residential Clean Energy Credit (Section 25D) is no longer available for systems whose installation was completed after December 31, 2025.
 
 Community solar works differently. A developer builds a large solar farm, usually somewhere in your utility territory, and sells or leases you a "share" of that array's output. Your utility bills that energy against what your share produces, and you pay the community solar developer for your subscription, typically at a rate 5-15% below your regular utility rate. No equipment on your roof. No installation crew. No permits.
 
@@ -55,7 +55,7 @@ These are fundamentally different products, and comparing them requires being ho
 
 If you own your home, plan to stay there at least 7-10 years, have an unshaded south or west-facing roof, and can either pay cash or qualify for a low-interest solar loan, rooftop solar is almost certainly the better long-term financial move.
 
-Here's why: once you've paid off the system, you're generating electricity at close to zero marginal cost. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has done extensive levelized cost of energy (LCOE) modeling showing that residential rooftop systems, over their full lifetime, produce energy at roughly $0.06 to $0.10 per kWh once you account for the ITC and net metering. Your utility is probably charging you $0.12 to $0.18 per kWh right now, and that number trends upward over time.
+Here's why: once you've paid off the system, you're generating electricity at close to zero marginal cost. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has done extensive levelized cost of energy (LCOE) modeling showing that residential rooftop systems, over their full lifetime, produce energy at roughly $0.06 to $0.10 per kWh once you account for net metering. Your utility is probably charging you $0.12 to $0.18 per kWh right now, and that number trends upward over time.
 
 That spread compounds hard. A homeowner who installs a well-sized system today, uses net metering, and stays in the house for 20 years can realistically see $40,000 to $60,000 in cumulative utility bill savings, depending on their market and usage.
 

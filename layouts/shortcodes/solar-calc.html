@@ -70,8 +70,8 @@
       </label>
     </div>
     <div class="ck-row">
-      <input type="checkbox" id="sc-itc" checked onchange="scCalc()">
-      <span>Apply 30% Federal Solar Tax Credit (ITC — through 2032)</span>
+      <input type="checkbox" id="sc-itc" onchange="scCalc()">
+      <span>Apply 30% federal credit (only for systems installed by Dec 31, 2025; ended for later installs)</span>
     </div>
     <div id="sc-results" class="rg"></div>
     <div id="sc-itc-callout" class="callout" style="display:none"></div>
@@ -127,7 +127,7 @@ window.scCalc = function(){
   var callout = document.getElementById('sc-itc-callout');
   if(itc){
     callout.style.display='';
-    callout.innerHTML = '✨ <b>Federal Tax Credit: 30% = saves '+fmt(itcSavings)+'</b> off your system cost — claimed on IRS Form 5695 when you file taxes the year installation is complete.';
+    callout.innerHTML = '✨ <b>Federal Tax Credit: 30% = saves '+fmt(itcSavings)+'</b> off your system cost. This only applies to systems whose installation was completed by December 31, 2025 (claimed on IRS Form 5695 for that tax year). The credit ended for installations completed after that date.';
   } else {
     callout.style.display='none';
   }

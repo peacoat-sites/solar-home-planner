@@ -10,15 +10,15 @@ slug: "solar-agreement-types-ppa-vs-loan-vs-lease"
 affiliate_disclosure: true
 faqs:
   - q: "Can I refinance or pay off a solar loan early?"
-    a: "Most unsecured solar loans allow prepayment without penalty, but check your specific contract. Paying it down in year one with your ITC refund is a common and smart strategy: use the $9,000 tax credit to immediately reduce your principal, cutting interest significantly over the loan term."
+    a: "Most unsecured solar loans allow prepayment without penalty, but check your specific contract."
   - q: "Is a solar lease worth it if I have good credit and decent tax liability?"
-    a: "Honestly, probably not. If you can qualify for a 7% or lower solar loan and you owe federal taxes, you'll almost certainly come out ahead with a loan over 20 years. The lease's main selling points are zero hassle and zero upfront cost, but the loan's ITC advantage is hard to overcome with math."
+    a: "Honestly, probably not. If you can qualify for a 7% or lower solar loan and you owe federal taxes, you'll almost certainly come out ahead with a loan over 20 years. The lease's main selling points are zero hassle and zero upfront cost, but the loan no longer carries a federal tax credit advantage for systems installed in 2026 or later, so the financial comparison between the two options is closer than it once was."
   - q: "What happens to my PPA if the solar company goes out of business?"
     a: "The panels stay on your roof and the contract typically transfers to whoever acquires the company's assets. If no one acquires them and the company simply dissolves, your situation becomes murky. You'd likely keep using the panels, though getting service or a buyout becomes difficult. This is a real risk with smaller regional providers, and it's worth checking a company's financial stability and track record before signing a 25-year agreement."
   - q: "Do I need good credit for a solar PPA or lease?"
     a: "Yes, though the threshold varies by provider. Most require a minimum credit score around 650 to 680 for lease/PPA approval. Solar loans through unsecured lenders typically want 680 to 700 minimum; HELOC-based financing uses your home equity and standard mortgage-style underwriting. Don't let a salesperson tell you your score 'probably won't matter.'"
   - q: "Can I add battery storage to a leased system?"
-    a: "Sometimes, but it's complicated. If the battery is added by the same leasing company, they'll typically own it under a separate or amended agreement. Adding your own battery to a third-party-owned solar system isn't usually permitted without written consent. With an owned system (loan or cash), you can add a Powerwall or Enphase IQ battery whenever you want, and any storage added to an owned system after August 2022 qualifies for the 30% ITC under current IRA rules."
+    a: "Sometimes, but it's complicated. If the battery is added by the same leasing company, they'll typically own it under a separate or amended agreement. Adding your own battery to a third-party-owned solar system isn't usually permitted without written consent. With an owned system (loan or cash), you can add a Powerwall or Enphase IQ battery whenever you want, but the 30% federal tax credit for battery storage on homeowner-owned systems is no longer available for installations completed after December 31, 2025."
 author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Inverters and Wiring"
@@ -33,24 +33,24 @@ There are three structures you'll encounter: a Power Purchase Agreement (PPA), a
 
 | Financing Type | Upfront Cost | Ownership | Federal ITC | Monthly Payment | Home Sale Transfer | Repair Responsibility |
 | --- | --- | --- | --- | --- | --- | --- |
-| PPA | $0 | Third party | No (company claims) | Per kWh (~$0.08-$0.12, 1-3% annual increase) | Requires buyer qualification; buyout may apply | Company |
-| Lease | $0 | Third party | No (company claims) | Flat fee (independent of production) | Requires buyer qualification; early termination fees $2K-$5K possible | Company |
-| Loan (Secured) | $0 upfront | You (after payoff) | Yes (30% ITC, ~$9K on $30K system) | Monthly payment (5-8% interest typical) | Simple transfer with home | You |
-| Loan (Unsecured) | $0 upfront | You (after payoff) | Yes (30% ITC, ~$9K on $30K system) | Monthly payment (6-12%+ interest typical) | Simple transfer with home | You |
+| PPA | $0 | Third party | No (company claims, subject to eligibility and construction/placed-in-service deadlines) | Per kWh (~$0.08-$0.12, 1-3% annual increase) | Requires buyer qualification; buyout may apply | Company |
+| Lease | $0 | Third party | No (company claims, subject to eligibility and construction/placed-in-service deadlines) | Flat fee (independent of production) | Requires buyer qualification; early termination fees $2K-$5K possible | Company |
+| Loan (Secured) | $0 upfront | You (after payoff) | No (federal credit ended for installations completed after December 31, 2025) | Monthly payment (5-8% interest typical) | Simple transfer with home | You |
+| Loan (Unsecured) | $0 upfront | You (after payoff) | No (federal credit ended for installations completed after December 31, 2025) | Monthly payment (6-12%+ interest typical) | Simple transfer with home | You |
 
 **PPA:** A third party owns the panels on your roof. You buy the electricity they produce, not the hardware. Pricing is set per kilowatt-hour, often starting around $0.08 to $0.12/kWh depending on your market, with an annual escalator of 1% to 3% written into the contract. The appeal is obvious: zero upfront, no maintenance responsibility, and your bill drops on day one. The catch is that you're signing a 20 or 25-year agreement with a company that may or may not exist in 2045.
 
 **Lease:** Structurally nearly identical to a PPA, but instead of paying per kWh, you pay a flat monthly fee regardless of how much power the system generates. That sounds minor. It isn't. If your panels get shaded by a tree your neighbor planted, or if the inverter underperforms for six months, your payment doesn't change. With a PPA, at least you're only paying for what you get.
 
-**Loan:** You own the system outright after the final payment. This means you claim the 30% [federal Investment Tax Credit (ITC)](/diy-solar-panel-system-sizing/) yourself, which as of 2024 is still at full strength under the Inflation Reduction Act through 2032. On a $30,000 system, that's $9,000 back. Solar loans come in a few flavors: secured (home equity, HELOC) and unsecured (personal solar loans). Secured loans carry lower interest rates, typically 5% to 8% right now, but put your house on the line. Unsecured loans from installers or third-party lenders like Mosaic or Sunlight Financial run 6% to 12%, sometimes higher for longer terms.
+**Loan:** You own the system outright after the final payment. Solar loans come in a few flavors: secured (home equity, HELOC) and unsecured (personal solar loans). Secured loans carry lower interest rates, typically 5% to 8% right now, but put your house on the line. Unsecured loans from installers or third-party lenders like Mosaic or Sunlight Financial run 6% to 12%, sometimes higher for longer terms. Note that the 30% [federal Investment Tax Credit (ITC)](/diy-solar-panel-system-sizing/) for homeowner-owned systems ended for installations completed after December 31, 2025, so systems installed in 2026 or later receive no federal tax credit.
 
-## The Tax Credit Is the Whole Ballgame
+## Why the Tax Credit Change Matters for Leases and Loans
 
 Here's where most people make a $9,000 mistake.
 
 With a PPA or lease, you do not get the federal ITC. The company that owns the panels does. They'll often use that credit to offer you a lower rate, which is how they pitch it as a benefit to you. It is, partially. But the credit is worth 30% of the system cost, and you're getting pennies on the dollar of that value passed through in a slightly reduced monthly rate.
 
-If you can use the tax credit (meaning you owe at least that much in federal taxes, which most homeowners do), a loan is almost always the better financial move. If your tax liability is genuinely low, a PPA or lease starts looking more competitive. This is the single most important variable in the decision and most solar salespeople either explain it badly or skip it entirely.
+If you cannot use the federal tax credit for a new solar installation (because the 30% Residential Clean Energy Credit no longer applies to systems installed after December 31, 2025), a PPA or lease may start looking more competitive with a loan. This is the single most important variable in the decision and most solar salespeople either explain it badly or skip it entirely.
 
 One thing worth knowing: you can't "roll over" the ITC across multiple years as a refund. If you owe $4,000 in federal taxes this year, you get $4,000. You can carry the remainder forward to subsequent tax years, but you need to plan for that. Talk to your tax preparer before you sign anything.
 
@@ -82,9 +82,9 @@ EnergySage's market data consistently shows that quotes through their platform r
 
 A PPA or lease can genuinely be the right call if you have limited tax liability, you plan to stay in the house long-term (15+ years, long enough that the escalator math works out), you want zero maintenance involvement, and you've read the contract thoroughly and understood the buyout schedule.
 
-A loan is the right call for most homeowners who can qualify for decent financing, especially if you owe substantial federal taxes this year. Yes, you're taking on debt. But you own an asset, you capture the full tax credit, and in years 8 through 25 you're generating power essentially for free aside from occasional maintenance.
+A loan is the right call for most homeowners who can qualify for decent financing. Yes, you're taking on debt. But you own an asset, and in years 8 through 25 you're generating power essentially for free aside from occasional maintenance. Note that the federal residential clean energy tax credit is no longer available for systems installed after December 31, 2025.
 
-The worst version of either type is a 25-year lease with a 3% annual escalator from a company that launched four years ago. The best version of a loan is a 10-year term at under 7% with the tax credit fully applied. There's a lot of space in between.
+The worst version of either type is a 25-year lease with a 3% annual escalator from a company that launched four years ago. The best version of a loan is a 10-year term at under 7%. There's a lot of space in between.
 
 A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor) is genuinely useful once you own a system. It'll show you actual production vs. consumption in real time, which matters when you're trying to confirm your system is performing to spec. (Affiliate link, the site may earn a commission.)
 

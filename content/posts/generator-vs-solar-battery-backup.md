@@ -45,7 +45,7 @@ A mid-range portable generator, something like a 7,500-watt dual-fuel unit, migh
 
 Battery backup costs more upfront. A single Tesla Powerwall 3 with installation runs roughly $12,000 to $16,000, depending on your region and installer. Two of them, which gives you enough capacity to run a typical home for 24 to 36 hours with mindful usage, puts you at $20,000 to $28,000. That's before any incentives.
 
-Here's where the math changes: the federal Investment Tax Credit (ITC) currently covers 30% of battery installation costs if the battery is charged by solar. A $14,000 Powerwall installation could net you a $4,200 tax credit. Many states layer additional incentives on top of that. Generators get nothing. EnergySage's market data consistently shows that battery-plus-solar combinations have lower 10-year total cost of ownership than generator setups when you account for fuel, maintenance, and incentives, though the upfront number still stings.
+Here's where the math changes: the federal Investment Tax Credit (ITC) previously covered 30% of battery installation costs if the battery was charged by solar, but that credit is no longer available for homeowners whose installation was completed after December 31, 2025. Many states layer additional incentives on top of federal programs. Generators get nothing. EnergySage's market data consistently shows that battery-plus-solar combinations have lower 10-year total cost of ownership than generator setups when you account for fuel, maintenance, and incentives, though the upfront number still stings.
 
 Ongoing costs matter too. A natural gas standby generator needs annual servicing, roughly $150 to $300 per year. Portable generators need oil changes, fresh fuel, and carburetor attention if they sit unused. Battery systems need essentially nothing. Some manufacturers recommend a firmware update check every year or so, and that's about it.
 
@@ -103,7 +103,7 @@ Work through this honestly before you spend anything.
 
 **Step 4: Check your solar situation.** Do you already have solar panels? A battery system is a natural, highly economical add-on. Your installer can typically add a Powerwall or EverVolt to an existing solar system without a full redesign. No solar? A battery alone is still useful but loses some of its recharge advantage during extended outages.
 
-**Step 5: Get real quotes for both options.** Don't estimate. Call a licensed electrician for a generator quote and a certified solar installer for a battery quote. Make sure both quotes include installation, permits, and any panel upgrades. Compare those real numbers, then apply the tax credit math to the battery option.
+**Step 5: Get real quotes for both options.** Don't estimate. Call a licensed electrician for a generator quote and a certified solar installer for a battery quote. Make sure both quotes include installation, permits, and any panel upgrades. Compare those real numbers. No federal tax credit is currently available for battery storage installed in 2026 or later.
 
 **Step 6: Consider the dual-use value.** A battery system provides value every single day, not just during outages. Time-of-use rate arbitrage, demand charge reduction, self-consumption of solar, and backup protection all come from one installation. A generator sits dormant until needed. That changes the return-on-investment calculation significantly.
 

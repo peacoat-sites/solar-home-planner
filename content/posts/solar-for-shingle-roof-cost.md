@@ -14,7 +14,7 @@ slug: "solar-for-shingle-roof-cost"
 affiliate_disclosure: true
 faqs:
  - q: "How much does solar cost per watt on a shingle roof in 2026?"
-   a: "Current installed costs (July 2026) run between $2.80 and $3.50 per watt before incentives. After the 30% federal tax credit, effective cost drops to roughly $1.96 to $2.45 per watt for most residential systems."
+   a: "Current installed costs run between $2.80 and $3.50 per watt before incentives. The 30% federal tax credit (IRC Section 25D) is no longer available for systems installed after December 31, 2025."
  - q: "Does roof age affect solar installation cost?"
    a: "Yes, in two ways: installers may charge more to work carefully around older shingles, and if your roof is near end-of-life, you'll likely need to re-roof before or shortly after installation, which is a separate expense. Get a roofing assessment before finalizing your solar contract."
  - q: "Are microinverters worth the extra cost on a shingle roof?"
@@ -36,9 +36,9 @@ Let me walk you through what actually drives the cost, where the real money goes
 
 ## What a Typical Shingle Roof Solar Installation Costs Right Now
 
-As of July 2026, the average installed cost for residential solar on a shingle roof runs between **$2.80 and $3.50 per watt** before incentives. On a typical 8 kilowatt system, that puts you somewhere between **$22,400 and $28,000** before the federal tax credit kicks in.
+The average installed cost for residential solar on a shingle roof runs between **$2.80 and $3.50 per watt** before incentives. On a typical 8 kilowatt system, that puts you somewhere between **$22,400 and $28,000**.
 
-After the 30% federal Investment Tax Credit (which is still in place for 2026, though the long-term extension picture remains worth watching), you're looking at a net cost somewhere in the **$15,700 to $19,600 range** for that same 8 kW system. State incentives, utility rebates, and local programs can push that lower still, but they vary so much by location that I won't pretend a national average captures them.
+After the 30% federal Investment Tax Credit, which ended for installations completed after December 31, 2025, homeowner-owned systems installed in 2026 or later receive no federal tax credit. State incentives, utility rebates, and local programs can push costs lower still, but they vary so much by location that a national average does not capture them.
 
 You might be wondering: why such a wide range? A few factors swing it hard.
 
@@ -90,7 +90,7 @@ The permit and interconnection piece is something a lot of homeowners don't fact
 
 A few real-world scenarios that illustrate how these variables play out:
 
-**Scenario 1:** A homeowner in the Atlanta suburbs with a 10-year-old 6/12 pitch shingle roof, modest shading, and 1,100 sq ft of usable south-facing space. Needed a 7.2 kW system. Went with LONGi panels and a SolarEdge string inverter with power optimizers. Total installed: $23,400 gross, $16,380 after federal credit. Payback estimated at 8.2 years based on $148/month average bill before solar.
+**Scenario 1:** A homeowner in the Atlanta suburbs with a 10-year-old 6/12 pitch shingle roof, modest shading, and 1,100 sq ft of usable south-facing space. Needed a 7.2 kW system. Went with LONGi panels and a SolarEdge string inverter with power optimizers. Total installed: $23,400. Payback estimated at 8.2 years based on $148/month average bill before solar.
 
 **Scenario 2:** Same-sized system, but steeper 10/12 pitch with a 22-year-old shingle roof. Installer flagged the roof; homeowner replaced it first (Owens Corning Duration, $9,800). Combined project: $33,200 gross, $23,240 after credit (only the solar portion is credit-eligible). Payback stretched to 11.4 years, but they're not staring down a roof replacement mid-solar-system-life.
 

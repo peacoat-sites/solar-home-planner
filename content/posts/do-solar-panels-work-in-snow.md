@@ -23,7 +23,7 @@ faqs:
   - q: "Does ice under the panels cause problems?"
     a: "Ice damming under or around panels is a legitimate concern on some roof types, particularly those with low slopes or existing ice dam history. Panels create a warmer microclimate on the roof surface, which can accelerate melt-refreeze cycles at the eave. Proper flashing and installation that allows air circulation beneath the panels helps. Ask your installer how they handle this before you sign."
   - q: "Is solar worth it in Minnesota or upstate New York?"
-    a: "Yes, with realistic expectations. Minnesota and New York both have net metering policies that let you bank summer overproduction to offset winter shortfalls. The financial math still works in most cases, especially with federal tax credits currently available. Don't let anyone tell you northern climates can't make solar pencil out; they can. Just insist on real production estimates, not pitch-deck optimism."
+    a: "Yes, with realistic expectations. Minnesota and New York both have net metering policies that let you bank summer overproduction to offset winter shortfalls. The financial math still works in most cases, though federal tax credits for homeowner-owned systems are no longer available for installations completed after December 31, 2025. Don't let anyone tell you northern climates can't make solar pencil out; they can. Just insist on real production estimates, not pitch-deck optimism."
 ---
 
 Most people asking this question are from snowy climates who've been pitched a $35,000 solar system and want to know if they're getting played. Fair question. The short answer is no, you're not getting played, but the nuances matter a lot depending on where you live and who's designing your system.

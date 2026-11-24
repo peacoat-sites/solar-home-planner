@@ -3,7 +3,7 @@ title: "Solar Savings Calculator: Estimate Your Payback Period and 25-Year Retur
 hide_title: true
 date: 2026-06-10
 draft: false
-description: "Use our free solar savings calculator to estimate annual savings, payback period, and 25-year returns for your home solar system, including the 30% federal tax credit."
+description: "Use our free solar savings calculator to estimate annual savings, payback period, and 25-year returns for your home solar system."
 slug: "solar-savings-calculator"
 author: "Rachel Kim"
 author_slug: "rachel-kim"
@@ -27,11 +27,11 @@ We apply an 80% performance ratio to account for real-world losses: inverter eff
 
 For a 6 kW system in Texas (5.2 peak sun hours), that works out to roughly 9,110 kWh per year. At 14 cents per kWh, that is about $1,275 in annual savings.
 
-## The 30% Federal Solar Tax Credit (ITC)
+## The 30% Federal Solar Tax Credit (Ended After 2025)
 
-The Inflation Reduction Act extended the Investment Tax Credit (ITC) at 30% through 2032. This is not a rebate, it reduces your federal income tax liability dollar for dollar. If your system costs $18,000, the ITC cuts your effective cost to $12,600. You claim it on IRS Form 5695 in the tax year your system is placed in service.
+The 30% Residential Clean Energy Credit (IRC Section 25D) for homeowner-owned solar installations ended for systems whose installation was completed after December 31, 2025. This is not a rebate, it reduces your federal income tax liability dollar for dollar. You claim it on IRS Form 5695 in the tax year your system is placed in service.
 
-The calculator applies the ITC to your gross system cost before calculating payback period. If you enter an installer quote, we use that. If you leave the quote field blank, we estimate system cost at $2,800 per installed kilowatt, which is close to the national average for a fully installed residential system in 2024 to 2025.
+The calculator no longer applies a federal tax credit to your gross system cost before calculating payback period, because the 30% Residential Clean Energy Credit (Section 25D) is not available for systems installed after December 31, 2025. If you enter an installer quote, we use that. If you leave the quote field blank, we estimate system cost at $2,800 per installed kilowatt, which is close to the national average for a fully installed residential system in 2024 to 2025.
 
 Many states also offer additional incentives: property tax exemptions, sales tax exemptions on solar equipment, and utility rebates. Enter any state or utility rebate in the rebate field to see how it affects your numbers.
 

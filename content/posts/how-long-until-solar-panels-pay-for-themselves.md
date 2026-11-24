@@ -18,7 +18,7 @@ faqs:
  - q: "What happens after the payback period?"
    a: "You keep producing electricity for free (roughly free, accounting for minimal maintenance and eventual inverter replacement around year 12-15). A central string inverter costs $1,000-$2,000 to replace. Panel cleaning in dusty climates is a small recurring cost. A solar panel cleaning kit runs $30-$80 and handles most residential systems easily. (This site may earn a commission on qualifying Amazon purchases.) After breakeven, the remaining 15-plus years of production represent pure financial return, often $30,000 to $60,000 worth of electricity depending on your system size and rate."
  - q: "Should I wait for panel prices to drop more before installing?"
-   a: "This is the question I hear most. Prices have dropped dramatically over the past decade, but the cost curve has flattened. The 30% federal ITC is scheduled to remain through 2032, then step down. Every year you wait is a year of utility bills you're paying at full price. If the numbers work today, the opportunity cost of waiting usually exceeds whatever marginal price improvement you might get in two or three years. The payback period isn't a magic number you read off a chart. It's a calculation you do yourself, with your actual utility data and your specific quotes, before you sign anything."
+   a: "This is the question I hear most. Prices have dropped dramatically over the past decade, but the cost curve has flattened. The 30% federal residential clean energy credit ended for systems whose installation was completed after December 31, 2025, so homeowners installing in 2026 or later receive no federal tax credit. Every year you wait is a year of utility bills you're paying at full price. If the numbers work today, the opportunity cost of waiting usually exceeds whatever marginal price improvement you might get in two or three years. The payback period isn't a magic number you read off a chart. It's a calculation you do yourself, with your actual utility data and your specific quotes, before you sign anything."
 author: "David Torres"
 author_slug: "david-torres"
 author_title: "Residential Solar"
@@ -33,7 +33,7 @@ The payback period is the single most important number in the solar decision, an
 
 The formula is simple: total net system cost divided by annual savings equals payback period in years.
 
-A $20,000 system that qualifies for the 30% federal Investment Tax Credit (ITC) drops to $14,000 out of pocket. If that system saves you $1,800 per year on your electric bill, you're looking at a 7.8-year payback. After that, every dollar of electricity it produces is effectively free money for the remaining life of the panels, which is typically 25 to 30 years.
+A $20,000 system, if that system saves you $1,800 per year on your electric bill, you're looking at a payback period based on the full $20,000 cost. After that, every dollar of electricity it produces is effectively free money for the remaining life of the panels, which is typically 25 to 30 years.
 
 What installers skip: degradation. Solar panels lose about 0.5% of their output per year, per data from the National Renewable Energy Laboratory. That's not dramatic, but over 25 years it adds up to roughly 12-13% less production than year one. Your savings calculations should account for this. Most sales presentations don't.
 
@@ -60,7 +60,7 @@ Forget generic averages. These factors swing your payback period by years in eit
 
 **Roof orientation and shading.** South-facing, unshaded roof planes at a 30-35 degree pitch are ideal for most of the continental U.S. East or west-facing systems typically produce 10-20% less. A single large tree shading your array from 2 to 5 p.m. can knock production down more than you'd expect, especially on older string inverter systems where one shaded panel drags down the whole string. [Microinverters or DC optimizers](/best-solar-inverter-brands-reviewed/) fix this, at a cost.
 
-**Incentives beyond the federal ITC.** The 30% ITC is real and valuable, but state credits, utility rebates, and property tax exemptions can shave years off your payback. Massachusetts, for example, has the SMART program that pays a per-kWh incentive for ten years. New York has the NY-Sun initiative. The Solar Energy Industries Association maintains a solid database of state and local incentives worth checking before you assume the federal credit is all you're getting.
+**Incentives beyond the federal ITC.** State credits, utility rebates, and property tax exemptions can shave years off your payback. Massachusetts, for example, has the SMART program that pays a per-kWh incentive for ten years. New York has the NY-Sun initiative. The Solar Energy Industries Association maintains a solid database of state and local incentives worth checking, as these programs remain available even though the federal residential solar credit has ended for systems installed after December 31, 2025.
 
 ## How to Calculate Your Own Payback Period
 
@@ -72,7 +72,7 @@ Don't let an installer do this for you on a sales call. Run the numbers yourself
 
 3. **Calculate gross annual savings.** Multiply estimated production by your rate. If net metering is full retail, this is straightforward. If you're in a state with reduced export rates, split your production estimate into self-consumed power (worth retail) and exported power (worth the export rate). Self-consumption percentage depends on your usage patterns, typically 40-70% for a properly sized system.
 
-4. **Apply all incentives to your system cost.** Subtract the federal ITC (30% of total installed cost), any state tax credit, direct utility rebates, and equipment rebates. This is your net cost.
+4. **Apply all incentives to your system cost.** For systems installed by December 31, 2025, subtract the federal ITC (30% of total installed cost). For systems installed after that date, no federal ITC applies to homeowner-owned systems. Also subtract any state tax credit, direct utility rebates, and equipment rebates. This is your net cost.
 
 5. **Divide net cost by annual savings.** That's your payback period.
 

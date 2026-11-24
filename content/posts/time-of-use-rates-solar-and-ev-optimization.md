@@ -72,7 +72,7 @@ Most modern inverter/battery systems (the SolarEdge Energy Hub, the Enphase IQ S
 
 A [home energy monitor like the Emporia Vue 3](https://www.amazon.com/s?k=emporia+vue+3+energy+monitor&tag=contentportfo-20) (around $90) is worth every cent here. It gives you real-time circuit-level visibility so you can see exactly when and where your household is drawing power. Without it, you're guessing. With it, you can confirm that your battery is actually holding charge through peak hours, that your EV charger kicked on at 9:05 p.m. like scheduled, and that your HVAC isn't spiking during the expensive window.
 
-EnergySage's market data shows the average solar-plus-storage system in 2026 runs between $25,000 and $40,000 installed before incentives. The federal Investment Tax Credit (currently 30%) makes a significant dent, and several states stack additional credits on top. If you're in that system, TOU optimization is one of the few ways to actively improve your return on investment post-install, rather than just waiting for the payback clock to tick down.
+EnergySage's market data shows the average solar-plus-storage system in 2026 runs between $25,000 and $40,000 installed before incentives. Several states offer additional credits on top of any applicable incentives. If you're in that system, TOU optimization is one of the few ways to actively improve your return on investment post-install, rather than just waiting for the payback clock to tick down.
 
 ## The Rate Schedule Trap Nobody Warns You About
 

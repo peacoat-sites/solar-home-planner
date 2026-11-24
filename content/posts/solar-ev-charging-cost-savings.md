@@ -13,8 +13,8 @@ faqs:
    a: "It depends on how far you drive and where you live, but a useful rough estimate: every 1 kW of solar capacity generates about 100 to 150 kWh per month depending on your location's sun hours. If you need 320 kWh/month for the car, that's roughly 2 to 3 kW of additional solar capacity dedicated to vehicle charging. Translated to panels: modern 400W panels mean you'd need 5 to 8 additional panels to cover average EV charging needs."
  - q: "Can I use solar to charge my EV without a battery?"
    a: "Yes, and many homeowners do exactly this. The key is scheduling your charging during peak solar production hours, roughly 10 a.m. to 3 p.m. Without a battery, any unused solar generation gets pushed back to the grid (and credited via net metering if your utility offers it). A Level 2 charger with time-scheduling lets you set this up automatically."
- - q: "Does the 30% federal tax credit apply to EV charging equipment too?"
-   a: "It does, with a catch. The residential EV charging equipment credit (Form 8911) was recently modified and now requires the charger to be installed in a Census-designated low-income or rural census tract to qualify for the residential credit. However, the solar ITC (Form 5695) still covers the full system including installation at 30%, regardless of location, through 2032. Check with a tax professional on your specific situation since these rules have shifted."
+ - q: "No. The 30% Residential Clean Energy Credit (Section 25D) does not cover EV charging equipment. The EV charger credit falls under Section 30C, which covers property placed in service through June 30, 2026."
+   a: "It does, with a catch. The residential EV charging equipment credit (Form 8911) was recently modified and now requires the charger to be installed in a Census-designated low-income or rural census tract to qualify for the residential credit. However, the solar ITC (Form 5695) covered the full system including installation at 30%, but only for systems whose installation was completed by December 31, 2025. Systems installed after that date no longer qualify for the federal credit. Check with a tax professional on your specific situation since these rules have shifted."
  - q: "What if my utility has net metering? Does that change the math?"
    a: "It does, significantly. With full retail net metering, any excess solar you push to the grid earns you credits at your retail electricity rate. This means even if you can't charge your car during the day (because you're at work), your solar overproduction during the day can offset the grid power you pull in the evening for charging. Many utilities are moving toward reduced net metering rates, though, so don't plan your system around generous net metering that might not last."
  - q: "Is it worth adding more solar panels if I already have a system but just got an EV?"
@@ -47,7 +47,7 @@ A typical EV gets somewhere between 3 and 4 miles per kilowatt-hour (kWh). Let's
 
 That's already half what gasoline costs. A car getting 30 MPG at $3.50/gallon? About $0.117 per mile. So even charging from the grid, you're already winning.
 
-Now throw solar into the equation. Once your system is paid for, your cost per kWh is essentially zero for the rest of its 25-year life. If your panels generate enough to cover your driving, you're looking at costs below $0.01 per mile after maintenance. Some models put it at $0.02 to $0.03 per mile when you spread the upfront cost over 20+ years. [EnergySage's market data](https://news.energysage.com/) shows the average U.S. solar installation now runs $2.50 to $3.50 per watt after federal tax credits. Most residential systems are 6 to 10 kW. That payback period shrinks fast once you add EV charging to the mix.
+Now throw solar into the equation. Once your system is paid for, your cost per kWh is essentially zero for the rest of its 25-year life. If your panels generate enough to cover your driving, you're looking at costs below $0.01 per mile after maintenance. Some models put it at $0.02 to $0.03 per mile when you spread the upfront cost over 20+ years. [EnergySage's market data](https://news.energysage.com/) shows the average U.S. solar installation now runs $2.50 to $3.50 per watt. Most residential systems are 6 to 10 kW. That payback period shrinks fast once you add EV charging to the mix.
 
 ---
 
@@ -107,11 +107,11 @@ Here's the direct comparison without the marketing noise.
 
 Your actual numbers will differ based on local electricity rates, sun hours, and how much you drive. But the pattern is unmistakable. That last row is the goal once your solar payback period ends, which currently averages 7 to 10 years for most U.S. homeowners, according to [the Solar Energy Industries Association (SEIA)](https://www.seia.org/).
 
-Add in the federal Investment Tax Credit, currently 30% of system cost, and payback shrinks further. A $25,000 system nets down to $17,500 after the credit. Some states stack additional incentives on top.
+Add in the federal EV charger credit (Section 30C), which applies to qualifying EV charging equipment placed in service by June 30, 2026. Some states stack additional incentives on top.
 
 ---
 
-The combination of rooftop solar and home EV charging is one of the best financial moves a homeowner can make right now, but only if you size correctly, time charging intelligently, and go in with realistic expectations. A common mistake is installing solar before considering the car in the garage, which can waste thousands. Get the numbers right upfront, claim that federal tax credit, and you can cut your personal transportation fuel costs by 90% or more for the next two decades.
+The combination of rooftop solar and home EV charging is one of the best financial moves a homeowner can make right now, but only if you size correctly, time charging intelligently, and go in with realistic expectations. A common mistake is installing solar before considering the car in the garage, which can waste thousands. Get the numbers right upfront, and you can cut your personal transportation fuel costs by 90% or more for the next two decades.
 
 ---
 

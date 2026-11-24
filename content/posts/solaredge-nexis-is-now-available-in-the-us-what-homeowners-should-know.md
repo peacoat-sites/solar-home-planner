@@ -27,7 +27,7 @@ What surprised me was how cleanly this maps onto real homeowner upgrade patterns
 
 ## The Tax Credit Angle You Need to Understand Right Now
 
-This is where things get genuinely consequential for anyone shopping in mid-2026. SolarEdge manufactures Nexis in the U.S., which means projects using it can qualify for the domestic content bonus under the clean energy tax credit rules updated by the One Big Beautiful Bill. Those FEOC (Foreign Entity of Concern) requirements have been reshaping which products actually pencil out financially, and not every battery on the market can clear that bar.
+This is where things get genuinely consequential for anyone shopping in mid-2026. SolarEdge manufactures Nexis in the U.S., which means projects using it may be positioned favorably under domestic content and FEOC (Foreign Entity of Concern) requirements that have been reshaping which products actually pencil out financially for third-party-owned systems and their installers. Not every battery on the market can clear that bar.
 
 I want to be careful here: tax credit eligibility depends on your whole system configuration, your installer's documentation, and how your project is filed. Don't take the manufacturer's word alone as gospel. But the domestic content positioning is real, and it's a differentiator worth asking your installer to confirm in writing before you sign anything.
 

@@ -64,9 +64,9 @@ Over 25 years on a 10kW system, the difference between a 0.25%/yr and a 0.45%/yr
 
 Pricing as of August 2026 varies considerably by region and installer, but here's what I'm seeing from quotes in multiple markets:
 
-A 10kW SunPower Maxeon system in the mid-Atlantic U.S. is running $38,000-$44,000 before the federal Investment Tax Credit (ITC), which currently sits at 30%. After the ITC, you're looking at $26,600-$30,800. Compare that to a similar-output Q CELLS system at $28,000-$32,000 before credits, or $19,600-$22,400 after.
+A 10kW SunPower Maxeon system in the mid-Atlantic U.S. is running $38,000-$44,000. Compare that to a similar-output Q CELLS system at $28,000-$32,000.
 
-Worked example: A homeowner in Annapolis, Maryland, with a $220/month electric bill and a 1,800 sq ft roof. They got quotes for both options. The SunPower Maxeon 7 system (18 panels, 9.9kW) came in at $41,200 before ITC, $28,840 after. Payback period at current rates: approximately 10.2 years. A Q CELLS system (22 panels, same output) came in at $30,500 before ITC, $21,350 after. Payback period: approximately 7.5 years. The SunPower system generates an estimated $2,100 more electricity over 25 years. Net lifetime advantage of choosing SunPower: modest at best.
+Worked example: A homeowner in Annapolis, Maryland, with a $220/month electric bill and a 1,800 sq ft roof. They got quotes for both options. The SunPower Maxeon 7 system (18 panels, 9.9kW) came in at $41,200. A Q CELLS system (22 panels, same output) came in at $30,500. The SunPower system generates an estimated $2,100 more electricity over 25 years. Net lifetime advantage of choosing SunPower: modest at best.
 
 Scenario two: A home in Phoenix, Arizona, averaging $310/month in summer electric bills, 2,400 sq ft of usable roof, and the homeowner planning to stay 30+ years. The higher efficiency panels mean the same roof footprint captures more energy in an already-favorable climate, and the longer warranty period actually carries value when you're looking at a three-decade horizon. Here the SunPower premium makes more intuitive sense, assuming the warranty remains enforceable.
 
@@ -81,7 +81,7 @@ One thing I learned the hard way early in my solar career: always ask for a copy
 ## Sources
 
 - [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/): Long-term PV degradation tracking and cell technology performance studies
-- [U.S. Department of Energy Homeowner's Guide to Solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar): Federal ITC details, system sizing guidance, and installer vetting tools
+- [U.S. Department of Energy Homeowner's Guide to Solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar): System sizing guidance and installer vetting tools
 - [Lawrence Berkeley National Laboratory, Tracking the Sun report](https://emp.lbl.gov/tracking-sun): Annual installed price data for residential PV systems by state and system size
 - Maxeon Solar Technologies product specifications and warranty documentation (2026 edition, reviewed August 2026)
 - U.S. Energy Information Administration, Electric Power Monthly: Retail residential electricity price averages

@@ -14,8 +14,8 @@ author_bio: "Rachel Kim is the byline used at Solar Home Planner for articles on
 slug: "ford-f-150-lightning-home-backup-solar"
 affiliate_disclosure: true
 faqs:
-  - q: "Does the F-150 Lightning qualify for the federal EV tax credit in 2026?"
-    a: "As of July 2026, the Lightning may qualify for the $7,500 federal EV tax credit under the Inflation Reduction Act, but income limits and MSRP caps apply. Confirm with a tax professional and check the IRS's current qualified vehicle list, since compliance status can change based on battery sourcing rules."
+  - q: "No. The federal new clean vehicle tax credit (Section 30D) ended for vehicles acquired after September 30, 2025. An F-150 Lightning acquired in 2026 does not qualify for any federal EV tax credit."
+    a: "The Lightning does not qualify for the $7,500 federal EV tax credit, as the new clean vehicle credit (30D) ended for vehicles acquired after September 30, 2025. Confirm with a tax professional for any state or local incentives that may still apply."
   - q: "Can I add solar to an existing Lightning IBP setup, or does it have to be installed at the same time?"
     a: "You can add solar after the IBP system is already installed, but your solar installer needs to know the IBP is in place from the start. The inverter selection and utility interconnection application have to account for the bidirectional charging setup. Retrofitting an incompatible inverter is expensive and aggravating."
   - q: "What happens to the Lightning's battery warranty if I use it for home backup constantly?"
@@ -30,7 +30,7 @@ The Ford F-150 Lightning can power your house for up to 10 days on a single char
 
 Before we talk about pairing the Lightning with solar panels, let's be clear about what this truck already does on its own. The standard Lightning Pro comes with a 98 kWh battery. The extended-range pack bumps that to 131 kWh. For reference, the average U.S. household uses about 29 kWh per day, according to the U.S. Energy Information Administration. So yeah, 10 days is theoretically on the table if you're careful. More realistically, with normal consumption, you're looking at 3-5 days before you'd want a recharge source. That source, ideally, is your solar array.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The F-150 Lightning extended-range pack holds 131 kWh, enough for 3-5 days of average home use.</li><li style="margin:5px 0">Ford's Intelligent Backup Power requires a ~$3,895 Ford Charge Station Pro and a $1,310 home integration system.</li><li style="margin:5px 0">Pairing a 10-15 kW solar array with the Lightning eliminates the "recharge the truck" problem during extended outages.</li><li style="margin:5px 0">The 30% federal solar tax credit (ITC) applies to your solar installation but NOT to the truck purchase itself.</li><li style="margin:5px 0">Bidirectional charging (V2H) requires a dedicated transfer switch and licensed electrician work, plan $2,000-$4,500 for that piece alone.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The F-150 Lightning extended-range pack holds 131 kWh, enough for 3-5 days of average home use.</li><li style="margin:5px 0">Ford's Intelligent Backup Power requires a ~$3,895 Ford Charge Station Pro and a $1,310 home integration system.</li><li style="margin:5px 0">Pairing a 10-15 kW solar array with the Lightning eliminates the "recharge the truck" problem during extended outages.</li><li style="margin:5px 0">The 30% federal solar tax credit (ITC) no longer applies to solar installations completed after December 31, 2025, and does NOT apply to the truck purchase itself.</li><li style="margin:5px 0">Bidirectional charging (V2H) requires a dedicated transfer switch and licensed electrician work, plan $2,000-$4,500 for that piece alone.</li></ul></div>
 
 ## What "Home Backup" Actually Means for This Truck
 
@@ -46,7 +46,7 @@ Here's what most people don't realize: the Lightning doesn't have native bidirec
 
 Getting this right requires a solar inverter that supports "grid-forming" or "islanding" capability. Standard string inverters shut down during an outage as a safety measure. You need either a hybrid inverter with backup functionality (brands like SolarEdge, Enphase, SMA, or Victron are what I'd be looking at) or a battery-buffered system. The Lightning's IBP system and your solar system need to be coordinated so they're not fighting each other for control of your panel. This is genuinely a design problem, not just a gear-buying problem, and I'd be skeptical of any installer who gives you a quote without a load calculation and a single-line diagram.
 
-My experience with a client in Pflugerville, Texas: 10 kW solar array, SolarEdge StorEdge hybrid inverter, Ford IBP setup, and a 200A panel upgrade. Total project cost came in at $47,300 before incentives. After the 30% ITC on the solar portion and a Texas utility rebate, out-of-pocket landed around $31,800. During a February ice storm (this particular family has dealt with two grid failures in recent winters), they ran for 6 days on solar plus truck power without touching grid electricity at all.
+10 kW solar array, SolarEdge StorEdge hybrid inverter, Ford IBP setup, and a 200A panel upgrade. Total project cost came in at $47,300 before incentives. The 30% federal Residential Clean Energy Credit for homeowner-owned solar systems ended for installations completed after December 31, 2025, so new installs no longer qualify. A Texas utility rebate may still apply; check with your utility for current availability. During a February ice storm (this particular family has dealt with two grid failures in recent winters), they ran for 6 days on solar plus truck power without touching grid electricity at all.
 
 ## System Sizing: The Numbers That Actually Matter
 
@@ -81,15 +81,15 @@ As of July 2026, a complete F-150 Lightning plus solar-plus-backup system is a s
 
 | Component | Cost Range | Notes |
 |---|---|---|
-| F-150 Lightning (ext. range) | $62,000-$74,000 | Before EV tax credit ($7,500 if eligible) |
+| F-150 Lightning (ext. range) | $62,000-$74,000 | No federal EV tax credit for vehicles acquired after September 30, 2025 |
 | Ford Charge Station Pro | $3,500-$4,200 | Installed price varies |
 | Ford Home Integration Kit | $1,100-$1,500 | Required for IBP |
 | IBP Electrician Install | $1,800-$3,500 | Depends on panel condition |
-| 10 kW Solar Array | $24,000-$32,000 | Before 30% ITC |
+| 10 kW Solar Array | $24,000-$32,000 | No federal tax credit for installations completed after December 31, 2025 |
 | Hybrid Inverter Upgrade | $2,000-$5,000 | If not included in solar quote |
 | Permits & Interconnection | $500-$1,800 | Jurisdiction-dependent |
 
-The 30% Investment Tax Credit applies to the solar array, inverter, and associated electrical work. It does not apply to the truck or the IBP hardware. Some states layer on additional credits; the DSIRE database (managed by NREL) is the best place to check your state.
+The 30% Residential Clean Energy Credit no longer applies to solar arrays, inverters, or associated electrical work for installations completed after December 31, 2025. It does not apply to the truck or the IBP hardware. Some states layer on additional credits; the DSIRE database (managed by NREL) is the best place to check your state.
 
 To track how your solar and the truck interact day-to-day, a home energy monitor is genuinely useful. The [Emporia Vue Gen 3](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20) (around $109) gives you circuit-level monitoring and can show you exactly how much solar is going to the truck versus the house. Worth every penny when you're debugging a new system. *(The site may earn a commission on purchases through that link.)*
 

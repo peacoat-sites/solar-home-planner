@@ -23,7 +23,7 @@ faqs:
   - q: "Will my HOA be able to block my solar installation?"
     a: "It depends heavily on your state. California, Texas, Colorado, and Florida have strong solar access laws that limit HOA authority to object on aesthetic grounds. In other states, older deed restrictions can be more powerful. Research your state's solar rights statute and get any HOA approval in writing before signing a solar contract."
   - q: "How much more does going solar cost on a vintage home compared to a newer one?"
-    a: "Budget an additional $6,000 to $20,000 in pre-work for a typical 1950s or 1960s home, depending on electrical, roofing, and structural conditions. The solar system cost itself is roughly the same regardless of home age. That pre-work typically doesn't qualify for the federal tax credit, which is why total out-of-pocket is meaningfully higher than what you'd pay on a post-2000 home."
+    a: "Budget an additional $6,000 to $20,000 in pre-work for a typical 1950s or 1960s home, depending on electrical, roofing, and structural conditions. The solar system cost itself is roughly the same regardless of home age. That pre-work typically doesn't qualify for the federal tax credit, which ended for installations completed after December 31, 2025, so total out-of-pocket costs for a mid-century home should be evaluated without assuming a federal credit offset."
 ---
 
 My first solar site visit on a 1952 ranch house in Pasadena ended with me standing in the attic, flashlight in hand, staring at knob-and-tube wiring running between joists like it was still 1952. Which, electrically speaking, it kind of was. The homeowner had already gotten a quote from a solar company. The company hadn't mentioned the wiring. They were ready to put panels on the roof and collect a check, and this guy would've had a serious problem on his hands within a year.
@@ -59,16 +59,16 @@ The numbers below are estimates based on my direct experience with projects in C
 | Roof decking repair/replacement | $2,500 – $8,000 | Common in 1950s-1960s homes |
 | Roof re-cover before solar | $8,000 – $18,000 | Strongly recommended if roof is 15+ years old |
 | Panel removal/reinstall (future) | $1,500 – $3,500 | Avoided if you re-roof at installation time |
-| Solar system itself (6-8 kW) | $16,000 – $26,000 | Before federal tax credit |
-| Federal tax credit (30%) | Reduces system cost by 30% | Applies to solar system, not always to pre-work |
+| Solar system itself (6-8 kW) | $16,000 – $26,000 | Before any applicable credits or incentives |
+| Federal tax credit (30%) | No longer available for new installations | The 30% federal residential solar tax credit expired for installations completed after December 31, 2025 |
 
-That 30% federal Investment Tax Credit (ITC) is still active as of this writing. The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has a clear breakdown of what qualifies. One thing to know: the pre-work costs (panel upgrade, roof repair) generally don't qualify for the ITC unless they're directly part of the solar installation. Your tax professional needs to make that call, not your installer.
+The 30% federal Residential Clean Energy Credit (Section 25D) has ended for homeowners; it is no longer available for installations completed after December 31, 2025. The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has a clear breakdown of what qualifies. One thing to know: the pre-work costs (panel upgrade, roof repair) generally did not qualify for the credit unless they were directly part of the solar installation. Your tax professional needs to make that call, not your installer.
 
 A worked example that illustrates how this stacks up in practice:
 
-Homeowner in Austin, 1958 ranch house, 1,800 sq ft → Needed 200A panel upgrade ($4,800), partial roof re-deck ($3,100), and a 7.4 kW solar system ($21,500 before credit) → After 30% ITC on the solar portion only ($6,450 credit), total out-of-pocket came to approximately $23,000. Monthly bill dropped from $214 to under $30. Payback period around 9 years.
+Say a homeowner has a 1958 ranch house, 1,800 sq ft, and needs a 200A panel upgrade ($4,800), partial roof re-deck ($3,100), and a 7.4 kW solar system ($21,500). Total project cost comes to $29,400. Monthly bill dropped from $214 to under $30.
 
-Compare that to a similar system on a 2005 home in the same city: no pre-work required, system cost $19,200, ITC credit $5,760, total $13,440 out of pocket, payback around 5.5 years.
+Compare that to a similar system on a 2005 home in the same city: no pre-work required, system cost $19,200, payback around 5.5 years.
 
 The vintage home isn't impossible. The math just takes longer.
 

@@ -91,7 +91,7 @@ One thing I'd ignore: manufacturer claims about "smart" optimization algorithms.
 
 ## The Cost Reality Check
 
-Right now, installed battery storage costs roughly $1,000-$1,400 per kWh of usable capacity, depending on your market, installer margins, and which system you choose. A 13.5 kWh Powerwall 3 installation might run $12,000-$15,000 before incentives. The federal Investment Tax Credit (ITC) at 30% applies to battery storage if it's charged primarily by solar, which drops that to roughly $8,400-$10,500 net.
+Right now, installed battery storage costs roughly $1,000-$1,400 per kWh of usable capacity, depending on your market, installer margins, and which system you choose. A 13.5 kWh Powerwall 3 installation might run $12,000-$15,000 before incentives. The federal Residential Clean Energy Credit at 30% (IRC Section 25D) ended for homeowner-owned systems with installation completed after December 31, 2025, so a battery installed in 2026 or later receives no federal tax credit for homeowners.
 
 Payback on battery storage from electricity savings alone is long. Often 10-15 years. The honest reason most homeowners buy batteries is resilience, not ROI. If you're in an area with frequent outages, or you have medical equipment that can't lose power, or you're just tired of losing a freezer full of food every hurricane season, the math is different because you're buying something like insurance.
 

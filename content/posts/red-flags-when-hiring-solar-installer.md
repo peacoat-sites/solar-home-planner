@@ -55,14 +55,14 @@ Ask: "How'd you get to this system size?" The answer should reference your actua
 
 | Financing Type | Ownership | Tax Credit Eligible | Home Sale Impact | Risk Level |
 | --- | --- | --- | --- | --- |
-| Cash Purchase | You own panels | Yes (30% ITC) | Adds home value | Low |
-| Loan | You own panels | Yes (30% ITC) | Adds home value | Medium |
+| Cash Purchase | You own panels | No (federal credit expired after 2025) | Adds home value | Low |
+| Loan | You own panels | No (federal credit expired after 2025) | Adds home value | Medium |
 | Lease | Company owns panels | No (company takes it) | Lease transfers to buyer | High |
 | Power Purchase Agreement (PPA) | Company owns panels | No (company takes it) | PPA transfers to buyer | High |
 
 Solar financing could be its own article. Short version: the contract you sign matters enormously, and pressure to sign fast is always a red flag.
 
-Real installers give you time to [read the paperwork](/solar-contract-what-to-review-before-signing/). Predatory ones manufacture urgency. "This price expires Friday." "The federal tax credit's about to vanish." (The federal Investment Tax Credit is 30% through 2032 under the Inflation Reduction Act. It's not going anywhere.) "We only have two slots left this month." Sales tactics, not facts.
+Real installers give you time to [read the paperwork](/solar-contract-what-to-review-before-signing/). Predatory ones manufacture urgency. "This price expires Friday." "The federal tax credit's about to vanish." (The 30% federal Residential Clean Energy Credit ended for installations completed after December 31, 2025 and is no longer available for new homeowner installs.) "We only have two slots left this month." Sales tactics, not facts.
 
 If you're taking a loan, read the interest rate, term, and total financing cost. A 25-year solar loan at 7.99% APR on a $28,000 system costs you significantly more than sticker price by the end. Run actual numbers.
 

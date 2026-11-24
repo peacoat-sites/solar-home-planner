@@ -74,7 +74,7 @@ The pitch that works: solar increases property value and lowers vacancy. A 2021 
 
 The pitch that doesn't work: "it would be great for the environment." Your landlord is running a business, not an NGO.
 
-What actually moves the needle is presenting this as a financial proposition for them, not a favor to you. Pull together a rough system quote using EnergySage's instant estimate tool (takes about three minutes), show the 30% federal tax credit still available under the Inflation Reduction Act through 2032, and model what a $12,000 system does to the property's net operating income. Now you're having a different conversation.
+What actually moves the needle is presenting this as a financial proposition for them, not a favor to you. Pull together a rough system quote using EnergySage's instant estimate tool (takes about three minutes), and model what a $12,000 system does to the property's net operating income. Now you're having a different conversation.
 
 Even if they say no to a full rooftop system, some landlords will agree to let you install a small ground-mount or approve a balcony panel setup if you're taking full responsibility for installation, permitting (yes, even small systems often need permits), and removal when you leave. Get everything in writing, including the removal terms. A handshake agreement becomes a dispute when you move out and the landlord decides the panels are now a fixture.
 

@@ -73,7 +73,7 @@ One non-obvious thing: the Wall Connector and the Powerwall don't directly negot
 | 2 Powerwall 3 + 12 kW solar + Wall Connector | ~$52,000–$60,000 | 85–95% of home load | Full day + car charging | Two-EV households, storm resilience priority |
 | 2 Powerwall 2 + 10 kW solar + Wall Connector | ~$44,000–$50,000 | 75–85% of home load | ~5 hrs at 24A each | Existing Powerwall 2 owners adding capacity |
 
-Costs here reflect post-federal-tax-credit pricing (the 30% ITC is still in place as of August 2026), using EnergySage's current market data for installed system costs. Individual quotes vary by region, roof complexity, and panel brand. Don't let anyone quote you over $3.20/watt for a straightforward rooftop install in a competitive market without a good explanation.
+Costs here reflect pre-credit pricing, using EnergySage's current market data for installed system costs. Individual quotes vary by region, roof complexity, and panel brand. Don't let anyone quote you over $3.20/watt for a straightforward rooftop install in a competitive market without a good explanation.
 
 **Suburban Phoenix, 2 Powerwalls + 10 kW solar + Model Y** → Configured Time-Based Control with 25% reserve, Wall Connector set to charge midnight to 6 AM → Average monthly electricity bill dropped from $310 to $47, including all EV charging, over a 12-month period.
 
@@ -83,7 +83,7 @@ Costs here reflect post-federal-tax-credit pricing (the 30% ITC is still in plac
 
 ## What the Federal Incentives Actually Cover
 
-The 30% Investment Tax Credit covers the Powerwall when installed alongside a new [solar system](/what-size-solar-system-for-2000-sq-ft-house/). What tripped up a homeowner I know in Colorado: he added a Powerwall 12 months after his solar install and expected the same credit. As of today, a standalone battery (not paired with a new solar array at the same time) may still qualify under current IRS guidance, but the rules have shifted a couple of times and you absolutely want to confirm with a tax professional before assuming. The Wall Connector itself ($395 retail) does not qualify for the ITC. The EV charger credit (Form 8911) covers 30% of equipment and installation costs for a qualified EVSE, up to $1,000 for homeowners, but check current IRS guidance because eligibility rules around charging location have been refined.
+The 30% Residential Clean Energy Credit covered the Powerwall when installed alongside a new [solar system](/what-size-solar-system-for-2000-sq-ft-house/). What tripped up a homeowner in Colorado: he added a Powerwall 12 months after his solar install and expected the same credit. That credit is no longer available for homeowners whose installation was completed after December 31, 2025. The Wall Connector itself ($395 retail) does not qualify for the residential credit. The EV charger credit (Form 8911) covers 30% of equipment and installation costs for a qualified EVSE, up to $1,000 for homeowners, for property placed in service by June 30, 2026, but check current IRS guidance because eligibility rules around charging location have been refined.
 
 The Solar Energy Industries Association tracks incentive updates regularly and their state policy database is worth bookmarking if you're in the middle of a purchasing decision.
 
