@@ -29,7 +29,7 @@ You've got solar panels on the roof, a new EV in the driveway, and you're realiz
 
 ## Why Your Charger Choice Actually Matters for Solar Homes
 
-Here's what I tell people who come to me having already bought a charger that "works fine": working fine and working well are very different things.
+Here's what many people don't realize about chargers: working fine and working well are very different things.
 
 A standard Level 2 charger will draw 7.2 to 11.5 kilowatts continuously once you plug in. If your solar system is producing 4 kW at that moment, the grid silently covers the gap. You're still running on fossil fuel electricity and paying for it. You just can't see it happening. That's the scenario most solar homeowners are stuck in, and it's completely fixable with the right charger.
 

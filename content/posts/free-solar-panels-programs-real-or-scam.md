@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 You've seen the ads. "Get solar panels installed on your home for FREE." Maybe it was a Facebook post, a mailer with a suspiciously professional logo, or a neighbor who swears she's getting solar at zero cost. And now you're sitting here wondering if you missed something, or if the whole thing is a trap.
 
-Here's what I tell people who come to me with this question: the answer is genuinely both. Some "free solar" programs are completely legitimate. Others are borderline predatory. The difference comes down to understanding what "free" actually means in each case, because the word is doing a lot of work in that headline.
+The answer is genuinely both. Some "free solar" programs are completely legitimate. Others are borderline predatory. The difference comes down to understanding what "free" actually means in each case, because the word is doing a lot of work in that headline.
 
 Let me walk you through what's real, what's misleading, and how to tell the difference before you sign anything.
 

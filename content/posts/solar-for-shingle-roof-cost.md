@@ -25,8 +25,7 @@ faqs:
    a: "Physical installation on a standard shingle roof typically takes one to two days for a crew of three or four. The longer timeline is permitting and utility interconnection, which can add four to ten weeks depending on your jurisdiction and utility."
 lastmod: 2026-11-16T16:00:00Z
 ---
-
-Most people come to me after they've already gotten one quote. Sometimes two. They've got a number in their head, they're not sure if it's fair, and they're trying to figure out if they're about to get taken. If that's where you are right now, good. That's exactly the right moment to slow down and understand what you're actually buying.
+Most people get one or two quotes before they start wondering if the numbers are fair. If that's where you are right now, good. That's exactly the right moment to slow down and understand what you're actually buying.
 
 Shingle roofs are, by a wide margin, the most common solar installation surface in the United States. That's both good and bad news. Good, because installers know how to work on them, the hardware is mature, and competition keeps prices honest. Bad, because "shingle roof solar" is a huge category with a lot of variation hidden inside it, and the number you saw in an ad or heard from a neighbor may be completely irrelevant to your situation.
 
@@ -77,7 +76,7 @@ I spent a week last year pulling apart itemized proposals from six different ins
 
 - **Panels**: 25-30% of total cost ($6,200-$7,500)
 - **Labor**: 20-25% ($5,000-$6,250)
-- **Inverter(s)**: 10-15% ($2,500-$3,750) -- string inverter setups run cheaper; microinverter setups (Enphase IQ8 is the market standard right now) cost more upfront but give you panel-level monitoring
+- **Inverter(s)**: 10-15% ($2,500-$3,750), string inverter setups run cheaper; microinverter setups (Enphase IQ8 is the market standard right now) cost more upfront but give you panel-level monitoring
 - **Racking and BOS (balance of system)**: 10-12% ($2,500-$3,000)
 - **Permits, inspections, utility interconnection**: 6-10% ($1,500-$2,500)
 - **Installer overhead and margin**: the rest
@@ -124,7 +123,7 @@ According to the [Solar Energy Industries Association (SEIA)](https://www.seia.o
 
 ---
 
-If you're still in the quote-gathering phase, the [EnergySage marketplace](https://www.energysage.com/) is genuinely useful for getting multiple bids on a standardized basis. And if you want to track your system's output once it's installed, a home energy monitor like the **Emporia Vue** (available on [Amazon](https://amzn.to/emporiavue) -- the site may earn a commission) pairs well with most inverter brands to give you real-time consumption data alongside your solar production. Knowing what you produce is only half the picture.
+If you're still in the quote-gathering phase, the [EnergySage marketplace](https://www.energysage.com/) is genuinely useful for getting multiple bids on a standardized basis. And if you want to track your system's output once it's installed, a home energy monitor like the **Emporia Vue** (available on [Amazon](https://amzn.to/emporiavue), the site may earn a commission) pairs well with most inverter brands to give you real-time consumption data alongside your solar production. Knowing what you produce is only half the picture.
 
 ---
 

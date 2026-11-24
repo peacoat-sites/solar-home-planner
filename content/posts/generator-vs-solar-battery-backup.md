@@ -25,7 +25,7 @@ author_title: "Inverters and Wiring"
 author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-The power goes out at 11 PM on a Wednesday. Your sump pump stops. The food in your freezer starts its slow decline. Your kid's CPAP machine goes quiet. You've told yourself for two years that you'd get backup power sorted out before something like this happened, and here you are. If that scenario feels a little too familiar, you're probably already weighing two options: a generator or a [solar battery backup system](/whole-home-solar-backup-system/). Here's what I tell people when they come to me in exactly that moment, often on their phones while sitting in the dark.
+The power goes out at 11 PM on a Wednesday. Your sump pump stops. The food in your freezer starts its slow decline. Your kid's CPAP machine goes quiet. You've told yourself for two years that you'd get backup power sorted out before something like this happened, and here you are. If that scenario feels familiar, you're probably already weighing two options: a generator or a [solar battery backup system](/whole-home-solar-backup-system/). Here's what matters most when facing that choice in the dark: understanding how each option works for your specific situation.
 
 ## These Are Two Very Different Tools Solving the Same Problem
 
