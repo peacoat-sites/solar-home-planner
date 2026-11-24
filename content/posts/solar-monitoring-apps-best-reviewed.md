@@ -86,7 +86,7 @@ The comparison-against-expected metric is underrated. Raw production numbers lie
 
 Your monitoring app knows what your inverter produced. It doesn't know what your utility meter measured, and those numbers are not always the same. Meter-to-inverter discrepancies of 2-5% are common and usually not worth chasing. Discrepancies over 8-10% are worth investigating, and you'll need your app's historical export to build the case.
 
-A reader emailed me last fall about a system that had been underperforming for four months. Her installer blamed "seasonal production changes." When she pulled her Enlighten data and overlaid it against her utility bills, the production numbers lined up fine but her net metering credits were off. Turned out the utility had misapplied her interconnection tariff. She had the receipts because she'd been monitoring carefully. That's the real-world value of a good app: evidentiary power.
+When a solar system underperforms for months, the cause isn't always obvious. An installer might blame seasonal production changes, but pulling data from monitoring apps like Enlighten can reveal the real problem. Say production numbers line up with utility bills, but net metering credits still don't match expectations. The issue could be a misapplied interconnection tariff on the utility's side. Detailed monitoring records provide the evidence needed to dispute billing errors with your utility. That's the practical value of a good app: it gives you the data to back up your claims.
 
 If your monitoring app doesn't let you export data as a CSV or PDF report, that's a genuine limitation. All four of the major platforms I mentioned above support data export. If yours doesn't, that's worth flagging with your installer.
 

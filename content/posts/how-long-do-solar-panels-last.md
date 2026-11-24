@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most people think solar panels degrade like a car battery: slow fade, then sudden collapse. They're wrong. And that misconception quietly kills a lot of purchasing decisions.
 
-A reader emailed me a few years back asking if it was worth replacing a 22-year-old system that was still cranking out power. That question pulled me into degradation studies, manufacturer warranty fine print, and some genuinely honest conversations with installers who've been ripping panels off roofs long enough to know what actually happens. Here's what I found.
+Replacing a 22-year-old system that still generates power is a common question. That decision depends on understanding how solar panels degrade over time, what manufacturer warranties actually cover, and what installers report about performance in the field. Here's what the research shows.
 
 
 <div class="value-module">

@@ -71,7 +71,7 @@ The microinverter premium over an optimizer system runs roughly $2,400 on an 8 k
 
 I'll be direct: if you have a clean, unshaded south-facing roof with a simple rectangular layout, the case for optimizers is thin. You're paying for insurance on a problem you don't have.
 
-A reader emailed me last year, right after getting quotes on a new build in central Colorado. His roof was nearly ideal: 6/12 pitch, true south, zero shade sources within 100 feet. One installer quoted him a SolarEdge system at $29,400; another quoted a Fronius Primo string inverter setup at $25,800. The installers couldn't give him a concrete production difference estimate that held up to scrutiny because there wasn't one worth showing. He went with the Fronius. Correct call.
+Say you're comparing quotes for a roof that's nearly ideal: 6/12 pitch, facing true south, with no shade sources within 100 feet. One installer quotes a SolarEdge optimizer system at $29,400 and another quotes a Fronius Primo string inverter setup at $25,800. On an unshaded, single-orientation roof, ask each installer for a production estimate for both designs. If neither can show a meaningful difference, the cheaper string inverter is usually the better buy.
 
 Three scenarios where optimizers don't pencil:
 

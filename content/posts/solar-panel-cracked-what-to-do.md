@@ -62,7 +62,7 @@ If the crack looks like it propagated from the inside out, or developed without 
 
 For homeowners insurance: check whether your policy covers "other structures" or specifically lists solar equipment. As of June 2026, most standard HO-3 homeowner policies do cover rooftop solar panels as part of the dwelling structure, but deductibles apply, and some insurers have started adding solar-specific riders. A claim for one panel at $300-400 might not clear your deductible anyway. Two or three panels after a hail event absolutely might.
 
-Worked example: A reader from Colorado emailed me last winter after a hailstorm cracked four panels on her 9.6 kW system. The manufacturer declined the warranty claim (impact damage). Her homeowner's insurance covered replacement minus a $1,000 deductible. Total out-of-pocket was $940 on a $2,100 repair. Without the insurance claim, she'd have paid the full amount.
+Worked example: say hail cracks four panels on a 9.6 kW system and the repair is quoted at $2,100. Panel warranties generally exclude impact damage, so the manufacturer declines the claim. If your homeowners policy covers the panels and you have a $1,000 deductible, you pay $1,000 and insurance pays the remaining $1,100. Without the insurance claim, you'd pay the full $2,100.
 
 ## Getting It Replaced: What to Expect
 

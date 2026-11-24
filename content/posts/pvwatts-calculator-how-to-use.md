@@ -28,7 +28,7 @@ faqs:
 
 Most solar calculators are glorified guessing games dressed up with satellite imagery. PVWatts, built and maintained by the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/), is different: it's the tool utilities, engineers, and state incentive programs actually use to verify production claims. And most homeowners either skip it entirely or punch in one number and trust whatever comes out.
 
-That's a mistake I've watched cost people real money. A reader emailed me last spring, Mark from Phoenix, who'd been quoted a 9.6 kW system with a 14,200 kWh/year production estimate. When he ran PVWatts himself, the output came back at 16,800 kWh for that [system size](/diy-solar-panel-system-sizing/) at his address. His installer had either misconfigured the tilt or was padding the system size to hit a higher sale price. Either way, PVWatts caught it in about eight minutes.
+This mistake can cost money. A homeowner might be quoted a 9.6 kW system with a 14,200 kWh/year production estimate. Running PVWatts for the same address and [system size](/diy-solar-panel-system-sizing/) could show output at 16,800 kWh instead. The gap suggests the installer either misconfigured the tilt or padded the system size to hit a higher sale price. PVWatts can catch this discrepancy in about eight minutes.
 
 Here's what you actually need to know to use this tool correctly.
 
