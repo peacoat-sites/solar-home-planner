@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Residential Solar"
 author_bio: "David Torres is the byline used at Solar Home Planner for articles on planning a residential solar installation. It is a pen name, not a solar installer; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most solar cost articles will tell you the average American home system runs $25,000-$35,000 and leave it there. That number is for a grid-tied system. If you're pricing an off-grid setup, you're shopping in a completely different store. Off-grid solar costs more, requires more components, and demands more planning precision. Get it wrong and you're not just overpaying, you're sitting in the dark in January. Here's the actual breakdown.
 

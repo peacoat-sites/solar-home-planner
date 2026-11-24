@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar"
 author_bio: "Tom Bradley is the byline used at Solar Home Planner for articles on DIY solar: sizing, wiring and permits for owner-installed systems. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 The federal solar tax credit gets all the headlines, but it's completely useless if you don't owe enough in federal taxes to claim it. Low-income homeowners are sometimes pitched a 30% "discount" that they may never actually claim, because their tax situation wasn't assessed first. That single detail, the difference between a refundable and non-refundable credit, disqualifies a huge slice of the people who need solar savings the most.
 

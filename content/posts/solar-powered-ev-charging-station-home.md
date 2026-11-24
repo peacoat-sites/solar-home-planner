@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Efficiency"
 author_bio: "Rachel Kim is the byline used at Solar Home Planner for articles on home energy efficiency and getting a house ready for solar. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 You bought an EV and a solar array in the same year, feeling pretty clever about the whole thing. Then your installer hands you a commissioning report showing your panels produce most of their power between 10 a.m. and 3 p.m., and your car sits in the garage charging overnight. You're buying grid electricity at peak rates to move electrons into a vehicle you bought specifically to stop paying for fuel. That's the gap most solar-plus-EV articles skip right past, and it's the gap this piece closes.
 

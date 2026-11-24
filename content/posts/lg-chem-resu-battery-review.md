@@ -23,7 +23,7 @@ faqs:
    a: "LG Chem specifies an operating range of 14°F to 113°F. In extreme heat, you need to ensure the battery is installed in a shaded, ventilated location. It also won't charge below 32°F, which matters in cold climates where the battery might be in an unheated space. The RESU does have a self-heating function for discharge in cold temps, but charging stops until the internal temperature rises."
  - q: "Is the LG Chem RESU still a good buy in 2026?"
    a: "It's a solid buy, with some caveats. The NMC chemistry is maturing and LFP competitors have closed much of the cost gap. If you're prioritizing raw backup power output, newer LFP options may edge it out. But the RESU's track record, widespread installer familiarity, and current pricing still make it a legitimate choice, particularly the 16H Prime for homes in the 1,500-2,500 sq ft range with modest backup load expectations."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 
 LG Chem makes a genuinely good battery. That's not a popular opener for a review, but after years of watching homeowners get burned by overhyped storage systems that couldn't deliver in a real grid outage, I'll take a reliable workhorse over a flashy underperformer every time.

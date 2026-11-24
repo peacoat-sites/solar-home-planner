@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Residential Solar"
 author_bio: "David Torres is the byline used at Solar Home Planner for articles on planning a residential solar installation. It is a pen name, not a solar installer; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 You got your solar quote in early 2023, felt pretty good about the numbers, and then your installer mentioned something about "NEM 3.0" in passing, like it was a footnote. Six months later you're reading your neighbor's utility bill and wondering why their solar system seems to be performing so differently from yours, even though you bought similar setups. That's NEM 3.0 doing its thing, and if nobody has sat down and explained it to you plainly, that's a real problem, because it changes the math on residential solar in California more than anything in the last decade.
 

@@ -1,7 +1,7 @@
 ---
 title: "Solar for Tiny Homes: Energy Independence Under 1000 sq ft"
 date: 2026-08-15T22:46:04.916870+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn how solar panels work for small houses, including system sizing, costs, and whether solar makes sense for your compact home."
 image: "/img/heroes/6628274.jpg"

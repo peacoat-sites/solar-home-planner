@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar"
 author_bio: "Tom Bradley is the byline used at Solar Home Planner for articles on DIY solar: sizing, wiring and permits for owner-installed systems. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 A homeowner in Phoenix signed a contract with a solar company in February, put down $4,000, and by June the installer had vanished. The panels were never mounted. The deposit was gone. The lien the company had placed on her home took three months and a lawyer to clear. This isn't some obscure nightmare story buried in regulatory filings. The solar industry has a contractor fraud problem, and it's accelerating as demand spikes and undercapitalized outfits flood the market to chase easy money.
 

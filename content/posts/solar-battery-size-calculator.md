@@ -23,7 +23,7 @@ faqs:
     a: "Not necessarily. Backup duration depends on both battery size and how much load you're running. A 20 kWh battery running your whole house at 3 kW average draw lasts under seven hours. That same battery running only your critical loads at 0.8 kW average gets you over 24 hours. Managing what you back up matters more than raw kWh."
   - q: "Is it worth sizing up to qualify for a better rebate or incentive?"
     a: "Sometimes, but read the program terms carefully. Some utility rebate programs do have tiered incentives tied to system size (California's SGIP program, for example, has per-kWh incentive structures). If adding 2 kWh unlocks a significantly better incentive tier and the hardware cost is modest, it can make sense. Don't let a rebate structure push you into a system that's wildly oversized for your actual load, though."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most solar battery sizing guides will tell you to add up your daily kWh usage, multiply by your backup days, and divide by 0.8 for depth of discharge. Technically correct. Also wildly incomplete. That formula will get you a number, but it won't tell you whether that number makes financial sense, fits your load profile, or accounts for the way real inverters behave under surge loads.
 

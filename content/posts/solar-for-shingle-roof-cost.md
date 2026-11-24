@@ -23,7 +23,7 @@ faqs:
    a: "Not automatically, but this requires attention. Many shingle manufacturers (GAF, Owens Corning, CertainTeed) have conditional language around third-party penetrations. Some installers are certified by shingle manufacturers specifically to preserve warranty coverage. Ask before you sign."
  - q: "How long does a shingle roof solar installation take?"
    a: "Physical installation on a standard shingle roof typically takes one to two days for a crew of three or four. The longer timeline is permitting and utility interconnection, which can add four to ten weeks depending on your jurisdiction and utility."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most people get one or two quotes before they start wondering if the numbers are fair. If that's where you are right now, good. That's exactly the right moment to slow down and understand what you're actually buying.
 

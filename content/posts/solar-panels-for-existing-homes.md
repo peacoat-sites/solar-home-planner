@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance"
 author_bio: "Stephanie Walsh is the byline used at Solar Home Planner for articles on solar financing, payback and incentives. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Your electric bill arrives in July, and it's $340. Central AC running, a couple teenagers, maybe a home office humming all day. You glance at the neighbors' roof, see those panels gleaming, and think: *could I actually do that?* The answer's yes. But there's a canyon between "thinking about solar" and "having a system that actually saves you money," and most installers won't walk you through it honestly. Let's fix that.
 

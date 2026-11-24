@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Residential Solar"
 author_bio: "David Torres is the byline used at Solar Home Planner for articles on planning a residential solar installation. It is a pen name, not a solar installer; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 If you're building a new home right now, you're sitting on something most homeowners never get: the chance to do solar right the first time. No ripping off shingles. No threading conduit through drywall. No fighting with your roofer over warranty voiding. Most people add solar years later and pay a premium for that delay. Building new flips the entire equation. The decisions you make in the next few weeks of planning can save you thousands and spare you years of retrofit headaches.
 

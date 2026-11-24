@@ -1,6 +1,7 @@
 ---
 title: "When to Replace Solar Panels: Signs Your System Needs Upgrading"
 date: 2026-11-17T04:42:57.053718+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn when solar panels need replacement, what causes degradation, and how to maximize your system's lifespan and energy production."
 image: "/img/heroes/29206500.jpg"

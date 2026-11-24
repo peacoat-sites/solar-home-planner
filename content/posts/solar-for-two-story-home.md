@@ -11,7 +11,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Residential Solar"
 author_bio: "David Torres is the byline used at Solar Home Planner for articles on planning a residential solar installation. It is a pen name, not a solar installer; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 There's something satisfying about looking up at a two-story home and knowing those rooftop panels are quietly powering the dishwasher, the air conditioner, the kids' gaming setups, everything. Two-story homes are actually some of the best candidates for solar, and if you've been hesitant, this guide walks you through roof suitability, system sizing, installation realities, and what you'll realistically save.
 

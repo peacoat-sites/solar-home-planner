@@ -1,7 +1,7 @@
 ---
 title: "LIHEAP Solar Assistance Program: Benefits Most Homes Miss"
 date: 2026-07-27T23:33:38.207006+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Discover how the LIHEAP solar assistance program helps low-income households save on energy costs and why most eligible families aren't taking advantage."
 image: "/img/heroes/9875411.jpg"

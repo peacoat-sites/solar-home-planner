@@ -12,7 +12,7 @@ author_title: "Energy Efficiency"
 author_bio: "Rachel Kim is the byline used at Solar Home Planner for articles on home energy efficiency and getting a house ready for solar. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "solar-batteries-hit-record-attach-rates-as-federal-credit-disappears"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most solar coverage right now is running the obvious story: federal tax credit gone, market down 21%, rough year for the industry. That's true, but it misses what's actually interesting. Homeowners are adding batteries to new solar systems at the highest rate ever recorded, and the credit's disappearance is part of why.
 

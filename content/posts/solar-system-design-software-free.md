@@ -1,7 +1,7 @@
 ---
 title: "Free Solar System Design Software: Save $5,000+ on Planning"
 date: 2026-07-24T23:34:32.153877+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Discover free solar design tools that eliminate expensive software costs. Compare features, ease of use, and accuracy for your residential or commercial project"
 image: "/img/heroes/38021376.jpg"

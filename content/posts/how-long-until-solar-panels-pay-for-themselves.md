@@ -23,7 +23,7 @@ author: "David Torres"
 author_slug: "david-torres"
 author_title: "Residential Solar"
 author_bio: "David Torres is the byline used at Solar Home Planner for articles on planning a residential solar installation. It is a pen name, not a solar installer; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most solar quotes you'll see online toss out "6 to 12 years" like it means something. It doesn't, not without knowing your utility rate, your roof's solar access, your state's net metering policy, and what you actually paid for the system. A homeowner in Massachusetts paying $0.29/kWh who got a $2,000 cash incentive from their utility might break even in 7 years. The same system on a house in Idaho at $0.10/kWh might take 14. Same panels, wildly different math.
 

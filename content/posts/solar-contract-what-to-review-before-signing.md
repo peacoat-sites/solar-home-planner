@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Inverters and Wiring"
 author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 A homeowner in Sacramento called me last spring, three days before her installation was scheduled to start. She'd signed a 25-year solar lease nine months earlier and had just discovered her contract included an automatic annual escalator of 2.9% on her monthly payments. Nobody had explained that to her during the sales pitch. Over 25 years, that clause would cost her roughly $14,000 more than the flat rate she thought she was getting. The installer wasn't breaking any laws. Every word was in the contract. She just hadn't read it.
 

@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance"
 author_bio: "Stephanie Walsh is the byline used at Solar Home Planner for articles on solar financing, payback and incentives. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Charging a vehicle at home sounds like pure savings until you realize you've basically installed a small appliance that runs for hours every night. For most people, that's an extra $80 to $150 a month on the utility bill, sometimes way more if you're in California or Massachusetts where rates can hit $0.25/kWh. Pairing your home EV charger with rooftop solar can let you drive on sunlight you generated yourself, at a cost that can drop below $0.03 per mile.
 

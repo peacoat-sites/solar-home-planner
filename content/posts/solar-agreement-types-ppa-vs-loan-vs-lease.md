@@ -23,7 +23,7 @@ author: "Morgan Johnson"
 author_slug: "morgan-johnson"
 author_title: "Inverters and Wiring"
 author_bio: "Morgan Johnson is the byline used at Solar Home Planner for articles on inverters, batteries and grid-tie connections. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 The financing decision you make before a single panel goes on your roof will shape your relationship with solar for the next 10 to 25 years. Most coverage on this topic either oversimplifies ("leases are bad, loans are good!") or buries you in theoretical math without telling you what actually matters in practice. Let me fix both problems.
 

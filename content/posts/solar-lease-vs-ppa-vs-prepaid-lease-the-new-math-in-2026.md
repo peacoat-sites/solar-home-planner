@@ -1,6 +1,7 @@
 ---
 title: "Solar Lease vs PPA vs Prepaid Lease: The New Math in 2026"
 date: 2026-07-16T23:26:33.547027+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Explore the differences between solar leases, PPAs, and prepaid leases in 2026. Compare costs, benefits, and savings to find the best solar financing option for"
 image: "/img/heroes/12284244.jpg"

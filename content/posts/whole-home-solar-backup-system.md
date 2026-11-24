@@ -23,7 +23,7 @@ author: "Rachel Kim"
 author_slug: "rachel-kim"
 author_title: "Energy Efficiency"
 author_bio: "Rachel Kim is the byline used at Solar Home Planner for articles on home energy efficiency and getting a house ready for solar. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Your neighbor's lights are on. Yours aren't. You've got a solar array on your roof, the sun came up six hours ago, and you're still sitting in the dark during a grid outage. This is the part the sales brochure skips: standard grid-tied solar shuts off automatically when the utility grid goes down. It's a safety requirement, not a bug, and it catches homeowners completely off guard. A whole home solar backup system is the fix, but it's not just "add a battery." The components, sizing, and integration decisions matter enormously, and getting them wrong is expensive.
 

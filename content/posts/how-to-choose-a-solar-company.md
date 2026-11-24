@@ -23,7 +23,7 @@ author: "Tom Bradley"
 author_slug: "tom-bradley"
 author_title: "DIY Solar"
 author_bio: "Tom Bradley is the byline used at Solar Home Planner for articles on DIY solar: sizing, wiring and permits for owner-installed systems. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 A neighbor of mine got a $0-down solar quote that looked great on paper. The installer was in and out in two days, the panels went up fast, and then the problems started: a roof leak that the company blamed on pre-existing damage, a system that was undersized by about 30%, and a financing contract with an escalator clause that raised his payments 2.9% every year for 25 years. The company? Gone six months later. That experience is more common than the industry likes to admit, and it's exactly why choosing the right solar company matters as much as choosing the right system.
 

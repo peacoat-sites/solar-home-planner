@@ -1,7 +1,7 @@
 ---
 title: "Ford F-150 Lightning: 150-Mile Home Backup Power Game"
 date: 2026-07-23T23:27:20.742157+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Discover how the Ford F-150 Lightning delivers backup power to your home during outages while integrating with solar energy systems."
 image: "/img/heroes/33083244.jpg"

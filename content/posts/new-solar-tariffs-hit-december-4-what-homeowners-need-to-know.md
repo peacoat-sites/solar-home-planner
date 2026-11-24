@@ -1,6 +1,7 @@
 ---
 title: "New Solar Tariffs Hit December 4: What Homeowners Need to Know"
 date: 2026-11-24T06:16:55.634027+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "New solar tariffs take effect December 4. Learn how increased costs impact residential solar installation prices, incentives, and your savings potential."
 image: "/img/heroes/13199323.jpg"

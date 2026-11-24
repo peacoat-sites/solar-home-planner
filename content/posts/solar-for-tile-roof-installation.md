@@ -1,7 +1,7 @@
 ---
 title: "Solar on Tile Roofs: Installation Options and What to Expect"
 date: 2026-07-11T23:25:49.704580+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn how solar panels are installed on tile roofs, which mounting methods work best, and what homeowners should know before getting started."
 image: "/img/heroes/27863809.jpg"

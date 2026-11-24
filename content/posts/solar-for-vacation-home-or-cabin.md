@@ -1,6 +1,7 @@
 ---
 title: "Solar for a Vacation Home or Cabin: Off-Grid to Grid-Tied"
 date: 2026-11-23T02:58:52.092221+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn how to power your cabin or vacation home with solar energy, from system sizing to installation costs and maintenance requirements."
 image: "/img/heroes/19030776.jpg"

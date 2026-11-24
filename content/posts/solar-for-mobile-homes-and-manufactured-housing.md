@@ -23,7 +23,7 @@ author: "Stephanie Walsh"
 author_slug: "stephanie-walsh"
 author_title: "Solar Finance"
 author_bio: "Stephanie Walsh is the byline used at Solar Home Planner for articles on solar financing, payback and incentives. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 You own your land, you own your manufactured home, and your electric bill is running $180 a month. A neighbor down the road just got solar panels on their site-built house and cut their bill in half. So why does every solar company you call either quote you a sky-high price, tell you it's "complicated," or just stop returning your calls? That's not bad luck. That's a real pattern, and it has everything to do with how the industry views manufactured housing, not with whether solar actually works for your situation. It does. You just need to know the rules before you start.
 
