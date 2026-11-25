@@ -18,9 +18,7 @@ EG4 dropped a number that the off-grid and rural solar crowd has been waiting ye
 
 The Homestead 60 pairs that 14.4 kW of solar (24 x 600 W modules across four ground-mount racks) with 60 kWh of usable LFP [battery storage](/diy-solar-with-battery-storage/) using CATL cells, all in a preassembled, prewired package. The MAP price is $37,697, which works out to $2.62 per watt all-in for solar plus storage combined. The companion battery, the EG4 XR 60, can be purchased separately starting at $20,499, which EG4 says puts it at $342 per usable kilowatt-hour. That would make it the first all-in-one residential storage system to come in under $350/kWh, and it arrives at a moment when storage is no longer the add-on sale. It's the reason people are calling installers in the first place.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">EG4 Homestead 60 prices solar at $1.20/watt, the first complete residential system below the $2/watt threshold.</li><li style="margin:5px 0">Full system (14.4 kW solar + 60 kWh storage) is $37,697 MAP, or $2.62/watt all-in.</li><li style="margin:5px 0">The XR 60 battery alone is $342/usable kWh, nearly 40% below comparable configurations.</li><li style="margin:5px 0">National battery attachment rates hit 45% of new solar installs in Q1 2026, up from 12% in 2022.</li><li style="margin:5px 0">California is at 94% battery attachment following NEM 3.0, signaling where the rest of the country is headed.</li></ul></div>
-
 
 ## Why the $2-Per-Watt Number Actually Mattered
 
@@ -88,4 +86,3 @@ The Homestead 60 is a real milestone, not just a marketing number. At $1.20 per 
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

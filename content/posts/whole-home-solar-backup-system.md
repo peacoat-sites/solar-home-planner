@@ -126,22 +126,6 @@ Reviewing proposals on behalf of homeowners reveals consistent patterns worth kn
 
 The grid isn't getting more reliable. Extreme weather events are longer and more frequent, utility infrastructure is aging, and in many parts of the country, planned outages are now routine during summer. A properly sized whole home solar backup system is a legitimate hedge against all of that. It's also a significant investment that rewards homeowners who understand what they're buying. Ask the hard questions before you sign anything, and make sure the system on paper matches the life you actually live.
 
-## Sources
-
-- [Emporia Vue](https://www.amazon.com/dp/B09ZJ1WVGK/?tag=contentportfo-20)
-- [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
-- [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
-- [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
-- [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-
-*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169). Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99). Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-
 ---
 
 ## Recommended Resources
@@ -150,4 +134,5 @@ The grid isn't getting more reliable. Extreme weather events are longer and more
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169). Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99). Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

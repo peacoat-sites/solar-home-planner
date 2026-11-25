@@ -29,9 +29,7 @@ The Enphase Enlighten app is where your solar system either earns your trust or 
 
 Enlighten (available on iOS and Android, and at enlighten.enphaseenergy.com) gives you panel-level monitoring, production history, consumption data if you've added a CT sensor, and system health alerts. The basic interface is simple enough. The depth underneath it is what most installers never explain.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Enlighten shows panel-level data: a grayed-out panel means that microinverter reported zero production, worth investigating after 24 hours.</li><li style="margin:5px 0">System production data updates roughly every 15 minutes via the Envoy gateway, not live.</li><li style="margin:5px 0">The "Lifetime Energy" figure is your strongest data point for checking against utility bills.</li><li style="margin:5px 0">Consumption monitoring requires a separate CT (current transformer) clamp installation on your main panel.</li><li style="margin:5px 0">You can set email alerts for underperforming panels without upgrading to any paid tier.</li></ul></div>
-
 
 ## What You're Actually Looking At
 
@@ -96,7 +94,6 @@ The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/e
 
 ---
 
-
 *Photo: [Castorly Stock](https://www.pexels.com/@castorlystock) via Pexels*
 
 ---
@@ -107,4 +104,3 @@ The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/e
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

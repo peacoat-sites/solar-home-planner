@@ -29,9 +29,7 @@ faqs:
 
 The gap isn't random noise. It has predictable causes, and once you understand them, you can read a proposal critically instead of just comparing monthly payment quotes.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Good estimates land within 10–20% of actual production; poor ones can miss by 30% or more.</li><li style="margin:5px 0">PVWatts (free, from NREL) lets you independently check any installer's production claim in minutes.</li><li style="margin:5px 0">Shading is the most commonly underestimated loss factor in residential proposals.</li><li style="margin:5px 0">Year-one production is usually the highest; output degrades roughly 0.5% per year after that.</li><li style="margin:5px 0">If an installer won't share their derate factor assumptions, that's a problem worth pressing on.</li></ul></div>
-
 
 ## How These Estimates Are Built
 
@@ -97,7 +95,6 @@ Estimates based on your current electricity bill rather than your roof. Using yo
 
 ---
 
-
 *Photo: [Raze Solar](https://www.pexels.com/@razesolarfl) via Pexels*
 
 ---
@@ -108,4 +105,3 @@ Estimates based on your current electricity bill rather than your roof. Using yo
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

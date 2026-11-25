@@ -20,9 +20,7 @@ Virtual power plants, VPPs, are programs where a utility or aggregator coordinat
 
 PV Magazine reported on November 3, 2026 that declining [net metering](/net-metering-changes-threatening-solar-roi/) export rates and grid capacity constraints are pushing installers nationwide toward "storage-first" sales models. The logic is straightforward: if the grid won't pay much for your exported electrons anymore, the case for a battery attached to that solar array just got stronger, and VPP enrollment is part of that stronger case.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The 30% federal Section 25D credit expired Dec 31, 2025; no homeowner replacement exists yet.</li><li style="margin:5px 0">A single 13.5 kWh battery in California's best VPP programs earns $972–$4,725 upfront plus $50–$440/year ongoing.</li><li style="margin:5px 0">Sunrun's VPP fleet hit 80,000+ households and 425 MW of capacity as of July 2026.</li><li style="margin:5px 0">Third-party ownership (lease/PPA) still qualifies for the Section 48E commercial credit through 2032.</li><li style="margin:5px 0">CPUC extended California's ELRP battery program through 2029 on October 29, 2026.</li></ul></div>
-
 
 ## What VPPs Actually Pay, and Where
 
@@ -83,4 +81,3 @@ The financial case for home batteries in 2026 is genuinely different than it was
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

@@ -30,9 +30,7 @@ Most solar panels don't need replacing when you think they do. That's the honest
 
 Degradation happens in every panel, every year. The typical rate is around 0.5% per year, though some budget panels degrade faster. After 25 years at that rate, you're looking at roughly 88% of original output, not great, not catastrophic. Whether that's acceptable depends on your load, your battery setup if you have one, and what newer panels would cost you in comparison.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most panels last 25-30+ years; replace based on output, not age alone.</li><li style="margin:5px 0">Typical degradation runs ~0.5% per year; above 1% annually is a red flag.</li><li style="margin:5px 0">A production drop over 20% from rated output is a strong replacement signal.</li><li style="margin:5px 0">Panel replacement rarely makes financial sense before year 20 without physical damage.</li><li style="margin:5px 0">Microinverter or optimizer failure often mimics panel failure, check those first.</li></ul></div>
-
 
 ## Signs Your Panels May Actually Be Failing
 
@@ -85,7 +83,6 @@ Adding panels also avoids the permitting complexity of a full system tear-down a
 
 ---
 
-
 *Photo: [Stefan de Vries](https://www.pexels.com/@sdvmovies) via Pexels*
 
 ---
@@ -96,4 +93,3 @@ Adding panels also avoids the permitting complexity of a full system tear-down a
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

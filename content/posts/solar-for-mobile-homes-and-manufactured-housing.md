@@ -31,7 +31,6 @@ You own your land, you own your manufactured home, and your electric bill is run
 
 **"Solar only works in sunny climates"**: Most people think you need Arizona sunshine to make solar worthwhile. But the data shows Germany generates 8% of its electricity from solar despite averaging just 3.5 peak sun hours daily, compared to 5+ hours in most U.S. states. Even cloudy regions like Oregon and Washington have seen residential solar capacity grow 300%+ in the past five years. Modern panels convert diffuse light efficiently; Germany's Fraunhofer Institute found that panels still produce 50-75% of their rated output on overcast days. For mobile home owners in northern climates, this means ROI timelines stretch slightly longer, but the economics remain solid, especially with state tax credits, utility rebates, and other local incentives that vary by location.
 
-
 Most residential solar installers are optimized for stick-built homes with [composition shingle roofs](/solar-for-shingle-roof-cost/), standard attic access, and 200-amp service panels. The moment you mention a manufactured home, they're suddenly out of their comfort zone. And instead of saying that directly, some will give you vague excuses or inflated quotes to make you go away.
 
 The actual concerns are legitimate but manageable: roof load capacity, wind zone ratings, chassis grounding requirements, and whether your home is on a permanent foundation. None of these are deal-breakers if you understand them.
@@ -118,18 +117,8 @@ Solar on a manufactured home isn't plug-and-play. But it's absolutely achievable
 
 ## Sources
 
-- [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
-- [solar panel cleaning kit with a soft-bristle brush and purified water attachment](https://www.amazon.com/s?k=solar+panel+cleaning+kit)
 - [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
 - [U.S. Department of Energy's homeowner guide to going solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
-- [whole-home energy monitor](https://www.amazon.com/s?k=home+energy+monitor)
-
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-- **[Jackery Explorer 1000 Portable Power Station (1002Wh)](https://www.amazon.com/dp/B083KBKJ8Q/?tag=contentportfo-20)** (~$599), 1002Wh portable power station with three 1000W AC outlets, one of the best-reviewed solar generators on Amazon.
 
 *Photo: [Hoan Ngọc](https://www.pexels.com/@hoan-ng-c-510735) via Pexels*
 
@@ -142,4 +131,3 @@ Solar on a manufactured home isn't plug-and-play. But it's absolutely achievable
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 - **[Jackery Explorer 1000 Portable Power Station (1002Wh)](https://www.amazon.com/dp/B083KBKJ8Q/?tag=contentportfo-20)** (~$599), 1002Wh portable power station with three 1000W AC outlets, one of the best-reviewed solar generators on Amazon.
-

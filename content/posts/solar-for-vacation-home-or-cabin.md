@@ -30,7 +30,6 @@ Off-[grid solar](/off-grid-solar-system-cost-breakdown/) for a vacation home or 
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Off-grid cabin systems typically run $8,000–$25,000+ installed, depending on loads and battery storage.</li><li style="margin:5px 0">Size your battery bank for 2–3 days of autonomy, not just overnight use, since cabins often see cloudy spells.</li><li style="margin:5px 0">Permit requirements apply even in rural areas; skipping them can void your homeowner's insurance.</li><li style="margin:5px 0">The 30% federal Residential Clean Energy Credit for off-grid systems applied to installations completed by December 31, 2025; systems installed after that date do not qualify.</li><li style="margin:5px 0">Propane and diesel backup generators are still worth keeping for extended cloudy periods in most climates.</li></ul></div>
 
-
 ## Off-Grid vs. Grid-Tied: Choose the Right Architecture First
 
 A cabin with utility service available can run a standard grid-tied system, claim net metering credits, and use the grid as a free battery. That's the easy case. The harder, more common case is a property where utility power costs $30,000–$80,000 or more to extend from the nearest transformer. At that point, off-grid solar with battery storage is often cheaper over a 20-year horizon, not just philosophically appealing.
@@ -105,7 +104,6 @@ For cabins that sit empty for weeks at a time, make sure your charge controller 
 
 ---
 
-
 *Photo: [Thomas P](https://www.pexels.com/@pth686817) via Pexels*
 
 ---
@@ -116,4 +114,3 @@ For cabins that sit empty for weeks at a time, make sure your charge controller 
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

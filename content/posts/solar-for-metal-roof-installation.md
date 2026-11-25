@@ -29,9 +29,7 @@ Metal roofs and solar panels are genuinely well-matched, and the installation is
 
 The good news: metal roofs typically last 40 to 70 years, which means you won't have to tear off panels mid-system-life to reroof the way you would with composition shingles. That alone makes metal one of the better substrates for solar.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standing seam metal roofs can use clamp-based mounts with zero roof penetrations, preserving the warranty.</li><li style="margin:5px 0">Corrugated and exposed-fastener metal roofs require penetrations; use butyl-backed feet and sealant rated for metal.</li><li style="margin:5px 0">Rail-based racking on metal typically adds $0.10–$0.45/watt to installed cost versus asphalt shingle installs, depending on roof profile and mount type.</li><li style="margin:5px 0">Verify your metal roof warranty before signing an installation contract, some manufacturers void coverage if non-approved attachments are used.</li><li style="margin:5px 0">Grounding is simpler on metal roofs because the structure itself can serve as part of the equipment grounding path under NEC Article 690.</li></ul></div>
-
 
 ## The Two Roof Types That Change Everything
 
@@ -95,7 +93,6 @@ On roof warranties: this is the one most homeowners miss. Metal roof manufacture
 
 ---
 
-
 *Photo: [Lena Netkach](https://www.pexels.com/@lena-netkach-395486) via Pexels*
 
 ---
@@ -106,4 +103,3 @@ On roof warranties: this is the one most homeowners miss. Metal roof manufacture
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

@@ -63,9 +63,7 @@ If you have an active service issue, meaning a system that's down or a panel tha
 
 Finally, watch your utility bill. Your production data from the monitoring app tells you what your system is generating, but your utility bill tells you what you're actually paying. If those numbers diverge from what you expected, something may be wrong with the system or the interconnection.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Residential Solar Installs (GW)</div><div class="sc-row"><span class="sc-label">2022</span><span class="sc-track"><span class="sc-bar" style="width:87%"></span></span><span class="sc-val">5.9 GW</span></div><div class="sc-row"><span class="sc-label">2023</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">6.8 GW</span></div><div class="sc-row"><span class="sc-label">2024</span><span class="sc-track"><span class="sc-bar" style="width:81%"></span></span><span class="sc-val">5.5 GW</span></div><div class="sc-row"><span class="sc-label">2025</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">4.8 GW</span></div><div class="sc-row"><span class="sc-label">2026 (proj.)</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">4.1 GW</span></div><div class="sc-src">Source: SEIA Solar Market Insight Q2 2026</div></div>
-
 
 The broader pattern here is real. Bloomberg reported in June 2026 that residential solar is set to stall for years, and Solar Equity Solutions' July 2026 tracker shows the pace of closures hasn't slowed. That doesn't mean solar is a bad investment, but it does mean the installer you signed with in 2022 or 2023 may not be the company that services your system in 2026. Building a direct relationship with your equipment manufacturers, keeping your own records, and knowing your loan servicer by name, those aren't paranoid steps. They're just what ownership actually looks like.
 
@@ -78,12 +76,9 @@ The broader pattern here is real. Bloomberg reported in June 2026 that residenti
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

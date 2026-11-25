@@ -116,20 +116,6 @@ Here's how you actually configure a working solar-to-car charging setup once har
 
 The gap between "I have solar" and "I'm actually fueling my car with sunlight" is mostly a scheduling and hardware integration problem, not a technology problem. The tools exist. With a properly sized array, a smart EVSE, and some attention to your utility's rate structure, you can close that gap practically and permanently. Run your numbers first. Sign the contracts second.
 
-## Sources
-
-- [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
-- [solar-compatible Level 2 EVSE with adjustable amperage](https://www.amazon.com/s?k=solar+compatible+level+2+EV+charger+adjustable+amperage&tag=contentportfo-20)
-- [whole-home energy monitor](https://www.amazon.com/s?k=whole+home+energy+monitor+solar+EV&tag=contentportfo-20)
-- [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
-- [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
-
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-
 ---
 
 ## Recommended Resources
@@ -138,4 +124,3 @@ The gap between "I have solar" and "I'm actually fueling my car with sunlight" i
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

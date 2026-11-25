@@ -129,17 +129,6 @@ Reviewers of off-grid proposals routinely flag the same warning signs. Here's wh
 
 **No mention of the 30% federal tax credit.** The federal 30% Residential Clean Energy Credit (Section 25D) no longer applies to off-grid solar systems installed after December 31, 2025. If your system was installed and completed by that date, you may still be able to claim or amend a return to capture that credit. For systems installed in 2026 or later, no federal tax credit is available for homeowner-owned systems.
 
-## Sources
-
-- [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-- [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
-- consistently shows off-grid quotes running 40-60% higher than comparable grid-ti
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-
 ---
 
 ## Recommended Resources
@@ -148,4 +137,3 @@ Reviewers of off-grid proposals routinely flag the same warning signs. Here's wh
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

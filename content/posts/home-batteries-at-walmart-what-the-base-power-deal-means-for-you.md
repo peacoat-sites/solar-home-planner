@@ -20,9 +20,7 @@ The timing isn't accidental. The federal Section 25D residential clean energy ta
 
 Base Power's pitch is straightforward: they install, own, and maintain the battery. You pay a modest upfront installation fee (20% off if you enroll through Walmart or Sam's Club) plus an estimated monthly lease of roughly $19 to $29. You're not financing a $10,000 to $15,000 purchase. You're paying for access to [backup power](/solar-backup-power-during-outage/) and grid services on a subscription basis, closer to how you pay for internet than how you pay for a water heater.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Walmart began selling Base Power home battery subscriptions in stores in November 2026.</li><li style="margin:5px 0">Walmart and Sam's Club enrollees get 20% off Base Power's standard upfront installation fee.</li><li style="margin:5px 0">Monthly lease runs roughly $19–$29; customer never owns the hardware.</li><li style="margin:5px 0">The federal 30% Section 25D battery tax credit expired after December 31, 2025 for owned systems.</li><li style="margin:5px 0">Base Power targets 100 MW of monthly battery installs by end of 2026.</li></ul></div>
-
 
 ## What Base Power's Model Actually Is
 
@@ -84,4 +82,3 @@ Base Power's Walmart deal marks the moment home battery storage stopped being a 
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

@@ -22,7 +22,6 @@ The last realistic contracting window is now. Permit-to-install timelines in mos
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Section 232 tariffs take effect December 4, 2026, raising panel prices from ~$0.37/W to $0.45–$0.50/W.</li><li style="margin:5px 0">Overall installed system costs rise 3–5%; a typical system now runs $20,000–$27,000. The Section 25D federal credit for homeowner-owned systems ended for installations completed after December 31, 2025 and is no longer available.</li><li style="margin:5px 0">Equipment purchased and installed before December 4 avoids the new tariff entirely.</li><li style="margin:5px 0">Late November is the last realistic contracting window given permit-to-install lead times.</li></ul></div>
 
-
 ## What the Tariff Actually Covers
 
 This isn't a tariff aimed at a single country. The $0.38/W minimum import price applies regardless of the panel's country of origin, including U.S.-assembled panels that use imported cells. That detail kills the common workaround of sourcing "American-made" panels from domestic assembly facilities if those facilities import their cells, which most of them do. Unbound Solar notes that the cell-level minimum of $0.22/W hits the upstream supply chain in a way that ripples through nearly every product category, including budget-tier panels that previously competed on cost.
@@ -89,4 +88,3 @@ The tariff takes effect in days, not weeks. If you're seriously considering sola
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

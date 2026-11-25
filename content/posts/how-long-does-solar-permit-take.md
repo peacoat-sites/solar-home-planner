@@ -29,9 +29,7 @@ Four to eight weeks is the most honest answer for a typical residential solar pe
 
 Understanding where the delays actually live changes how you manage the process. Most homeowners assume the permit is the bottleneck. Often it isn't. The utility [interconnection agreement](/interconnection-agreement-utility-what-it-means/), the step that lets you legally push power back to the grid, can take longer than everything else combined. In some areas, you'll be waiting months just for the utility to respond to that application.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most residential solar permits take 4–8 weeks from application to approval in typical U.S. jurisdictions.</li><li style="margin:5px 0">Expedited or over-the-counter permits in solar-friendly cities can resolve in 1–5 business days.</li><li style="margin:5px 0">Utility interconnection approval is often the longest single step, sometimes adding 30–90+ days.</li><li style="margin:5px 0">Resubmittals caused by plan check errors add 2–6 weeks per round; clean drawings prevent this.</li><li style="margin:5px 0">Some states have passed permit streamlining laws that cap fees and mandate faster reviews for small systems.</li></ul></div>
-
 
 ## Why timelines vary so much
 
@@ -93,7 +91,6 @@ If you want to understand your permit pathway before you sign anything, look up 
 
 ---
 
-
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
@@ -104,4 +101,3 @@ If you want to understand your permit pathway before you sign anything, look up 
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

@@ -20,9 +20,7 @@ APsystems formally introduced the EZ1-LV to the U.S. market on July 17, 2026, pe
 
 The context matters as much as the product. The Section 25D [federal tax credit](/how-long-until-solar-panels-pay-for-themselves/), which knocked 30% off residential solar system costs, expired at the end of 2025. For a homeowner who was looking at a $20,000 rooftop system, that's $6,000 gone. Suddenly a $650 plug-in setup that handles real baseload looks a lot more interesting than it did eighteen months ago.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">APsystems EZ1-LV launched in the U.S. July 17, 2026; direct sales started February 2026 at $325/unit.</li><li style="margin:5px 0">Delivers 900 VA continuous AC output; two units on one 15A circuit yield up to 1,800W.</li><li style="margin:5px 0">No electrician or utility interconnection required; UL 3700 certified with a 12-year warranty.</li><li style="margin:5px 0">Section 25D 30% tax credit expired end of 2025, making low-cost entry solar more attractive.</li><li style="margin:5px 0">Supports PV modules from 315 Wp to 660 Wp per channel.</li></ul></div>
-
 
 ## What the EZ1-LV Actually Does (and Doesn't Do)
 
@@ -88,4 +86,3 @@ The EZ1-LV is a legitimate product solving a real access problem. It won't repla
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

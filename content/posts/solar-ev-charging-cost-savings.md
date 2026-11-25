@@ -118,15 +118,6 @@ The combination of rooftop solar and home EV charging is one of the best financi
 ## Sources
 
 - [EnergySage's market data](https://news.energysage.com/)
-- [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
-- [ChargePoint Home Flex](https://www.amazon.com/s?k=ChargePoint+Home+Flex+Level+2+EV+charger&tag=contentportfo-20)
-- [home energy monitor like Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+home+energy+monitor&tag=contentportfo-20)
-- [Tesla Powerwall 3](https://www.amazon.com/s?k=home+solar+battery+storage+10kwh&tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 
 ---
 
@@ -136,4 +127,3 @@ The combination of rooftop solar and home EV charging is one of the best financi
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

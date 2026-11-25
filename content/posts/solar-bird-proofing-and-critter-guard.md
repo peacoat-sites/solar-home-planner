@@ -79,24 +79,13 @@ For squirrels and rats, the nest removal and exclusion process is the same, but 
 
 ---
 
----
-
 The honest summary of all of this is that critter guard is inexpensive insurance against a repair bill that almost certainly costs more than you'd expect. The Solar Energy Industries Association [has noted](https://www.seia.org/) that proper system maintenance, including physical protection of the array, extends system life and protects your investment over the 25 to 30 year lifespan of a modern installation. Closing off that gap under your panels is one of the few preventive measures with almost no downside and a very clear upside. Get it done at installation if you can, retrofit it if you can't, and don't wait for the scratching to start.
 
 ---
 
 ## Sources
 
-- [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
-- [IronRidge Critter Guard](https://www.amazon.com/s?k=solar+critter+guard+mesh+kit&tag=contentportfo-20)
-- [This type of mesh roll kit on Amazon](https://www.amazon.com/s?k=solar+panel+critter+guard+mesh+roll&tag=contentportfo-20)
-- [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor&tag=contentportfo-20)
 - [has noted](https://www.seia.org/)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 
 ---
 
@@ -106,4 +95,3 @@ The honest summary of all of this is that critter guard is inexpensive insurance
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

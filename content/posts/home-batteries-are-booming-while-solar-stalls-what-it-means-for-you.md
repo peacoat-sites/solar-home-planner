@@ -20,9 +20,7 @@ The proximate cause is obvious once you know it. The One Big Beautiful Bill Act,
 
 So what's actually going on? And more importantly, does a standalone battery make financial sense without a [federal credit](/solar-batteries-hit-record-attach-rates-as-federal-credit-disappears/) sweetening it?
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Section 25D solar tax credit is gone for 2026 purchases; no 30% federal rebate on new rooftop solar.</li><li style="margin:5px 0">U.S. energy storage hit a record 9.7 GWh in Q1 2026, strongest first quarter ever (SEIA, July 2026).</li><li style="margin:5px 0">Nearly 50% of new residential solar systems in Q1 2026 were paired with battery storage.</li><li style="margin:5px 0">Under California NEM 3.0, a 10 kWh battery can save $1,200–$1,800/year discharging at peak hours.</li><li style="margin:5px 0">The 30% Section 48E commercial credit survives through 2027, but homeowners can only access it via lease or PPA.</li></ul></div>
-
 
 ## The Tax Credit Picture Is More Complicated Than You've Heard
 
@@ -90,4 +88,3 @@ The battery boom of 2026 is real and it's not a fluke. But it's happening in a h
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-
