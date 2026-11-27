@@ -1,6 +1,7 @@
 ---
 title: "Solar Batteries Hit Record Attach Rates as Federal Credit Disappears"
 date: 2026-06-19T00:09:07.269180+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover why solar battery attach rates are surging to record highs as the federal tax credit expires and homeowners rush to maximize savings before the deadlin"
 image: "/img/heroes/9875439.jpg"
@@ -74,12 +75,3 @@ The residential solar market is smaller and slower in 2026 than it's been in yea
 - [Solar Battery Tax Credit 2026: What Changed After the OBBBA](https://www.solarpermitsolutions.com/blog/solar-battery-tax-credit-2026) (April 16, 2026)
 - [Solar Battery Incentives and Rebates in 2026](https://www.energysage.com/energy-storage/benefits-of-storage/energy-storage-incentives/) (February 2026)
 - [Solar Incentives by State 2026](https://jouleio.com/blog/solar-incentives-by-state/) (April 17, 2026)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

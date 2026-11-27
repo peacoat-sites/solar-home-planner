@@ -1,6 +1,7 @@
 ---
 title: "Size Your Solar System for EV Charging Right"
 date: 2026-05-20T09:03:17.151120+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to properly size a solar system for your EV with our step-by-step guide covering energy needs, panel calculations, battery storage, and charging optio"
 image: "/img/heroes/4320475.jpg"
@@ -126,12 +127,3 @@ The bottom line: solar-plus-EV is one of the best financial decisions a homeowne
 ## Sources
 
 *Photo: [K](https://www.pexels.com/@kelly) via Pexels*
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

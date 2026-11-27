@@ -1,6 +1,7 @@
 ---
 title: "Do Solar Panels Work in Winter? What You Need to Know"
 date: 2026-07-08T23:36:00.166219+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Solar panels do produce power in winter, but how much? Learn what affects output in cold months and how to keep your system running efficiently."
@@ -98,12 +99,3 @@ The SEIA recommends homeowners review their production data monthly for the firs
 - [EnergySage Solar Marketplace Data](https://news.energysage.com/): Homeowner-reported cost and production data, payback period benchmarks, and regional installation pricing
 - [NREL Solar Resource Maps](https://www.nrel.gov/gis/solar-resource-maps.html): Peak sun hour data by geography used for winter/summer production comparisons
 - SunPower and manufacturer panel datasheets: Temperature coefficient and output rating data referenced for cold-weather performance
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

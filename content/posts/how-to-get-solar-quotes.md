@@ -1,6 +1,7 @@
 ---
 title: "Compare Solar Quotes Like a Pro"
 date: 2026-05-29T17:44:08.008473+00:00
+googlebot_noindex: true
 draft: false
 description: "Get free solar quotes from trusted installers and compare prices, panel options, and savings. Learn how to find the best solar deal for your home today."
 image: "/img/heroes/7518958.jpg"
@@ -118,12 +119,3 @@ Getting solar quotes is a skill, not just a task. The homeowners who end up with
 - [Emporia Vue](https://amzn.to/emporiavue)
 
 *Photo: [K](https://www.pexels.com/@kelly) via Pexels*
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

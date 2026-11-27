@@ -131,13 +131,3 @@ EnergySage's market data shows the national average solar installation cost runn
 Utility interconnection is separate from permitting. Your utility has to approve your system for grid connection, and they'll issue a Permission to Operate (PTO) letter before you turn it on. Operating a grid-tied system without PTO is a code violation and can result in being disconnected from the grid.
 
 Do this homework before you request a single quote, and you'll walk into every conversation knowing what you actually need. You'll catch upsells, spot undersized equipment, and be able to ask specific questions instead of nodding along. Contractors who know their stuff will respect it. The ones who get defensive or dismissive when you bring your own numbers? That's information too.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199), 200W panel kit with MPPT charge controller for maximum energy harvest.

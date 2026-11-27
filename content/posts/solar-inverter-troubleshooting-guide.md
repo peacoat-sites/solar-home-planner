@@ -1,6 +1,7 @@
 ---
 title: "Fix Your Solar Inverter: Common Problems and Solutions"
 date: 2026-06-09T23:52:50.537147+00:00
+googlebot_noindex: true
 draft: false
 description: "Diagnose and fix common solar inverter problems with our expert troubleshooting guide covering error codes, fault lights, connectivity issues, and performance d"
 image: "/img/heroes/8853536.jpg"
@@ -80,12 +81,3 @@ Capacitor bulging is visible when you open the unit, and it's a death sentence f
 For systems with battery backup, add-on DC-coupled battery systems like the FranklinWH aPower or the SolarEdge Energy Bank add complexity because now you have two inverter units that need to communicate. Fault isolation gets harder. Always check whether the battery management system has its own fault code before assuming the solar inverter is at fault.
 
 The honest takeaway from years of troubleshooting these systems: patience and methodical thinking solve most inverter issues without a service call. The error codes are breadcrumbs, not verdicts. Follow them back to the source before you spend money.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

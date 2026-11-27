@@ -1,6 +1,7 @@
 ---
 title: "The Bare Minimum: What Off-Grid Solar Really Needs"
 date: 2026-06-30T23:46:49.190129+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn the minimum components needed for an off grid solar system including panel size, battery capacity, inverter specs, and charge controller ratings."
 image: "/img/heroes/5322775.jpg"
@@ -89,12 +90,3 @@ EnergySage's market data shows that professionally installed off-grid systems av
 - [EnergySage Market Data](https://news.energysage.com/): Real-time installer pricing and consumer cost benchmarks for residential solar
 - National Electrical Code (NEC) Article 690, 2023 edition: Governing standard for solar PV installations in the United States
 - Battery University (batteryuniversity.com): Depth-of-discharge, cycle life, and chemistry comparison data for battery types used in solar storage
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

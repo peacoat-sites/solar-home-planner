@@ -1,6 +1,7 @@
 ---
 title: "How Bifacial Solar Panels Boost Your System's Power"
 date: 2026-06-26T23:42:15.645323+00:00
+googlebot_noindex: true
 draft: false
 description: "Bifacial solar panels capture sunlight on both sides to boost energy output. Learn how they work, their benefits, and if they suit your home or business."
 image: "/img/heroes/11644973.jpg"
@@ -88,12 +89,3 @@ For monitoring, a home energy monitor like the [Emporia Vue](https://www.amazon.
 
 - [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

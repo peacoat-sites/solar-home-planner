@@ -1,6 +1,7 @@
 ---
 title: "North Facing Solar Panels: How Much Power Do They Generate?"
 date: 2026-07-07T23:28:55.761428+00:00
+googlebot_noindex: true
 draft: false
 description: "North facing solar panels can still generate usable electricity. Learn how much output to expect, when it makes sense, and how to maximise your return."
 image: "/img/heroes/9638475.jpg"
@@ -106,12 +107,3 @@ The other one: installers who size the system large to compensate for poor orien
 - [EnergySage Solar Market Intelligence](https://news.energysage.com/): Tracks installer pricing, net metering policy changes, and market trends. Current as of 2026.
 - [U.S. Department of Energy, Homeowner's Guide to Going Solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar): Federal resource covering system sizing, financing, and installer vetting basics.
 - [NREL, "Solar Resource Data" (Technical Reports)](https://www.nrel.gov/solar/solar-resource-assessment.html): Source for regional solar irradiance and peak sun hour data used in production estimates.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

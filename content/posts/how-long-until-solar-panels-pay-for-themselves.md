@@ -1,6 +1,7 @@
 ---
 title: "How Long Until Solar Panels Pay For Themselves"
 date: 2026-06-01T15:36:50.165650+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how long solar panels take to pay for themselves, what affects the payback period, and how to calculate your own return on investment."
 image: "/img/heroes/9800008.jpg"
@@ -110,14 +111,3 @@ Watch for proposals that don't clearly disclose system degradation. If the produ
 Watch for companies that refuse to provide an itemized quote. You should know exactly what you're paying for: panel brand and model, inverter brand and model, racking system, labor, permitting fees, and commissioning. If they won't break it down, walk away.
 
 And if an installer tells you permits are optional or suggests you skip them to save money, that's your cue to end the conversation. Unpermitted systems create serious problems when you sell your home and may void your equipment warranties.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169). Complete beginner solar kit with 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99). Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

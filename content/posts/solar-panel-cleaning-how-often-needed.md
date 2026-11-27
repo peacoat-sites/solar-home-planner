@@ -1,6 +1,7 @@
 ---
 title: "How Often Should You Clean Solar Panels?"
 date: 2026-06-14T23:45:03.261540+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how often solar panels need cleaning to maintain peak efficiency. Discover the best cleaning schedule based on location, weather, and panel type."
 image: "/img/heroes/8312917.jpg"
@@ -92,12 +93,3 @@ Where pro service makes sense: you have a steep roof or second-story installatio
 Expect to pay $150 to $300 for a standard residential clean in most markets, sometimes more in high-cost-of-living areas. If someone quotes you significantly less and can't explain their process, ask specifically how they handle junction box areas and what they use to clean with. That question alone will tell you a lot.
 
 The U.S. Department of Energy's homeowner solar resources are pretty clear that routine cleaning and inspection are part of maintaining system performance and longevity. Not as marketing, just as maintenance reality.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

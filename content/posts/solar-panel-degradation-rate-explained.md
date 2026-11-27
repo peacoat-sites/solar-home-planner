@@ -78,12 +78,3 @@ Speaking of monitoring: if you don't have a home energy monitor or aren't regula
 If you want to check whether your system's current output is within normal range, the math is simple. Take your system's original rated capacity in watts, multiply by your local peak sun hours per day (NREL's PVWatts tool gives you this by zip code), then adjust for your system's efficiency factor (typically 80% to 85% for a well-installed system), and multiply by 365 to get an annual production estimate.
 
 Then apply a degradation factor for how old the system is. After 10 years at 0.5% annual degradation, you'd expect output around 95% of the original estimate. After 25 years, around 88%. If your actual production is running 15% below original estimates in year 8, something other than normal degradation is happening. Could be a failed microinverter, could be a shading issue, could be panel damage. Worth investigating rather than assuming it's just aging.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

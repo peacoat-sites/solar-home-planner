@@ -1,6 +1,7 @@
 ---
 title: "Hiring A Solar Installer? Watch For These Red Flags"
 date: 2026-05-24T15:32:09.833671+00:00
+googlebot_noindex: true
 draft: false
 description: "Avoid costly mistakes with your solar investment. Discover the top red flags when hiring a solar installer to protect your home and ensure a quality installatio"
 image: "/img/heroes/7654405.jpg"
@@ -107,12 +108,3 @@ Run through this checklist with any finalist contractor.
 | What's your warranty process? | Clear point of contact, documented process | "Call the manufacturer" |
 
 The solar industry has plenty of excellent, professional installers who do meticulous work and stand behind it for decades. They're out there in every market. The problem is sales pressure, financing complexity, and new companies chasing incentive money make it trivial for bad actors to hide in plain sight. You don't need suspicion toward everyone. You just need to ask the right questions, move slowly, and treat a $25,000 home improvement the way you'd treat any major purchase. The Phoenix homeowner would tell you the same thing.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

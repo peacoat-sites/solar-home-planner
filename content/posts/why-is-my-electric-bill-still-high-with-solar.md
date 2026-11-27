@@ -1,6 +1,7 @@
 ---
 title: "Why Your Electric Bill Is Still High With Solar Panels"
 date: 2026-07-08T23:38:22.262277+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Solar panels but still paying too much? Discover the most common reasons your electric bill stays high and what you can do to fix it fast."
@@ -121,12 +122,3 @@ Ask your utility to itemize your bill. You might find that $40-60 of your monthl
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/): Industry data on residential solar adoption, policy changes, and state-level net metering rules.
 - [Lawrence Berkeley National Laboratory "Tracking the Sun" dataset](https://emp.lbl.gov/tracking-the-sun): Annual report tracking installed solar system characteristics and performance across millions of U.S. installations.
 - [California Public Utilities Commission NEM 3.0 Decision (2023)](https://docs.cpuc.ca.gov/): Regulatory filings documenting the shift to avoided-cost compensation for residential solar exports in California.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

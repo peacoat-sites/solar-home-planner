@@ -71,7 +71,6 @@ Community solar availability varies by state. Programs are widespread in New Yor
 
 If community solar isn't available in your area, a home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor) can at least give you granular data on where your electricity dollars are actually going, which helps you prioritize efficiency upgrades while you work on the solar question.
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 ## If You're Going the Rooftop Route: How the HOA Approval Process Actually Works
 
@@ -113,12 +112,3 @@ One option worth a quick note: portable or balcony solar. Products like plug-in 
 ---
 
 Condos and solar are genuinely complicated, but they're not incompatible. The path that makes sense for you depends heavily on your state, your HOA's governance culture, your building's electrical infrastructure, and how much energy you're willing to spend advocating for a rooftop system versus just subscribing to community solar and moving on. Both are legitimate choices. Know your options, read your governing documents, and don't let a contractor who's never worked with a condo building tell you this is routine. It isn't, but it's solvable.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

@@ -79,12 +79,3 @@ EnergySage's market data shows the average solar-plus-storage system in 2026 run
 Switching to a TOU rate isn't always a win, even with solar and an EV. Some households have flat usage patterns that can't easily shift: medical equipment running continuously, elderly family members home during peak hours, a home-based business operating 9 to 5. A household pulling 2 kWh during peak hours on a flat rate at $0.28/kWh might do better than the same household pulling the same load at $0.52/kWh on TOU, even if they save a little overnight.
 
 Request 12 months of interval usage data from your utility (most provide this now as a downloadable CSV or through Green Button Connect) and model it against your TOU options before switching. California utilities are required to give you this. Many others are too, under FERC Order 878. If your utility offers an online rate comparison tool, use it, but also verify the underlying assumptions, as these tools can undercount peak loads.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

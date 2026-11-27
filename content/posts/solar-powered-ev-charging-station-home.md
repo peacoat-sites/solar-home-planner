@@ -115,12 +115,3 @@ Here's how you actually configure a working solar-to-car charging setup once har
 **Step 5: Review monthly.** After your first full billing cycle, compare your utility bill to your monitoring app's data. You should see reduced midday import and ideally a net metering credit. If you're not seeing surplus during your target window, your load profile or panel shading needs investigation.
 
 The gap between "I have solar" and "I'm actually fueling my car with sunlight" is mostly a scheduling and hardware integration problem, not a technology problem. The tools exist. With a properly sized array, a smart EVSE, and some attention to your utility's rate structure, you can close that gap practically and permanently. Run your numbers first. Sign the contracts second.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

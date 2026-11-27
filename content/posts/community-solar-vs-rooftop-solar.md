@@ -1,6 +1,7 @@
 ---
 title: "Community Solar vs Rooftop Solar: Which Fits Your Home"
 date: 2026-06-17T23:58:43.711020+00:00
+googlebot_noindex: true
 draft: false
 description: "Compare community solar vs rooftop solar to find the best option for your home. Learn about costs, savings, installation, and which fits your lifestyle."
 image: "/img/heroes/18012555.jpg"
@@ -106,12 +107,3 @@ The honest answer is there's no universal winner. What surprised me most is how 
 - [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
 - [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [Amazon](https://amzn.to/3example)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

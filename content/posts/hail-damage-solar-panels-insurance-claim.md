@@ -1,6 +1,7 @@
 ---
 title: "Hail Damage to Solar Panels: File Your Insurance Claim"
 date: 2026-06-19T23:35:18.545246+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to file a hail damage solar panel insurance claim, document evidence, work with adjusters, and maximize your payout for repairs or replacement."
 image: "/img/heroes/27873610.jpg"
@@ -107,12 +108,3 @@ One more thing: if your roof needs replacement too (which is common after seriou
 
 - [National Oceanic and Atmospheric Administration's storm data](https://www.noaa.gov/)
 - [U.S. Department of Energy's solar homeowner guidance](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

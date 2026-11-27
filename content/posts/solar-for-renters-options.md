@@ -87,12 +87,3 @@ If you're in California, Colorado, Florida, or about 25 other states with solar 
 The honest summary of where renters stand right now: community solar is the best deal on the table if your state offers it. Portable and plug-in options are useful supplements, especially if you're handy and willing to do some homework on your utility's rules. And the landlord conversation is worth having at least once, framed correctly, before you assume it's impossible.
 
 Your electricity bill doesn't care whether you own the roof.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

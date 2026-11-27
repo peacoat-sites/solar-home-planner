@@ -1,6 +1,7 @@
 ---
 title: "Keep Your Lights On: Solar Backup Power During Outages"
 date: 2026-05-20T01:40:58.974330+00:00
+googlebot_noindex: true
 draft: false
 description: "Stay powered during outages with solar backup systems. Learn how solar panels and battery storage keep your home running when the grid goes down. Get started to"
 image: "/img/heroes/3639037.jpg"
@@ -112,12 +113,3 @@ Check your HOA rules too. I know, nobody wants to hear it. But some HOAs have ru
 The NREL has done extensive modeling on residential solar-plus-storage resilience, and their findings consistently show that even a single battery paired with solar dramatically reduces the duration of effective outage impact compared to solar-only systems. The jump from solar-only to solar-plus-storage is far more significant than adding a second battery to an existing storage system.
 
 Solar backup power is one of those topics where the gap between what people expect and what they actually have can be costly, not just financially but in terms of comfort and safety during emergencies. The good news is the technology has gotten dramatically better and more affordable in the last three years. If you went solar five years ago without storage and assumed you had outage protection, it's worth revisiting. The math on a battery retrofit actually works now in a way it didn't before, and the peace of mind, if you've ever sat through a summer outage, is real.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

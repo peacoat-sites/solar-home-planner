@@ -90,7 +90,6 @@ This is exactly the dynamic California's NEM 3.0 was designed to create. It's wo
 
 What does that mean in practice? A home energy monitor like the [Emporia Vue 2](https://www.amazon.com/dp/B09ZJ1WVGK/?tag=contentportfo-20) is genuinely useful here. Running it for 30-60 days before you design a solar system gives you granular load data by circuit, so you can match system production to actual consumption patterns instead of just sizing for maximum kWh.
 
-*As an Amazon Associate this site earns from qualifying purchases.*
 
 Solar-plus-storage is increasingly the answer in degraded-NEM states, but it's not for every budget. And I'll note: even in states with strong NEM today, there's no guarantee it stays that way. If you're planning a 25-year system and betting on retail-rate exports for the whole period, you're making a significant policy assumption.
 
@@ -105,12 +104,3 @@ Watch for proposals that assume retail-rate exports without documenting that you
 Ask to see the tariff schedule the proposal is based on. If the contractor can't produce it, that's telling.
 
 The buyback rate question doesn't have a universal answer, and anyone who tells you it's simple is probably selling something. What I'd leave you with is this: before the panels go on your roof, read your utility's actual tariff document. It's dry, it's bureaucratic, and it might be the most financially important hour of research you do on this whole project.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

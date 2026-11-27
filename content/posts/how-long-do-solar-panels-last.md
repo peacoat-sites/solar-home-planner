@@ -1,6 +1,7 @@
 ---
 title: "Solar Panels Last Longer Than You Think"
 date: 2026-06-07T23:38:37.138260+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how long solar panels last, what affects their lifespan, and how to maximise performance so you get the most from your renewable energy investment."
 image: "/img/heroes/37372077.jpg"
@@ -98,12 +99,3 @@ EnergySage's market data shows a typical 6kW residential system costs roughly $1
 The math changes if your old system has degraded beyond what you'd expect (a $200 monitoring service or professional audit can tell you), if it's undersized for your household now, or if you're adding an EV and need more production. Those are legitimate reasons to consider replacement or expansion.
 
 The case for keeping old panels running is strong as long as the rest of the system works. That reader's 22-year-old panels? I told them to get a production audit, replace the inverter if it needed it, and keep going. They were still producing. That's a win.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

@@ -117,12 +117,3 @@ Consider adding a [home energy monitor](https://www.amazon.com/s?k=home+energy+m
 If you're thinking about battery storage or EV charging down the road, ask whether the company's certified staff also holds NABCEP's Battery Storage credential or has experience with Level 2 EVSE installation. These are different skill sets. A great PV installer isn't automatically qualified to size and configure a battery system.
 
 The residential solar industry is growing fast, and that growth attracts contractors better at marketing than installation. NABCEP certification won't guarantee a perfect project, but it gives you a concrete, verifiable standard to anchor your evaluation to. Do the five-minute directory check before any sales presentation. It's the easiest filter you have, and it costs nothing.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
